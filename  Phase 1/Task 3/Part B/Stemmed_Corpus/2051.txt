@@ -1,0 +1,21 @@
+a pl i program to assist the compar linguist a
+practic pl i program is describ which can assist compar
+linguist to determin the regular sound correspond between genet relat
+languag the investig must arrang data for input by align
+pair of suspect cognat the program tabul the correspond and
+us list process techniqu to sort and count them each
+pair of word is then assign a rel valu that
+is a function of the total frequenc in the data
+of each correspond found in that pair of word the
+output is a list of all correspond type with their
+frequenc of occurr in the data and a separ list
+of each correspond with all word pair show that correspond
+unless their rel valu is below an arbitrarili chosen cutoff
+point the articl explain the us as well as the
+limit of the program and illustr it us with a
+small portion of hypothet data cacm june 1970 frantz d
+g compar linguist natur languag process compar method histor linguist
+diachron linguist genet relationship sound chang sound correspond regular correspond
+list process 3 42 ca700604 jb februari 13 1978 11
+51 am 2051 5 2051 2051 5 2051 2051 5
+2051

@@ -1,0 +1,18 @@
+a method for compos simpl tradit music by comput a
+method is describ for compos music round by comput thi
+method us some music theori plu addit heurist fundament to
+the method is a set of product togeth with set
+of applic rule and weight rule which oper on the
+product decid when and to what extent thei ar avail
+for us sever round gener by the comput implement of
+the method ar present gener the result music sound mediocr
+to the profession although usual pleas to the layman it
+appear that full blown music theori is not need for
+round all the hardwar requir for structur level is not
+necessari for these piec the author ha tri to address
+both musician and comput scientist cacm novemb 1974 rader g
+m artifici intellig heurist program model of cognit process comput
+music comput composit music theori formal languag probabilist grammar 3
+44 3 65 5 23 ca741104 jb januari 16 1978
+10 35 am 2580 5 2580 2580 5 2580 2580
+5 2580

@@ -1,0 +1,26 @@
+adapt correct of program statement a method of analyz statement
+in a program languag which can toler a consider inaccuraci
+in their specif is propos thi method involv principl at
+present mainli confin to studi in the area of artifici
+intellig such as featur extract approxim tree match and strategi
+improv by feedback from the match process a pilot program
+incorpor the principl is describ and preliminari oper result ar
+present a final section survei further principl which ar current
+be investig cacm januari 1973 jame e b partridg d
+p adapt linguist pattern match automat pars approxim match compil
+program statement analysi syntax analysi 3 62 3 63 3
+65 ca730105 jb januari 24 1978 4 38 pm 1179
+4 2556 1288 4 2556 1544 4 2556 1646 4
+2556 2111 4 2556 2257 4 2556 2360 4 2556
+2451 4 2556 2451 4 2556 2452 4 2556 2534
+4 2556 2534 4 2556 2556 4 2556 2556 4
+2556 2556 4 2556 2556 4 2556 2650 4 2556
+2650 4 2556 2708 4 2556 2765 4 2556 2887
+4 2556 2978 4 2556 1935 5 2556 1936 5
+2556 2111 5 2556 2556 5 2556 2556 5 2556
+2556 5 2556 2698 5 2556 2708 5 2556 830
+5 2556 1477 6 2556 1477 6 2556 1491 6
+2556 1491 6 2556 1781 6 2556 1787 6 2556
+2110 6 2556 2111 6 2556 2534 6 2556 2556
+6 2556 2556 6 2556 680 6 2556 680 6
+2556 799 6 2556

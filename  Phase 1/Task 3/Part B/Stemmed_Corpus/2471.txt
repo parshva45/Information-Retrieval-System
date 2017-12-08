@@ -1,0 +1,18 @@
+a learn program which plai partnership domino a learn program
+ha been written is basic to plai four player partnership
+domino becaus domino is a game of incomplet inform the
+program us somewhat differ principl of artifici intellig from those
+us in program for game of complet inform such as
+checker chess and go the program wa construct to us
+a strategi signatur tabl which classifi board situat through the
+interact of game paramet each entri in the tabl contain
+adapt determin weight indic the advi sabil of variou strategi
+onc chosen a strategi then emploi probabl analysi and linear
+polynomi evalu to choos a move our program win approxim
+two third of it game in tournament situat and ha
+defeat championship player cacm august 1973 smith m h artifici
+intellig intellig learn heurist procedur heurist program game plai problem
+solv domino incomplet inform machin learn signatur tabl learn program
+strategi learn 3 62 3 64 3 66 3 69
+ca730803 jb januari 23 1978 11 09 am 2471 5
+2471 2471 5 2471 2471 5 2471

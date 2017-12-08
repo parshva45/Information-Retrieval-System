@@ -1,0 +1,13 @@
+us of the hough transform todetect line and curv in
+pictur hough ha propos an interest and computation effici procedur
+for detect line in pictur thi paper point out that
+the us of angl radiu rather than slope intercept paramet
+simplifi the comput further it also show how the method
+can be us for more gener curv fit and give
+altern interpret that explain the sourc of it effici cacm
+januari 1972 duda r o hart p e pictur process
+pattern recognit line detect curv detect colinear point point line
+transform hough transform 3 63 ca720103 jb februari 1 1978
+9 36 am 2400 5 2400 2400 5 2400 2400
+5 2400 2788 5 2400 2910 5 2400 2400 6
+2400 2400 6 2400 2788 6 2400

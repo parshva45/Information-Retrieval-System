@@ -1,0 +1,26 @@
+a polici driven schedul for a time share system the
+servic receiv by a process from a time share oper
+system can be character by a resourc count sum w
+i r ij where r ij is the number of
+unit of servic receiv by process i from resourc i
+and w i is the cost per unit of the
+servic each class of user can be character by a
+polici function which specifi the amount of servic a user
+who belong to thi class should receiv as a function
+of time prioriti chang dynam as a function of the
+differ between the servic promis to the user by the
+polici function and the servic he actual receiv a schedul
+and swap algorithm which keep the resourc count of each
+process abov it polici function will provid the specifi level
+of servic overhead can be reduc by avoid swap of
+process which have receiv at least hi level of servic
+the algorithm ha been implement in a gener purpos oper
+system and it ha provid significantli better servic to interact
+and to batch job than the previou schedul cacm februari
+1971 bernstein a j sharp j c schedul time share
+oper system resourc alloc and swap 4 32 ca710202 jb
+februari 8 1978 9 54 am 2219 4 2219 2344
+4 2219 1938 5 2219 2219 5 2219 2219 5
+2219 2219 5 2219 2950 5 2219 3072 5 2219
+1713 6 2219 2219 6 2219 2219 6 2219 2245
+6 2219 2375 6 2219

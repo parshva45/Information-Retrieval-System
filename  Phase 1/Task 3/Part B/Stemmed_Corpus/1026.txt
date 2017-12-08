@@ -1,0 +1,17 @@
+divid and correct method for multipl precis divis a divis
+problem is defin and notat to relat it to the
+problem of multipl precis oper in a digit comput is
+introduc a basic divid and correct method for multipl precis
+divis is formul and it known properti briefli review of
+particular interest is the fact that the method produc at
+each step a set of precis three estim for the
+desir result on of which is exact cacm august 1964
+stein m l ca640804 jb march 9 1978 7 27
+pm 1026 4 1026 1258 4 1026 1292 4 1026
+1497 4 1026 107 5 1026 1026 5 1026 1026
+5 1026 1026 5 1026 1258 5 1026 1292 5
+1026 1497 5 1026 1975 5 1026 2605 5 1026
+107 6 1026 107 6 1026 107 6 1026 1026
+6 1026 1026 6 1026 1026 6 1026 1026 6
+1026 1026 6 1026 1292 6 1026 1292 6 1026
+1497 6 1026 1593 6 1026 2286 6 1026

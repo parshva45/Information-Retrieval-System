@@ -1,0 +1,6 @@
+six subprogram for curv fit us spline under tension e2
+algorithm a476 cacm april 1974 cline a k interpol spline
+contour curv fit 5 13 8 2 ca740415 jb januari
+17 1978 4 48 pm 2655 4 2655 2655 5
+2655 2655 5 2655 2655 5 2655 2656 5 2655
+2655 6 2655

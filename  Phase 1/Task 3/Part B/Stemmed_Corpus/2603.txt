@@ -1,0 +1,19 @@
+the equival of reduc transit languag and determinist languag the
+class of reduc transit languag introduc by eickel paul bauer
+and samelson wa shown by morri to be a proper
+superclass of the simpl preced languag in thi paper thi
+result is extend show that in fact the first class
+is equival to the class of determinist context free languag
+cacm septemb 1974 schkolnick m reduc transit languag syntax control
+gener determinist context free grammar 4 12 5 23 ca740905
+jb januari 17 1978 8 52 am 1215 4 2603
+1542 4 2603 1683 4 2603 1693 4 2603 1781
+4 2603 1781 4 2603 1787 4 2603 1787 4
+2603 1836 4 2603 1945 4 2603 1945 4 2603
+2060 4 2603 2061 4 2603 2082 4 2603 2091
+4 2603 2152 4 2603 2179 4 2603 2340 4
+2603 2356 4 2603 2546 4 2603 2603 4 2603
+2603 4 2603 2698 4 2603 2708 4 2603 2824
+4 2603 2982 4 2603 2986 4 2603 3045 4
+2603 3093 4 2603 1491 5 2603 2603 5 2603
+2603 5 2603 2603 5 2603 763 5 2603

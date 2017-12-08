@@ -1,0 +1,20 @@
+schedul univers cours examin by comput a new approach to
+the problem of schedul cours examin is present in principl
+an examin schedul which requir a minimum number of examin
+period and satisfi the constraint that no student be requir
+to take two examin simultan can be found in two
+step first cours which mai have their examin schedul at
+the same period ar group togeth in all possibl wai
+then a minimum number of these group such that each
+cours is includ at least onc ar select by remov
+multipl occurr of cours and then schedul each group at
+a differ period a minim schedul can be obtain known
+algorithm for carri out these procedur ar prohibit expens approxim
+to the ideal procedur outlin abov ar given which yield
+nonminim but feasibl schedul with a veri small expenditur of
+time result of experi us these techniqu ar given these
+ar encourag and indic that further experiment would be worthwhil
+cacm april 1967 hall jr a d acton f s
+ca670406 jb februari 28 1978 11 22 am 1609 4
+1609 2052 4 1609 1013 5 1609 1609 5 1609
+1609 5 1609 1609 5 1609

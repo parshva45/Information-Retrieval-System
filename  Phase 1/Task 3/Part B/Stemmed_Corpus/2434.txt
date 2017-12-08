@@ -1,0 +1,17 @@
+us page resid to select the work set paramet den
+s method for select the work set paramet which us
+interrefer interv is examin sever omiss in hi model ar
+note and new assumpt ar introduc to overcom these omiss
+us thi modifi model dene s result on page resid
+ar rederiv and reconsid for select the work set paramet
+cacm octob 1973 priev b g work set model page
+program behavior program model 4 3 ca731006 jb januari 20
+1978 11 34 am 1892 4 2434 1901 4 2434
+2085 4 2434 2095 4 2434 2218 4 2434 2277
+4 2434 2319 4 2434 2329 4 2434 2358 4
+2434 2373 4 2434 2380 4 2434 2434 4 2434
+2499 4 2434 2501 4 2434 2582 4 2434 2669
+4 2434 2828 4 2434 2863 4 2434 2881 4
+2434 2928 4 2434 2996 4 2434 3006 4 2434
+3067 4 2434 1751 5 2434 2434 5 2434 2434
+5 2434 2434 5 2434

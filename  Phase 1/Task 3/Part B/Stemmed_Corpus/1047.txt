@@ -1,0 +1,9 @@
+gener of test matric by similar transform a method for
+obtain test matric with a prescrib distribut of characterist root
+is given the process consist of us particularli simpl similar
+transform to gener full matric from canon form the matric
+gener also have known characterist vector invers and determin cacm
+june 1964 ortega j m ca640620 jb march 9 1978
+8 50 pm 1047 4 1047 1047 5 1047 1047
+5 1047 1047 5 1047 1707 5 1047 496 5
+1047 1047 6 1047 511 6 1047

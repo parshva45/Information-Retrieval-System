@@ -1,0 +1,14 @@
+hierarch storag in inform retriev a probabilist analysi is emploi
+to determin the effect of hierarch storag organ on inform
+retriev oper the data storag hardwar is assum to consist
+on n level of linearli connect memori hardwar with increas
+data access time and increas data storag capabl a system
+might for exampl consist of fast semiconductor memori comput core
+memori extend core storag disk memori and data cell equat
+ar deriv to predict the effect of such a system
+on data access time us sequenti file random access file
+and structur file emploi multipl hierarch link list cacm mai
+1973 salasin j inform retriev hierarch storag 3 70 3
+72 3 73 3 74 3 79 3 90 6
+20 6 34 ca730504 jb januari 24 1978 8 48
+am 2516 5 2516 2516 5 2516 2516 5 2516

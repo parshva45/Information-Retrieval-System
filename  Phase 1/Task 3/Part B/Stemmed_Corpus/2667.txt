@@ -1,0 +1,25 @@
+execut characterist of program in a page on demand system
+data ar present which show the execut characterist of two
+type of commonli us program in a larg scale time
+share comput system a softwar monitor facil built into the
+supervisor wa us for data collect dure normal system oper
+these data were analyz and result of thi analysi ar
+present for a fortran compil and an interact line file
+editor probabl distribut function and other data ar given for
+such thing as cpu interv i o interv and the
+number of such interv dure execut empir distribut ar compar
+with simpl theoret distribut exponenti hyperexponenti and geometr other data
+show page characterist of task as a function of the
+number of page those task have in core cacm april
+1974 boys j w program behavior virtual memori page demand
+page softwar monitor program execut characterist compil execut behavior editor
+execut behavior 4 12 4 19 4 32 4 39
+4 9 8 1 ca740403 jb januari 18 1978 10
+12 am 1533 4 2667 1892 4 2667 1924 4
+2667 1951 4 2667 2095 4 2667 2218 4 2667
+2297 4 2667 2374 4 2667 2526 4 2667 2667
+4 2667 2667 4 2667 2667 4 2667 2668 4
+2667 2668 4 2667 2668 4 2667 2862 4 2667
+2863 4 2667 1604 5 2667 1728 5 2667 1827
+5 2667 2667 5 2667 2667 5 2667 2667 5
+2667

@@ -1,0 +1,22 @@
+optim the polyphas sort variou dispers algorithm for the polyphas
+sort procedur ar examinedh optimum algorithm base on minim the
+total number of unit string read is displai the logic
+of thi algorithm is rather complic henc sever other new
+dispers algorithm with more straightforward logic ar present of the
+simpl dispers algorithm discuss the horizont is best it doe
+approxim on fourth to on and on half percent less
+read and write than most algorithm in us todai an
+addit two and on fourth to three percent improv can
+be achiev by util the modifi optimum algorithm thi algorithm
+is rel straightforward but it requir a fairli close estim
+of the total number of unit string befor the dispers
+begin cacm novemb 1971 shell d l sort polyphas sort
+dispers algorithm optimum dispers algorithm repetit oper 5 31 ca711103
+jb februari 2 1978 11 39 am 1117 4 2146
+1117 4 2146 2017 4 2146 2017 4 2146 2017
+4 2146 2146 4 2146 2146 4 2146 2146 4
+2146 2146 4 2146 479 4 2146 677 4 2146
+860 4 2146 861 4 2146 862 4 2146 863
+4 2146 299 5 2146 2146 5 2146 2146 5
+2146 2146 5 2146 862 5 2146 863 5 2146
+861 5 2146

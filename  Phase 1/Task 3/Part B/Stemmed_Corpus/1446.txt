@@ -1,0 +1,4 @@
+chebyshev quadratur algorithm 279 d1 cacm april 1966 hopgood f
+r a litherland c ca660403a jb march 3 1978 10
+50 am 1446 5 1446 1446 5 1446 1446 5
+1446

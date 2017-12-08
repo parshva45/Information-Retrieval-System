@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/cacm.rel.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/rel-doc-stopped.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/QLM_Stopping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-BM25_NoRelevance_Top5_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-BM25_Relevance_Top5_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-QLM_Top5_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-TF_IDF_Normalized_Top5_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-TF_IDF_Top5_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ Phase 1/Task 3/common_words.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 2/QLM_for_PRF.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 2/QLM_for_PRF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" afterPath="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Steps for project execution.txt" afterPath="$PROJECT_DIR$/Steps for project execution.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,56 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="bm25_relevance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QLM.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tf-idf.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tf-idf_normalized.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,10 +46,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" />
         <option value="$PROJECT_DIR$/Phase 2/a.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 2/QLM_for_PRF.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopped.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/rel-doc-stopped.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopped.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/QLM_Stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_stopped.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/QLM_stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" />
+        <option value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_stopping.py" />
       </list>
     </option>
   </component>
@@ -122,25 +107,6 @@
               <item name=" Phase 1" type="462c0819:PsiDirectoryNode" />
               <item name="Task 1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name=" Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Encoded Data Structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name=" Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -149,6 +115,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,106 +133,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a">
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bm25_relevance_stopping">
+    <configuration name="QLM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 2/a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="bm25_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bm25_no_relevance_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="rel_doc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bm25_relevance_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/rel_doc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tf-idf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tf-idf_normalized_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tf-idf_normalized" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tf-idf_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tf-idf" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tf-idf_normalized" />
-      <item index="2" class="java.lang.String" itemvalue="Python.rel_doc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bm25_relevance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.a" />
+      <item index="0" class="java.lang.String" itemvalue="Python.QLM" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tf-idf_stopping" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tf-idf_normalized_stopping" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stopping" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bm25_relevance_stopping" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.a" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bm25_relevance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rel_doc" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tf-idf_normalized" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tf-idf" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bm25_relevance_stopping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stopping" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tf-idf_stopping" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tf-idf_normalized_stopping" />
+        <item index="4" class="java.lang.String" itemvalue="Python.QLM" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +255,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -296,7 +268,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -317,59 +288,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Encoded Data Structures/Encoded-QueryID_RelevantDocs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 2/Sentence_generation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/rel_doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,13 +304,299 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py">
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 2/create_expanded_queries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 2/Queries_with_their_expansion_terms.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 2/creating_expanded_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 2/QLM_for_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="15" lean-forward="false" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 3/Cleaned_Queries_Stopped.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part B/cacm_stem.query.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="35" column="56" lean-forward="false" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-NoRelevance_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NoRelevance_Top5_Docs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NonRelevance_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/BM25_NoRelevance_Top5_Query_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NoRelevance_Top5_Query_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 2/create_stopped_inverted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/cacm.rel.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/rel-doc-stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="105" column="41" lean-forward="false" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/rel_doc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 3/query_cleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/QLM/QLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 2/Sentence_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="103" column="59" lean-forward="false" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="73" column="18" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/QLM_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="55" column="69" lean-forward="false" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="57" column="59" lean-forward="false" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>

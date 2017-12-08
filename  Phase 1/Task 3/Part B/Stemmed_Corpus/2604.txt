@@ -1,0 +1,14 @@
+an interact graphic displai for region partit by linear program
+us linear program an interact graphic displai system ha been
+implement to solv the region design problem of partit a
+region into n nonoverlap subregion in such a wai that
+their area ar in specifi proport and that the total
+cost of servic them is a minimum in a convers
+manner a user can easili obtain differ partit by specifi
+and modifi the boundari the servic center locat the area
+proport and the cost function exampl ar includ cacm septemb
+1974 cheung t interact graphic displai region partit area specif
+linear program 5 41 8 2 8 3 ca740904 jb
+januari 17 1978 8 56 am 2604 4 2604 1977
+5 2604 2604 5 2604 2604 5 2604 2604 5
+2604

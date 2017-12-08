@@ -1,0 +1,14 @@
+scalar and planar valu curv fit us spline under tension
+the spline under tension wa introduc by schweikert in an
+attempt to imit cubic spline but avoid the spuriou critic
+point thei induc the defin equat ar present here togeth
+with an effici method for determin the necessari paramet and
+comput the result spline the standard scalar valu curv fit
+problem is discuss as well as the fit of open
+and close curv in the plane the us of these
+curv and the import of the tension in the fit
+of contour line ar mention as applic cacm april 1974
+cline a k interpol spline contour curv fit 5 13
+8 2 ca740414 jb januari 18 1978 9 23 am
+2656 4 2656 2655 5 2656 2656 5 2656 2656
+5 2656 2656 5 2656 2656 6 2656

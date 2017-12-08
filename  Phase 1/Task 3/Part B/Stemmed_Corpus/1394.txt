@@ -1,0 +1,23 @@
+comput of algebra properti of elementari particl reaction us a
+digit comput a larg number of calcul in high energi
+elementari particl physic involv the manipul of complic algebra express
+contain both tensor and noncommut matrix quantiti mani of these
+calcul take sever month to complet although the oper involv
+follow straightforward rule in thi paper a program is describ
+which ha been develop in lisp for solv such problem
+the manner in which these problem ar encount is outlin
+and their represent in the comput discuss at present about
+six month of human work take less than fifteen minut
+on an ibm 7090 limit of the present system and
+futur plan ar also outlin cacm august 1966 hearn a
+c ca660804 jb march 2 1978 7 58 pm 1396
+5 1394 1394 5 1394 1394 5 1394 1394 5
+1394 964 6 1394 1028 6 1394 1029 6 1394
+1083 6 1394 1132 6 1394 1214 6 1394 1278
+6 1394 1334 6 1394 1365 6 1394 1386 6
+1394 1387 6 1394 1388 6 1394 1392 6 1394
+1393 6 1394 1394 6 1394 1395 6 1394 1396
+6 1394 1397 6 1394 1496 6 1394 284 6
+1394 407 6 1394 3199 6 1394 3200 6 1394
+3201 6 1394 3202 6 1394 3203 6 1394 3204
+6 1394 561 6 1394 730 6 1394

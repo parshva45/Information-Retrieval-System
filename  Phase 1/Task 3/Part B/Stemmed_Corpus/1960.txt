@@ -1,0 +1,27 @@
+process manag and resourc share in the multiaccess system esop
+the main design principl of the multiaccess system esop ar
+describ emphasi is place on basic idea underli the design
+rather than on implement detail the main featur of the
+system includ the abil given to ani user to schedul
+hi own parallel process us system primit oper the file
+memori relationship and the alloc schedul polici which dynam take
+into account recent inform about user behavior cacm decemb 1970
+betourn c bouleng j ferri j kaiser c krakowiak s
+mossier j time share multiprogram process schedul resourc alloc 4
+32 ca701203 jb februari 9 1978 4 02 pm 1458
+4 1960 1523 4 1960 1603 4 1960 1698 4
+1960 1747 4 1960 1748 4 1960 1828 4 1960
+1854 4 1960 1854 4 1960 1877 4 1960 1877
+4 1960 1960 4 1960 1960 4 1960 1960 4
+1960 2150 4 1960 2317 4 1960 2319 4 1960
+2377 4 1960 2377 4 1960 2378 4 1960 2342
+4 1960 2376 4 1960 2379 4 1960 2424 4
+1960 2482 4 1960 2497 4 1960 2558 4 1960
+2618 4 1960 2625 4 1960 2632 4 1960 2632
+4 1960 2704 4 1960 2723 4 1960 2738 4
+1960 2740 4 1960 2741 4 1960 2840 4 1960
+2867 4 1960 2941 4 1960 3105 4 1960 3144
+4 1960 3184 4 1960 1471 5 1960 1749 5
+1960 1854 5 1960 1960 5 1960 1960 5 1960
+1960 5 1960 2376 5 1960 1198 6 1960 1749
+6 1960 1960 6 1960

@@ -1,0 +1,6 @@
+eigenvalu and eigenvector of a real gener matrix algorithm r343
+cacm june 1972 niessner h eigenvalu eigenvector qr algorithm nonsymmetr
+matric gener matric 5 14 ca720610 jb januari 30 1978
+4 11 pm 1968 4 2335 2099 4 2335 2335
+4 2335 1662 5 2335 2335 5 2335 2335 5
+2335 2335 5 2335

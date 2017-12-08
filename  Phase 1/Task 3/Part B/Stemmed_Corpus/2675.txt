@@ -1,0 +1,4 @@
+a comput routin for quadrat and linear program problem algorithm
+r431 cacm march 1974 ravindran a ca740308 jb januari 18
+1978 11 10 am 2675 5 2675 2675 5 2675
+2675 5 2675

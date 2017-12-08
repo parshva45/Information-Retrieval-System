@@ -1,0 +1,23 @@
+gener of optim code for express via factor given a
+set of express which ar to be compil method ar
+present for increas the effici of the object code produc
+by first factor the express i e find a set
+of subexpress each of which occur in two or more
+other express or subexpress onc all the factor have been
+ascertain a sequenc procedur is appli which order the factor
+and express such that all inform is comput in the
+correct sequenc and factor need be retain in memori a
+minim amount of time an assign algorithm is then execut
+in order to minim the total number of temporari storag
+cell requir to hold the result of evalu the factor
+in order to make these techniqu computation feasibl heurist procedur
+ar appli and henc global optim result ar not necessarili
+gener the factor algorithm ar also applic to the problem
+of factor boolean switch express and of factor polynomi encount
+in symbol manipul system cacm june 1969 breuer m a
+factor algorithm code optim sequenc of oper detect of common
+subexpress factor of boolean express 4 12 6 1 ca690607jb
+februari 17 1978 10 57 am 1030 4 1886 1886
+4 1886 1939 4 1886 1886 5 1886 1886 5
+1886 1886 5 1886 2175 5 1886 678 5 1886
+1551 6 1886 1613 6 1886 1886 6 1886

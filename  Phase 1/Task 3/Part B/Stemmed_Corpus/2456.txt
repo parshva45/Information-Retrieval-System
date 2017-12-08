@@ -1,0 +1,22 @@
+on the capabl of while repeat and exit statement a
+well form program is defin as a program in which
+loop and if statement ar properli nest and can be
+enter onli at their begin a correspond definit is given
+for a well form flowchart it is shown that a
+program is well form if and onli if it can
+be written with if repeat and multi level exit statement
+for sequenc control it is also shown that if while
+and repeat statement with singl level exit do not suffic
+it is also shown that ani flowchart can be convert
+to a well form flowchart by node split practic implic
+ar discuss cacm august 1973 peterson w w kasami t
+tokura n well form program while statement repeat statement exit
+statement go to statement flowchart node split softwar reliabl 4
+39 4 49 5 29 ca730818 jb januari 23 1978
+10 20 am 2456 5 2456 2456 5 2456 2456
+5 2456 2709 5 2456 3004 5 2456 3121 5
+2456 1312 6 2456 1425 6 2456 1425 6 2456
+308 6 2456 309 6 2456 2138 6 2456 2204
+6 2456 2247 6 2456 2356 6 2456 2456 6
+2456 2456 6 2456 2456 6 2456 2477 6 2456
+2709 6 2456 3186 6 2456

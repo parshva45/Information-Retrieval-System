@@ -1,0 +1,22 @@
+on the mean of name in program system it is
+assum that there is a similar of function between the
+data name of a program languag and the file name
+of an oper system the two function ar discuss in
+term of the same basic concept in order to identifi
+the extent to which thei overlap it is suggest that
+there is some similar between the idea of a file
+directori and a storabl object of type context manipul with
+context ar then discuss at length it is note that
+there is a simpl extens of church s lambda notat
+that deal nice with these idea of context manipul wherea
+a function can be regard as the abstract base upon
+the first two term of the express lambda name list
+express valu list it is found that a context can
+be view as an abstract base upon the first two
+term in the equival express mu name list valu list
+express cacm juli 1971 fraser a g file oper system
+program languag function name context file directori file dictionari lambda
+calculu theori of program 3 73 4 22 4 39
+5 23 5 24 ca710606 jb februari 3 1978 9
+58 am 2184 5 2184 2184 5 2184 2184 5
+2184

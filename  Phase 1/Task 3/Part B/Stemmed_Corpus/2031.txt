@@ -1,0 +1,19 @@
+algorithm and bound for the greatest common divisor of n
+integ a new version of the euclidean algorithm for find
+the greatest common divisor of n integ a i and
+multipli x i such that gcd x 1 a 1
+x n a n is present the number of arithmet
+oper and the number of storag locat ar linear in
+n a theorem of lame that give a bound for
+the number of iter of the euclidean algorithm for two
+integ is extend to the case of n integ an
+algorithm to construct a minim set of multipli is present
+a fortran program for the algorithm appear as comm acm
+algorithm 386 cacm juli 1970 bradlei g h greatest common
+divisor euclidean algorithm number theori diophantin equat 3 15 5
+10 ca700706 jb februari 13 1978 8 45 am 2031
+4 2031 2031 4 2031 1022 5 2031 2028 5
+2031 2031 5 2031 2031 5 2031 2031 5 2031
+2521 5 2031 450 5 2031 3099 5 2031 1313
+6 2031 2028 6 2031 2031 6 2031 2031 6
+2031 2031 6 2031 3135 6 2031

@@ -1,0 +1,13 @@
+a languag for model and simul dynam system the gener
+object of thi languag is to facilit both the model
+and experiment aspect of simul studi the abil to repres
+system contain highli interact process is an essenti featur the
+natur of the languag and the role of the process
+concept is present by mean of an extend exampl cacm
+septemb 1967 parent r j krasnow h s ca670905 jb
+februari 27 1978 3 18 pm 1541 4 1541 1541
+4 1541 1565 4 1541 1781 4 1541 1824 4
+1541 1846 4 1541 2060 4 1541 2218 4 1541
+2252 4 1541 3112 4 1541 1358 5 1541 1380
+5 1541 1541 5 1541 1541 5 1541 1541 5
+1541

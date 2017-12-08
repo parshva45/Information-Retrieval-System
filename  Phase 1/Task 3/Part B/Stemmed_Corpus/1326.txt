@@ -1,0 +1,17 @@
+boundari network a feasibl comput procedur is describ for determin
+the total or partial inclus of arbitrarili given point and
+line with respect to a set of gener polygon domain
+which partit a plane bound region a scheme for the
+comput represent of the boundari of the domain and an
+algorithm base on thi scheme for evalu the inclus relat
+ar specifi in detail the method emploi sever level of
+select criteria for the purpos of reduc the number of
+access to auxiliari storag devic and the amount of boundari
+data for which process is requir cacm januari 1965 loomi
+r g ca650111 jb march 8 1978 2 31 pm
+1326 5 1326 1326 5 1326 1326 5 1326 1630
+5 1326 2547 5 1326 2987 5 1326 3165 5
+1326 1326 6 1326 1326 6 1326 1326 6 1326
+1326 6 1326 1630 6 1326 1925 6 1326 2125
+6 1326 2547 6 1326 2633 6 1326 2987 6
+1326 421 6 1326 524 6 1326

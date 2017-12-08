@@ -1,0 +1,20 @@
+an interpret input routin for linear program in thi descript
+articl an input code is present which greatli simplifi data
+input to ani linear program solut routin for subsequ us
+either as a pedagog devic or for solv rather small
+lp problem thi latter limit us deriv not at all
+from inher limit in the code itself but from an
+effici evalu larg lp problem would doubtless benefit from an
+input system more suit for bulk data handl than the
+input code describ from a user s standpoint input appear
+almost exactli as a textbook present of the lp problem
+limit onli by a keypunch s inabl to write subscript
+etc the input interpret scan column wise thu no fix
+format data prepar is requir the user mai also under
+veri gener requir onli liber us editori comment throughout the
+input deck as an aid in identif e g of
+row constraint the articl includ exampl of input output from
+a solut routin present in us and a skeleton flowchart
+of the input interpret cacm januari 1967 aigner d j
+ca670104 jb march 1 1978 8 58 am 1651 5
+1651 1651 5 1651 1651 5 1651

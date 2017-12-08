@@ -1,0 +1,19 @@
+on a divid and correct method for variabl precis divis
+describ in thi paper is a divid and correct method
+for variabl precis divis in digit comput unlik the earlier
+method of stein and pope the present method us a
+suitabl round form of the normal divisor for get an
+estim of the quotient charact thi result in a correct
+of at most plu or minu on to the estim
+to obtain the exact quotient charact it is believ that
+thi method will be wide applic for divis oper in
+variabl word length charact orient machin cacm march 1965 krishnamurthi
+e v ca650315jb march 7 1978 4 16 pm 1026
+4 1292 1258 4 1292 1258 4 1292 1292 4
+1292 1292 4 1292 1497 4 1292 1497 4 1292
+1975 4 1292 2605 4 1292 107 5 1292 1026
+5 1292 1292 5 1292 1292 5 1292 1292 5
+1292 1497 5 1292 1593 5 1292 1975 5 1292
+107 6 1292 1026 6 1292 1026 6 1292 1292
+6 1292 1292 6 1292 1292 6 1292 1497 6
+1292 1593 6 1292 91 6 1292

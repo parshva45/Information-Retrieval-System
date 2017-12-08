@@ -1,0 +1,20 @@
+an improv program synthes algorithm and it correct an improv
+program synthes algorithm base on the algorithm propos by walding
+and lee in 1969 is given in the old algorithm
+the program synthes problem is translat into a theorem prove
+problem and a program is obtain by analyz a proof
+for the improv algorithm the analysi is not necessari and
+a program is obtain as soon as the proof is
+complet thi is achiev by us a modifi variabl trace
+mechan invent by green in 1969 the correct of the
+improv algorithm is also prove i e the program thu
+obtain alwai satisfi the specif cacm april 1974 lee r
+c t chang c l walding r j program synthes
+algorithm theorem prove consequ find primit resolut 3 60 3
+64 4 20 4 42 5 21 5 22 5
+24 ca740413 jb januari 18 1978 9 32 am 2657
+4 2657 2719 4 2657 2210 5 2657 2657 5
+2657 2657 5 2657 2657 5 2657 2719 5 2657
+1626 6 2657 210 6 2657 2151 6 2657 2167
+6 2657 2210 6 2657 2645 6 2657 2657 6
+2657

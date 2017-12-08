@@ -1,0 +1,15 @@
+empir work set behavior the work set model for program
+behavior ha been propos in recent year as a basi
+for the design of schedul and page algorithm although the
+word work set ar now commonli encount in the literatur
+deal with resourc alloc there is a dearth of publish
+data on program measur in the hope that worker in
+the field might find experiment evid upon which to substanti
+and base theoret work cacm septemb 1973 rodriguez rosel j
+virtual memori page work set softwar measur program behavior 4
+3 ca730905 jb januari 23 1978 9 22 am 2373
+4 2450 2374 4 2450 2380 4 2450 2450 4
+2450 2450 4 2450 2595 4 2450 2996 4 2450
+3006 4 2450 3006 4 2450 3067 4 2450 3067
+4 2450 2373 5 2450 2374 5 2450 2450 5
+2450 2450 5 2450 2450 5 2450

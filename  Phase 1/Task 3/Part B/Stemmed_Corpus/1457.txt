@@ -1,0 +1,14 @@
+data manipul and program problem in automat inform retriev automat
+inform retriev program requir the manipul of a varieti of
+differ data structur includ linear text spars matric and tree
+or list structur the main data manipul to be perform
+in automat inform system ar first briefli review a varieti
+of data represent which have been us to describ structur
+inform ar then examin and the characterist of variou process
+languag ar outlin in the light of the procedur requir
+implement advantag of these program languag for the retriev applic
+ar examin and suggest ar made for the design of
+program facil to aid in inform retriev cacm march 1966
+salton g ca660315 jb march 3 1978 11 35 am
+1457 4 1457 1236 5 1457 1457 5 1457 1457
+5 1457 1457 5 1457

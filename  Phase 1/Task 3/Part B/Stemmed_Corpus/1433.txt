@@ -1,0 +1,21 @@
+a note on linear program algorithm design a combinatori problem
+as linear program model grow bigger and bigger in size
+much actual data that must be memor is often put
+on magnet tape or disk and consequ there is an
+improportion fast rise in the consumpt of comput timeo cut
+down thi expens an ever increas effort is made to
+design more effici algorithm thi paper is meant to support
+the effort it is attempt to find some characterist of
+the wai a pivot column is found the number of
+repetit of a certain transfer of data from tape to
+core memori is consid after some simplif the problem is
+restat in a gener wai the gener function of the
+probabl distribut and the moment gener function of the number
+of repetit is found asymptot formula ar given for the
+moment us a result from a paper of s narumi
+1 the result mai be appli to write veri effici
+routin that search for an extrem valu in a tabl
+formula provid a mean of calcul the comput time in
+thi case cacm mai 1966 roe p b m ca660504
+jb march 3 1978 10 10 am 1433 5 1433
+1433 5 1433 1433 5 1433

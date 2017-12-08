@@ -1,0 +1,4 @@
+crout with equilibr and iter algorithm 135 f4 cacm juli
+1964 mckeeman w m ca640709 jb march 9 1978 8
+15 pm 1038 5 1038 1038 5 1038 1038 5
+1038

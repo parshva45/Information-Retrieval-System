@@ -1,0 +1,21 @@
+the effect of multiplex on a comput commun system a
+studi is made of the wai in which asynchron time
+divis multiplex chang the stochast natur of the arriv process
+from a user to the comput and consequ affect the
+perform of a time share comput commun system it is
+conclud that while for certain valu of system paramet there
+is notic improv in the perform of the comput model
+in the sens that time share schedul delai ar reduc
+these improv ar offset by the transmiss delai impos by
+multiplex so that there mai be littl or no chang
+in the comput commun system perform analyt and simul result
+ar base on the model of the comput commun system
+be an m d 1 queue the multiplexor in tandem
+with a singl exponenti server the comput analyt result includ
+a gener descript of the output process of an m
+d 1 queue and the condit under which thi output
+process is approxim poisson cacm march 1973 pack c d
+comput commun time share multiplex schedul algorithm oper system 3
+80 3 81 6 20 ca730304 jb januari 24 1978
+11 13 am 2535 5 2535 2535 5 2535 2535
+5 2535

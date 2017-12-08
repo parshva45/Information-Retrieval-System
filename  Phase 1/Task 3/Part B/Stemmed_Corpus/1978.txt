@@ -1,0 +1,24 @@
+the us of interact graphic to solv numer problem with
+the advent of on line time share comput system and
+graphic termin we have avail a new dimens in numer
+problem solv capabl rather than simpli us the new power
+to achiev fast turnaround we can develop interact routin which
+ar easi to us and also take advantag of the
+insight and visual capabl of the human problem solver sever
+on line system for gener purpos mathemat problem solv have
+alreadi been implement as well as some special purpos system
+for solv problem in a particular area such as ordinari
+differenti equat the advantag of restrict the problem area is
+that the interfac with a user can be greatli simplifi
+in thi paper we discuss some of the advantag accru
+by such system and design consider for interact routin furthermor
+an implement of an on line least squar data fit
+program peg is present with result obtain from empir data
+in conclus area for futur work in thi field ar
+discuss cacm octob 1970 smith l b interact graphic comput
+graphic graphic least squar data fit interact comput on line
+mathemat 1 3 3 1 5 13 5 5 ca701012
+jb februari 10 1978 9 14 am 1978 4 1978
+1978 4 1978 1978 4 1978 1307 5 1978 1589
+5 1978 1813 5 1978 1978 5 1978 1978 5
+1978 1978 5 1978

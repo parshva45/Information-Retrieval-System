@@ -1,0 +1,14 @@
+an interact displai for approxim by linear program an interact
+program with a graphic displai ha been develop for the
+approxim of data by mean of a linear combin of
+function includ spline select by the user the coeffici of
+the approxim ar determin by linear program so as to
+minim the error in either the l1 or l infin
+norm auxiliari condit such as monoton or convex of the
+approxim can also be impos thi interact system is describ
+and sever exampl of it us ar given cacm novemb
+1970 lafata p rosen j b approxim data fit function
+approxim linear program interact graphic displai spline function 5 13
+5 41 ca701101 jb februari 10 1978 9 06 am
+1977 5 1977 1977 5 1977 1977 5 1977 2604
+5 1977 1977 6 1977

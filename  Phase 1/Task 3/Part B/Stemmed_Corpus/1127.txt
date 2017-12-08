@@ -1,0 +1,3 @@
+tridiagon matrix algorithm 122 cacm march 1964 naur p ca640304
+jb march 10 1978 3 39 am 1127 5 1127
+1127 5 1127 1127 5 1127

@@ -1,0 +1,26 @@
+on the probabl distribut of the valu of binari tree
+an integr equat is deriv for the gener function for
+binari tree valu the valu reflect sort effort the analysi
+doe not assum uniformli distribut branch ratio and therefor is
+applic to a famili of sort algorithm discuss by hoar
+singleton and van emden the solut to the integr equat
+indic that us more advanc algorithm in the famili make
+onli minor reduct in the expect sort effort but substanti
+reduc the varianc in sort effort statist test of the
+valu of sever thousand tree contain up to 10 000
+point have given first second and third moment of the
+valu distribut function in satisfactori agreement with the moment comput
+from the gener function the empir test as well as
+the analyt result ar in agreement with previous publish result
+for the first moment in the case of uniform and
+nonuniform distribut of branch ratio and for the second moment
+in the case of uniform distribut of branch ratio cacm
+februari 1971 hurwitz jr h binari tree sort statist analysi
+4 40 5 18 5 5 ca710205 jb februari 8
+1978 9 09 am 1175 4 2216 1919 4 2216
+1997 4 2216 2017 4 2216 2041 4 2216 2216
+4 2216 2216 4 2216 2216 4 2216 2216 4
+2216 2679 4 2216 2679 4 2216 3054 4 2216
+3054 4 2216 3054 4 2216 1919 5 2216 1969
+5 2216 1997 5 2216 2216 5 2216 2216 5
+2216 2216 5 2216 864 5 2216

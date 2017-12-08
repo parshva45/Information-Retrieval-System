@@ -1,0 +1,14 @@
+a local organ parser for spoken input thi paper describ
+lpar a local organ pars system design for us in
+a continu speech recogn lpar process a string of phonem
+which contain ambigu and error the system is local organ
+in the sens that it build local pars structur from
+reliabl word candid recogn anywher in an input utter these
+local structur ar us as island of reliabl to guid
+the search for more highli garbl word which might complet
+the utter cacm novemb 1974 miller p l pars speech
+recognit speech understand augment transit network local pars 3 42
+3 65 3 69 ca741103 jb januari 16 1978 10
+41 am 2581 4 2581 2739 4 2581 2795 4
+2581 2921 4 2581 3087 4 2581 1989 5 2581
+2581 5 2581 2581 5 2581 2581 5 2581

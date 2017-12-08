@@ -1,0 +1,5 @@
+a simpl techniqu for repres string in fortran iv cacm
+novemb 1974 hanson d r string process fortran iv string
+represent structur program data structur 3 70 4 0 4
+19 4 9 ca741108 jb januari 16 1978 10 12
+am 2576 5 2576 2576 5 2576 2576 5 2576

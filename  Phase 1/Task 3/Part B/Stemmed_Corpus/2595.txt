@@ -1,0 +1,24 @@
+a note on the calcul work set size finit length
+refer string of arbitrari structur ar consid and an exact
+express for averag work set size in term of correct
+interrefer interv statist is deriv an exampl is discuss upper
+and lower bound ar obtain and the averag work set
+size function is shown to be effici obtain for a
+set of page size in a singl pass of the
+refer string thi work follow the develop of a paper
+by den and schwartz who consid infinit length refer string
+which satisfi certain statist properti and who deriv an express
+relat the asymptot averag work set size to the asymptot
+miss page rate function under work set replac cacm octob
+1974 slutz d r traiger i l work set model
+page program behavior 4 3 ca741003 jb januari 16 1978
+12 56 pm 2374 4 2595 2380 4 2595 2450
+4 2595 2595 4 2595 2996 4 2595 3006 4
+2595 3067 4 2595 2373 5 2595 2595 5 2595
+2595 5 2595 2595 5 2595 2996 5 2595 3006
+5 2595 3067 5 2595 1751 6 2595 1751 6
+2595 1751 6 2595 1884 6 2595 2374 6 2595
+2374 6 2595 2373 6 2595 2373 6 2595 2373
+6 2595 2595 6 2595 2595 6 2595 2595 6
+2595 2682 6 2595 2863 6 2595 2864 6 2595
+3006 6 2595

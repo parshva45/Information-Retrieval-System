@@ -1,0 +1,6 @@
+color polygon region algorithm 364 z cacm decemb 1969 herriot
+r g color polygon region color planar surfac draw pictur
+shade enclos region 4 9 ca691208 jb februari 15 1978
+2 27 pm 1804 4 1804 1804 4 1804 2987
+4 1804 2987 4 1804 1804 5 1804 1804 5
+1804 1804 5 1804 421 5 1804 524 5 1804

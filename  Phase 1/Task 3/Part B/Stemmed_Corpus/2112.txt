@@ -1,0 +1,18 @@
+translat equat input limit transduct express or translat equat ar
+us to describ the syntax and left context sensit semant
+for context free languag a formal procedur is given for
+deriv from a set of translat equat the specif for
+a pushdown translat the translat consist of meali form finit
+state automata interact by mean of a pushdown stack within
+the framework describ string recognit and pars mai be treat
+as special case of the translat problem cacm februari 1970
+vere s automata ture machin regular express transduct express context
+free languag translat recogn pars meta compil pushdown transduc syntax
+direct compil finit state automata 4 10 4 12 4
+20 5 22 ca700203 jb februari 14 1978 10 49
+am 1323 4 2112 1358 4 2112 1380 4 2112
+1665 4 2112 1781 4 2112 1787 4 2112 1989
+4 2112 2112 4 2112 2534 4 2112 2541 4
+2112 2698 4 2112 2733 4 2112 2820 4 2112
+3073 4 2112 3155 4 2112 2112 5 2112 2112
+5 2112 2112 5 2112 799 5 2112

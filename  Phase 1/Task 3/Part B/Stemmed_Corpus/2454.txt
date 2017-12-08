@@ -1,0 +1,15 @@
+comput algorithm for close queue network with exponenti server method
+ar present for comput the equilibrium distribut of custom in
+close queue network with exponenti server express for variou margin
+distribut ar also deriv the comput algorithm ar base on
+two dimension iter techniqu which ar highli effici and quit
+simpl to implement implement consider such as storag alloc strategi
+and order of evalu ar examin in some detail cacm
+septemb 1973 buzen j p queue theori queue network equilibrium
+distribut steadi state distribut 5 12 5 5 8 1
+8 3 ca730901 jb januari 23 1978 10 07 am
+2454 5 2454 2454 5 2454 2454 5 2454 2712
+5 2454 2741 5 2454 3070 5 2454 1526 6
+2454 1749 6 2454 1805 6 2454 2454 6 2454
+2454 6 2454 2454 6 2454 2741 6 2454 2988
+6 2454

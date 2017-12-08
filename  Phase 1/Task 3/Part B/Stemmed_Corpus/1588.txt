@@ -1,0 +1,14 @@
+pl i list process the concept of list process have
+been introduc into the pl i languag with these new
+facil it is possibl to write pl i procedur that
+oper on simpl and complex data list organ most list
+process languag have suffer from their inabl to deal directli
+with complex data structur and or from their inabl to
+perform the complet rang of program languag oper upon the
+data list structur these two problem have been elimin in
+the list process facil of pl i the basic concept
+of list process and the philosophi of the pl i
+languag extens ar discuss in addit sever detail list process
+exampl ar provid cacm june 1967 lawson jr h w
+ca670604 jb februari 28 1978 9 30 am 1588 5
+1588 1588 5 1588 1588 5 1588

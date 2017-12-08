@@ -1,0 +1,22 @@
+peekabit comput offspr of punch card peekaboo for natur languag
+search the peekaboo idea from punch card inform retriev method
+ha been mate with the idea of superimpos punch to
+produc a program techniqu which cut comput run time in
+half on a test search of 33 000 subject index
+entri a search program us the devic ha been oper
+sinc late 1963 as an item is enter in the
+store an 18 byte mask is creat from the item
+s meaning word us the inclus or oper if at
+search time the logic product us the and oper of
+thi mask and a similarli construct question mask is not
+equal to the question mask then on or more question
+word ar not present in the store item an equal
+is in conclus the word of the store item must
+be unpack and compar with question word the present store
+is made up of over 600 000 subject index entri
+estim to averag 60 charact each longer text such as
+abstract could be handl by multipl mask cacm septemb 1968
+hutton f c peekaboo superimpos code natur languag search text
+search inform compact comput search techniqu 3 74 ca680901 jb
+februari 22 1978 9 38 am 1700 5 1700 1700
+5 1700 1700 5 1700

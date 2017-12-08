@@ -1,0 +1,7 @@
+a method for find hamilton path and knight s tour
+the us of warnsdorff s rule for find a knight
+s tour is gener and appli to the problem of
+find a hamilton path in a graph a graph theoret
+justif for the method is given cacm juli 1967 pohl
+i ca670710 jb februari 28 1978 8 28 am 1563
+5 1563 1563 5 1563 1563 5 1563

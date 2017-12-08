@@ -1,0 +1,23 @@
+symbol factor of polynomi in sever variabl an algorithm for
+find the symbol factor of a multi variat polynomi with
+integ coeffici is present the algorithm is an extens of
+a techniqu us by kroneck in a proof that the
+prime factor of ani polynomi mai be found in a
+finit number of step the algorithm consist of factor singl
+variabl instanc of the given polynomi by kroneck s method
+and introduc the remain variabl by interpol techniqu for implement
+the algorithm and sever exampl ar discuss the algorithm promis
+suffici power to be us effici in an onlin system
+for symbol mathemat cacm august 1966 jordan d e kain
+r y clapp l c ca660812 jb march 2 1978
+7 06 pm 1396 5 1386 1386 5 1386 1386
+5 1386 1386 5 1386 964 6 1386 1028 6
+1386 1029 6 1386 1083 6 1386 1132 6 1386
+1214 6 1386 1278 6 1386 1334 6 1386 1365
+6 1386 1386 6 1386 1387 6 1386 1388 6
+1386 1392 6 1386 1393 6 1386 1394 6 1386
+1395 6 1386 1396 6 1386 1397 6 1386 1496
+6 1386 284 6 1386 407 6 1386 3199 6
+1386 3200 6 1386 3201 6 1386 3202 6 1386
+3203 6 1386 3204 6 1386 561 6 1386 730
+6 1386

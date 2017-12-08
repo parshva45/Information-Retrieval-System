@@ -1,0 +1,6 @@
+rapid comput of weight of interpolatori quadratur rule d1 algorithm
+417 cacm decemb 1971 gustafson s divid differ 5 16
+ca711212 jb februari 2 1978 9 33 am 2131 4
+2131 2132 4 2131 2131 5 2131 2131 5 2131
+2131 5 2131 2135 5 2131 2131 6 2131 2132
+6 2131

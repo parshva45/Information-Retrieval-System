@@ -1,0 +1,16 @@
+spline function method for nonlinear boundari valu problem the solut
+of the nonlinear differenti equat y f x y y
+with two point boundari condit is approxim by a quintic
+or cubic spline function y x the method is well
+suit to nonuniform mesh size and dynam mesh size alloc
+for uniform mesh size h the error in the quintic
+spline y x is o h 4 with typic error
+on third that from numerov s method requir the differenti
+equat to be satisfi at the mesh point result in
+a set of differ equat which ar block tridiagon and
+so ar easili solv by relax or other standard method
+cacm june 1969 blue j l boundari valu problem differenti
+equat finit differ function approxim iter method nonlinear equat spline
+function 5 13 5 15 5 17 ca690605 jb februari
+17 1978 11 07 am 1888 5 1888 1888 5
+1888 1888 5 1888

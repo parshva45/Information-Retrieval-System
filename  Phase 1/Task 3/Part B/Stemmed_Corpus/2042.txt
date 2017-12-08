@@ -1,0 +1,17 @@
+treesort 3 algorithm 245 m1 the certif of an algorithm
+can take the form of a proof that the algorithm
+is correct as an illustr but practic exampl algorithm 245
+treesort 3 for sort an arrai is prove correct cacm
+june 1970 london r l proof of algorithm debug certif
+metatheori sort in place sort 4 42 4 49 5
+24 5 31 ca700613 jb februari 13 1978 10 32
+am 2042 4 2042 2042 4 2042 2222 4 2042
+2356 4 2042 2679 4 2042 2679 4 2042 2844
+4 2042 2972 4 2042 970 5 2042 1228 5
+2042 2042 5 2042 2042 5 2042 2042 5 2042
+2222 5 2042 2679 5 2042 970 6 2042 970
+6 2042 1175 6 2042 1190 6 2042 1228 6
+2042 1800 6 2042 1818 6 2042 1834 6 2042
+1969 6 2042 1997 6 2042 308 6 2042 2042
+6 2042 2042 6 2042 3187 6 2042 507 6
+2042 716 6 2042 783 6 2042

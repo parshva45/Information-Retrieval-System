@@ -43,7 +43,7 @@ def bm25(f, n, L, R, r):
     k1 = 1.2
     k2 = 100
     b = 0.75
-    N = len(docID_documentLen.keys())
+    N = len(docID_documentLen.keys())   # 3204 documents
     q = 1
 
     K = k1 * ((b * L) + (1 - b))
@@ -129,6 +129,6 @@ print("\n\nBM25 Scoring Process DONE")
 output = open('BM25_Relevance_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()
-encoded_output = open('../../Encoded Data Structures/Encoded-BM25_Relevance_Top5_Pages.txt', 'wb')
+encoded_output = open('../../Encoded Data Structures/Encoded-BM25_Relevance_Top5_Query_Pages.txt', 'wb')
 pickle.dump(top_5, encoded_output)
 encoded_output.close()

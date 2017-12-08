@@ -1,0 +1,11 @@
+some techniqu for us pseudorandom number in comput simul an
+algorithm is describ by which uniform pseudorandom integ mai be
+us to construct binari number in which the probabl that
+each bit in the word is a 1 bit and
+can assum ani desir paramet valu techniqu for make us
+of such number in simul program ar describ cacm juli
+1969 donnelli t random number simul boolean algebra bit manipul
+5 19 5 39 ca690710 jb februari 17 1978 8
+54 am 1794 4 1870 1870 4 1870 2122 4
+1870 1674 5 1870 1870 5 1870 1870 5 1870
+1870 5 1870

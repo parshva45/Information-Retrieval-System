@@ -1,0 +1,25 @@
+a model for a multifunct teach system a teach system
+model that wa incorpor into an oper system of a
+larg comput is describ the model transfer control to the
+oper system to execut function other than teach and then
+recov control in order to resum teach the teach system
+abac ii wa written to run under the oper system
+ibsi for the ibm 7044 graphic system becaus the teach
+system automat termin and reschedul itself a student studi a
+cours present at a cathod rai displai termin could switch
+readili between student mode and programm mode dure the latter
+the full resourc of the oper system languag processor compil
+librari and user s program were at hi dispos he
+could for exampl write assembl debug and execut at the
+termin a program written in ani languag process by the
+oper system a cours could therefor includ text materi interleav
+with program problem which the student could solv without leav
+the termin exercis in simul and game could also be
+provid the implic of a teach system with thi degre
+of flexibl for industri and execut train as well as
+academ educ ar discuss in addit the advantag of thi
+type of system for comput program and oper ar also
+consid cacm june 1967 engvold k j hugh j l
+ca670601 jb februari 28 1978 10 24 am 1591 5
+1591 1591 5 1591 1591 5 1591 1680 5 1591
+1591 6 1591

@@ -1,0 +1,18 @@
+a note on the effici of a lisp comput in
+a page machin the problem of the us of two
+level of storag for program is explor in the context
+of a lisp system which us core memori as a
+buffer for a larg virtual memori store on a drum
+detail of time ar given for on particular problem cacm
+august 1968 borrow d g murphi d l storag manag
+list processor implement lisp page secondari storag util effici of
+page comput 3 7 4 1 4 2 ca680806 jb
+februari 22 1978 10 45 am 1626 4 1708 1708
+4 1708 1708 4 1708 1781 4 1708 1781 4
+1708 1826 4 1708 1860 4 1708 1860 4 1708
+2156 4 1708 2168 4 1708 2249 4 1708 2299
+4 1708 2314 4 1708 2719 4 1708 2736 4
+1708 2833 4 1708 1626 5 1708 1641 5 1708
+1708 5 1708 1708 5 1708 1708 5 1708 2249
+5 1708 1626 6 1708 1708 6 1708 1853 6
+1708

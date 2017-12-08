@@ -1,0 +1,12 @@
+a simul of hospit admiss polici a studi is describ
+which simul differ admiss polici of a larg special hospit
+the object is to determin better polici for stabil of
+admiss and censu rate while maintain a reason full hospit
+there type of polici were examin admiss base on percentag
+of discharg rate discharg rate plu or minu a constant
+and fix author independ of discharg rate the last type
+polici produc more stabl simul result and when put into
+practic improv were realiz cacm mai 1966 smith w g
+solomon jr m b ca660511 jb march 3 1978 9
+42 am 1426 5 1426 1426 5 1426 1426 5
+1426

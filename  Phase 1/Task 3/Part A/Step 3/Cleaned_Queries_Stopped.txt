@@ -1,0 +1,64 @@
+1	articles exist deal tss time sharing system operating system ibm computers
+2	interested articles written prieve udo pooch prieve pooch
+3	intermediate languages construction multi targeted compilers tcoll
+4	interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message passing examples interests
+5	papers design implementation editing interfaces window managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction
+6	interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion
+7	interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault tolerance techniques understanding correctness algorithms
+8	addressing schemes resources networks resource addressing network operating systems
+9	security considerations local networks network operating systems distributed systems
+10	parallel languages languages parallel computation
+11	setl high level languages
+12	portable operating systems
+13	code optimization space efficiency
+14	find discussions optimal implementations sort algorithms database management applications
+15	find discussions horizontal microcode optimization special emphasis optimization loops global optimization
+16	find descriptions handling operating systems based multiple processes message passing
+17	optimization intermediate machine code
+18	languages compilers parallel processors especially highly horizontal microcoded machines code compaction
+19	parallel algorithms
+20	graph theoretic algorithms applicable sparse matrices
+21	computational complexity intractability class complete reductions algorithms efficiency
+22	interested hidden line hidden surface algorithms cylinders toroids spheres cones specialized topic computer graphics
+23	distributed computing structures algorithms
+24	applied stochastic processes
+25	performance evaluation modelling computer systems
+26	concurrency control mechanisms operating systems
+27	memory management aspects operating systems
+28	information packet radio networks interest algorithms packet routing dealing network topography interested hardware network
+29	number theoretic algorithms especially involving prime number series sieves chinese remainder theorem
+30	articles text formatting systems including systems examples nroff scribe bravo
+31	find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson
+32	find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithms graph coloring graph isomorphism method
+33	articles sensitivity eigenvalue decomposition real matrices matrices especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart
+34	interested isolation root polynomial recent material heindel
+35	probabilistic algorithms especially dealing algebraic symbolic manipulation examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabin
+36	fast algorithm context free language recognition parsing
+37	articles describing relationship data types concurrency type process synchronization attempt processes type correct message passing system notion types messages check sender message receiver treating bit stream type
+38	type module don want entire literature abstract data types sure phrase avoid interested questions check module matches contexts
+39	type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer supplied definitions operators
+40	list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed
+41	theory distributed systems databases subtopics special interest include reliability fault tolerance distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel systems theory communicating processes protocols box 2158 yale station haven conn 06520
+42	computer performance evaluation techniques pattern recognition clustering la 70803
+43	analysis perception shape humans computers shape descriptions shape recognition computer dimensional shapes measures circularity shape matching
+44	texture analysis computer digitized texture analysis texture synthesis perception texture
+45	operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases
+46	application fuzzy subset theory clustering information retrieval problems includes performance evaluation automatic indexing considerations
+47	bayesian decision models optimize information retrieval system performance includes stopping rules determine user cease scanning output retrieval search
+48	computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms
+49	role information retrieval knowledge based systems expert systems
+50	parallel processors information retrieval
+51	parallel processors paging algorithms
+52	modelling simulation agricultural ecosystems
+53	mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210
+54	semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 01003
+55	dealing star height regular languages regular expressions regular events
+56	articles relation algebraic theory semigroups monoids study automata regular languages
+57	abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis
+58	algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest student test wilcoxon sign tests multivariate univariate components included
+59	dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems
+60	hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total
+61	information retrieval articles gerard salton clustering bibliographic coupling citations citations vector space model boolean search methods inverted feedback salton
+62	results relating parallel complexity theory pram uniform circuits
+63	algorithms parallel computation especially comparisons parallel sequential algorithms
+64	list articles el1 ecl el1 el 1 don remember

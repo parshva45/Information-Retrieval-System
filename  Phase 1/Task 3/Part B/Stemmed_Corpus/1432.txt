@@ -1,0 +1,11 @@
+incorpor of nonstandard input output devic into fortran system a
+fortran system mai readili be modifi to handl input output
+with nonstandard media on the same basi on which it
+handl the standard media thi is done by provid a
+charact handl subroutin suit to the nonstandard medium and arrang
+to be call by an otherwis unus output statement type
+or unit number thi method wa us to control output
+of alphanumer inform on a digit graph plotter cacm mai
+1966 cohn c e ca660505 jb march 3 1978 10
+01 am 1432 5 1432 1432 5 1432 1432 5
+1432

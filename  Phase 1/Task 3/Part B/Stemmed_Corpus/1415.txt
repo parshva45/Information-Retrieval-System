@@ -1,0 +1,20 @@
+automat deriv of microsent the decomposit of long complex english
+sentenc into shorter kernel like constitu sentenc microsent ha often
+been suggest as an avenu toward conduct automat retriev of
+natur languag messag to explor the prospect of such a
+step the author attempt in 1963 to prepar a gener
+program for deriv microsent from longer sentenc that had been
+syntact analyz by the harvard multipath analysi program the basic
+idea wa to extract the subject verb and object if
+ani of each claus and to reassembl these materi into
+a grammat microsent a program is describ in thi paper
+which wa design to oper on the tree structur output
+of the analyz and the microsent that were produc ar
+exhibit the author conclud that while microsent of the qualiti
+achiev do not open up immedi prospect for improv the
+perform of automat messag retriev system thei mai have practic
+valu in man machin system us human monitor to select
+the prefer syntact interpret of a sentenc cacm june 1966
+carmodi b t jone jr p e ca660606 jb march
+3 1978 8 47 am 1415 5 1415 1415 5
+1415 1415 5 1415

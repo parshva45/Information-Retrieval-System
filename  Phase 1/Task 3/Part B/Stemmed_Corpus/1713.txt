@@ -1,0 +1,16 @@
+on overcom high prioriti paralysi in multiprogram system a case
+hi tori high prioriti paralysi is the degrad that can
+occur in multiprogram system when schedul is base primarili on
+preassign prioriti it can be allevi by modifi the schedul
+algorithm to maxim the number of program activ at on
+time the case hi tori given in thi paper indic
+two gener method by which simultan can be increas possibl
+refin in the schedul algorithm for futur improv ar consid
+briefli cacm august 1968 steven d f multiprogram schedul dynam
+prioriti assign schedul 4 30 4 32 4 39 ca680801
+jb februari 22 1978 11 19 am 1713 4 1713
+1713 4 1713 1901 4 1713 1901 4 1713 491
+4 1713 491 4 1713 168 5 1713 185 5
+1713 1713 5 1713 1713 5 1713 1713 5 1713
+3072 5 1713 1713 6 1713 2219 6 1713 2245
+6 1713 2375 6 1713

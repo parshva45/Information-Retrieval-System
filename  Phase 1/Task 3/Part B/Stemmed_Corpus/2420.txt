@@ -1,0 +1,18 @@
+experi with an automat theorem prover havingparti order infer rule
+automat theorem prover need to be made much more effici
+with thi in mind slagl ha shown how the axiom
+for partial order can be replac by built in infer
+rule when us a particular theorem prove algorithm base upon
+hyper resolut and paramodul the new rule embodi the transit
+of partial order and the close relationship between predic a
+program ha been develop us a modifi version of these
+rule thi new theorem prover ha been found to be
+veri power for solv problem involv partial order thi paper
+present a detail descript of the program and a comprehens
+account of the experi that have been perform with it
+cacm novemb 1973 slagl j r norton l m theorem
+prove partial order resolut hyper resolut p1 resolut paramodul infer
+rule heurist 3 64 3 66 ca731106 jb januari 20
+1978 10 10 am 2356 4 2420 2420 4 2420
+2874 4 2420 3143 4 2420 2227 5 2420 2420
+5 2420 2420 5 2420 2420 5 2420

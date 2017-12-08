@@ -1,0 +1,26 @@
+direct random gener of sentenc the problem of produc sentenc
+of a transform grammar by us a random gener to
+creat phrase structur tree for input to the lexic insert
+and transform phase is discuss a pure random gener will
+produc base tree which will be block by the transform
+and which ar frequent too long to be of practic
+interest a solut is offer in the form of a
+comput program which allow the user to constrain and direct
+the gener by the simpl but power devic of restrict
+subtre the program is a direct random gener which accept
+as input a subtre with restrict and produc around it
+a tree which satisfi the restrict and is readi for
+the next phase of the grammar the underli linguist model
+is that at noam chomski as present in aspect of
+the theori of syntax the program is written in fortran
+iv for the ibm 360 67 and is part of
+a unifi comput system for transform grammar it is current
+be us with sever partial grammar of english cacm januari
+1969 friedman j transform grammar natur languag syntax languag process
+sentenc gener comput linguist syntax 3 42 ca690110 jb februari
+20 1978 11 44 am 1030 4 1939 1261 4
+1939 1886 4 1939 1939 4 1939 1939 4 1939
+1030 5 1939 1939 5 1939 1939 5 1939 1939
+5 1939 2767 5 1939 3064 5 1939 678 5
+1939 1846 6 1939 1939 6 1939 1939 6 1939
+2742 6 1939 2767 6 1939 2936 6 1939

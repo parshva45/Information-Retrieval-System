@@ -1,0 +1,13 @@
+on the comput enumer of finit topolog the problem of
+enumer the number of topolog which can be form from
+a finit point set is consid both theoret and computation
+certain fundament result ar establish lead to an algorithm for
+enumer finit topolog and comput result ar given for n
+7 an interest side result of the comput work wa
+the unearth of a theoret error which had been induc
+into the literatur the us of the comput in combinator
+repres chronolog an earli applic and thi side result underscor
+it continu us in thi area cacm mai 1967 evan
+j w harari f lynn m s ca670507 jb februari
+28 1978 10 37 am 1595 5 1595 1595 5
+1595 1595 5 1595
