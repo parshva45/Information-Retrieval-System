@@ -31,6 +31,13 @@ output = open('QueryID_Top100Docs_by_lucene_encoded.txt', 'wb')
 pickle.dump(queryID_Top100Docs, output)
 output.close()
 
+top_5_docs = list(queryID_Top5Docs.values())
+list_output = open('Lucene_Top5_Docs.txt', 'w')
+for doc in top_5_docs:
+    for i in doc:
+        list_output.write(i + "\n")
+list_output.close()
+
 output = open('QueryID_Top5Docs_by_lucene_encoded.txt', 'wb')
 pickle.dump(queryID_Top5Docs, output)
 output.close()
