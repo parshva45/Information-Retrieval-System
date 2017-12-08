@@ -1,0 +1,1 @@
+computation jn numerical integration it shown practical compute jn numerical integration integral representation trapezoidal rule the error approximation studied empirically cacm april 1969 stroud a h kohli j p bessel function numerical integration trapezoidal rule 5.11 5.12 5.16 ca690408 jb february 17 1978 4:13 pm

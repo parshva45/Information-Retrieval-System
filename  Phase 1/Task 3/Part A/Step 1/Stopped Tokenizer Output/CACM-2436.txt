@@ -1,0 +1,1 @@
+a note confinement problem this note explores problem confining program execution transmit information program caller a set examples attempts stake boundaries problem necessary conditions solution stated informally justified cacm october 1973 lampson b w protection confinement proprietary program privacy security leakage data 2.11 4.30 ca731004 jb january 20 1978 11:41 am

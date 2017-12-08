@@ -1,0 +1,1 @@
+adaptive nimerical integration simpson rule algorithm 145 cacm december 1962 mckeeman w m ca621210 jb march 17 1978 5:06 pm

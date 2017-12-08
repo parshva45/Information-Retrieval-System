@@ -1,0 +1,1 @@
+dynamic format specifications the implementation fortran format conversions discussed these format types give fortran programmer control input output specifications execution time cacm august 1965 ranelletti j e ca650811 jb march 6 1978 8:07 pm

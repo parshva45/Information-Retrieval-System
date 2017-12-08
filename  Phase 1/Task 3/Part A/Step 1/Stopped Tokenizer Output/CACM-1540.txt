@@ -1,0 +1,1 @@
+an algorithm class scheduling with section preference an algorithm assignment students classes fixed time schedule students give preference sections courses if consistent objective balanced sections preferences honored the algorithm stochastic monte carlo nature results compare nonpreference assignment algorithm cacm september 1967 busam v a ca670906 jb february 27 1978 3:15 pm

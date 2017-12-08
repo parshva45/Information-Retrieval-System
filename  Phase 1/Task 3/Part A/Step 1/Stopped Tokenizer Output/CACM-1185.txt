@@ -1,0 +1,1 @@
+a program solve pentomino problem recursive use macros a coding technique macro instructions lists arguments recursively the discussion covers primarily technique solve pentomino problem problem fitting 12 pentominos overlapping plane area formed 60 elemental squares cacm october 1965 fletcher j g ca651010 jb march 6 1978 6:37 pm

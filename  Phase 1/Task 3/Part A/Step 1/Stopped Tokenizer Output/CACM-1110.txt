@@ -1,0 +1,1 @@
+a fourier series method numerical solution class parabolic partial differential equations a fourier series method applied class parabolic partial differential equations reduces problem system ordinary differential equations an application method shows considerable advantage conventional finite difference methods cacm march 1964 forrington c v d ca640322 jb march 10 1978 2:08 am

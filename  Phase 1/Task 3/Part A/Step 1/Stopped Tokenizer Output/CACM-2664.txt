@@ -1,0 +1,1 @@
+parallelism tape sorting two methods employing parallelism tape sorting presented method a natural parallelism method b both approximately achieve goal reducing processing time divisor number processors cacm april 1974 even s tape sorting parallelism external sorting queues stacks 5.31 6.22 ca740406 jb january 18 1978 9:44 am

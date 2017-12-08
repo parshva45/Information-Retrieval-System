@@ -1,0 +1,1 @@
+a nonrecursive list compacting algorithm a simple nonrecursive list structure compacting scheme garbage collector suitable compact lisp list structures presented the algorithm avoids need recursion partial structure built track lists copied cacm november 1970 cheney c j list compacting garbage collection compact list lisp 4.19 4.49 ca701106 jb february 9 1978 4:54 pm

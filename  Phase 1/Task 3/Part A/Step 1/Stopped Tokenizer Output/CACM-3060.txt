@@ -1,0 +1,1 @@
+fortran 77 there standard fortran the official title american national standard programming language fortran x3.9-1978 commonly referred fortran 77 development completed 1977 it replaces fortran standard designated x3.9-1966 this paper describes features fortran 77 information standard developed cacm october 1978 brainerd w none none ca781001 dh january 29 1979 6:28 pm

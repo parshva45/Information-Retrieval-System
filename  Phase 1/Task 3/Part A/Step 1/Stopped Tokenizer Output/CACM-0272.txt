@@ -1,0 +1,1 @@
+a storage allocation scheme algol 60 a storage allocation scheme machine 2048 instruction core store magnetic drum the drum storing program blocks data directed programmer auxiliary information algol program the administrative routines controlling storage run time full a detailed cacm october 1961 jensen j mondrup p naur p ca611009 jb march 16 1978 12:54 pm

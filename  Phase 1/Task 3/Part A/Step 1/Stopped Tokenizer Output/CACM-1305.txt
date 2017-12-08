@@ -1,0 +1,1 @@
+the internal structure fortran cep translator the fortran cep translator converts source program written fortran cep language object program written language cep computer in paper outline cep computer internal structure translator emphasis compilation expressions input output lists subscripted variables cacm march 1965 mancino o g cecchi m m ca650302 jb march 7 1978 6:23 pm

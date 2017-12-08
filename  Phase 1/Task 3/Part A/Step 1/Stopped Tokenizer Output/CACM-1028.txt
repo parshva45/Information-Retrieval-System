@@ -1,0 +1,1 @@
+investigation new analytical method numerical derivative evaluation a recently proposed analytical approach numerical derivative evaluation discussed the technique shown accurate easy apply modifications required its greatly facilitate writing debugging programs requiring derivatives highly complex functions cacm august 1964 wilkins r d ca640802 jb march 9 1978 7:31 pm

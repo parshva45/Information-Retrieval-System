@@ -1,0 +1,1 @@
+a tape file merge pattern generator a routine presented specifies sequence merge cycles effect merging sorted tape the routine designed minimize elapsed computer time varying power merge cycles tape drives characteristic assigning drive single reel drives multiple reel cacm may 1963 cooke w s ca630509 jb march 14 1978 11:21 am

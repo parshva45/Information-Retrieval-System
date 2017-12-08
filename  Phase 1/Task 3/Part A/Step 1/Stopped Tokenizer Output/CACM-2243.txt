@@ -1,0 +1,1 @@
+product type simpson integration d1 algorithm a437 cacm december 1972 boland w r numerical integration product type quadrature simpson rule 5.16 ca721212 jb january 27 1978 9:10 am

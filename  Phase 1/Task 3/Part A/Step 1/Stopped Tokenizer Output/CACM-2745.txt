@@ -1,0 +1,1 @@
+a linear space algorithm computing maximal common subsequences the problem finding longest common subsequence strings solved quadratic time space an algorithm presented solve problem quadratic time linear space cacm june 1975 hirschberg d s subsequence longest common subsequence string correction editing 3.63 3.73 3.79 4.22 5.25 ca750608 jb january 9 1978 12:56 pm
