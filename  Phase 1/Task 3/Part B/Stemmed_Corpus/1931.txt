@@ -1,0 +1,18 @@
+interv arithmet determin evalu and it us in test for
+a chebyshev system two recent paper on by hansen and
+on by hansen and r r smith have shown how
+interv arithmet i can be us effect to bound error
+in matrix comput in the present paper a method propos
+by hasen and r r smith is compar with straightforward
+us of i in determin evalu comput result show the
+accuraci and run time that can be expect when us
+i for determin evalu an applic us i determin in
+a program to test a set of function to see
+if thei form a chebyshev system is then present cacm
+februari 1969 smith l b interv arithmet rang arithmet error
+bound determin evalu chebyshev system mathemat proof by comput 5
+11 5 13 5 14 ca690207 jb februari 20 1978
+10 49 am 1524 4 1931 1931 4 1931 1931
+4 1931 1946 4 1931 2214 4 1931 2544 4
+1931 1177 5 1931 1931 5 1931 1931 5 1931
+1931 5 1931 311 5 1931

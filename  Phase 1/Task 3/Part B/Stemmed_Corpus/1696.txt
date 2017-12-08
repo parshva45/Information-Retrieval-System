@@ -1,0 +1,11 @@
+an algorithm for identifi the ergod subchain and transient state
+of a stochast matrix an algorithm for identifi the ergod
+subchain and transient state of a stochast matrix is present
+applic in markov renew program and in the construct of
+variabl length code ar review and an updat procedur for
+deal with certain sequenc of stochast matric is discuss comput
+time ar investig experiment and compar with those of anoth
+recent propos method cacm septemb 1968 fox b l landi
+d m stochast matrix ergod chain identif 5 39 5
+5 ca680905 jb februari 22 1978 9 04 am 1696
+5 1696 1696 5 1696 1696 5 1696

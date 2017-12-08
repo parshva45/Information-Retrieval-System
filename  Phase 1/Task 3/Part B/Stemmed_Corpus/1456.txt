@@ -1,0 +1,19 @@
+storag and retriev of aspect of mean in direct graph
+structur an experiment system that us lisp to make a
+conceptu dictionari is describ the dictionari associ with each english
+word the syntact inform definit materi and refer to the
+context in which it ha been us to defin other
+word such relat as class inclus possess and activ or
+passiv action ar us as definit materi the result structur
+serv as a power vehicl for research on the logic
+of question answer exampl of method of input inform and
+answer simpl english question ar given an import conclus is
+that although lisp and other list process languag ar ideal
+suit for produc complex associ structur thei ar inadequ vehicl
+for languag process on ani larg scale at east until
+thei can us auxiliari memori as a continu extens of
+core memori cacm march 1966 simmon r f ca660316 jb
+march 3 1978 11 25 am 1155 4 1456 1456
+4 1456 1468 4 1456 1515 4 1456 1699 4
+1456 1856 4 1456 2127 4 1456 1324 5 1456
+1456 5 1456 1456 5 1456 1456 5 1456

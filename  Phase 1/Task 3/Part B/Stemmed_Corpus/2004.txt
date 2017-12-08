@@ -1,0 +1,21 @@
+a procedur for gener of three dimension half tone comput
+graphic present a descript is given of an algorithm for
+produc comput gener half tone present of three dimension polygon
+surfac structur thi algorithm achiev a signific increas in speed
+of comput over the warnock algorithm develop at the univers
+of utah and implement also on the coordin scienc laboratori
+cdc 1604 comput system at the univers of illinoi the
+histori lead to the algorithm develop and then the algorithm
+itself ar describ result ar present and ar compar with
+comput run achiev by the warnock approach an extens of
+the procedur to variabl posit illumin sourc is also given
+cacm septemb 1970 bouknight w j half tone comput graphic
+line scan imag process hidden surfac polygon surfac structur present
+4 9 ca700901 jb februari 10 1978 2 27 pm
+2004 4 2004 2004 4 2004 2687 4 2004 2692
+4 2004 1686 5 2004 1915 5 2004 2004 5
+2004 2004 5 2004 2004 5 2004 2674 5 2004
+2687 5 2004 2828 5 2004 1741 6 2004 1741
+6 2004 1751 6 2004 1915 6 2004 2004 6
+2004 2004 6 2004 2004 6 2004 2421 6 2004
+2687 6 2004 2751 6 2004 2841 6 2004

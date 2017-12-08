@@ -1,0 +1,21 @@
+extrem portabl random number gener extrem portabl subroutin ar sometim
+need for which moder qualiti and effici suffic typic thi
+occur for librari function like random number gener and in
+core sort which ar not entir univers or ar not
+us in a standard wai the literatur on random number
+gener doe not seem to contain an algorithm that meet
+requir of thi sort an extrem portabl 8 line fortran
+program is provid which base on an import paper by
+covey and macpherson 1967 sing their method fourier analysi is
+appli to the probabl function for the consecut n tupl
+provid by our gener with n less than or equal
+to 4 while the small modulu which must be us
+to maintain portabl prevent the qualiti of the gener from
+be high the gener compar well with the bound establish
+in the abov mention paper cacm februari 1969 kruskal j
+b random number gener random number random number analysi random
+gener linear sequenti gener random number program pseudo random number
+4 49 5 19 5 5 ca690208 jb februari 20
+1978 10 43 am 1930 5 1930 1930 5 1930
+1930 5 1930 2115 5 1930 1691 6 1930 1930
+6 1930

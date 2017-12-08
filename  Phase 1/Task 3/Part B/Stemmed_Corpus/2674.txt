@@ -1,0 +1,22 @@
+scan convers algorithm for a cell organ raster displai raster
+scan comput graphic with real time charact gener have previous
+been limit to alphanumer charact a displai ha been describ
+which extend the capabl of thi organ to includ gener
+graphic two fundament differ scan convers algorithm which have been
+develop to support thi displai ar present on is most
+suitabl to non interact applic and the other to interact
+applic the algorithm were implement in fortran on the cdc
+6400 comput result obtain from the implement show that the
+noninteract algorithm can significantli reduc displai file storag requir at
+littl cost in execut time over that of a convent
+raster displai the interact algorithm can improv respons time and
+reduc storag requir cacm march 1974 barrett r c fordan
+b w jr graphic scan convers raster displai line draw
+discret imag dot gener matrix displai 4 41 6 35
+8 2 ca740309 jb januari 18 1978 11 08 am
+1891 4 2674 2211 4 2674 2421 4 2674 2674
+4 2674 2674 4 2674 2674 4 2674 2674 4
+2674 2687 4 2674 2687 4 2674 2828 4 2674
+1741 5 2674 2004 5 2674 2421 5 2674 2674
+5 2674 2674 5 2674 2674 5 2674 2687 5
+2674

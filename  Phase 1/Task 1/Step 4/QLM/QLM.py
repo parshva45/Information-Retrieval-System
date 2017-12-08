@@ -82,7 +82,7 @@ print("\n\nQuery Likelihood Model Scoring Process DONE")
 output = open('QLM_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()
-encoded_output = open('../../Encoded Data Structures/Encoded-QLM_Top5_Pages.txt', 'wb')
+encoded_output = open('../../Encoded Data Structures/Encoded-QLM_Top5_Query_Pages.txt', 'wb')
 pickle.dump(top_5, encoded_output)
 encoded_output.close()
 

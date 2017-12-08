@@ -1,0 +1,15 @@
+pitch period determin of speech sound a comput procedur which
+determin pitch period by the recognit of the peak structur
+of the speech waveform is describ speech sound were sampl
+by a microphon and an analog to digit convert attach
+to an interconnect ibm 7090 pdp 1 system these utter
+were record at the normal nois level of the comput
+room but were not band compress or phase distort in
+ani manner a sequenc of oper defin on the speech
+wave select a list of point along the waveform as
+candid for pitch marker these marker ar valid by an
+error detect and correct procedurebout 95 percent of the pitch
+period were recogn correctli within 1 to 2 time real
+time on the ibm 7090 cacm june 1967 reddi d
+r ca670602 jb februari 28 1978 9 42 am 1590
+5 1590 1590 5 1590 1590 5 1590

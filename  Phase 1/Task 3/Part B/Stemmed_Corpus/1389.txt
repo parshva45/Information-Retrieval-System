@@ -1,0 +1,21 @@
+a programm s descript of l 6 bell telephon laboratori
+low link list languag l 6 pronounc l six is
+a new program languag for list structur manipul it contain
+mani of the facil which underli such list processor as
+ipl lisp comit ad snobol but permit the user to
+get much closer to machin code in order to write
+faster run program to us storag more effici and to
+build a wider varieti of link data structur cacm august
+1966 knowlton k c ca660809 jb march 2 1978 7
+20 pm 1389 4 1389 1552 4 1389 2162 4
+1389 2435 4 1389 2596 4 1389 2768 4 1389
+2845 4 1389 2902 4 1389 2955 4 1389 1184
+5 1389 1389 5 1389 1389 5 1389 1389 5
+1389 1860 5 1389 1957 5 1389 2155 5 1389
+2162 5 1389 1184 6 1389 1366 6 1389 1389
+6 1389 1389 6 1389 1389 6 1389 1389 6
+1389 1421 6 1389 1496 6 1389 1626 6 1389
+1641 6 1389 1785 6 1389 1786 6 1389 210
+6 1389 1860 6 1389 378 6 1389 378 6
+1389 2046 6 1389 2060 6 1389 3184 6 1389
+731 6 1389

@@ -1,0 +1,15 @@
+an interact comput system us graphic flowchart input an interact
+comput system oper on a graphic comput termin is describ
+thi system wa design to demonstr a method of program
+by comput interpret of a flowchart the user draw a
+descript of a sampl data system and specifi descript is
+transmit to a larg scale comput the design is simul
+and a graphic represent of the process signal is return
+to the scope a success design mai requir numer modif
+of the origin design a graphic interact system provid an
+environ to perform thi iter process effici and effect cacm
+februari 1970 robin m f beyer j d simul program
+graphic input output sampl data system 3 20 3 24
+ca700210 jb februari 14 1978 9 57 am 2003 5
+2105 2105 5 2105 2105 5 2105 2105 5 2105
+1710 6 2105 1767 6 2105 2105 6 2105

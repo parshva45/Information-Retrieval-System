@@ -1,0 +1,12 @@
+comput construct of project network project network ar us in
+pert and cpm an algorithm is given for construct project
+network directli from the project preced relat the algorithm creat
+dummi activ and topolog order the arc and node the
+number of node creat is minim for the given preced
+relat it ha been experiment program in fortran ii for
+the ibm 7094 cacm juli 1968 fisher a c liebman
+j s nemhaus g l project network pert cpm topolog
+order network construct by comput 5 32 ca680706 jb februari
+22 1978 12 07 pm 1723 4 1723 758 4
+1723 1723 5 1723 1723 5 1723 1723 5 1723
+2515 5 1723 441 5 1723 1723 6 1723

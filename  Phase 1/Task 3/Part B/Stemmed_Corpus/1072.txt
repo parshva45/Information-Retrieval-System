@@ -1,0 +1,14 @@
+an improv equival algorithm an algorithm for assign storag on
+the basi of equival dimens and common declar is present
+the algorithm is base on a tree structur and ha
+reduc comput time by 40 percent over a previous publish
+algorithm by identifi all equival class with on scan of
+the equival declar the method is applic in ani problem
+in which it is necessari to identifi equival class given
+the element pair defin the equival relat cacm mai 1964
+galler b a fisher m j ca640517 jb march 9
+1978 11 48 pm 1072 4 1072 1781 4 1072
+1072 5 1072 1072 5 1072 1072 5 1072 1646
+5 1072 316 5 1072 830 6 1072 987 6
+1072 1072 6 1072 1179 6 1072 1647 6 1072
+680 6 1072

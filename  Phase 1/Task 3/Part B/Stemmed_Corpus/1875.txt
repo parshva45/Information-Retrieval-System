@@ -1,0 +1,14 @@
+polynomi and spline approxim by quadrat program the problem of
+approxim to a given function or of fit a given
+set of data where the approxim function is requir to
+have certain of it deriv of specifi sign over the
+whole rang of approxim is studi two approach ar present
+in each of which quadrat program is us to provid
+both the constraint on the deriv and the select of
+the function which yield the best fit the first is
+a modifi bernstein polynomi scheme and the second is a
+spline fit cacm juli 1969 amo d e slater m
+l constant sign deriv bernstein polynomi linear concav constraint quadrat
+program spline 5 13 5 41 ca690705 jb februari 17
+1978 9 22 am 1875 5 1875 1875 5 1875
+1875 5 1875

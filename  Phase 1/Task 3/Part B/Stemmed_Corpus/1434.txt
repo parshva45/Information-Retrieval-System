@@ -1,0 +1,12 @@
+a mont carlo algorithm for assign student to class a
+techniqu of random choic is illustr by applic to the
+problem of assign student to a fix schedul of cours
+us the techniqu it is possibl to reduc or elimin
+difficulti that result when a popular section is fill and
+close befor all student request and requir it have been
+schedul the effect of automat schedul is retain without loss
+of the student privileg of pick favorit instructor cacm mai
+1966 macon n walker e e ca660503 jb march 3
+1978 10 14 am 1434 5 1434 1434 5 1434
+1434 5 1434 1540 5 1434 2209 5 1434 1434
+6 1434 1434 6 1434 1540 6 1434

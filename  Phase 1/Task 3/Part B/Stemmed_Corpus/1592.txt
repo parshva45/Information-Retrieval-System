@@ -1,0 +1,17 @@
+string similar and misspel the problem of program a comput
+to determin whether or not a string of charact is
+a misspel of a given word wa consid a numberof
+algorithm were evalu some propos by other writer some by
+the author these techniqu were test on a collect of
+misspel made by student at variou grade level while mani
+of the method were clearli unsatisfactori some gave as few
+as 2 1 percent incorrect determin cacm june 1967 alberga
+c n ca670510 jb februari 28 1978 10 28 am
+1112 4 1592 1592 4 1592 1592 4 1592 1592
+4 1592 2111 4 1592 2111 4 1592 2339 4
+1592 2339 4 1592 440 4 1592 982 5 1592
+1112 5 1592 1592 5 1592 1592 5 1592 1592
+5 1592 2111 5 1592 2339 5 1592 619 5
+1592 830 6 1592 1112 6 1592 1112 6 1592
+1592 6 1592 1592 6 1592 440 6 1592 619
+6 1592 619 6 1592

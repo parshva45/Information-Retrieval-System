@@ -1,0 +1,14 @@
+retriev updat speed tradeoff us combin indic in a paper
+in the novemb 1970 commun of the acm v y
+lum introduc a techniqu of file index name combin indic
+thi techniqu permit decreas retriev time at the cost of
+increas storag space thi paper examin combin indic under condit
+of file usag with differ fraction of retriev and updat
+tradeoff curv ar develop to show minim cost of file
+usag by group variou partial combin indic cacm decemb 1971
+mullin j k file organ combin index file invert file
+inform retriev queri multi attribut retriev file updat 3 73
+3 74 3 79 ca711203 jb februari 2 1978 10
+18 am 2140 4 2140 2452 4 2140 2765 4
+2140 2901 4 2140 3134 4 2140 1976 5 2140
+2140 5 2140 2140 5 2140 2140 5 2140

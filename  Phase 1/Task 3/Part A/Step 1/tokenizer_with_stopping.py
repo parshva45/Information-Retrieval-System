@@ -18,7 +18,7 @@ docID_documentLen = {}
 path = os.path.dirname(os.path.realpath(__file__)) + "/../../../../Raw HTML/"
 
 for file in os.listdir(path):
-    print("Tokenizing: " + file)
+    print("Tokenizing with Stopping: " + file)
     current_file = os.path.join(path, file)
     page_content = open(current_file, 'r').read()
     soup = BeautifulSoup(page_content, "html.parser")
@@ -51,3 +51,4 @@ for file in os.listdir(path):
         f = open(newpath + file[:-5] + '.txt', 'w', encoding='utf-8')
         f.write(result_text.strip())
         f.close()
+    print("\n\nTokenizing with Stopping Process DONE")

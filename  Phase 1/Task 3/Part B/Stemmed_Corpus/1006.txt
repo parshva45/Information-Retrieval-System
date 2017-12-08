@@ -1,0 +1,7 @@
+a storag alloc and refer structur a method is propos
+and discuss which allow a subscript variabl capabl in the
+fortran sens to be ad to autocod type assembl system
+cacm septemb 1964 fitzwat d r ca640905 jb march 9
+1978 6 11 pm 1006 5 1006 1006 5 1006
+1006 5 1006 1788 5 1006 1006 6 1006 1007
+6 1006 205 6 1006 3189 6 1006

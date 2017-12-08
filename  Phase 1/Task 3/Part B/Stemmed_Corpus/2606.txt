@@ -1,0 +1,19 @@
+a new integr algorithm for ordinari differenti equat base on
+continu fraction approxim a new integr algorithm is found and
+an implement is compar with other program algorithm the new
+algorithm is a step by step procedur for solv the
+initi valu problem in ordinari differenti equat it is design
+to approxim pole of small integ order in the solut
+of the differenti equat by continu fraction obtain by manipul
+the sum of truncat taylor seri expans the new method
+is compar with gragg bulirsh stoer and the taylor seri
+method the taylor seri method and the new method ar
+shown to be superior in speed and accuraci while the
+new method is shown to be most superior when the
+solut is requir near a singular the new method can
+final be seen to pass automat through singular where all
+the other method which ar discuss will have fail cacm
+septemb 1974 willer i m ordinari differenti equat initi valu
+problem integr taylor seri singular continu fraction program comparison 5
+17 ca740902 jb januari 17 1978 9 06 am 2606
+5 2606 2606 5 2606 2606 5 2606

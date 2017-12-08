@@ -1,0 +1,14 @@
+descript of format a text process program format is a
+product program which facilit the edit and print of finish
+document directli on the printer of a rel small 64k
+comput system it featur good perform total free form input
+veri flexibl format capabl includ up to eight column per
+page automat capit aid for index construct and a minimum
+of nontext item it is written entir in fortran iv
+cacm march 1969 bern g m text process index print
+document text edit format frequenc dictionari right justif vocabulari 3
+74 3 75 3 9 ca690301 jb februari 20 1978
+9 45 am 1926 5 1926 1926 5 1926 1926
+5 1926 2034 5 1926 984 6 1926 1231 6
+1926 1565 6 1926 1852 6 1926 1926 6 1926
+1947 6 1926

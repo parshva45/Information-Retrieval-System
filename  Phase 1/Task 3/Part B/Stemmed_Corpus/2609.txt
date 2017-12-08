@@ -1,0 +1,11 @@
+interpol with round ramp function a new interpol function is
+introduc it ha infinit mani continu deriv and is a
+composit of ramp function with smooth bend call round ramp
+function how the interpol function can be extend to more
+than on variabl is shown an effici fortran program is
+given by which the interpol function can be obtain for
+a given point set cacm august 1974 lagerlof r o
+e interpol approxim smooth interpol multi variabl interpol interpol function
+approxim function spline like function 5 13 ca740815 jb januari
+17 1978 9 18 am 2609 5 2609 2609 5
+2609 2609 5 2609

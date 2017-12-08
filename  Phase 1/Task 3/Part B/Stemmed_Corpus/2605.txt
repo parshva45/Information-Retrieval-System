@@ -1,0 +1,15 @@
+a precis numer analysi program a descript is given of
+a program for comput the solut to a small number
+of standard numer analysi problem to ani specifi accuraci up
+to a limit of 2000 correct decim place each comput
+number is bound in an interv with a multipl precis
+midpoint arithmet oper involv these number ar execut accord to
+interv arithmet concept with non signific digit automat discard detail
+ar suppli of problem specif and problem comput cacm septemb
+1974 aberth o interv arithmet multipl precis list structur error
+control 4 49 5 10 5 11 5 12 5
+14 5 19 ca740903 jb januari 17 1978 9 01
+am 1258 4 2605 1292 4 2605 1497 4 2605
+1975 4 2605 2555 4 2605 2605 4 2605 2605
+4 2605 1026 5 2605 2286 5 2605 2605 5
+2605 2605 5 2605 2605 5 2605

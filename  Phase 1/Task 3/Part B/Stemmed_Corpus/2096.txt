@@ -1,0 +1,24 @@
+experi with the m n tree search program the m
+n procedur is an improv to the mini max back
+up procedur wide us in comput program for game plai
+and other purpos it is base on the principl that
+it is desir to have mani option when make decis
+in the face of uncertainti the mini max procedur assign
+to a max min node the valu of the highest
+lowest valu successor to that node the m n procedur
+assign to a max min node some function of the
+m n highest lowest valu successor an m n procedur
+wa written in lisp to plai the game of kalah
+and it wa demonstr that the m n procedur is
+significantli superior to the mini max procedur the statist signific
+of import conclus is given sinc inform on statist signific
+ha often been lack in paper on comput experi in
+the artifici intellig field these experi can perhap serv as
+a model for futur work cacm march 1970 slagl j
+r dixon j k artifici intellig heurist program tree search
+lisp kalah game plai decis theori mini max back up
+procedur back up procedur 3 60 3 64 3 66
+ca700302 jb februari 14 1978 8 34 am 1515 4
+2096 2096 4 2096 2127 4 2096 2210 4 2096
+1155 5 2096 2096 5 2096 2096 5 2096 2096
+5 2096 2215 5 2096 2096 6 2096

@@ -1,0 +1,19 @@
+a comput system for transform grammar a comprehens system for
+transform grammar ha been design and implement on the ibm
+360 67 comput the system deal with the transform model
+of syntax along the line of chomski s aspect of
+the theori of syntax the major innov includ a full
+formal descript of the syntax of a transform grammar a
+direct random phrase structur gener a lexic insert algorithm an
+extend definit of analysi and a simpl problem orient program
+languag in which the algorithm for applic of transform can
+be express in thi paper we present the system as
+a whole first discuss the gener attitud underli the develop
+of the system then outlin the system and discuss it
+more import special featur refer ar given to paper which
+consid some particular aspect of the system in detail cacm
+june 1969 friedman j transform grammar natur languag syntax languag
+process languag analysi sentenc gener lexic insert comput linguist syntax
+3 42 ca690608 jb februari 17 1978 10 36 am
+1885 4 1885 2795 4 1885 1885 5 1885 1885
+5 1885 1885 5 1885 1928 5 1885

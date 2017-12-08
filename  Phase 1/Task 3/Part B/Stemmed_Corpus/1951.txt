@@ -1,0 +1,23 @@
+estim of distribut of random variabl for certain comput commun
+traffic model a studi of multiaccess comput commun ha character
+the distribut underli an elementari model of the user comput
+interact process the model us is elementari in the sens
+that mani of the random variabl that gener ar of
+interest in comput commun studi can be decompos into the
+element of thi model data were examin from four oper
+multiaccess system and the model is shown to be robust
+that is each of the variabl of the model ha
+the same distribut independ of which of the four system
+is be examin it is shown that the gamma distribut
+can be us to describ the discret variabl approxim to
+the gamma distribut by the exponenti distribut ar discuss for
+the system studi cacm decemb 1970 fuch e jackson p
+e comput commun time share oper system optim model 3
+80 3 81 6 20 ca701212 jb februari 9 1978
+2 46 pm 1533 4 1951 1604 4 1951 1951
+4 1951 1951 4 1951 2373 4 1951 2667 4
+1951 2668 4 1951 1410 5 1951 1604 5 1951
+1951 5 1951 1951 5 1951 1951 5 1951 2373
+5 1951 2894 5 1951 1410 6 1951 1751 6
+1951 1810 6 1951 1951 6 1951 1951 6 1951
+2016 6 1951 2374 6 1951

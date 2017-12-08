@@ -1,0 +1,16 @@
+a new techniqu for compress and storag of data the
+widespread tendenc toward storag of larg program and block off
+text ha produc a need for effici method of compress
+and store data thi paper describ techniqu that can in
+most case decreas storag size by a factor of from
+two to four the techniqu involv special handl of lead
+and trail blank and the encod of other symbol in
+group of fix size as uniqu fix point number the
+effici of the system is consid and pertin statist ar
+given and compar with statist for other inform code techniqu
+cacm august 1974 hahn b file mainten inform retriev util
+program text compress code techniqu data storag data manag 3
+70 3 73 4 49 ca740801 jb januari 17 1978
+10 25 am 2530 4 2623 2623 4 2623 2623
+4 2623 2819 4 2623 2501 5 2623 2537 5
+2623 2623 5 2623 2623 5 2623 2623 5 2623

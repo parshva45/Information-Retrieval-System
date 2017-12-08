@@ -1,0 +1,17 @@
+minim event node network of project preced relat a procedur
+for construct a minim event node network to repres a
+set of preced relat without parallel activ is present a
+minim event node network is an event node network in
+which both the number of node and the number of
+arc ar the minima to preserv the given preced relat
+counterexampl ar given to show that the algorithm present by
+a c fisher j s liebman and g l nemhaus
+1968 produc event node network which ar not minim sinc
+our procedur includ the set cover problem the time requir
+mai grow exponenti with the number of given activ cacm
+mai 1973 corneil d g gotlieb c c lee y
+m network project event node network activ node network minim
+event node network dummi activ project preced relat 3 57
+5 32 8 3 ca730505 jb januari 24 1978 8
+42 am 2515 4 2515 1723 5 2515 2515 5
+2515 2515 5 2515 2515 5 2515

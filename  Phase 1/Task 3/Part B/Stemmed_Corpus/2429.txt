@@ -1,0 +1,6 @@
+calcul of optimum paramet for altern direct implicit procedur d3
+algorithm a460 cacm octob 1973 saylor p e sebastian j
+d ellipt differ equat peaceman rachford dougla rachford w b
+jordan optimum paramet altern direct implicit adi 5 14 5
+17 ca731011 jb januari 20 1978 11 09 am 2429
+5 2429 2429 5 2429 2429 5 2429

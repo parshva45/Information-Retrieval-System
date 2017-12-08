@@ -1,0 +1,21 @@
+an experiment comparison of time share and batch process the
+effect for program develop of the mit compat time share
+system ctss wa compar with that of the ibm ibsi
+batch process system by mean of a statist design experi
+an ident set of four program problem wa assign to
+each of a group of four program subject influenc extern
+to the system such as the sequenc of problem solut
+and programm and problem characterist were specifi as design factor
+in the experi data wa obtain for six variabl e
+g programm time comput time elaps time etc which were
+consid to be definit of system effect and analysi of
+varianc techniqu were emploi to estim system differ in these
+variabl after differ due to the design factor had been
+elimin statist analysi of the experiment result provid strong evid
+of import system differ as well as a critiqu of
+the experiment design itself with implic for further experiment cacm
+mai 1967 schatzoff m tsao r wiig r ca670501 jb
+februari 28 1978 11 09 am 1605 5 1605 1605
+5 1605 1605 5 1605 1792 5 1605 1908 5
+1605 1550 6 1605 1605 6 1605 1605 6 1605
+224 6 1605

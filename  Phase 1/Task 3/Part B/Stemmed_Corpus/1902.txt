@@ -1,0 +1,14 @@
+an automat grade scheme for simpl program exercis a discuss
+is given of alter that were made to a typic
+univers oper system to record the result of program exercis
+in three differ languag includ assembl languag in thi comput
+control grade scheme provis is made for test with programm
+suppli data and for final run with system suppli data
+exercis run under the scheme mai be mix with other
+program and no special recognit of exercis by the oper
+is necessari cacm mai 1969 hext j b wine j
+w automat grade program program exercis 1 5 2 43
+4 39 ca690507 jb februari 17 1978 3 35 pm
+1270 4 1902 1413 4 1902 1902 4 1902 1902
+4 1902 145 5 1902 1270 5 1902 1902 5
+1902 1902 5 1902 1902 5 1902

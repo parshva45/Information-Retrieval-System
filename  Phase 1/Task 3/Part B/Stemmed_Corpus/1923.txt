@@ -1,0 +1,9 @@
+pseudofil an approach to system interfac for high level languag
+us basic input output support facil is describ it is
+shown that thi techniqu can provid potenti inexpens method for
+program to commun with deepli embed facil such as command
+languag processor cacm march 1969 rosin r f oper system
+interfac input output high level languag command languag 4 22
+4 30 4 31 4 41 ca690304 jb februari 20
+1978 9 12 am 1923 5 1923 1923 5 1923
+1923 5 1923

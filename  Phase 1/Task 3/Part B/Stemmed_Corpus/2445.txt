@@ -1,0 +1,4 @@
+rout problem algorithm a456 cacm septemb 1973 fencl z rout
+problem shortest path travel salesman problem hamiltonian circuit 5 40
+ca730910 jb januari 23 1978 8 47 am 2445 5
+2445 2445 5 2445 2445 5 2445

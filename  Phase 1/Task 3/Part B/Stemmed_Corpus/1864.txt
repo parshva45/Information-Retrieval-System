@@ -1,0 +1,4 @@
+gener of hilbert deriv test matrix algorithm 274 f1 cacm
+juli 1969 boothroyd j test matrix hilbert matrix 5 14
+ca690716 jb februari 15 1978 6 25 pm 1864 5
+1864 1864 5 1864 1864 5 1864

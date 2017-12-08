@@ -1,0 +1,10 @@
+a method for the solut of transport problem with tall
+matric a method is present for the solut of the
+transport problem have a cost matrix with few column the
+comput implement of thi method show it to be veri
+fast and effici applic ar indict for the personnel classif
+problem as well as the classic transport problem an exampl
+is work out in detail cacm april 1967 dwyer p
+s galler b a ca670405 jb februari 28 1978 11
+25 am 1610 5 1610 1610 5 1610 1610 5
+1610

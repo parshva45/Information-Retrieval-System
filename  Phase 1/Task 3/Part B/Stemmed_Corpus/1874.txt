@@ -1,0 +1,18 @@
+gener pseudorandom number on a two s complement machin such
+as the ibm 360 the familiar multipl congruenti gener is
+examin in the context of the type of two s
+complement arithmet us in the ibm 360 seri differ sequenc
+of residu ar consid and relationship establish among them it
+is shown that a sequenc of posit and neg residu
+mai be produc more simpli and econom than with the
+convent approach and yet have twice the period of the
+latter without loss of desir statist properti anoth easili gener
+sequenc involv absolut valu is also shown to have twice
+the period but with less attract statist properti the statist
+properti of these sequenc ar given and relat to previous
+establish criteria cacm juli 1969 hemmerl w j random number
+uniform distribut pseudo random number random number gener multipl congruenti
+gener power residu two s complement arithmet ibm 360 arithmet
+3 15 5 5 6 32 ca690706 jb februari 17
+1978 9 17 am 1874 5 1874 1874 5 1874
+1874 5 1874

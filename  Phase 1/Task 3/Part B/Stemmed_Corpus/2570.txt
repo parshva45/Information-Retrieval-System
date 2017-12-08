@@ -1,0 +1,16 @@
+a comparison of list schedul for parallel process system the
+problem of schedul two or more processor to minim the
+execut time of a program which consist of a set
+of partial order task is studi case where task execut
+time ar determinist and other in which execut time ar
+random variabl ar analyz it is shown that differ algorithm
+suggest in the literatur vari significantli in execut time and
+that the b schedul of coffman and graham is near
+optim a dynam program solut for the case in which
+execut time ar random variabl is present cacm decemb 1974
+adam t l chandi k m dickson j r parallel
+process preced graph schedul list schedul optim dynam program 4
+3 4 32 4 34 4 35 5 3 5
+32 5 4 5 42 8 1 ca741204 jb januari
+16 1978 9 42 am 2570 5 2570 2570 5
+2570 2570 5 2570

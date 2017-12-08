@@ -1,0 +1,14 @@
+level of languag for portabl softwar an increas amount of
+softwar is be implement in a portabl form a popular
+wai of accomplish thi is to encod the softwar in
+a special design machin independ languag and then to map
+thi languag often us a macro processor into the assembl
+languag of each desir object machin the design of the
+machin independ languag is the kei factor in thi oper
+thi paper discuss the rel merit of pitch thi languag
+at a high level or a low level and present
+some compar result cacm decemb 1972 brown p j portabl
+softwar level of languag machin independ macro processor effici 4
+12 4 21 4 22 ca721209 jb januari 27 1978
+11 02 am 2246 5 2246 2246 5 2246 2246
+5 2246

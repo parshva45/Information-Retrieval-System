@@ -1,0 +1,16 @@
+a languag for treat geometr pattern in a two dimension
+space in thi paper cadep a problem orient languag for
+posit geometr pattern in a two dimension space is present
+although the languag ha been specif design for the automat
+gener of integr circuit mask it turn out to be
+well suit also for such other placement problem as architectur
+design urban plan logic and block diagram represent the design
+criteria the structur and the specif featur of cadep ar
+illustr cacm januari 1971 bracchi g ferrari d graphic languag
+problem orient languag two dimension pattern graphic displai fortran extens
+layout problem integr circuit architectur design urban plan 3 23
+3 24 3 25 4 22 ca710104 jb februari 8
+1978 11 17 am 2230 4 2230 2003 5 2230
+2044 5 2230 2230 5 2230 2230 5 2230 2230
+5 2230 996 6 2230 1558 6 2230 2230 6
+2230 521 6 2230

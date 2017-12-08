@@ -1,0 +1,14 @@
+simul of radioisotop scan by comput in radioisotop scan a
+field which is assum increas import in medic diagnosi the
+scan is a two dimension pattern made up of dot
+area of increas sourc activ ar repres on the scan
+by area of increas dot densiti to studi the output
+of scanner with variou characterist a program which simul radioisotop
+scan ha been written for a pdp 1 comput with
+auxiliari disk storag and cathod rai tube displai past and
+present research us the output of the simul ha shown
+the flexibl of the system to be import the structur
+of thi program can be us in the simul of
+the output of ani quantum limit system cacm mai 1966
+pizer s m ca660510 jb march 3 1978 9 47
+am 1427 5 1427 1427 5 1427 1427 5 1427

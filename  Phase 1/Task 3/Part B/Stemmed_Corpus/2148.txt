@@ -1,0 +1,20 @@
+the composit of semant in algol 68 the main featur
+of algol 68 ar explain from a semant point of
+view it is shown how the languag permit the composit
+of valu and action i e ultim program from a
+minimum set of primit with a few fundament recurs rule
+of composit the associ syntax is briefli review an attempt
+ha been made to obtain a structur and simpl introduct
+to both algol 68 and it orthogon design cacm novemb
+1971 branquart p lewi j sintzoff m wodon p l
+program primit program languag algol semant recurs composit design of
+program languag data structur 1 3 4 2 4 22
+5 23 5 24 ca711101 jb februari 2 1978 11
+49 am 2148 5 2148 2148 5 2148 2148 5
+2148 2314 5 2148 2317 5 2148 2842 5 2148
+1098 6 2148 1198 6 2148 1572 6 2148 1626
+6 2148 1693 6 2148 1749 6 2148 1753 6
+2148 1781 6 2148 210 6 2148 2060 6 2148
+2082 6 2148 2126 6 2148 2148 6 2148 2148
+6 2148 2148 6 2148 2192 6 2148 3184 6
+2148

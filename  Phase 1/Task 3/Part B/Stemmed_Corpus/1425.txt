@@ -1,0 +1,26 @@
+flow diagram ture machin and languag with onli two format
+rule in the first part of the paper flow diagram
+ar introduc to repres inter al map of a set
+into itself although not everi diagram is decompos into a
+finit number of given base diagram thi becom true at
+a semant level due to a suitabl extens of the
+given set and of the basic map defin in it
+two normal method of flow diagram ar given the first
+ha three base diagram the second onli two in the
+second part of the paper the second method is appli
+to the theori of ture machin with everi ture machin
+provid with a two wai half tape there is associ
+a similar machin do essenti the same job but work
+on a tape obtain from the first on by interspers
+altern blank squar the new machin belong to the famili
+elsewher introduc gener by composit and iter from the two
+machin l and r that famili is a proper subfamili
+of the whole famili of ture machin cacm mai 1966
+bohm c jacopini g ca660512 jb march 3 1978 9
+35 am 1425 4 1425 1781 4 1425 438 4
+1425 762 4 1425 249 5 1425 1425 5 1425
+1425 5 1425 1425 5 1425 2709 5 1425 2802
+5 1425 3004 5 1425 1425 6 1425 1425 6
+1425 1425 6 1425 2138 6 1425 2204 6 1425
+2247 6 1425 2356 6 1425 2456 6 1425 2456
+6 1425 2477 6 1425 3186 6 1425

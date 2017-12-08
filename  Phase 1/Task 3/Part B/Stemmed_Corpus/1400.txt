@@ -1,0 +1,9 @@
+free text input to util routin through the us of
+some rather simpl techniqu it is frequent possibl to produc
+a program which will accept free text input the techniqu
+ar discuss and relat to a gener tape manipul routin
+cacm juli 1966 blum r i ca660712 jb march 2
+1978 8 32 pm 1400 4 1400 1553 4 1400
+1945 4 1400 2127 4 1400 2396 4 1400 2730
+4 1400 1400 5 1400 1400 5 1400 1400 5
+1400 1487 5 1400

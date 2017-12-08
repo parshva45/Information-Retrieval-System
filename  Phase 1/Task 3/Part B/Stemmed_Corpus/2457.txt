@@ -1,0 +1,19 @@
+induct methodsfor prove properti of program there ar two main
+purpos in thi paper first clarif and extens of known
+result about comput of recurs program with emphasi on the
+differ between the theoret and practic approach second present and
+examin of variou known method for prove properti of recurs
+program discuss in detail ar two power induct method comput
+induct and structur induct includ exampl of their applic cacm
+august 1973 manna z ne s vuillemin j recurs program
+least fix point comput induct structur induct 4 2 5
+23 5 24 ca730817 jb januari 23 1978 10 24
+am 2326 4 2457 2411 4 2457 2457 4 2457
+2457 4 2457 2842 4 2457 2903 4 2457 2192
+5 2457 2326 5 2457 2457 5 2457 2457 5
+2457 2457 5 2457 2981 5 2457 3030 5 2457
+3077 5 2457 3104 5 2457 210 6 2457 1834
+6 2457 2060 6 2457 2247 6 2457 2356 6
+2457 2457 6 2457 2457 6 2457 2457 6 2457
+2457 6 2457 2651 6 2457 2683 6 2457 2958
+6 2457 2972 6 2457

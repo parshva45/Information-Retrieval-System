@@ -1,0 +1,22 @@
+a gener of avl tree a gener of avl tree
+is propos in which imbal up to triangl shape is
+a small integ an experi is perform to compar these
+tree with standard avl tree and with balanc tree on
+the basi of mean retriev time of amount of restructur
+expect and on the worst case of retriev time it
+is shown that by permit imbal of up to five
+unit the retriev time is increas a small amount while
+the amount of restructur requir is decreas by a factor
+of ten a few theoret result ar deriv includ the
+correct of an earlier paper and ar duli compar with
+the experiment data reason good correspond is found cacm august
+1973 foster c c avl tree balanc tree inform storag
+and retriev 3 7 3 72 4 49 5 31
+ca730819 jb januari 23 1978 10 13 am 2455 4
+2455 2455 4 2455 2493 4 2455 2889 4 2455
+2968 4 2455 2278 5 2455 2388 5 2455 2455
+5 2455 2455 5 2455 2455 5 2455 2889 5
+2455 2968 5 2455 3042 5 2455 2138 6 2455
+2388 6 2455 2388 6 2455 2455 6 2455 2455
+6 2455 2455 6 2455 2839 6 2455 2889 6
+2455 2968 6 2455

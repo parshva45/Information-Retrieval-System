@@ -13,19 +13,6 @@ with open("../../Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') a
 with open("../../Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
 
-'''
-with open("QueryID_RelevantDocs_encoded.txt", 'rb') as f:
-    queryID_relevantDocs = pickle.loads(f.read())
-
-x = 1
-queryID_noofrelevantdocs = {}
-for string in queryID_relevantDocs:
-    queryID_noofrelevantdocs[x] = len(queryID_relevantDocs[string])
-    x += 1
-
-print(queryID_relevantDocs)
-print(queryID_noofrelevantdocs)
-'''
 query_list = list(query_dict.values())    # Contains all the queries required
 
 #BM25 FORMULA : ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
@@ -46,7 +33,7 @@ def bm25(f, n, L, R, r):
     k1 = 1.2
     k2 = 100
     b = 0.75
-    N = len(docID_documentLen.keys())
+    N = len(docID_documentLen.keys())   # 3204 documents
     q = 1
 
     K = k1 * ((b * L) + (1 - b))
@@ -57,18 +44,6 @@ def bm25(f, n, L, R, r):
     score = a * b * math.log(c / d)
 
     return score
-'''
-def compute_r(term,id):
-    r = 0
-    print("id : %d" %id)
-    doc_list = queryID_relevantDocs[str(id)]
-    print(doc_list)
-    for doc in doc_list:
-        f = open('output/' + doc + '.txt', 'r')
-        if term in f.read():
-            r += 1
-    return r
-'''
 
 
 def calc_score(q):
@@ -123,6 +98,6 @@ print("\n\nBM25 Scoring Process DONE")
 output = open('BM25_NoRelevance_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()
-encoded_output = open('../../Encoded Data Structures/Encoded-BM25_NoRelevance_Top5_Pages.txt', 'wb')
+encoded_output = open('../../Encoded Data Structures/Encoded-BM25_NoRelevance_Top5_Query_Pages.txt', 'wb')
 pickle.dump(top_5, encoded_output)
 encoded_output.close()

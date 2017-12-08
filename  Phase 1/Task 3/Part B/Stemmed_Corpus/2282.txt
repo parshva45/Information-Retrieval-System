@@ -1,0 +1,6 @@
+a comparison of float point summat method cacm septemb 1972
+gregori j summat float point addit truncat error error propag
+5 11 ca720908 jb januari 27 1978 4 20 pm
+2183 4 2282 2282 4 2282 2282 4 2282 2860
+4 2282 3083 4 2282 1328 5 2282 2049 5
+2282 2282 5 2282 2282 5 2282 2282 5 2282

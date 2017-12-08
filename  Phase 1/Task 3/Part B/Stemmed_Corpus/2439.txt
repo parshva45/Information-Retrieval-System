@@ -1,0 +1,13 @@
+multipl termin under user program control in a time share
+environ user written program on the dartmouth time share system
+can commun with mani remot termin simultan and can control
+the interact between these termin such program can be written
+us standard input and output instruct in ani languag avail
+on the system thi paper describ how thi multipl termin
+facil wa implement without requir ani chang in the system
+execut or in ani of the system s compil or
+interpret cacm octob 1973 mcgeachi j s dtss multipl termin
+remot termin remot consol time share on line interact on
+line game 3 81 4 32 ca731001 jb januari 23
+1978 8 33 am 2439 5 2439 2439 5 2439
+2439 5 2439

@@ -1,0 +1,6 @@
+difsub for solut of ordinari differenti equat d2 algorithm 407
+cacm march 1971 gear c w differenti equat stiff differenti
+equat 5 17 ca710307 jb februari 3 1978 4 16
+pm 2205 4 2205 2474 4 2205 2205 5 2205
+2205 5 2205 2205 5 2205 2207 5 2205 2474
+5 2205 2205 6 2205 2207 6 2205

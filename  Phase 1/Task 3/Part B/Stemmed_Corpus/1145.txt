@@ -1,0 +1,22 @@
+git a heurist program for test pair of direct line
+graph for isomorph given a pair of direct line graph
+the problem of ascertain whether or not thei ar isomorph
+is on for which no effici algorithm solut is known
+sinc a straightforward enum algorithm might requir 40 year of
+run time on a veri high speed comput in order
+to compar two 15 node graph a more sophist approach
+seem call for the situat is similar to that prevail
+in area such as game plai and theorem prove where
+practic algorithm ar unknown for the interest case but where
+variou practic though onli partial success techniqu ar avail git
+graph isomorph tester incorpor a varieti of process that attempt
+to narrow down the search for an isomorph or to
+demonstr that none exist no on scheme is reli upon
+exclus for a solut and the program is design to
+avoid excess comput along fruitless line git ha been written
+in the comit languag and successfulli test on the ibm
+7090 cacm januari 1964 unger s h ca640110 jb march
+10 1978 5 24 am 1145 4 1145 1145 5
+1145 1145 5 1145 1145 5 1145 1504 5 1145
+3040 5 1145 655 5 1145 1145 6 1145 1145
+6 1145

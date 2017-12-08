@@ -1,0 +1,27 @@
+a user authent scheme not requir secreci in the comput
+in mani comput oper system a user authent himself by
+enter a secret password known sole to himself and the
+system the system compar thi password with on record in
+a password tabl which is avail to onli the authent
+program the integr of the system depend on keep the
+tabl secret in thi paper a password scheme is present
+which doe not requir secreci in the comput all aspect
+of the system includ all relev code and data base
+mai be known by anyon attempt to intrud the scheme
+is base on us a function h which the would
+be intrud is unabl to invert thi function is appli
+to the user s password and the result compar to
+a tabl entri a match be interpret as authent of
+the user the intrud mai know all about h and
+have access to the tabl but he can penetr the
+system onli if he can invert h to determin an
+input that produc a given output thi paper discuss issu
+surround select of a suitabl h two differ plausibl argument
+ar given that penetr would be exceedingli difficult and it
+is then argu that more rigor result ar unlik final
+some human engin problem relat to the scheme ar discuss
+cacm august 1974 evan a jr kantrowitz w weiss e
+oper system secur secur authent password on wai encrypt cryptolog
+4 39 5 39 ca740802 jb januari 17 1978 10
+19 am 2622 5 2622 2622 5 2622 2622 5
+2622

@@ -1,0 +1,6 @@
+comment on the composit of semant in algol 68 cacm
+august 1972 van der poel w l program primit program
+languag algol semant recurs composit design of program languag data
+structur 1 3 4 2 4 22 5 23 5
+24 ca720807 jb januari 30 1978 9 29 am 2295
+5 2295 2295 5 2295 2295 5 2295

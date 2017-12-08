@@ -19,6 +19,7 @@ corpus_len = sum(docID_doclen.values())  #gives |C|
 i = 1                #counter for counting query ids
 top_5 = {}
 
+
 def ql(tf,D,lamb,C):
     a = (1 - lamb) * (tf/D)
     b = lamb * (tf/C)
@@ -39,9 +40,10 @@ def calc_score(q):
 
     return final_score
 
+
 f1=open('Top_100_pages_for_queries_using_ql_model_after_expansion.txt', 'w')
 for query in query_list:
-    c = 1                          #the variable c denotes rank
+    c = 1                          # the variable c denotes rank
     ql_score = calc_score(query)
     final_score1 = collections.OrderedDict(sorted(ql_score.items(), key = lambda s : s[1], reverse = True))
     f1.write('\nFor query : %s\n\n' %query)

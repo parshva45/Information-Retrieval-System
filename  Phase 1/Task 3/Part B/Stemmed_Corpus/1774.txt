@@ -1,0 +1,14 @@
+program overlai techniqu the gener featur of program overlai system
+ar describ three main type automat semiautomat and nonautomat ar
+classifi and the program techniqu ar explain as a function
+of machin hardwar and other system featur the implement of
+semiautomat overlai facil in a multiprogram system on the cdc
+6600 is describ in detail with special refer to real
+time applic cacm februari 1968 pankhurst r j loader multiprogram
+overlai techniqu storag alloc and segment 4 39 ca680208 jb
+februari 23 1978 11 59 am 1471 4 1774 1774
+4 1774 1774 4 1774 1774 4 1774 2343 4
+1774 560 4 1774 972 4 1774 1173 5 1774
+271 5 1774 1774 5 1774 1774 5 1774 1774
+5 1774 2343 5 1774 800 5 1774 1173 6
+1774 1774 6 1774 1845 6 1774

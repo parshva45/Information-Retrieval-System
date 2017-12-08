@@ -1,0 +1,14 @@
+a simpl techniqu for digit divis a simpl and econom
+method for digit divis is describ the method is suitabl
+for divisor whose lead charact is either radix less on
+or is uniti with the next charact equal to zero
+also the method is direct and need onli half the
+number of arithmet oper need by a variant of the
+harvard iter method describ by gilman which is suitabl for
+similar divisor cacm june 1967 nandi s k krishnamurthi e
+v ca670509 jb februari 28 1978 10 30 am 214
+4 1593 1497 4 1593 1593 4 1593 1593 4
+1593 1975 4 1593 1292 5 1593 1497 5 1593
+1593 5 1593 1593 5 1593 1593 5 1593 91
+5 1593 107 6 1593 1026 6 1593 1292 6
+1593 1593 6 1593

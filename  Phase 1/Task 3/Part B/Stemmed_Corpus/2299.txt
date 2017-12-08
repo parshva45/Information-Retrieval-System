@@ -1,0 +1,19 @@
+an extens editor for a small machin with disk storag
+a design philosophi for develop a sophist util program is
+illustr by the actual design and implement of a text
+editor a versatil data structur is emploi so that onli
+a small number of program subroutin ar necessari for all
+type of data manipul such a data structur is describ
+and it merit ar illustr by the eas with which
+power extens can be implement in term of a few
+basic edit function cacm august 1972 benjamin a j command
+process context search execut program garbag collect interpret list process
+macro languag page paramet substitut recurs state tabl storag alloc
+string manipul text edit virtual memori 3 73 3 74
+3 75 4 13 4 22 4 43 4 49
+ca720803 jb januari 30 1978 10 00 am 1626 4
+2299 1708 4 2299 1781 4 2299 1860 4 2299
+2299 4 2299 2299 4 2299 2501 4 2299 2629
+4 2299 2915 4 2299 3114 4 2299 1502 5
+2299 1641 5 2299 2299 5 2299 2299 5 2299
+2299 5 2299

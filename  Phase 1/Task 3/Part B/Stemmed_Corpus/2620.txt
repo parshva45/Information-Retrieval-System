@@ -1,0 +1,24 @@
+execut time requir for encipher program although encipher ha often
+been discuss as a mean to protect comput data it
+cost ar not well establish five experi were conduct to
+measur the cpu time on a cdc 6400 requir by
+addit cipher program both in assembl languag and in fortran
+a null transform to measur the time to move data
+without encipher encipher with on word kei encipher with a
+125 word kei doubl kei encipher and encipher us a
+pseudo random kei the result were analyz for consist over
+100 run and the effect of constant and intermitt error
+were consid time rate for assembl languag encipher rang from
+498 800 charact per second for a pseudo random kei
+cipher to 2 092 000 charact per second for a
+constant on word kei cipher the latter is almost equival
+to the rate requir simpli to move data without encipher
+fortran test requir over four time as much cpu time
+thi paper introduc the idea on enciph time coeffici the
+ratio of enciph time to the time taken to fetch
+and store data without encipher cacm august 1974 friedman t
+d offman l j encipher cipher secur privaci transform protect
+cryptographi cryptolog 2 12 2 43 3 70 3 81
+4 32 4 39 ca740804 jb januari 17 1978 10
+05 am 2620 5 2620 2620 5 2620 2620 5
+2620

@@ -1,0 +1,25 @@
+displai procedur although the us of structur displai file is
+widespread in interact comput graphic these structur present a number
+of problem which tend to restrict their gener and us
+thi paper discuss some of these problem and suggest an
+altern approach to displai system design which avoid the us
+of structur displai file thi techniqu emploi displai procedur to
+gener inform for displai by includ transform within call to
+these procedur it is possibl both to simplifi the specif
+of pictur and to speed up their gener displai procedur
+permit pictur element to be defin condition and also facilit
+the process of input from point devic the paper is
+illustr by exampl from avers of the euler languag in
+which displai procedur were implement cacm octob 1971 newman w
+m comput graphic program languag displai file 4 20 4
+41 ca711004 jb februari 2 1978 1 11 pm 1542
+4 2152 1683 4 2152 1693 4 2152 1781 4
+2152 1787 4 2152 1836 4 2152 1945 4 2152
+2003 4 2152 2002 4 2152 2060 4 2152 2061
+4 2152 2082 4 2152 2091 4 2152 2152 4
+2152 2152 4 2152 2179 4 2152 2340 4 2152
+2356 4 2152 2546 4 2152 2603 4 2152 2698
+4 2152 2708 4 2152 2824 4 2152 2982 4
+2152 2986 4 2152 3045 4 2152 3093 4 2152
+1491 5 2152 1767 5 2152 2152 5 2152 2152
+5 2152 2152 5 2152

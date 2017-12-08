@@ -1,0 +1,20 @@
+virtual memori process and share in multic some basic concept
+involv in the design of the multic oper system ar
+introduc multic concept of process address space and virtual memori
+ar defin and the us of page and segment is
+explain the mean by which user mai share procedur and
+data is discuss and the mechan by which symbol refer
+ar dynam transform into virtual machin address is describ in
+detail cacm mai 1968 dalei r c denni j b
+virtual memori inform share share procedur data share dynam link
+segment page multiprogram storag manag storag hierarchi file mainten 3
+73 4 32 ca680503 jb februari 23 1978 9 44
+am 1753 4 1753 2358 4 1753 2377 4 1753
+2372 4 1753 2626 4 1753 2840 4 1753 1746
+5 1753 1753 5 1753 1753 5 1753 1753 5
+1753 2317 5 1753 2358 5 1753 2625 5 1753
+1198 6 1753 1471 6 1753 1572 6 1753 1693
+6 1753 1746 6 1753 1749 6 1753 1751 6
+1753 1753 6 1753 1753 6 1753 1753 6 1753
+1781 6 1753 274 6 1753 2126 6 1753 2148
+6 1753 2358 6 1753 2438 6 1753

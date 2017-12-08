@@ -1,0 +1,23 @@
+applic of game tree search techniqu to sequenti pattern recognit
+a sequenti pattern recognit spr procedur doe not test all
+the featur of a pattern at onc instead it select
+a featur to be test after receiv the result of
+that test the procedur either classifi the unknown pattern or
+select anoth featur to be test etc medic diagnosi is
+an exampl of spr in thi paper the author suggest
+that spr be view as a on person game plai
+against natur chanc virtual all the power techniqu develop for
+search two person strictli competit game tree can easili be
+incorpor either directli or by analog into spr procedur in
+particular on can incorpor the mini averag back up procedur
+and the gamma procedur which ar the analogu of the
+minimax back up procedur and the alpha beta procedur respect
+some comput simul experi in charact recognit ar present the
+result indic that the approach is promis cacm februari 1971
+slagl j r lee r c t sequenti pattern recognit
+game tree search game against natur gamma procedur mini averag
+back up procedur dynam program branch and bound approach optim
+solut 3 60 3 63 5 42 ca710206 jb februari
+8 1978 8 56 am 2215 4 2215 2096 5
+2215 2215 5 2215 2215 5 2215 2215 5 2215
+3132 5 2215 2215 6 2215

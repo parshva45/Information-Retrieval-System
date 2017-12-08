@@ -1,0 +1,14 @@
+the organ of structur file a data file is an
+integr part of a data process system in mani system
+the select of an organ for the data within the
+file can be critic to the system s oper effici
+thi paper provid the system design with an inform sourc
+which describ ten techniqu that mai be emploi for organ
+structur data the characterist of the organ describ ar applic
+independ thu provid the design with a refer which allow
+him to limit the number of file organ he must
+consid for hi system cacm juli 1965 dzubak b j
+warburton c r ca650709 jb march 6 1978 8 57
+pm 1050 4 1226 1226 4 1226 441 4 1226
+758 4 1226 1226 5 1226 1226 5 1226 1226
+5 1226 367 5 1226

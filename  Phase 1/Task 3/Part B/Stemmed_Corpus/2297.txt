@@ -1,0 +1,26 @@
+a model of memori content in a page machin thi
+paper is concern with certain aspect of content for main
+memori resourc in a multiprogram comput system oper under demand
+page in the model present the number of page frame
+of main memori alloc to a problem program vari in
+time these chang in memori configur ar repres explicitli in
+the model cpu requir and page except characterist of program
+materi be describ statist express for the distribut of the
+number of page frame alloc to an execut program the
+long run expect fraction of a program s execut time
+in a given number of page frame and the averag
+execut interv of the multiprogram load ar obtain it is
+point out heurist and demonstr numer that an increas is
+obtain abl in the averag execut interv of the multiprogram
+load over that result from equal fix partit of main
+memori cacm august 1972 oden p h shedler g s
+page machin demand page oper system studi queu analysi memori
+content memori manag 4 32 ca720805 jb januari 30 1978
+9 50 am 1879 4 2297 1884 4 2297 1892
+4 2297 1901 4 2297 1924 4 2297 2095 4
+2297 2095 4 2297 2218 4 2297 2277 4 2297
+2297 4 2297 2297 4 2297 2365 4 2297 2374
+4 2297 2526 4 2297 2667 4 2297 2668 4
+2297 2862 4 2297 2863 4 2297 1728 5 2297
+1754 5 2297 2297 5 2297 2297 5 2297 2297
+5 2297

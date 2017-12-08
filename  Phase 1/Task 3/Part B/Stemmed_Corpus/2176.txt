@@ -1,0 +1,22 @@
+buffer alloc in merg sort a fix buffer alloc for
+merg sort is present here which minim the number of
+input output oper for a given order of merg when
+sort on movabl arm disk the number of seek is
+equal to the number of input output oper and the
+seek time usual control the sort time first some standard
+terminolog is introduc then the input buffer alloc method is
+describ follow by an analysi of the improv to be
+expect over more convent alloc thi analysi make us of
+a particular distribut function an analysi of a complet differ
+distribut is given which yield similar result thi suggest that
+the result do not depend on a particular distribut function
+an optimum output buffer size is also determin it is
+conclud that thi buffer alloc can significantli reduc the time
+of merg sort on movabl arm disk when the input
+data ar not random and that thi output buffer alloc
+should be us whether the data is random or not
+cacm juli 1971 ferguson d e file item string merg
+sort seek time gamma distribut function 4 41 5 31
+ca710706 jb februari 3 1978 8 41 am 1638 4
+2176 2176 4 2176 2272 4 2176 2176 5 2176
+2176 5 2176 2176 5 2176 677 5 2176

@@ -1,0 +1,25 @@
+trace driven model and analysi of cpu schedul in multiprogram
+system microscop level job stream data obtain in a product
+environ by an event driven softwar probe is us to
+drive a model of a multiprogram comput system the cpu
+schedul algorithm of the model is systemat vari thi techniqu
+call trace driven model provid an accur replica of a
+product environ for the test of variat in the system
+at the same time alter in schedul method can be
+easili carri out in a control wai with caus and
+effect relationship be isol the schedul method test includ the
+best possibl and worst possibl method the tradit method of
+multiprogram theori round robin first come first serv etc and
+dynam predictor the rel and absolut perform of these schedul
+method ar given it is conclud that a success cpu
+schedul method must be preemptiv and must prevent a given
+job from hold the cpu for too long a period
+cacm decemb 1972 sherman s baskett iii f brown j
+c schedul cpu schedul multiprogram perform measur trace driven model
+4 10 4 20 4 31 4 32 ca721210 jb
+januari 27 1978 10 57 am 2245 5 2245 2245
+5 2245 2245 5 2245 2571 5 2245 3072 5
+2245 3119 5 2245 1713 6 2245 2219 6 2245
+2245 6 2245 2245 6 2245 2245 6 2245 2375
+6 2245 2798 6 2245 2849 6 2245 2859 6
+2245
