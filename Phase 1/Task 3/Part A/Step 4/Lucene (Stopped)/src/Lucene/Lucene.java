@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.core.SimpleAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
@@ -28,7 +28,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 public class Lucene {
-	private static Analyzer analyzer = new SimpleAnalyzer(Version.LUCENE_47);
+	private static Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_47);
 
     private IndexWriter writer;
     private ArrayList<File> queue = new ArrayList<File>();

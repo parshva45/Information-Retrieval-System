@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.core.SimpleAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
@@ -28,7 +28,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 public class Lucene {
-	private static Analyzer analyzer = new SimpleAnalyzer(Version.LUCENE_47);
+	private static Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_47);
 
     private IndexWriter writer;
     private ArrayList<File> queue = new ArrayList<File>();
@@ -75,8 +75,8 @@ public class Lucene {
 		System.out.println();
 		s = "";
 		
-		PrintWriter writer = new PrintWriter("Top_100_pages_for_queries_using_lucene_model.txt", "UTF-8");			
-		PrintWriter writer1 = new PrintWriter("Top_100_docNames_for_queries_using_lucene_model.txt", "UTF-8");
+		PrintWriter writer = new PrintWriter("Lucene_Top100_Pages.txt", "UTF-8");			
+		PrintWriter writer1 = new PrintWriter("Lucene_Top100_Docs.txt", "UTF-8");
 		writer.println("Ranking (Top 100) for the queries in Cleaned_queries.txt in the format:");
 		writer.println("query_id Q0 doc_id rank Lucene_score system_name");
 		
