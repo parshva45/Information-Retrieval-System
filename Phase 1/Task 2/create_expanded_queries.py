@@ -1,6 +1,6 @@
 import pickle
 
-with open("Queries_with_their_expansion_terms_encoded.txt", 'rb') as f:
+with open("Encoded-Queries_With_Their_Expansion_Terms.txt", 'rb') as f:
     query_expansionterms = pickle.loads(f.read())
 
 query = list(query_expansionterms.keys())  #contains all the unexpanded, depunctuated queries
@@ -13,7 +13,7 @@ expansion_terms = list(query_expansionterms.values())  #contains the terms neede
 answer = []                                #contains all the terms in the expanded query, joining these terms
                                            #will give us the final resulted expanded query
 i = 0
-while(i<len(query_terms)):
+while i<len(query_terms):
      # answer.append(list(set(query_terms[i] + expansion_terms[i])))
 
      c_answer = (query_terms[i] + expansion_terms[i])
@@ -29,12 +29,12 @@ while(i<len(query_terms)):
 
 final_query = {}   #dictionary having query id as key and expanded query as it's corresponding value
 
-for i,list in enumerate(answer,1):
+for i, list in enumerate(answer,1):
     expanded_query = ' '.join(list)
     final_query[i] = expanded_query
 
 print(final_query)
 
-output = open('Resulting_Expanded_Queries_encoded.txt','wb')
+output = open('Encoded-Expanded_Queries.txt','wb')
 pickle.dump(final_query, output)
 output.close()

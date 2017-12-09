@@ -1,0 +1,23 @@
+high level data flow analysi in contrast to the predomin
+us of low level in termedi text high level data
+flow analysi deal with program essenti at sourc level and
+exploit the control flow inform implicit in the pars tree
+the need for high level flow analysi aris from sever
+aspect of recent work on advanc method of program certif
+and optim thi paper propos a simpl gener method of
+high level data flow analysi that allow free us of
+escap and jump statement avoid larg graph when compil larg
+program facilit updat of data flow inform to reflect program
+chang and deriv new global inform help in solv mani
+familiar global flow analysi problem an illustr applic to live
+variabl analysi is present mani of the graph involv ar
+construct and analyz befor ani program ar compil thu avoid
+certain cost that low level method incur repeatedli at compil
+time cacm octob 1977 rosen b k data flow analysi
+high level languag control flow graph structur program escap exit
+jump goto statement 5 24 4 12 4 22 ca771003
+jb decemb 27 1977 11 41 am 1807 4 2923
+2034 4 2923 2290 4 2923 2579 4 2923 2579
+4 2923 2923 4 2923 2923 4 2923 2945 4
+2923 1807 5 2923 1947 5 2923 2923 5 2923
+2923 5 2923 2923 5 2923

@@ -1,0 +1,14 @@
+an anomali in disk schedul a comparison of fcf and
+sstf seek schedul us an empir model for disk access
+a model for disk access base on publish measur is
+develop the model is us to show that under highli
+probabl condit fcf seek schedul is superior to sstf schedul
+in the sens of have a lower mean queue length
+a simpl exampl of an arriv sequenc illustr thi anomali
+is present cacm januari 1976 wilhelm n c disk disk
+schedul seek schedul 3 72 4 35 4 41 4
+6 6 35 ca760102 jb januari 5 1978 10 42
+am 2628 4 2891 2891 4 2891 2891 4 2891
+3072 4 2891 2375 5 2891 2628 5 2891 2891
+5 2891 2891 5 2891 2891 5 2891 3153 5
+2891 2741 6 2891 2891 6 2891

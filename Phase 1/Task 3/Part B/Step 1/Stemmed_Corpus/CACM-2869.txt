@@ -1,0 +1,16 @@
+secur kernel valid in practic a secur kernel is a
+softwar and hardwar mechan that enforc access control within a
+comput system the correct of a secur kernel on a
+pdp 11 45 is be prove thi paper describ the
+techniqu us to carri out the first step of the
+proof valid a formal specif of the program with respect
+to a axiom for a secur system cacm mai 1976
+millen j k valid verif correct secur kernel formal specif
+protect 4 35 4 6 5 24 ca760502 jb januari
+4 1978 4 01 pm 2704 4 2869 2738 4
+2869 2840 4 2869 2866 4 2869 2869 4 2869
+2869 4 2869 2941 4 2869 2958 4 2869 3004
+4 2869 3030 4 2869 3128 4 2869 3158 4
+2869 2356 5 2869 2436 5 2869 2869 5 2869
+2869 5 2869 2869 5 2869 3068 5 2869 1834
+6 2869 2869 6 2869

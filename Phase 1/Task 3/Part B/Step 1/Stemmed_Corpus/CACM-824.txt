@@ -1,0 +1,14 @@
+descriptran autom descript geometri descript geometri consist of procedur origin
+design to solv 3 space geometri problem by graphic construct
+and measur instead of by comput howev in addit to
+thi it unifi and simplifi the approach to mani such
+problem when on can call subroutin that comput new coordin
+that correspond to those obtain from the graphic construct there
+is the three wai advantag of the approach of descript
+geometri the accuraci of comput and the speed of the
+digit comput descriptran make it possibl to program mani problem
+in 3 space with a few statement it consist of
+15 subroutin analog to the procedur of descript geometri cacm
+june 1963 kliphardt r a ca630625 jb march 14 1978
+9 56 am 824 5 824 824 5 824 824
+5 824

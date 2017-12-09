@@ -1,0 +1,20 @@
+concurr read and write the problem of share data among
+asynchron process is consid it is assum that onli on
+process at a time can modifi the data but concurr
+read and write is permit two gener theorem ar prove
+and some algorithm ar present to illustr their us these
+includ a solut to the gener problem in which a
+read is repeat if it might have obtain an incorrect
+result and two techniqu for transmit messag between process these
+solut do not assum ani synchron mechan other than data
+which can be written by on process and read by
+other process cacm novemb 1977 lamport l asynchron multiprocess multiprocess
+synchron reader writer problem share data 4 32 5 24
+ca771104 jb decemb 27 1977 7 47 am 2320 4
+2912 2597 4 2912 2777 4 2912 2851 4 2912
+2895 4 2912 2912 4 2912 2946 4 2912 3128
+4 2912 2150 5 2912 2912 5 2912 2912 5
+2912 2912 5 2912 3128 5 2912 2150 6 2912
+2376 6 2912 2436 6 2912 2597 6 2912 2865
+6 2912 2866 6 2912 2870 6 2912 2912 6
+2912 3082 6 2912

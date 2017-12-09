@@ -1,0 +1,16 @@
+cl 1 an environ for a compil a flexibl larg
+scale program system to facilit the solut of inform process
+problem and to provid intercommun between program and or programm
+ha been develop and realiz on the ibm 709 7090
+comput the system is base on a master file concept
+and ha provis for accept store and retriev both descript
+and instanc of larg and complex data set as well
+as algorithm defin on these data set both data and
+algorithm mai be express in a famili of command and
+descript languag the concept of distinct data descript and the
+content and us of such descript ar discuss in some
+detail cacm januari 1961 cheatham jr t e collin jr
+g o leonard g f ca610105 jb march 17 1978
+1 26 am 409 5 409 409 5 409 409
+5 409 657 5 409 279 6 409 409 6
+409

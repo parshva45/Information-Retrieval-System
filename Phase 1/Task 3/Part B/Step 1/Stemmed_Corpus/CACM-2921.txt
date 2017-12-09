@@ -1,0 +1,27 @@
+regular right part grammar and their parser thi paper in
+troduc an altern to context free grammar call regular right
+part rrp grammar which resembl pascal syntax diagram formal rrp
+grammar have product right part which ar nondeterminist finit state
+machin fsm and as a special case regular express sinc
+these can be convert to fsm rrp grammar describ the
+syntax of program languag more concis and more understand than
+is possibl with cf grammar also in troduc is a
+class of parser rrp lr m k parser which includ
+the cf lr k parser and provid the same advantag
+inform an rrp lr m k parser can determin the
+right end of each handl by consid at most k
+symbol to the right of the handl and the left
+end after the right end ha been found by consid
+at most m symbol to the left of the handl
+a mechan for determin the left end is requir becaus
+there is no bound on the length of the handl
+cacm octob 1977 lalond w r finit state machin automata
+regular express syntax diagram lr k grammar parser construct pars
+program languag languag gener formal definit compil translat scanner 4
+2 5 21 5 23 ca771005 jb decemb 27 1977
+11 01 am 1989 4 2921 2060 4 2921 2179
+4 2921 2581 4 2921 2698 4 2921 2739 4
+2921 2795 4 2921 2921 4 2921 2921 4 2921
+3087 4 2921 3154 4 2921 1989 5 2921 2110
+5 2921 2921 5 2921 2921 5 2921 2921 5
+2921

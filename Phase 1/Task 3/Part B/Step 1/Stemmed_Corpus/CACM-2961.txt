@@ -1,0 +1,12 @@
+experiment investig of the util of detail flowchart in program
+thi paper describ previou research on flowchart and a seri
+of control experi to test the util of detail flowchart
+as an aid to program composit comprehens debug and modif
+no statist signific differ between flowchart and nonflowchart group ha
+been shown therebi call into question the util of detail
+flowchart a program of further research is suggest cacm june
+1977 shneiderman b mayer r mckai d heller p flowchart
+program composit program comprehens debug modif experiment test human factor
+1 5 4 0 ca770602 jb decemb 29 1977 1
+33 am 2961 4 2961 2961 5 2961 2961 5
+2961 2961 5 2961 721 5 2961

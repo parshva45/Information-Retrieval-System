@@ -60,7 +60,7 @@ def calc_score(q):
     return final_score
 
 
-f = open('Stopped_BM25_NonRelevance_Top100_Pages.txt', 'w')
+f = open('Stopped_BM25_NoRelevance_Top100_Pages.txt', 'w')
 for query in query_dict.values():
     c = 1                                      # the variable c denotes rank
     print("Calculating BM25 Score with Stopping for query: " + query)

@@ -1,0 +1,19 @@
+connect between accuraci and stabil properti of linear multistep formula
+thi paper is concern with stabil and accuraci of famili
+of linear k step formula depend on paramet with particular
+emphasi on the numer solut of stiff ordinari differenti equat
+an upper bound p k is deriv for the order
+of accuraci of a inf stabl formula three criteria ar
+given for a 0 stabil it is shown that 1
+for p k k arbitrari a inf stabil impli certain
+necessari condit for a 0 stabil and for strict stabil
+mean that the extran root of p psi satisfi psi
+1 2 for p k 2 3 4 and 5
+a inf stabil for k 5 togeth with anoth constraint
+impli strict stabil and 3 for certain on paramet class
+of formula with p k 3 4 and or 5
+a inf stabil impli a 0 stabil cacm januari 1975
+linig w stiff equat parametr linear multistep formula order of
+accuraci a 0 stabil a inf stabil strict stabil 5
+17 ca750111 jb januari 12 1978 9 26 am 2800
+5 2800 2800 5 2800 2800 5 2800

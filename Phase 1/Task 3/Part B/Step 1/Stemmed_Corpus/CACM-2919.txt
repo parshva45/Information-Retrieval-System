@@ -1,0 +1,22 @@
+the programm s workbench a machin for softwar develop on
+almost all softwar develop project the assumpt is made that
+the program develop function will be done on the same
+machin on which the eventu system will run it is
+onli when thi product machin is unavail or when it
+program environ is total inadequ that altern ar consid in
+thi paper it is suggest that there ar mani other
+situat where it would be advantag to separ the program
+develop and main tenanc function onto a special comput which
+is dedic to that purpos such a comput is here
+call a programm s workbench the four basic section of
+the paper in troduc the subject outlin the gener concept
+discuss area where such an approach mai prove benefici and
+describ an oper system util thi concept cacm octob 1977
+ivi e l comput configur comput network softwar develop softwar
+engin softwar main tenanc unix 3 2 3 5 3
+7 3 8 4 0 ca771007 jb decemb 27 1977
+10 37 am 2626 4 2919 2786 4 2919 2840
+4 2919 2919 4 2919 2919 4 2919 2919 4
+2919 3017 4 2919 3110 4 2919 3174 4 2919
+2536 5 2919 2593 5 2919 2629 5 2919 2919
+5 2919 2919 5 2919 2919 5 2919

@@ -1,0 +1,14 @@
+on self organ sequenti search heurist thi paper examin a
+class of heurist for maintain a sequenti list in approxim
+optim order with respect to the averag time requir to
+search for a specifi element assum that each element is
+search for with a fix probabl independ of previou search
+perform the move to front and transposit heurist ar shown
+to be optim to within a constant factor and the
+transposit rule is shown to be the more effici of
+the two empir evid suggest that transposit is in fact
+optim for ani distribut of search probabl cacm februari 1976
+rivest r search self organ list process heurist 3 74
+5 25 ca760202 jb januari 5 1978 9 44 am
+2885 5 2885 2885 5 2885 2885 5 2885 3061
+5 2885 2885 6 2885

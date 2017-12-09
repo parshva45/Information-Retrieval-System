@@ -1,0 +1,17 @@
+an altern to event queue for synchron in monitor in
+the monitor concept as propos by brinch hansen and hoar
+event ar us for synchron thi paper describ anoth synchron
+primit which is nearli as express as the condit wait
+but can be implement more effici an implement of thi
+primit in term of p and v oper is given
+togeth with a correct proof two exampl ar present the
+reader and writer problem and the problem of inform stream
+share a finit buffer pool cacm juli 1977 kessel j
+l w monitor oper system mutual exclus synchron condit critic
+region structur concept 4 31 ca770706 jb decemb 28 1977
+10 10 am 2320 4 2946 2597 4 2946 2777
+4 2946 2851 4 2946 2895 4 2946 2912 4
+2946 2938 4 2946 2946 4 2946 2946 4 2946
+3128 4 2946 3128 4 2946 2150 5 2946 2866
+5 2946 2898 5 2946 2946 5 2946 2946 5
+2946 2946 5 2946 2597 6 2946 2946 6 2946

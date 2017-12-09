@@ -1,0 +1,19 @@
+design surfac in 3 d an experiment system for comput
+aid design of free form surfac in three dimens is
+describ the surfac ar repres in the system as parametr
+basi spline the princip featur of the system ar 1
+the surfac ar render as isoparametr line draw on a
+head mount displai and thei ar design with the aid
+of a three dimension wand which allow 3 d movement
+of the point control the shape of the surfac 2
+all of the interact with the surfac ar in real
+time and 3 the mathemat formul us assum no knowledg
+of them by the user of the system also examin
+ar some of the featur that should be part of
+a practic 3 d system for design space form cacm
+august 1976 clark j h real time graphic comput aid
+design pictur process b spline 3 d displai 3 80
+6 22 8 2 ca760803 jb januari 4 1978 10
+25 am 2828 5 2841 2841 5 2841 2841 5
+2841 2841 5 2841 1751 6 2841 2004 6 2841
+2751 6 2841 2841 6 2841

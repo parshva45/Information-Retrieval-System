@@ -1,0 +1,26 @@
+orderli enumer of nonsingular binari matric appli to text encrypt
+nonsingular binari matric of order n i e nonsingular over
+the field 0 1 and an initi segment of the
+natur number ar place in on to on correspond each
+natur number correspond to two intermedi vector these vector ar
+map into a nonsingular binari matrix exampl of complet enumer
+of all 2 x 2 and 3 x 3 nonsingular
+binari matric were produc by map the intermedi vector to
+the matric the map ha applic to the vernam encipher
+method us pseudorandom number sequenc a bit string form form
+byte of text of a data encrypt kei can be
+us as a represent of a natur number thi natur
+number is transform to a nonsingular binari matrix kei leverag
+is obtain by us the matrix as a seed in
+a shift regist sequenc pseudorandom number gener cacm april 1978
+payn w mcmillen k binari matric combinator combin nonsingular matric
+encrypt vernam pseudorandom number feedback shiftregist sequenc random number 3
+7 5 3 ca780401 dh februari 27 1979 11 05
+am 2269 4 3115 2466 4 3115 2690 4 3115
+2834 4 3115 2834 4 3115 2834 4 3115 2853
+4 3115 2884 4 3115 2908 4 3115 3115 4
+3115 3115 4 3115 3115 4 3115 3115 4 3115
+3115 4 3115 3115 4 3115 3115 4 3115 907
+5 3115 2045 5 3115 2417 5 3115 2466 5
+3115 2884 5 3115 579 5 3115 3115 5 3115
+3115 5 3115 3115 5 3115 785 5 3115

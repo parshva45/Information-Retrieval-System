@@ -1,0 +1,18 @@
+backtrack program techniqu the purpos of thi paper is twofold
+first a brief exposit of the gener backtrack techniqu and
+it histori is given second it is shown how the
+us of macro can consider shorten the comput time in
+mani case in particular thi techniqu ha allow the solut
+of two previous open combinatori problem the comput of new
+term in a well known seri and the substanti reduct
+in comput time for the solut to anoth combinatori problem
+cacm novemb 1975 bitner j r reingold e m backtrack
+depth first search exhaust search macro combinatori comput non attack
+queen s problem differ preserv code pentomino tile problem squar
+the squar 5 30 ca751105 jb januari 6 1978 9
+03 am 1531 4 2707 2707 4 2707 2753 4
+2707 1185 5 2707 2707 5 2707 2707 5 2707
+2707 5 2707 3053 5 2707 1329 6 2707 1785
+6 2707 1973 6 2707 1992 6 2707 2107 6
+2707 2109 6 2707 2412 6 2707 2543 6 2707
+2673 6 2707 2707 6 2707 2770 6 2707

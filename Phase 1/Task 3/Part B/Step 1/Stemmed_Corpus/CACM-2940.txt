@@ -1,0 +1,24 @@
+abstract and verif in alphard defin and specifi iter and
+gener the alphard form provid the programm with a great
+deal of control over the implement of abstract data type
+in thi paper the abstract techniqu ar extend from simpl
+data represent and function definit to the iter statement the
+most import poin t of interact between data and the
+control structur of the languag itself a mean of special
+alphard s loop to oper on abstract entiti without explicit
+depend on the represent of those entiti is in troduc
+specif and verif techniqu that allow the properti of the
+gener for such iter to be express in the form
+of proof rule ar develop result ar obtain that for
+common special case of these loop ar essenti ident to
+the correspond construct in other languag a mean of show
+that a gener will termin is also provid cacm august
+1977 shaw m wulf w a abstract and represent abstract
+data type assert control special correct gener invari iter statement
+modular decomposit program specif program languag program methodolog proof of
+correct type verif 4 20 5 24 ca770803 jb decemb
+28 1977 7 59 am 2940 5 2940 2940 5
+2940 2940 5 2940 3150 5 2940 2060 6 2940
+2704 6 2940 2842 6 2940 2939 6 2940 2940
+6 2940 2941 6 2940 2943 6 2940 3073 6
+2940 3148 6 2940

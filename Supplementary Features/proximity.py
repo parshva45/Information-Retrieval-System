@@ -77,8 +77,8 @@ for q in query_dict:
                 #print("positionListOfTerm2")
                 #print(positionListOfTerm2)
                 #print("----------------------")
+                score = 0
                 for element1 in positionListOfTerm1:
-                    score = 0
                     for element2 in positionListOfTerm2:
                         if ( (element1-element2) >= -4) and ( (element1 - element2) <= 0):
                             score += 1

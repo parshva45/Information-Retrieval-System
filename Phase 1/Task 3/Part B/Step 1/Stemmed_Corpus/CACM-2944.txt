@@ -1,0 +1,18 @@
+shift garbag collect overhead to compil time thi paper discuss
+techniqu which enabl automat storag reclam overhead to be partial
+shift to compil time the paper assum a transact orient
+collect scheme as propos by deutsch and bobrow the necessari
+featur of which ar summar implement the describ optim requir
+global flow analysi to be perform on the sourc program
+it is shown that at compil time certain program action
+that affect the refer count of cell can be deduc
+thi inform is us to find action that cancel when
+the code is execut and those that can be group
+to achiev improv effici cacm juli 1977 barth j m
+garbag collect global flow analysi list process optim refer count
+storag manag 3 80 4 12 4 20 4 34
+ca770708 jb decemb 28 1977 8 38 am 2855 4
+2944 2855 4 2944 2944 4 2944 2944 4 2944
+3106 4 2944 3112 4 2944 2833 5 2944 2944
+5 2944 2944 5 2944 2944 5 2944 2998 5
+2944

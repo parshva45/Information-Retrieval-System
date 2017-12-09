@@ -1,0 +1,18 @@
+analysi of a file address method thi paper present a
+new file address method base on the calcul of an
+address from the identif of a record for larg recircul
+type file it seem to be more advantag than customari
+on the probabl distribut of the displac of record from
+their calcul address which is on less than the number
+of probe requir to address a record is comput on
+the basi of a markov chain model for the reader
+not interest in the mathemat the introduct and the summari
+should be suffici cacm august 1962 schai jr g spruth
+w g ca620836 jb march 17 1978 9 02 pm
+911 5 492 1785 5 492 2203 5 492 2860
+5 492 492 5 492 492 5 492 492 5
+492 911 6 492 911 6 492 1328 6 492
+1785 6 492 1786 6 492 332 6 492 332
+6 492 2107 6 492 2109 6 492 2203 6
+492 492 6 492 492 6 492 492 6 492
+492 6 492

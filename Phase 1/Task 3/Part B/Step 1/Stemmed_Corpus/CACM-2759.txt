@@ -1,0 +1,5 @@
+solut of an overdetermin system of equat in the l1
+norm algorithm r478 cacm mai 1975 fritsch f n hindmarsh
+a c ca750508 jb januari 9 1978 2 32 pm
+2759 4 2759 2642 5 2759 2759 5 2759 2759
+5 2759 2759 5 2759

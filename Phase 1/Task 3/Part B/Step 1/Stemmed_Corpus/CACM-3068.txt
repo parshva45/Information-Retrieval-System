@@ -1,0 +1,20 @@
+a model for verif of data secur in oper system
+program verif appli to kernel architectur form a promis method
+for provid uncircumvent secur share comput system a precis definit
+of data secur is develop here in term of a
+gener model for oper system thi model is suitabl as
+a basi for verifi mani of those properti of an
+oper system which ar necessari to assur reliabl enforc of
+secur the applic of thi approach to the ucla secur
+oper system is also discuss cacm septemb 1978 popek g
+farber d oper system secur protect program verif 4 35
+5 24 ca780904 dh februari 5 1979 2 40 pm
+2021 4 3068 2222 4 3068 2227 4 3068 2315
+4 3068 2326 4 3068 2470 4 3068 2732 4
+3068 2865 4 3068 2896 4 3068 2943 4 3068
+3014 4 3068 3068 4 3068 3068 4 3068 3077
+4 3068 3143 4 3068 1834 5 3068 2869 5
+3068 3068 5 3068 3068 5 3068 3068 5 3068
+3105 5 3068 1471 6 3068 2625 6 3068 2632
+6 3068 2868 6 3068 2939 6 3068 3068 6
+3068

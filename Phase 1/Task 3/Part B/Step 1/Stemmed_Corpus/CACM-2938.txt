@@ -1,0 +1,15 @@
+toward a disciplin of real time program program is divid
+into three major categori with increas complex of reason in
+program valid sequenti program multiprogram and real time program by
+adher to a strict program disciplin and by us a
+suitabl high level languag mold after thi disciplin the complex
+of reason about concurr and execut time constrain ts mai
+be drastic reduc thi mai be the onli practic wai
+to make real time system analyt verifi and ultim reliabl
+a possibl disciplin is outlin and express in term of
+the languag modula cacm august 1977 wirth n multiprogram real
+time program process synchron processor share program valid modula 3
+80 4 22 ca770805 jb decemb 28 19777 39 am
+2938 4 2938 2946 4 2938 3128 4 2938 2866
+5 2938 2938 5 2938 2938 5 2938 2938 5
+2938

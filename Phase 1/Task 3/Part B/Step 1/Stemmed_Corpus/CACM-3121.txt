@@ -1,0 +1,23 @@
+syntact sourc to sourc transform and program manipul syntact transform
+ar the sourc to sourc program transform which preserv the
+histori of comput and thu do not modifi the execut
+time combin with a small number of primit semant transform
+thei provid a power tool for program manipul a catalogu
+of syntact transform and it us for solut of a
+system of program equat is given exampl of deriv of
+more complex sourc to sourc transform ar also present two
+case studi illustr the wai in which syntact and semant
+sourc to sourc transform mai be us for develop of
+clear simpl and reason effici program cacm januari 1979 arsac
+j structur program program transform control structur 4 2 5
+24 5 25 ca790106 dh april 10 1979 1 57
+pm 1175 4 3121 1919 4 3121 1919 4 3121
+1969 4 3121 1997 4 3121 2191 4 3121 2191
+4 3121 2388 4 3121 2388 4 3121 2679 4
+3121 2709 4 3121 2783 4 3121 2784 4 3121
+2821 4 3121 3004 4 3121 3054 4 3121 3054
+4 3121 3121 4 3121 3121 4 3121 3121 4
+3121 3121 4 3121 3121 4 3121 864 4 3121
+1312 5 3121 308 5 3121 309 5 3121 2456
+5 3121 2709 5 3121 3121 5 3121 3121 5
+3121 3121 5 3121

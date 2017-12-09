@@ -1,0 +1,13 @@
+a languag for formal problem specif a languag for specifi
+the in tend behavior of commun parallel process is describ
+the specif ar constrain ts on the order in which
+event of a comput can occur the languag is us
+to write specif of the reader writer problem and the
+writer prioriti of the second reader writer problem cacm decemb
+1977 greif i formal specif program correct parallel process synchron
+reader writer problem 4 22 4 32 5 24 ca771205
+dmm decemb 22 1977 12 44 pm 2320 4 2895
+2597 4 2895 2777 4 2895 2851 4 2895 2895
+4 2895 2895 4 2895 2912 4 2895 2946 4
+2895 3128 4 2895 2150 5 2895 2618 5 2895
+2895 5 2895 2895 5 2895 2895 5 2895

@@ -1,0 +1,27 @@
+two level control structur for nondeterminist program the basic idea
+of nondeterminist program ar critic reconsid to singl out a
+proper attitud and program style for languag allow direct control
+of nondeterminist featur the propos attitud aim at retain the
+puriti of the nondeterminist formul of search process on on
+level the attempt level defer the coordin of problem solv
+effort to anoth the choic level the feasibl of recogn
+these two level is discuss stress that the structur to
+be manag at the choic level is a free of
+context the leav ar comput environ each hold an altern
+under inspect while the other node ar associ with choic
+poin ts accord to the propos program style a gener
+function is associ with each choic poin t which express
+the desir choic strategi the main advantag on thi approach
+is the local of the search strategi each nontermin node
+of the tree keep track of the state of the
+comput as it wa when the choic poin t wa
+last interrog hold at the same time the strategi to
+coordin the avail altern exampl ar given in term of
+nd lisp an extens of lisp design and implement accord
+to these guidelin cacm octob 1977 montangero c pacini g
+turini f nondeterminist program artifici in tellig control structur backtrack
+search strategi plan context tree 3 64 4 22 ca771004
+jb decemb 27 1977 11 30 am 2625 4 2922
+2922 4 2922 3081 4 2922 3101 4 2922 3112
+4 2922 2438 5 2922 2922 5 2922 2922 5
+2922 2922 5 2922

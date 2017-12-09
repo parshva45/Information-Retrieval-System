@@ -1,0 +1,8 @@
+a comparison of heap and the tl structur for the
+simul event set none cacm octob 1978 franta w mali
+k simul event set heap tl structur 3 34 4
+22 5 5 8 1 ca781010 dh januari 29 1979
+11 51 am 2844 4 3051 2936 4 3051 3051
+4 3051 3051 4 3051 3064 4 3051 3109 4
+3051 3109 4 3051 2767 5 3051 2844 5 3051
+3051 5 3051 3051 5 3051 3051 5 3051

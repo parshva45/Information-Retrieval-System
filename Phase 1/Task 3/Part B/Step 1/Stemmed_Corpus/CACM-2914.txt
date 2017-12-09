@@ -1,0 +1,13 @@
+us of the lru stack depth distribut for simul of
+page behavior two famili of probabl distribut were need for
+us by a virtual memori simul model headwai between page
+fault distribut and work set size distribut all member of
+both famili can be deriv from the lru stack depth
+distribut simpl express for the comput of both kind of
+distribut ar given final exampl ar given of both famili
+of distribut as comput from a publish stack depth distribut
+cacm novemb 1977 turner r strecker b virtual memori page
+lru stack work set headwai between page fault comput system
+simul 4 35 4 6 8 1 ca771102 jb decemb
+27 1977 8 04 am 2914 5 2914 2914 5
+2914 2914 5 2914

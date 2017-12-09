@@ -1,0 +1,19 @@
+achiev specif accuraci in simul output analysi thi paper extend
+the us of the regen properti of queue system in
+the analysi of simul output in particular it describ a
+sequenti estim method which when us with the regen properti
+allow result to be obtain with specifi statist accuraci thi
+method includ a test to check the normal assumpt on
+which the sequenti procedur reli the paper illustr the method
+us the empti and idl state as the regen state
+a second exampl then describ how us the most frequent
+enter state as the regen state reduc the chanc of
+make a costli error in a preliminari simul run the
+paper also describ how a varianc reduct method due to
+page 9 can be us to obtain a specifi accuraci
+with consider fewer job complet than ar requir when no
+varianc reduct techniqu is appli cacm mai 1977 fishman g
+s confid in terval ratio estim regen properti sequenti estim
+simul stop rule varianc reduct 5 5 8 1 ca770502
+jb decemb 29 1977 2 43 am 2970 5 2970
+2970 5 2970 2970 5 2970

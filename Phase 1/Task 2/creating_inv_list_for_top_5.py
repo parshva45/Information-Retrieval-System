@@ -1,7 +1,7 @@
 import pickle
 import collections
 
-with open("Cleaned_queries_encoded.txt", 'rb') as f:
+with open("../Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     qID_query = pickle.loads(f.read())
 
 d1 = {}                                                      #dictionary to store term, term frequency
@@ -15,18 +15,19 @@ with open('common_words.txt','r') as f:
 l = [x.strip() for x in l]
 common_words.extend(l)
 
+with open("Encoded-QueryID_Top5Docs_BM25_Relevance.txt", 'rb') as f:
+    qID_top5Docs = pickle.loads(f.read())
+
 docs = []
-with open('Top_5_pages_for_queries_using_ql_model.txt','r') as f:
-   l = f.readlines()
-l = [x.strip() for x in l]
-docs.extend(l)
+for docList in qID_top5Docs.values():
+   docs += docList
 
 alltop5words = []
 for doc in docs:
    top5words = []
-   filename = 'output/'+ doc + '.txt'
+   filename = '../Task 1/Step 1/Tokenizer Output/' + doc + '.txt'
    doc_terms = []
-   f = open(filename , 'r').read()
+   f = open(filename, 'r').read()
    content = f.split(" ")
    term_tf = {}
    for term in content:
@@ -38,7 +39,7 @@ for doc in docs:
    term_tf = collections.OrderedDict(sorted(term_tf.items(), key=lambda x: x[1], reverse=True))
    c = 0
    for term in term_tf:
-      if(c < 5):
+      if c < 5:
          top5words.append(term)
       c += 1
    alltop5words.append(top5words)
@@ -46,7 +47,7 @@ for doc in docs:
 final_top5words_array = []
 
 i = 0
-while(i<len(alltop5words)):
+while i<len(alltop5words):
 
    merged_array = alltop5words[i] + alltop5words[i+1] + alltop5words[i+2] + alltop5words[i+3] + alltop5words[i+4]
    final_top5words_array.append(merged_array)
@@ -58,6 +59,6 @@ query_expansionterms = dict(zip(query_name,final_top5words_array))
 
 print(query_expansionterms)
 
-output = open('Queries_with_their_expansion_terms_encoded.txt','wb')
+output = open('Encoded-Queries_With_Their_Expansion_Terms.txt','wb')
 pickle.dump(query_expansionterms, output)
 output.close()
