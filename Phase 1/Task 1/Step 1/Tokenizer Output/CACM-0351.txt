@@ -1,1 +1,1 @@
-inverse of a finite segment of the hilbert matrix algorithm 50 cacm april 1961 herndon j r ca610417 jb march 16 1978 11:50 pm 351 5 351 351 5 351 351 5 351
+inverse of a finite segment of the hilbert matrix algorithm 50 cacm april 1961 herndon j r ca610417 jb march 16 1978 11:50 pm

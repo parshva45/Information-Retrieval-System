@@ -17,22 +17,29 @@ def generate_ngrams(words_list, n):                           #Function to gener
 
     return ngrams_list
 
+
 def inverted_index(file):                                     #Function to generate inverted index
-    position = 1
+    #c = 1
+    d1 = {}
     inv_index_unigram = {}
     current_file = os.path.join(path,file)
     terms = open(current_file,'r').read()
     term_list = terms.split()
     #docID_doclen[file[:-4]] = len(term_list)
-    for term in term_list:
-        d1[term] = position
+    for i, term in enumerate(term_list,1):
+        if term in d1:
+            d1[term].append(i)
+        else:
+            #position = []
+            d1[term] = []
+            d1[term].append(i)
         tuple = file[:-4],d1[term]
         inv_index_unigram[term] = tuple
-        position += 1
+        #c += 1
     return inv_index_unigram
 
 parent_inverted_list = {}
-path = r'C:\Users\virat\PycharmProjects\Project\output'
+path = r'../Phase 1/Task 1/Step 1/Tokenizer Output'
 for file in os.listdir(path):
     child_inverted_list = inverted_index(file)
     for term in child_inverted_list:
@@ -55,6 +62,12 @@ output.close()
 output = open('inverted_list_unigram_position_encoded.txt' , 'wb')
 pickle.dump(inv_list_unigram , output)
 output.close()
+
+#print(inv_list_unigram['for'])
+
+for val in inv_list_unigram['and']:
+    if val[0] == 'CACM-0405':
+        print(val)
 
 '''
 f = open("DocumentID-DocLen.txt", 'w', encoding = 'utf-8')

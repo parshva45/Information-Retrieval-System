@@ -1,1 +1,1 @@
-product type three point gauss legendre simpson s integration d1 algorithm a439 cacm december 1972 boland w r numerical integration product type quadrature gaussian quadrature simpson s rule 5.16 ca721214 jb january 27 1978 9:06 am 2241 5 2241 2241 5 2241 2241 5 2241
+product type three point gauss legendre simpson s integration d1 algorithm a439 cacm december 1972 boland w r numerical integration product type quadrature gaussian quadrature simpson s rule 5.16 ca721214 jb january 27 1978 9:06 am

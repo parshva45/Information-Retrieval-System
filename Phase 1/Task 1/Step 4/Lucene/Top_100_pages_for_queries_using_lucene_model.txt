@@ -1,4 +1,4 @@
-Ranking (Top 100) for the queries in Cleaned_queries.txt in the format:
+oRanking (Top 100) for the queries in Cleaned_queries.txt in the format:
 query_id Q0 doc_id rank Lucene_score system_name
 
 For query: what articles exist which deal with tss time sharing system an operating system for ibm computers

@@ -5,33 +5,43 @@ Top 5 documents are:
 
 1) CACM-1938
 
+
+[8.1, 7.111111111111111, 4.0]
 <b>time</b> <b>sharing</b> performance criteria <b>time</b> <b>sharing</b> <b>system</b> operation <b>time</b> <b>sharing</b>
 some criteria for <b>time</b> <b>sharing</b> <b>system</b> performance <b>time</b> <b>sharing</b> systems
 <b>time</b> <b>sharing</b> <b>system</b> performance evaluation cacm january 1969 stimler s
 
 2) CACM-1657
 
-with its own memory protection this allows such a program
-to act as a suboperating <b>system</b> an improved version of
-<b>time</b> <b>sharing</b> multiprogramming monitor submonitor suboperating <b>system</b> 4.32 4.31 4.32
+
+[3.0, 3.0, 2.0]
+the sharer <b>time</b> <b>sharing</b> <b>system</b> using this feature is described
+implementation of the sharer2 <b>time</b> <b>sharing</b> <b>system</b> a simple mechanism
+cacm december 1968 harrison m c <b>operating</b> <b>system</b> memory protection
 
 3) CACM-2319
 
+
+[4.166666666666667, 3.0, 3.0]
 computer <b>system</b> <b>operating</b> <b>system</b> performance evaluation performance measurement measurement techniques
-total <b>system</b> must be developed to be able to analyze
-such total <b>system</b> designs are exceptional today it is projected
+positions with respect to <b>operating</b> <b>system</b> performance is given while
+<b>operating</b> <b>system</b> performance an overview of the current and future
 
 4) CACM-2371
 
-so that it may be used between processes distributed throughout
+
+[2.2857142857142856, 2.0, 1.8]
+c interprocess communication <b>time</b> <b>sharing</b> computer networks resource <b>sharing</b> 3.81
 <b>sharing</b> <b>system</b> is described and the communication <b>system</b> is extended
 network a <b>system</b> of communication between processes in a <b>time</b>
 
 5) CACM-2311
 
+
+[4.0, 2.25, 1.5]
 a generational perspective of information <b>system</b> development <b>system</b> development is
-<b>system</b> developer are examined cacm july 1972 benjamin r i
-commonly described computing <b>system</b> generations for each generation the scope
+computing milieu management data processing hardware systems software systems systems
+development process functional systems management systems 2.0 3.50 4.0 6.20
 
 -----------------------------------------------------------------
 For Query 2 : i am interested in articles written either by prieve or udo pooch prieve b pooch u
@@ -40,29 +50,39 @@ Top 5 documents are:
 
 1) CACM-0597
 
-modular data processing systems <b>written</b> in cobol cacm may 1962
+
+[1.0, 0]
 emery j c ca620508 jb march 20 1978 1:47 pm
+modular data processing systems <b>written</b> in cobol cacm may 1962
 
 2) CACM-1183
 
+
+[1.0, 0, 0]
+jb march 6 1978 6:31 pm
 <b>written</b> with fortran ii language and made possible the writing
 of very long programs by the computer the procedure is
-jb march 6 1978 6:31 pm
 
 3) CACM-0847
 
-wall e brown r m ca630602 jb march 14 1978
-program <b>written</b> for the csx-1 is described cacm june 1963
+
+[2.7777777777777777, 1.0, 0]
 a penny matching program the logic of a penny matching
+program <b>written</b> for the csx-1 is described cacm june 1963
+wall e brown r m ca630602 jb march 14 1978
 
 4) CACM-1305
 
+
+[3.2, 1.0, 1.0]
 the internal structure of the fortran cep translator the fortran
-of the cep computer the internal structure of the translator
 of the cep computer in this paper after an outline
+cep language into an object program <b>written</b> in the language
 
 5) CACM-1468
 
+
+[2.2857142857142856, 1.0, 1.0]
 to bubble chamber pictures the parallel processing simulator originally <b>written</b>
 their specific application to bubble chamber pictures how the description
 syntax directed interpretation of classes of pictures a descriptive scheme
@@ -74,29 +94,39 @@ Top 5 documents are:
 
 1) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
 
 2) CACM-2603
 
+
+[4.166666666666667, 3.2, 3.0]
 the equivalence of reducing transition <b>languages</b> and deterministic <b>languages</b> the
-superclass of the simple precedence <b>languages</b> in this paper this
-is equivalent to the class of deterministic context free <b>languages</b>
+class of reducing transition <b>languages</b> introduced by eickel paul bauer
+cacm september 1974 schkolnick m reducing transition <b>languages</b> syntax controlled
 
 3) CACM-0249
 
+
+[1.0, 0, 0]
 specification <b>languages</b> for mechanical <b>languages</b> and their processors a baker
 s dozen cacm december 1961 gorn s ca611201 jb march
 15 1978 10:32 pm
 
 4) CACM-1466
 
+
+[2.0, 1.0]
 march 3 1978 1:46 pm
 discussion summary on graphical <b>languages</b> cacm march 1966 ca660306 jb
 
 5) CACM-0929
 
+
+[0, 0]
 glossary <b>construction</b> cacm february 1963 grems m ca630204 jb march
 14 1978 2:21 pm
 
@@ -107,33 +137,43 @@ Top 5 documents are:
 
 1) CACM-3043
 
-of <b>distributed</b> <b>processes</b> and shows that they include procedures coroutines
+
+[4.0, 2.0, 2.0]
 <b>distributed</b> <b>processes</b> a concurrent programming concept a language concept for
-communication and scheduling sorting arrays coroutines classes monitors <b>processes</b> semaphores
+of <b>distributed</b> <b>processes</b> and shows that they include procedures coroutines
+as special cases cacm november 1978 hansen p concurrent programming
 
 2) CACM-2844
 
+
+[1.8, 1.5, 0.5714285714285714]
+g h discrete event simulation event scanning <b>mechanisms</b> priority queues
 heaps applied to event driven <b>mechanisms</b> cacm july 1976 gonnet
 heaps 4.34 8.1 ca760709 jb january 4 1978 11:05 am
-g h discrete event simulation event scanning <b>mechanisms</b> priority queues
 
 3) CACM-2445
 
+
+[0.9, 0.6666666666666666, 0]
 routing <b>problem</b> algorithm a456 cacm september 1973 fencl z routing
 <b>problem</b> shortest path traveling salesman <b>problem</b> hamiltonian circuit 5.40 ca730910
 jb january 23 1978 8:47 am
 
 4) CACM-3018
 
-graph coloring <b>problem</b> is established which allows algorithms for either
-combinatorial optimization <b>problem</b> in connection with this method this optimization
+
+[4.9, 4.0, 3.5714285714285716]
+keyword conflicts intersection graphs node clique cover edge clique cover
 a relationship between this edge clique cover <b>problem</b> and the
+<b>problem</b> and the edge clique cover <b>problem</b> are shown to
 
 5) CACM-2376
 
+
+[1.8, 1.0, 1.0]
 n parallel programming multiprogramming program correctness process communication process scheduling
-they run into a deadlock cacm march 1972 habermann a
-that buffer the formal description of the synchronization mechanism makes
+system consisting of many sending <b>processes</b> which deposit messages in
+mechanism can be used to prove that concurrently running <b>processes</b>
 
 -----------------------------------------------------------------
 For Query 5 : i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
@@ -142,32 +182,42 @@ Top 5 documents are:
 
 1) CACM-2003
 
-language graphic language extended fortran 3.24 3.25 4.13 4.22 4.3
-1970 bracchi g somalvico m interaction graphics computer graphics computer
+
+[7.111111111111111, 4.0, 3.125]
 aided <b>design</b> circuit <b>design</b> software system software organization language monitor
+functions needed in computer aided circuit <b>design</b> the second one
+a new language the application to computer aided circuit <b>design</b>
 
 2) CACM-1188
 
-declaration statements transfer statements terminal statements exchange statements if statements
-from using a <b>design</b> language at a higher level just
+
+[3.0, 3.0, 2.7777777777777777]
 an algol like computer <b>design</b> language the idea of constructing
+a computer <b>design</b> language by making use of an algol
+declaration statements transfer statements terminal statements exchange statements if statements
 
 3) CACM-2546
 
+
+[3.2, 2.25, 2.0]
 lichten l grammar <b>design</b> language definition inference identification in the
+to a grammatical inference algorithm the algorithm then constructs a
 an interactive approach to the grammar <b>design</b> problem wherein the
-in designing a new programming language and in extending an
 
 4) CACM-0173
 
+
+[0, 0]
 atlas a new concept in large computer <b>design</b> cacm june
 1960 ca600617 jb march 20 1978 9:22 pm
 
 5) CACM-1742
 
+
+[4.5, 3.2, 3.0]
+display processor <b>design</b> display system computer graphics graphic terminal displays
 graphics display generator display channel display programming graphical interaction remote
 was found that successive <b>improvements</b> to the display processor <b>design</b>
-separation between display and parent computer is a key factor
 
 -----------------------------------------------------------------
 For Query 6 : interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion
@@ -176,33 +226,43 @@ Top 5 documents are:
 
 1) CACM-0438
 
+
+[0.4, 0, 0]
 mechanical pragmatics a time <b>motion</b> study of a miniature mechanical
 linguistic system cacm december 1962 gorn s ca621201 jb march
 17 1978 5:19 pm
 
 2) CACM-2826
 
+
+[9.0, 3.125, 3.0]
 generated animation key frame animation interactive skeleton control stick figure
 <b>dynamics</b> in key frame animation is achieved through skeleton control
 design stage its compatibility with the basic key frame animation
 
 3) CACM-2671
 
+
+[1.0, 1.0, 0]
 <b>combinatorial</b> analysis 5.39 6.34 ca740312 jb january 18 1978 10:54
+a note on a <b>combinatorial</b> problem of burnett and coffman
 cacm march 1974 stone h s memories interleaving derangements rencontres
-am
 
 4) CACM-3035
 
-to address the pressing problems associated with the strategic <b>planning</b>
-institution the results of the research indicate the <b>planning</b> methodology
+
+[2.0, 2.0, 2.0]
 effectiveness of the <b>planning</b> methodology was assessed in terms of
+computer <b>planning</b> 2.41 3.51 ca781204 dh january 18 1979 4:26
+a <b>planning</b> methodology was developed and tested through implementation at
 
 5) CACM-1009
 
+
+[3.2, 1.8, 1.0]
 solution of <b>combinatorial</b> problems using generating functions on a variable
-problems is discussed particular implementation results are presented and evaluated
 field computer the utility of generating functions in solving <b>combinatorial</b>
+problems is discussed particular implementation results are presented and evaluated
 
 -----------------------------------------------------------------
 For Query 7 : i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
@@ -211,32 +271,42 @@ Top 5 documents are:
 
 1) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 algorithm 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 2) CACM-3043
 
-of <b>distributed</b> <b>processes</b> and shows that they <b>include</b> procedures coroutines
+
+[4.0, 2.0, 2.0]
 <b>distributed</b> <b>processes</b> a <b>concurrent</b> programming concept a language concept for
-communication and scheduling sorting arrays coroutines classes monitors <b>processes</b> semaphores
+of <b>distributed</b> <b>processes</b> and shows that they <b>include</b> procedures coroutines
+as special cases cacm november 1978 hansen p <b>concurrent</b> programming
 
 3) CACM-0270
 
+
+[0, 0]
 <b>techniques</b> for storage allocation <b>algorithms</b> cacm october 1961 kelley jr
 j e ca611011 jb march 16 1978 12:50 pm
 
 4) CACM-2325
 
-the analysis of continuous <b>algorithms</b> four of the components of
+
+[2.2857142857142856, 2.25, 2.0]
+numerical mathematics and computer science numerical mathematics is viewed as
 systems computational complexity synthesis and analysis of <b>algorithms</b> analysis of
 numerical mathematics are discussed these are foundations finite precision number
 
 5) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+generating the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-generating the next permutation are very simple performance tests which
 
 -----------------------------------------------------------------
 For Query 8 : addressing schemes for resources in networks resource addressing in network operating systems
@@ -245,32 +315,42 @@ Top 5 documents are:
 
 1) CACM-1685
 
+
+[3.5714285714285716, 3.2, 3.0]
 project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis
 language for performing calculations on activity <b>networks</b> scheduling activity <b>networks</b>
-time in the preparation of activity <b>networks</b> and to deal
+language designed for generating activity <b>network</b> from a set of
 
 2) CACM-2776
 
-of iowa iowa state university <b>network</b> the michigan educational research
+
+[3.0, 2.25, 2.25]
+chambers j a poore r v <b>networks</b> higher education 1.3
 <b>networks</b> in higher education in the future cacm april 1975
 <b>networks</b> in higher education conducted during 1971-73 five major and
 
 3) CACM-2614
 
+
+[3.0, 2.0, 0]
+1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 arrow to precedence <b>network</b> transformation h algorithm a481 cacm august
 5.40 ca740810 jb january 17 1978 9:37 am
-1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 
 4) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 5) CACM-2951
 
+
+[2.25, 2.25, 2.0]
 time for <b>network</b> time sharing <b>systems</b> as it depends on
 sharing <b>systems</b> comparative response time arpa <b>network</b> anlytic modeling simulation
-wishing to process various computing applications at some <b>network</b> computing
+is capable of providing comparative response time information for users
 
 -----------------------------------------------------------------
 For Query 9 : security considerations in local networks network operating systems and distributed systems
@@ -279,32 +359,42 @@ Top 5 documents are:
 
 1) CACM-1685
 
+
+[3.5714285714285716, 3.2, 3.0]
 project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis
 language for performing calculations on activity <b>networks</b> scheduling activity <b>networks</b>
-time in the preparation of activity <b>networks</b> and to deal
+language designed for generating activity <b>network</b> from a set of
 
 2) CACM-3068
 
-<b>operating</b> system which are necessary to assure reliable enforcement of
-<b>operating</b> system is also discussed cacm september 1978 popek g
-<b>security</b> the application of this approach to the ucla secure
+
+[2.7777777777777777, 2.6666666666666665, 2.6666666666666665]
+a model for verification of data <b>security</b> in <b>operating</b> <b>systems</b>
+general model for <b>operating</b> <b>systems</b> this model is suitable as
+farber d <b>operating</b> <b>systems</b> <b>security</b> protection program verification 4.35 5.24
 
 3) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 4) CACM-2776
 
-of iowa iowa state university <b>network</b> the michigan educational research
+
+[3.0, 2.25, 2.25]
+chambers j a poore r v <b>networks</b> higher education 1.3
 <b>networks</b> in higher education in the future cacm april 1975
 <b>networks</b> in higher education conducted during 1971-73 five major and
 
 5) CACM-2614
 
+
+[3.0, 2.0, 0]
+1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 arrow to precedence <b>network</b> transformation h algorithm a481 cacm august
 5.40 ca740810 jb january 17 1978 9:37 am
-1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 
 -----------------------------------------------------------------
 For Query 10 : parallel languages languages for parallel computation
@@ -313,30 +403,40 @@ Top 5 documents are:
 
 1) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
 
 2) CACM-2603
 
+
+[4.166666666666667, 3.2, 3.0]
 the equivalence of reducing transition <b>languages</b> and deterministic <b>languages</b> the
-superclass of the simple precedence <b>languages</b> in this paper this
-is equivalent to the class of deterministic context free <b>languages</b>
+class of reducing transition <b>languages</b> introduced by eickel paul bauer
+cacm september 1974 schkolnick m reducing transition <b>languages</b> syntax controlled
 
 3) CACM-0249
 
+
+[1.0, 0, 0]
 specification <b>languages</b> for mechanical <b>languages</b> and their processors a baker
 s dozen cacm december 1961 gorn s ca611201 jb march
 15 1978 10:32 pm
 
 4) CACM-2785
 
-problems associated with <b>parallel</b> computer architectures cacm march 1975 lawrie
+
+[5.444444444444445, 4.5, 1.3333333333333333]
+illiac iv programming language <b>parallel</b> <b>computation</b> <b>parallel</b> architecture 4.2 4.21
+glypnir a programming language for illiac iv glypnir is one
 of the earliest existing <b>languages</b> designed for programming the illiac
-of 64 word vectors this paper describes the characteristics goals
 
 5) CACM-1466
 
+
+[2.0, 1.0]
 march 3 1978 1:46 pm
 discussion summary on graphical <b>languages</b> cacm march 1966 ca660306 jb
 
@@ -347,33 +447,43 @@ Top 5 documents are:
 
 1) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher <b>level</b> <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
 
 2) CACM-2782
 
+
+[1.0, 1.0, 0]
 r a <b>high</b> <b>level</b> <b>languages</b> philosophy of language design 4.22
-a reply to gentleman and marovich cacm march 1975 karp
 5.19 ca750306 jb january 9 1978 4:38 pm
+a reply to gentleman and marovich cacm march 1975 karp
 
 3) CACM-1923
 
+
+[1.0, 1.0, 0]
+language processors cacm march 1969 rosin r f operating systems
+interfaces input output <b>high</b> <b>level</b> <b>languages</b> command language 4.22 4.30
 using basic input output support facilities is described it is
-shown that this technique can provide potentially inexpensive methods for
-pseudofiles an approach to system interfaces for <b>high</b> <b>level</b> <b>languages</b>
 
 4) CACM-2603
 
+
+[4.166666666666667, 3.2, 3.0]
 the equivalence of reducing transition <b>languages</b> and deterministic <b>languages</b> the
-superclass of the simple precedence <b>languages</b> in this paper this
-is equivalent to the class of deterministic context free <b>languages</b>
+class of reducing transition <b>languages</b> introduced by eickel paul bauer
+cacm september 1974 schkolnick m reducing transition <b>languages</b> syntax controlled
 
 5) CACM-1627
 
-concept of <b>level</b> changing is introduced and its application to
-application of <b>level</b> changing to a multilevel storage organization a
+
+[2.0, 2.0, 2.0]
 the multilevel store is discussed a possible means for physically
+organizing the information for efficient use of the multilevel store
+is described this technique called the multilevel store provides a
 
 -----------------------------------------------------------------
 For Query 12 : portable operating systems
@@ -382,32 +492,42 @@ Top 5 documents are:
 
 1) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 2) CACM-3068
 
-<b>operating</b> system which are necessary to assure reliable enforcement of
-<b>operating</b> system is also discussed cacm september 1978 popek g
-security the application of this approach to the ucla secure
+
+[2.7777777777777777, 2.6666666666666665, 2.6666666666666665]
+a model for verification of data security in <b>operating</b> <b>systems</b>
+general model for <b>operating</b> <b>systems</b> this model is suitable as
+farber d <b>operating</b> <b>systems</b> security protection program verification 4.35 5.24
 
 3) CACM-1462
 
-vertically but different horizontally proper division of responsibility between levels
+
+[2.0, 1.0, 1.0]
+multilevel <b>operating</b> <b>systems</b> the basic software for all newer computers
 this leads naturally to the concept of multilevel <b>systems</b> similar
 <b>systems</b> this implies that all applications no matter how large
 
 4) CACM-2319
 
+
+[4.166666666666667, 3.0, 3.0]
 computer system <b>operating</b> system performance evaluation performance measurement measurement techniques
-total system must be developed to be able to analyze
-such total system designs are exceptional today it is projected
+positions with respect to <b>operating</b> system performance is given while
+<b>operating</b> system performance an overview of the current and future
 
 5) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis management information <b>systems</b> information <b>systems</b> development information
-need for education related to information <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in information <b>systems</b> the
+need for education related to information <b>systems</b> in organizations is
 
 -----------------------------------------------------------------
 For Query 13 : code optimization for space efficiency
@@ -416,32 +536,42 @@ Top 5 documents are:
 
 1) CACM-2491
 
+
+[2.2857142857142856, 1.8, 1.0]
+threaded <b>code</b> the concept of threaded <b>code</b> is presented as
+time tradeoff <b>space</b> tradeoff compiled <b>code</b> subroutine calls threaded <b>code</b>
 mentioned cacm june 1973 bell j r interpreter machine <b>code</b>
-interpretive <b>code</b> not needing an interpreter extensions and optimizations are
-an alternative to machine language <b>code</b> hardware and software realizations
 
 2) CACM-2748
 
+
+[1.8, 1.125, 1.0]
 threaded <b>code</b> snobol4 interpretors <b>code</b> generation 4.12 4.13 ca750605 jb
-machine independent implementations cacm june 1975 dewar r b k
+indirect threaded <b>code</b> an efficient arrangement for interpretive <b>code</b> is
 january 9 1978 1:11 pm
 
 3) CACM-2897
 
+
+[3.6, 1.3333333333333333, 1.0]
 compiler <b>code</b> generation pl i compiler concatenation program <b>optimization</b> <b>optimization</b>
-with the <b>code</b> produced by a conventional pl i optimizing
-that this strategy can indeed result in good object <b>code</b>
+contexts of the concatenate statement the <b>code</b> produced by a
+the traditionally difficult pl i concatenate statement was investigated as
 
 4) CACM-1795
 
+
+[1.0, 1.0, 0]
 optimal <b>code</b> for serial and parallel computation cacm december 1969
 fateman r j <b>code</b> <b>optimization</b> sequencing of operations detection of
 common subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm
 
 5) CACM-1362
 
+
+[3.0, 2.0, 2.0]
+doctrines for the application of the <b>code</b> extension characters distinctions
 regarding <b>code</b> extension applications and suggests a corollary set of
-proposed iso international 7 bit <b>code</b> for information interchange cacm
 not truly concerned with <b>code</b> extension but which are often
 
 -----------------------------------------------------------------
@@ -451,33 +581,43 @@ Top 5 documents are:
 
 1) CACM-2679
 
+
+[5.444444444444445, 3.5714285714285716, 2.2857142857142856]
+sorting sorting efficiency sorting performance tests quicksort quickersort qsort shellsort
 stringsort treesort3 utility <b>sort</b> algorithm general purpose <b>sort</b> algorithm sorting
-refinements of algorithm 64 and all three are discussed in
-all these <b>algorithms</b> quickersort requires the fewest comparisons to <b>sort</b>
+271 and qsort no 402 <b>algorithms</b> 271 and 402 are
 
 2) CACM-1724
 
+
+[5.0, 4.0, 4.0]
+bayes a block <b>sort</b> partial pass <b>sort</b> direct access devices
 partial pass block <b>sort</b> with arbitrary range of key and
-generalization of the partial pass column <b>sort</b> by ashenhurst and
-combining a block <b>sort</b> with internal sorts and to the
+a generalized partial pass block <b>sort</b> the design of a
 
 3) CACM-0861
 
+
+[5.142857142857143, 2.25, 1.3333333333333333]
+read backward polyphase sorting read backward polyphase sorting provides more
+most other sorting techniques backward polyphase produces a continuous merging
 the polyphase merge <b>sort</b> provided that the presort has the
-efficient use of the tapes available to a <b>sort</b> than
-the strings on the various tapes as required by the
 
 4) CACM-3011
 
-control over design and implementation activities finally <b>management</b> computing clearly
+
+[4.5, 3.0, 2.6666666666666665]
+<b>management</b> information system american local government city government computers county
+but also varied in its extent among local governments <b>management</b>
 government computers computer impacts <b>management</b> computing 2.0 2.1 2.11 2.19
-us local governments what exists is <b>management</b> oriented computing involving
 
 5) CACM-2964
 
-resident overflow storage 3.73 3.74 ca770508 jb december 29 1977
+
+[2.2857142857142856, 1.0, 0.5]
 cacm may 1977 milman y <b>database</b> organization storage parameter optimization
 an approach to <b>optimal</b> design of storage parameters in databases
+resident overflow storage 3.73 3.74 ca770508 jb december 29 1977
 
 -----------------------------------------------------------------
 For Query 15 : find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
@@ -486,30 +626,40 @@ Top 5 documents are:
 
 1) CACM-2464
 
+
+[2.25, 2.0, 1.0]
 the complex method for constrained <b>optimization</b> e4 algorithm a454 cacm
-<b>optimization</b> box s algorithm 5.41 ca730810 jb january 23 1978
 august 1973 richardson j a kuester j l <b>optimization</b> constrained
+<b>optimization</b> box s algorithm 5.41 ca730810 jb january 23 1978
 
 2) CACM-2835
 
+
+[2.0, 2.0, 2.0]
 walter k g recursion compiler <b>optimization</b> 4.12 ca760904 jb january
 use in compiler <b>optimization</b> implementation considerations are discussed and a
-this analysis can also be used to determine what possible
+recursion analysis for compiler <b>optimization</b> a relatively simple method for
 
 3) CACM-1231
 
-stage of compilation by using a simple optimizing technique called
+
+[2.0, 2.0, 1.0]
 peephole <b>optimization</b> the method is described and examplesare given cacm
 peephole <b>optimization</b> redundant instructions may be discarded during the final
+july 1965 mckeeman w m ca650704 jb march 6 1978
 
 4) CACM-2897
 
+
+[3.6, 1.3333333333333333, 1.0]
 compiler code generation pl i compiler concatenation program <b>optimization</b> <b>optimization</b>
-with the code produced by a conventional pl i optimizing
-that this strategy can indeed result in good object code
+contexts of the concatenate statement the code produced by a
+the traditionally difficult pl i concatenate statement was investigated as
 
 5) CACM-2611
 
+
+[0, 0, 0]
 the complex method for constrained <b>optimization</b> algorithm r454 cacm august
 am
 1974 shere k d ca740813 jb january 17 1978 9:28
@@ -521,32 +671,42 @@ Top 5 documents are:
 
 1) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 2) CACM-3068
 
-<b>operating</b> system which are necessary to assure reliable enforcement of
-<b>operating</b> system is also discussed cacm september 1978 popek g
-security the application of this approach to the ucla secure
+
+[2.7777777777777777, 2.6666666666666665, 2.6666666666666665]
+a model for verification of data security in <b>operating</b> <b>systems</b>
+general model for <b>operating</b> <b>systems</b> this model is suitable as
+farber d <b>operating</b> <b>systems</b> security protection program verification 4.35 5.24
 
 3) CACM-2740
 
+
+[5.0, 2.25, 2.0]
 july 1975 lauesen s cooperating <b>processes</b> <b>operating</b> system semaphores semaphore
 a large semaphore <b>based</b> <b>operating</b> system the paper describes the
 the performance are discussed too the <b>operating</b> system is the
 
 4) CACM-3141
 
-ca790502 dh june 5 1979 2:35 pm
-than o n2 cacm may 1979 chang e roberts r
-of uniquely numbered <b>processes</b> arranged in a circle in which
+
+[2.0, 1.3333333333333333, 1.125]
+not known a priori this decentralized algorithm uses a technique
+an improved algorithm for decentralized extrema finding in circular configurations
+no central controller exists and the number of <b>processes</b> is
 
 5) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis management information <b>systems</b> information <b>systems</b> development information
-need for education related to information <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in information <b>systems</b> the
+need for education related to information <b>systems</b> in organizations is
 
 -----------------------------------------------------------------
 For Query 17 : optimization of intermediate and machine code
@@ -555,33 +715,43 @@ Top 5 documents are:
 
 1) CACM-2491
 
+
+[2.2857142857142856, 1.8, 1.0]
+threaded <b>code</b> the concept of threaded <b>code</b> is presented as
+time tradeoff space tradeoff compiled <b>code</b> subroutine calls threaded <b>code</b>
 mentioned cacm june 1973 bell j r interpreter <b>machine</b> <b>code</b>
-interpretive <b>code</b> not needing an interpreter extensions and optimizations are
-an alternative to <b>machine</b> language <b>code</b> hardware and software realizations
 
 2) CACM-2748
 
+
+[1.8, 1.125, 1.0]
 threaded <b>code</b> snobol4 interpretors <b>code</b> generation 4.12 4.13 ca750605 jb
-<b>machine</b> independent implementations cacm june 1975 dewar r b k
+indirect threaded <b>code</b> an efficient arrangement for interpretive <b>code</b> is
 january 9 1978 1:11 pm
 
 3) CACM-2897
 
+
+[3.6, 1.3333333333333333, 1.0]
 compiler <b>code</b> generation pl i compiler concatenation program <b>optimization</b> <b>optimization</b>
-with the <b>code</b> produced by a conventional pl i optimizing
-that this strategy can indeed result in good object <b>code</b>
+contexts of the concatenate statement the <b>code</b> produced by a
+the traditionally difficult pl i concatenate statement was investigated as
 
 4) CACM-1795
 
+
+[1.0, 1.0, 0]
 optimal <b>code</b> for serial and parallel computation cacm december 1969
 fateman r j <b>code</b> <b>optimization</b> sequencing of operations detection of
 common subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm
 
 5) CACM-2117
 
+
+[4.0, 2.0, 1.0]
 representation for calen dar date for <b>machine</b> to <b>machine</b> data
 <b>machine</b> to <b>machine</b> interchange month year day representation coded 3.70
-interchange proposed american national standard cacm january 1970 calendar date
+3.73 3.74 3.9 ca700114 jb february 14 1978 1:42 pm
 
 -----------------------------------------------------------------
 For Query 18 : languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
@@ -590,30 +760,40 @@ Top 5 documents are:
 
 1) CACM-0249
 
+
+[1.0, 0, 0]
 specification <b>languages</b> for mechanical <b>languages</b> and their <b>processors</b> a baker
 s dozen cacm december 1961 gorn s ca611201 jb march
 15 1978 10:32 pm
 
 2) CACM-2491
 
+
+[2.2857142857142856, 1.8, 1.0]
+threaded <b>code</b> the concept of threaded <b>code</b> is presented as
+time tradeoff space tradeoff compiled <b>code</b> subroutine calls threaded <b>code</b>
 mentioned cacm june 1973 bell j r interpreter machine <b>code</b>
-interpretive <b>code</b> not needing an interpreter extensions and optimizations are
-an alternative to machine language <b>code</b> hardware and software realizations
 
 3) CACM-2748
 
+
+[1.8, 1.125, 1.0]
 threaded <b>code</b> snobol4 interpretors <b>code</b> generation 4.12 4.13 ca750605 jb
-machine independent implementations cacm june 1975 dewar r b k
+indirect threaded <b>code</b> an efficient arrangement for interpretive <b>code</b> is
 january 9 1978 1:11 pm
 
 4) CACM-1795
 
+
+[1.0, 1.0, 0]
 optimal <b>code</b> for serial and <b>parallel</b> computation cacm december 1969
 fateman r j <b>code</b> optimization sequencing of operations detection of
 common subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm
 
 5) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
@@ -625,33 +805,43 @@ Top 5 documents are:
 
 1) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 algorithm 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 2) CACM-2973
 
-to higher dimensional arrays are also given cacm april 1977
-to be optimal in time within small constant factors extensions
+
+[2.25, 1.3333333333333333, 1.0]
 thompson c d kung h t <b>parallel</b> computer <b>parallel</b> sorting
+presented for sorting n 2 elements on an n x
+<b>parallel</b> merge routing and comparison steps perfect shuffle processor in
 
 3) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+generating the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-generating the next permutation are very simple performance tests which
 
 4) CACM-3166
 
-will be accurate we conclude that all four <b>algorithms</b> will
+
+[2.0, 2.0, 1.0]
+of the standard deviation of unweighted sampled data are analyzed
+chan t lewis j mean standard deviation least squares updating
 two of the <b>algorithms</b> are well known in the statistical
-four <b>algorithms</b> is analyzed for the conditions under which it
 
 5) CACM-0950
 
-several subtasks which can be computed without knowledge of the
+
+[1.0, 1.0, 1.0]
 serial cacm december 1964 nievergelt j ca641221 jb march 9
 results of the other subtasks as an example a method
+<b>parallel</b> methods for integrating ordinary differential equations this paper is
 
 -----------------------------------------------------------------
 For Query 20 : graph theoretic algorithms applicable to sparse matrices
@@ -660,30 +850,40 @@ Top 5 documents are:
 
 1) CACM-2630
 
+
+[2.0, 2.0, 1.0]
 the shortest path between every pair of vertices in a
 path algorithm 5.32 ca740616 jb january 17 1978 1:55 pm
-on computing sets of shortest paths in a <b>graph</b> two
+every pair of vertices in a directed <b>graph</b> these <b>algorithms</b>
 
 2) CACM-1963
 
+
+[5.0, 3.2, 1.0]
 <b>matrices</b> condition numbers pei <b>matrices</b> eigenvectors eigenvalues 5.14 ca701116 jb
-february 9 1978 4:21 pm
 condition numbers of pei <b>matrices</b> cacm november 1970 rokne j
+february 9 1978 4:21 pm
 
 3) CACM-2490
 
+
+[2.0, 1.7777777777777777, 1.3333333333333333]
+1973 hopcroft j tarjan r graphs analysis of <b>algorithms</b> <b>graph</b>
 efficient <b>algorithms</b> for <b>graph</b> manipulation h algorithm a447 efficient <b>algorithms</b>
-each algorithm requires time and space proportional to max v
 components and simple paths the algorithm for partitioning of a
 
 4) CACM-3139
 
-degrees and structure of a <b>graph</b> a method is developed
-of the methods 5.25 5.32 ca790405 dh june 5 1979
-of a <b>graph</b> which rely upon the comparison of the
+
+[2.25, 2.0, 1.8]
+paper describes efficient new heuristic methods to color the vertices
+and the exact method are compared cacm april 1979 brelaz
+graphs finally an exact method is given which performs better
 
 5) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 algorithm 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
@@ -695,31 +895,41 @@ Top 5 documents are:
 
 1) CACM-2337
 
-set with fewest comparisons is proved optimal with this technique
+
+[1.0, 1.0, 1.0]
 min max norms of sorting <b>algorithms</b> is given one new
 cacm june 1972 pohl i sorting <b>computational</b> <b>complexity</b> <b>computational</b> combinatorics
+a sorting problem and its <b>complexity</b> a technique for proving
 
 2) CACM-2932
 
+
+[1.3333333333333333, 1.3333333333333333, 1.3333333333333333]
 of <b>complexity</b> of computations is described emphasizing the in terrelation
 discussed cacm september 1977 rabin m o <b>complexity</b> of computations
-december 28 1977 6:54 am
+<b>complexity</b> of computations the framework for research in the theory
 
 3) CACM-1943
 
+
+[3.125, 2.0, 1.5]
 special functions <b>complete</b> elliptic integral of the first kind <b>complete</b>
-elliptic integral of the second kind 5.12 ca690106 jb february
 <b>complete</b> elliptic integrals algorithm 165 s21 cacm january,1969 farkas i
+elliptic integral of the second kind 5.12 ca690106 jb february
 
 4) CACM-1659
 
+
+[7.111111111111111, 4.5, 4.0]
 processing <b>computational</b> linguistics course curriculum <b>computational</b> linguistics graduate program <b>computational</b>
-g <b>computational</b> linguistics mathematical linguistics language and computer language data
-contains recommendations for a course curriculum on <b>computational</b> linguistics in
+<b>computational</b> linguistics in a ph computer science program this report
+a ph computer science program a classification of the subject
 
 5) CACM-2325
 
-the analysis of continuous <b>algorithms</b> four of the components of
+
+[2.2857142857142856, 2.25, 2.0]
+numerical mathematics and computer science numerical mathematics is viewed as
 systems <b>computational</b> <b>complexity</b> synthesis and analysis of <b>algorithms</b> analysis of
 numerical mathematics are discussed these are foundations finite precision number
 
@@ -730,30 +940,40 @@ Top 5 documents are:
 
 1) CACM-2384
 
+
+[3.2, 2.0, 0]
 williamson h <b>hidden</b> <b>line</b> plot <b>surface</b> plot 4.9 ca720207 jb
-january 31 1978 4:12 pm
 <b>hidden</b> <b>line</b> plotting program j6 algorithm a420 cacm february 1972
+january 31 1978 4:12 pm
 
 2) CACM-2678
 
+
+[1.0, 1.0, 1.0]
 wright t <b>hidden</b> <b>line</b> problem <b>computer</b> <b>graphics</b> contour <b>surface</b> 3.65
 visible <b>surface</b> plotting program j6 algorithm a475 cacm march 1974
 4.41 8.2 ca740305 jb january 18 1978 11:18 am
 
 3) CACM-2473
 
-plot 4.9 ca730713 jb january 23 1978 11:14 am
+
+[3.0, 2.0, 1.0]
 i d g collins a m <b>hidden</b> <b>line</b> plot <b>surface</b>
 <b>hidden</b> <b>line</b> plotting program algorithm r420 cacm july 1973 macleod
+plot 4.9 ca730713 jb january 23 1978 11:14 am
 
 4) CACM-2751
 
-used to paint the objects on the cathode ray tube
-the fundamental laws of optics are considered in the development
+
+[2.7777777777777777, 2.0, 2.0]
 <b>surface</b> algorithm the various methods of object modeling shading and
+screen the shading algorithm itself depends in part on the
+illumination for <b>computer</b> generated pictures the quality of <b>computer</b> generated
 
 5) CACM-2441
 
+
+[0, 0]
 <b>hidden</b> <b>line</b> plotting program algorithm r420 cacm september 1973 williamson
 h ca730914 jb january 23 1978 8:36 am
 
@@ -764,33 +984,43 @@ Top 5 documents are:
 
 1) CACM-3148
 
-this is part of an ambitious program of development in
-to be useful for programming a wide range of tasks
-to be independent of particular languages and machines it appears
+
+[3.5714285714285716, 2.0, 2.0]
+high level programming for <b>distributed</b> <b>computing</b> programming for <b>distributed</b> and
+this paper describes an approach to <b>distributed</b> <b>computing</b> at the
+level of general purpose programming languages based on primitive notions
 
 2) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 algorithm 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 3) CACM-3166
 
-will be accurate we conclude that all four <b>algorithms</b> will
+
+[2.0, 2.0, 1.0]
+of the standard deviation of unweighted sampled data are analyzed
+chan t lewis j mean standard deviation least squares updating
 two of the <b>algorithms</b> are well known in the statistical
-four <b>algorithms</b> is analyzed for the conditions under which it
 
 4) CACM-2975
 
+
+[2.7777777777777777, 2.6666666666666665, 1.0]
+1977 hollander c data <b>structures</b> directed graphs uniform insertion 4.34
 remark on uniform insertion in structured data <b>structures</b> cacm april
 ca770407 jb december 29 1977 5:04 am
-1977 hollander c data <b>structures</b> directed graphs uniform insertion 4.34
 
 5) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+generating the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-generating the next permutation are very simple performance tests which
 
 -----------------------------------------------------------------
 For Query 24 : applied stochastic processes
@@ -799,32 +1029,42 @@ Top 5 documents are:
 
 1) CACM-3043
 
-of distributed <b>processes</b> and shows that they include procedures coroutines
+
+[4.0, 2.0, 2.0]
 distributed <b>processes</b> a concurrent programming concept a language concept for
-communication and scheduling sorting arrays coroutines classes monitors <b>processes</b> semaphores
+of distributed <b>processes</b> and shows that they include procedures coroutines
+as special cases cacm november 1978 hansen p concurrent programming
 
 2) CACM-2342
 
-<b>processes</b> operate the formation of partial rules and the calculation
+
+[2.0, 2.0, 2.0]
 operating systems parallel <b>processes</b> 4.0 4.10 4.30 4.32 4.42 5.24
-of transition rules are both applicable to hardware <b>processes</b> as
+in this paper a system of parallel <b>processes</b> is regarded
+communicating parallel <b>processes</b> have been examined by dijkstra knuth and
 
 3) CACM-1696
 
-variable length codes are reviewed and an updating procedure for
-times are investigated experimentally and compared with those of another
+
+[4.0, 2.0, 1.125]
+d m <b>stochastic</b> matrix ergodic chain identification 5.39 5.5 ca680905
 subchains and transient states of a <b>stochastic</b> matrix is presented
+of a <b>stochastic</b> matrix an algorithm for identifying the ergodic
 
 4) CACM-0412
 
+
+[0, 0]
 recursive <b>processes</b> and algol translation cacm january 1961 gray a
 a ca610102 jb march 17 1978 1:29 am
 
 5) CACM-0020
 
-when <b>applied</b> to an iterative procedure for the solution of
-jb march 22 1978 9:09 pm
-example is given cacm june 1958 wegstein j h ca580602
+
+[1.0, 1.0, 1.0]
+converges and induces convergence if the iteration diverges an illustrative
+an equation accelerates the rate of convergence if the iteration
+accelerating convergence of iterative <b>processes</b> a technique is discussed which
 
 -----------------------------------------------------------------
 For Query 25 : performance evaluation and modelling of computer systems
@@ -833,33 +1073,43 @@ Top 5 documents are:
 
 1) CACM-2318
 
-kimbleton s r modeling <b>evaluation</b> <b>performance</b> analytic models simulation models
-which the use of a model is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of <b>computer</b> system models in <b>performance</b> <b>evaluation</b> models
+constitute a useful means of investigating <b>computer</b> system <b>performance</b> this
 system models 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 2) CACM-2329
 
+
+[2.25, 2.0, 0]
 education <b>computer</b> engineering <b>computer</b> science curriculum <b>systems</b> design 1.52 6.0
 <b>computer</b> science a vicious circle cacm june 1972 kandel a
 ca720616 jb january 30 1978 3:49 pm
 
 3) CACM-2322
 
-architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
-of superscale computers cacm july 1972 foster c c <b>computer</b>
+
+[2.0, 2.0, 1.5]
 field of <b>computer</b> architecture standardized inexpensive microcomputers on a single
+a view of <b>computer</b> architecture an attempt is made to
+architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
 
 4) CACM-1653
 
+
+[2.0, 1.5, 1.125]
 system <b>performance</b> <b>evaluation</b> survey and appraisal the state of the
-are presented as three levels of approach to <b>evaluation</b> requiring
 art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals
+in <b>performance</b> <b>evaluation</b> and in the development of <b>evaluation</b> methods
 
 5) CACM-2852
 
-<b>computer</b> system <b>performance</b> 1.52 2.4 3.51 4.6 ca760701 jb january
-the technology of <b>computer</b> center management a proposed course for
-proposed by the acm curriculum committee on <b>computer</b> education for
+
+[4.9, 4.5, 4.166666666666667]
+graduate professional programs in information <b>systems</b> or for graduate professional
+management for graduate professional programs in information <b>systems</b> this paper
+halstead m h education information <b>systems</b> administration <b>computer</b> center management
 
 -----------------------------------------------------------------
 For Query 26 : concurrency control mechanisms in operating systems
@@ -868,32 +1118,42 @@ Top 5 documents are:
 
 1) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 2) CACM-3068
 
-<b>operating</b> system which are necessary to assure reliable enforcement of
-<b>operating</b> system is also discussed cacm september 1978 popek g
-security the application of this approach to the ucla secure
+
+[2.7777777777777777, 2.6666666666666665, 2.6666666666666665]
+a model for verification of data security in <b>operating</b> <b>systems</b>
+general model for <b>operating</b> <b>systems</b> this model is suitable as
+farber d <b>operating</b> <b>systems</b> security protection program verification 4.35 5.24
 
 3) CACM-2626
 
-utilities time sharing <b>systems</b> proprietary programs protected subsystems virtual memory
-the paper ends with a discussion of several known weaknesses
-the multics system is described five design principles help provide
+
+[3.0, 2.6666666666666665, 2.2857142857142856]
+in the current protection mechanism design cacm july 1974 saltzer
+j h multics protection security privacy access <b>control</b> authentication computer
+<b>mechanisms</b> described include access <b>control</b> lists hierarchical <b>control</b> of access
 
 4) CACM-1462
 
-vertically but different horizontally proper division of responsibility between levels
+
+[2.0, 1.0, 1.0]
+multilevel <b>operating</b> <b>systems</b> the basic software for all newer computers
 this leads naturally to the concept of multilevel <b>systems</b> similar
 <b>systems</b> this implies that all applications no matter how large
 
 5) CACM-0086
 
+
+[2.0, 1.0, 1.0]
+controller general of the united states to the congress of
 the united states ca590406 jb march 22 1978 6:48 pm
-the federal government as of december 1957 cacm april 1959
-survey of progress and trend of development and use of
+automatic data processing in business and management <b>control</b> <b>systems</b> of
 
 -----------------------------------------------------------------
 For Query 27 : memory management aspects of operating systems
@@ -902,32 +1162,42 @@ Top 5 documents are:
 
 1) CACM-2798
 
-for sending instruction and data requests to the <b>memory</b> system
-of interleaved <b>memory</b> <b>systems</b> is presented and the analysis of
+
+[4.5, 4.166666666666667, 3.2]
 <b>memory</b> performance analysis blockage buffer conflict buffer simulation monte carolo
+coffman e g jr interleaved <b>memory</b> <b>systems</b> modular <b>memory</b> <b>systems</b>
+analysis of interleaved <b>memory</b> <b>systems</b> using blockage buffers a model
 
 2) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 jb
 
 3) CACM-2902
 
-collection list processing <b>memory</b> allocation <b>memory</b> <b>management</b> programming techniques simulation
+
+[5.444444444444445, 4.0, 2.7777777777777777]
+dynamic <b>memory</b> allocation dynamic <b>memory</b> <b>management</b> dynamic storage allocation garbage
 performance of 35 dynamic <b>memory</b> allocation algorithms when used to
-dynamic <b>memory</b> allocation in computer simulation this paper investigates the
+simulation <b>memory</b> <b>management</b> simulation techniques space allocation storage allocation 3.74
 
 4) CACM-3011
 
-control over design and implementation activities finally <b>management</b> computing clearly
+
+[4.5, 3.0, 2.6666666666666665]
+<b>management</b> information system american local government city government computers county
+but also varied in its extent among local governments <b>management</b>
 government computers computer impacts <b>management</b> computing 2.0 2.1 2.11 2.19
-us local governments what exists is <b>management</b> oriented computing involving
 
 5) CACM-2918
 
-attention to nonin terleaved <b>memory</b> alternative <b>memory</b> organizations are compared
-of the analysis cacm october 1977 smith a j <b>memory</b>
+
+[2.6666666666666665, 2.25, 2.0]
+in reducing <b>memory</b> in terference home <b>memory</b> organization is shown
 multiprocessor <b>memory</b> organization and <b>memory</b> interference the structure of shared
+and it is shown that a home <b>memory</b> organization in
 
 -----------------------------------------------------------------
 For Query 28 : any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
@@ -936,33 +1206,43 @@ Top 5 documents are:
 
 1) CACM-1685
 
+
+[3.5714285714285716, 3.2, 3.0]
 project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis
 language for performing calculations on activity <b>networks</b> scheduling activity <b>networks</b>
-time in the preparation of activity <b>networks</b> and to deal
+language designed for generating activity <b>network</b> from a set of
 
 2) CACM-2776
 
-of iowa iowa state university <b>network</b> the michigan educational research
+
+[3.0, 2.25, 2.25]
+chambers j a poore r v <b>networks</b> higher education 1.3
 <b>networks</b> in higher education in the future cacm april 1975
 <b>networks</b> in higher education conducted during 1971-73 five major and
 
 3) CACM-2614
 
+
+[3.0, 2.0, 0]
+1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 arrow to precedence <b>network</b> transformation h algorithm a481 cacm august
 5.40 ca740810 jb january 17 1978 9:37 am
-1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23
 
 4) CACM-3032
 
-broadcast <b>routing</b> in store and forward <b>packet</b> switching computer <b>networks</b>
-accomplishing this delivery through a store and forward <b>packet</b> switching
+
+[4.166666666666667, 4.0, 4.0]
 we add 6 reverse path forwarding a broadcast <b>routing</b> method
+reverse path forwarding of broadcast packets a broadcast <b>packet</b> is
+<b>packet</b> switching reverse path forwarding is a practical algorithm for
 
 5) CACM-2949
 
-the merit computer <b>network</b> is presented and explained this protocol
+
+[3.6, 3.0, 3.0]
+computer <b>network</b> correctness proofs computer <b>networks</b> distributed control <b>network</b> topology
+<b>routing</b> doctrine a correctness proof of this topology <b>information</b> protocol
 of a distributed computer <b>network</b> to communicate each node must
-<b>network</b> it is based on baran s hot potato heuristic
 
 -----------------------------------------------------------------
 For Query 29 : number theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
@@ -971,30 +1251,40 @@ Top 5 documents are:
 
 1) CACM-2087
 
+
+[3.5714285714285716, 2.0, 0]
 d permutation ordering <b>number</b> <b>number</b> system p <b>number</b> combinatorial 4.49
 a <b>number</b> system for the permutations cacm march 1970 pager
 5.39 ca700311 jb february 13 1978 3:42 pm
 
 2) CACM-1840
 
+
+[2.0, 1.0, 1.0]
 an efficient <b>prime</b> <b>number</b> generator algorithm 357 a1 cacm october
 5.30 ca691006 jb february 15 1978 3:23 pm
 1969 singleton r c <b>prime</b> numbers factoring <b>number</b> theory 3.15
 
 3) CACM-1967
 
-numbers 5.39 ca701112 jb february 9 1978 4:28 pm
+
+[3.2, 1.5, 0.6666666666666666]
 cacm november 1970 bratley p <b>number</b> theory <b>prime</b> numbers complex
 an improved algorithm to produce complex primes algorithm 401 a1
+numbers 5.39 ca701112 jb february 9 1978 4:28 pm
 
 4) CACM-1841
 
-theory sorting 3.15 5.30 5.31 ca691005 jb february 15 1978
-a1 cacm october 1969 singleton r c <b>prime</b> numbers <b>number</b>
+
+[2.0, 1.3333333333333333, 1.0]
 a <b>prime</b> <b>number</b> generator using the treesort principle algorithm 356
+a1 cacm october 1969 singleton r c <b>prime</b> numbers <b>number</b>
+theory sorting 3.15 5.30 5.31 ca691005 jb february 15 1978
 
 5) CACM-2089
 
+
+[2.0, 1.0, 0]
 <b>prime</b> <b>number</b> algorithm 310 a1 cacm march 1970 rapp d
 g scott l d <b>prime</b> numbers generator 5.0 ca700309 jb
 february 13 1978 3:45 pm
@@ -1006,30 +1296,40 @@ Top 5 documents are:
 
 1) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis management information <b>systems</b> information <b>systems</b> development information
-need for education related to information <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in information <b>systems</b> the
+need for education related to information <b>systems</b> in organizations is
 
 2) CACM-2407
 
-system design <b>systems</b> analysis 1.52 3.51 ca731201 jb january 19
-problems of implementation are discussed cacm december 1973 couger j
-necessary for such programs is identified and courses incorporating it
+
+[3.5714285714285716, 2.0, 2.0]
+d education undergraduate curricula management <b>systems</b> information <b>systems</b> information analysis
+for education related to information <b>systems</b> in organizations is discussed
+and a curriculum is proposed for an undergraduate program material
 
 3) CACM-2311
 
+
+[4.0, 2.25, 1.5]
 a generational perspective of information system development system development is
-system developer are examined cacm july 1972 benjamin r i
-commonly described computing system generations for each generation the scope
+computing milieu management data processing hardware <b>systems</b> software <b>systems</b> <b>systems</b>
+development process functional <b>systems</b> management <b>systems</b> 2.0 3.50 4.0 6.20
 
 4) CACM-2479
 
+
+[8.0, 3.5714285714285716, 3.5714285714285716]
 information <b>systems</b> administration information <b>systems</b> management computer management 1.52 3.51
-mcfarlan f w nolan r l education management information <b>systems</b>
-curriculum recommendations for graduate professional programs in information <b>systems</b> recommended
+curriculum a course on information <b>systems</b> administration it is important
+addendum on information <b>systems</b> administration an addendum to the report
 
 5) CACM-1461
 
+
+[2.0, 1.0]
 march 3 1978 1:26 pm
 discussion summary on operating <b>systems</b> cacm march 1966 ca660311 jb
 
@@ -1040,33 +1340,43 @@ Top 5 documents are:
 
 1) CACM-3047
 
+
+[4.166666666666667, 3.2, 2.7777777777777777]
 horn b bachman b <b>image</b> registration synthetic <b>images</b> surface models
-<b>image</b> obtained from a surface model and known positions of
 automatic hill shading <b>digital</b> terrain models <b>image</b> transformation <b>image</b> matching
+using synthetic <b>images</b> to register real <b>images</b> with surface models
 
 2) CACM-2065
 
-<b>processing</b> on line picture <b>processing</b> semiautomatic picture <b>processing</b> semiautomatic karyotyping
-karyotyping list <b>processing</b> picture <b>processing</b> 3.12 3.34 3.63 4.39 6.29
+
+[5.444444444444445, 3.6, 3.125]
+<b>image</b> <b>processing</b> biomedical <b>image</b> <b>processing</b> on line <b>image</b> <b>processing</b> semiautomatic
 <b>image</b> <b>processing</b> data structure structure operators picture <b>processing</b> biomedical picture
+<b>processing</b> on line picture <b>processing</b> semiautomatic picture <b>processing</b> semiautomatic karyotyping
 
 3) CACM-1686
 
-white light a new approach based on point apertures for
-the <b>image</b> is discussed photographs of the <b>images</b> reconstructed from
-of three dimensional objects which give faithful reconstructions even in
+
+[2.6666666666666665, 2.0, 2.0]
+of computer holography are suggested computer holograms have been made
+<b>digital</b> holography are reviewed the <b>mathematical</b> model and computational techniques
+<b>digital</b> holograms are presented cacm october 1968 lesem l b
 
 4) CACM-2727
 
+
+[1.8, 1.0, 1.0]
 l byte <b>processing</b> character <b>processing</b> packed data 4.9 ca750808 jb
 only ordinary full word computer instructions even though the <b>processing</b>
 multiple byte <b>processing</b> with full word instructions a method is
 
 5) CACM-1144
 
-source it is believed that the technique using a <b>digital</b>
+
+[1.7777777777777777, 1.2857142857142858, 1.0]
+<b>digital</b> computer determination of alpha source activity a technique is
 nuclear physics the technique involves computer manipulation of the <b>digital</b>
-january 1964 robbins d taylor w e ca640111 jb march
+<b>image</b> of the nuclear source experimental details are given cacm
 
 -----------------------------------------------------------------
 For Query 32 : i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
@@ -1075,33 +1385,43 @@ Top 5 documents are:
 
 1) CACM-3139
 
-degrees and structure of a <b>graph</b> a <b>method</b> is developed
-of the methods 5.25 5.32 ca790405 dh june 5 1979
-of a <b>graph</b> which rely upon the comparison of the
+
+[2.25, 2.0, 1.8]
+paper describes efficient new <b>heuristic</b> methods to color the vertices
+and the exact <b>method</b> are compared cacm april 1979 brelaz
+graphs finally an exact <b>method</b> is given which performs better
 
 2) CACM-2630
 
+
+[2.0, 2.0, 1.0]
 the shortest path between every pair of vertices in a
 path algorithm 5.32 ca740616 jb january 17 1978 1:55 pm
-on computing sets of shortest paths in a <b>graph</b> two
+every pair of vertices in a directed <b>graph</b> these <b>algorithms</b>
 
 3) CACM-2490
 
+
+[2.0, 1.7777777777777777, 1.3333333333333333]
+1973 hopcroft j tarjan r graphs analysis of <b>algorithms</b> <b>graph</b>
 efficient <b>algorithms</b> for <b>graph</b> manipulation h algorithm a447 efficient <b>algorithms</b>
-each algorithm requires time and space proportional to max v
 components and simple paths the algorithm for partitioning of a
 
 4) CACM-2172
 
+
+[1.6, 1.0, 0]
 plot <b>graph</b> line printer plot 4.41 ca710710 jb february 2
 <b>graph</b> plotter j6 algorithm 412 cacm july 1971 cermak j
 1978 4:32 pm
 
 5) CACM-2619
 
-timetable problem a necessary and sufficient condition is presented for
-the existence of a coloration of a <b>graph</b> is the
-restrictions on the coloration of a <b>graph</b> the preconditions correspond
+
+[3.125, 1.6, 1.6]
+timetable problem and graphs with preconditions these preconditions place additional
+timetable problem several relationships are established between the class teacher
+teacher timetable problem using some recent results that convert graphs
 
 -----------------------------------------------------------------
 For Query 33 : articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
@@ -1110,31 +1430,41 @@ Top 5 documents are:
 
 1) CACM-0347
 
+
+[1.3333333333333333, 0, 0]
 gamma function for range <b>1</b> to 2 algorithm 54 cacm
 april 1961 herndon j r ca610421 jb march 16 1978
 11:45 pm
 
 2) CACM-1963
 
+
+[5.0, 3.2, 1.0]
 <b>matrices</b> condition numbers pei <b>matrices</b> <b>eigenvectors</b> <b>eigenvalues</b> 5.14 ca701116 jb
-february 9 1978 4:21 pm
 condition numbers of pei <b>matrices</b> cacm november <b>1970</b> rokne j
+february 9 1978 4:21 pm
 
 3) CACM-0812
 
+
+[1.0, 0]
 smoothing <b>1</b> algorithm 188 cacm july 1963 rodriguez gil f
 ca630712 jb march 14 1978 8:34 am
 
 4) CACM-0782
 
+
+[1.0, 0]
 telescope <b>1</b> algorithm 37 cacm august 1963 bridges j f
 ca630816 jb march 13 1978 8:31 pm
 
 5) CACM-1990
 
+
+[2.0, 1.6, 0]
+algorithm <b>numerical</b> constants 5.10 ca700915 jb february 10 1978 9:48
 <b>numerical</b> constants algorithm cacm september <b>1970</b> dunham c b <b>numerical</b>
 am
-algorithm <b>numerical</b> constants 5.10 ca700915 jb february 10 1978 9:48
 
 -----------------------------------------------------------------
 For Query 34 : currently interested in isolation of root of polynomial there is an old more recent material heindel l
@@ -1143,33 +1473,43 @@ Top 5 documents are:
 
 1) CACM-1763
 
+
+[6.4, 3.2, 0.8]
 quadratic equation roots cubic equation roots biquadratic equation roots <b>polynomial</b>
 april 1968 nonweiler t f <b>root</b> finders <b>polynomial</b> equation roots
 roots of low order <b>polynomial</b> equations algorithm 326 c2 cacm
 
 2) CACM-1893
 
-roots of polynomials by a <b>root</b> squaring and resultant routine
+
+[3.125, 2.2857142857142856, 1.7777777777777777]
 roots of <b>polynomial</b> equations <b>polynomial</b> zeros <b>root</b> squaring operations graeffe
-algorithm 340 c2 cacm may 1969 noltemeier a <b>root</b> finders
+method resultant procedure subresultant procedure testing of roots acceptance criteria
+roots of polynomials by a <b>root</b> squaring and resultant routine
 
 3) CACM-1667
 
-roots of polynomials by a <b>root</b> squaring and resultant routine
+
+[3.125, 2.2857142857142856, 1.7777777777777777]
 roots of <b>polynomial</b> equations <b>polynomial</b> zeros <b>root</b> squaring operations graeffe
-algorithm 340 c2 cacm november 1968 noltemeier a <b>root</b> finders
+method resultant procedure subresultant procedure testing of roots acceptance criteria
+roots of polynomials by a <b>root</b> squaring and resultant routine
 
 4) CACM-1644
 
+
+[2.0, 2.0, 1.0]
 the true least squares <b>polynomial</b> is described cacm january 1967
+during digital computation of a least squares <b>polynomial</b> makes the
 <b>polynomial</b> a simple method for adjust ing the constant term
-of the computed <b>polynomial</b> to get a better approximation to
 
 5) CACM-2391
 
-<b>polynomial</b> synthesis reverse horner scheme reverse synthetic division binomial coefficients
-5.11 5.30 5.5 ca720112 jb february 1 1978 8:55 am
+
+[6.125, 3.0, 1.5]
+g f symmetric polynomials elementary symmetric polynomials unitary symmetric polynomials
 unitary symmetric polynomials z algorithm r391 cacm january 1972 schrack
+<b>polynomial</b> synthesis reverse horner scheme reverse synthetic division binomial coefficients
 
 -----------------------------------------------------------------
 For Query 35 : probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
@@ -1178,33 +1518,43 @@ Top 5 documents are:
 
 1) CACM-2090
 
+
+[8.1, 6.0, 3.0]
+distribution <b>algebraic</b> multiplication distribution <b>algorithm</b> multiplication <b>algorithm</b> product <b>algorithm</b> <b>polynomial</b>
 1970 levine m j algebra <b>symbolic</b> algebra <b>symbolic</b> multiplication <b>algebraic</b>
-<b>symbolic</b> expansion of <b>algebraic</b> expressions <b>algorithm</b> 377 r2 cacm march
-february 13 1978 3:49 pm
+distribution <b>polynomial</b> expansion 3.10 3.17 3.20 4.13 4.90 ca700308 jb
 
 2) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 <b>algorithm</b> 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 3) CACM-1386
 
-variable instances of the given <b>polynomial</b> by kronecker s method
-the <b>algorithm</b> and several <b>examples</b> are discussed the <b>algorithm</b> promises
+
+[1.0, 1.0, 1.0]
 <b>symbolic</b> factoring of polynomials in several variables an <b>algorithm</b> for
+prime factoring of any <b>polynomial</b> may be found in a
+integer coefficients is presented the <b>algorithm</b> is an extension of
 
 4) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+generating the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-generating the next permutation are very simple performance tests which
 
 5) CACM-2283
 
-the hexagonal array has features which strike a balance between
-it is concluded that the <b>algorithm</b> operating in conjunction with
-development of each <b>algorithm</b> is the same pictorial results produced
+
+[7.0, 4.5, 3.2]
+e s thinning <b>algorithms</b> rectangular hexagonal triangular arrays image processing
+thinning <b>algorithms</b> on rectangular hexagonal and triangular arrays in this
+with rectangular hexagonal and triangular arrays the approach to the
 
 -----------------------------------------------------------------
 For Query 36 : fast algorithm for context free language recognition or parsing
@@ -1213,33 +1563,43 @@ Top 5 documents are:
 
 1) CACM-2084
 
+
+[4.0, 3.0, 2.25]
 complement <b>context</b> <b>free</b> <b>language</b> chomsky <b>language</b> phrase structure <b>language</b> production
-system type 2 <b>language</b> bounded <b>language</b> 5.22 5.24 ca700314 jb
 languages cacm march 1970 maurer h a ambiguity inherent ambiguity
+system type 2 <b>language</b> bounded <b>language</b> 5.22 5.24 ca700314 jb
 
 2) CACM-2110
 
-seems to be the most efficient general <b>context</b> <b>free</b> <b>algorithm</b>
-it has a n 2 bound for unambiguous grammars and
+
+[5.142857142857143, 4.0, 3.0]
 an efficient <b>context</b> <b>free</b> <b>parsing</b> <b>algorithm</b> a <b>parsing</b> <b>algorithm</b> which
+analysis <b>parsing</b> <b>context</b> <b>free</b> grammar compilers computational complexity 4.12 5.22
+seems to be the most efficient general <b>context</b> <b>free</b> <b>algorithm</b>
 
 3) CACM-2030
 
-two types of analyses is discussed the <b>algorithm</b> appears to
-of <b>context</b> dependence involved cacm july 1970 woods w a
-memory required by the <b>algorithm</b> is essentially no more than
+
+[6.125, 3.0, 2.2857142857142856]
+<b>context</b> sensitive grammars <b>context</b> sensitive <b>parsing</b> formal grammars formal <b>language</b>
+<b>context</b> sensitive <b>parsing</b> this paper presents a canonical form for
+<b>context</b> sensitive derivations and a <b>parsing</b> <b>algorithm</b> which finds each
 
 4) CACM-2061
 
+
+[3.2, 3.0, 3.0]
+1970 loeckx j bounded <b>context</b> <b>parsing</b> bounded <b>context</b> syntactic analysis
 the definition of a <b>context</b> <b>free</b> grammar and the working
-the <b>algorithm</b> is discuss ed in the light of the
-systems translator writing systems metacompilers <b>context</b> <b>free</b> grammars formal languages
+reduction classes of a <b>context</b> <b>free</b> grammar are defined finally
 
 5) CACM-1162
 
-programs is seldom necessary it is assembly <b>language</b> programs which
+
+[2.5, 2.0, 2.0]
 bit stream may be treated as a machine <b>language</b> program
-one assembly <b>language</b> into another or from the assembly <b>language</b>
+programs is seldom necessary it is assembly <b>language</b> programs which
+of a program that is from assembly <b>language</b> to machine
 
 -----------------------------------------------------------------
 For Query 37 : articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
@@ -1248,33 +1608,43 @@ Top 5 documents are:
 
 1) CACM-2651
 
-<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
+
+[2.6666666666666665, 2.5, 2.0]
 generic functions extensible languages <b>data</b> <b>type</b> definition <b>data</b> description language
+<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
 very flexible <b>data</b> <b>type</b> behavior in a context that allows
 
 2) CACM-2956
 
-with conversion of values from one <b>type</b> to another cacm
-of an array as a <b>data</b> <b>type</b> the need for
+
+[2.2857142857142856, 2.0, 2.0]
 <b>data</b> <b>type</b> is a set of values together with a
+some ideas on <b>data</b> <b>types</b> in high level languages a
+of an array as a <b>data</b> <b>type</b> the need for
 
 3) CACM-2958
 
+
+[6.4, 3.6, 3.2]
 abstract <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification
+abstract <b>data</b> <b>types</b> and the development of <b>data</b> structures abstract
 the specification of abstract <b>data</b> <b>types</b> among the examples presented
-<b>data</b> <b>types</b> can play a significant role in the development
 
 4) CACM-3103
 
-in detail for an example program general issues in <b>data</b>
+
+[3.0, 2.6666666666666665, 2.0]
 with abstract <b>data</b> <b>types</b> such as sets and lists programmer
-time can be saved by automating the <b>process</b> of filling
+abstract <b>data</b> <b>types</b> automatic programming <b>data</b> structures optimizing compilers sets
+<b>system</b> for automatically choosing efficient implementations for abstract <b>types</b> from
 
 5) CACM-2265
 
+
+[2.0, 2.0, 2.0]
+wise <b>correct</b> program or the constant error an application to
 <b>type</b> checking in algol 60 is made and the attendant
 to isolate the <b>notion</b> of <b>type</b> checking and presents a
-this question is usually called <b>type</b> checking this paper attempts
 
 -----------------------------------------------------------------
 For Query 38 : what is the type of a module i don t want the entire literature on abstract data types here but i m not sure how to phrase this to avoid it i m interested in questions about how one can check that a module matches contexts in which it is used
@@ -1283,33 +1653,43 @@ Top 5 documents are:
 
 1) CACM-2651
 
-<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
+
+[2.6666666666666665, 2.5, 2.0]
 generic functions extensible languages <b>data</b> <b>type</b> definition <b>data</b> description language
+<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
 very flexible <b>data</b> <b>type</b> behavior in a context that allows
 
 2) CACM-2958
 
+
+[6.4, 3.6, 3.2]
 <b>abstract</b> <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification
+<b>abstract</b> <b>data</b> <b>types</b> and the development of <b>data</b> structures <b>abstract</b>
 the specification of <b>abstract</b> <b>data</b> <b>types</b> among the examples presented
-<b>data</b> <b>types</b> can play a significant role in the development
 
 3) CACM-3103
 
-in detail for an example program general issues in <b>data</b>
+
+[3.0, 2.6666666666666665, 2.0]
 with <b>abstract</b> <b>data</b> <b>types</b> such as sets and lists programmer
-time can be saved by automating the process of filling
+<b>abstract</b> <b>data</b> <b>types</b> automatic programming <b>data</b> structures optimizing compilers sets
+system for automatically choosing efficient implementations for <b>abstract</b> <b>types</b> from
 
 4) CACM-3031
 
+
+[3.0, 3.0, 3.0]
 proof <b>data</b> <b>type</b> <b>data</b> structure specification 4.34 5.24 ca781208 dh
-of a <b>data</b> <b>type</b> an example is given which shows
 guttag j horowitz e musser d <b>abstract</b> <b>data</b> <b>type</b> correctness
+an <b>abstract</b> <b>data</b> <b>type</b> second semi automatic tools are described
 
 5) CACM-2956
 
-with conversion of values from one <b>type</b> to another cacm
-of an array as a <b>data</b> <b>type</b> the need for
+
+[2.2857142857142856, 2.0, 2.0]
 <b>data</b> <b>type</b> is a set of values together with a
+some ideas on <b>data</b> <b>types</b> in high level languages a
+of an array as a <b>data</b> <b>type</b> the need for
 
 -----------------------------------------------------------------
 For Query 39 : what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer supplied definitions of operators like
@@ -1318,33 +1698,43 @@ Top 5 documents are:
 
 1) CACM-2651
 
-<b>data</b> <b>types</b> includes provision for <b>programmer</b> <b>defined</b> <b>data</b> <b>types</b> <b>data</b>
+
+[2.6666666666666665, 2.5, 2.0]
 generic functions <b>extensible</b> <b>languages</b> <b>data</b> <b>type</b> <b>definition</b> <b>data</b> description language
+<b>data</b> <b>types</b> includes provision for <b>programmer</b> <b>defined</b> <b>data</b> <b>types</b> <b>data</b>
 very flexible <b>data</b> <b>type</b> behavior in a context that allows
 
 2) CACM-2406
 
-a <b>data</b> <b>definition</b> and mapping language a <b>data</b> <b>definition</b> language
+
+[4.5, 4.0, 2.7777777777777777]
 r w <b>data</b> <b>definition</b> language <b>data</b> and storage structure <b>data</b>
+a <b>data</b> <b>definition</b> and mapping language a <b>data</b> <b>definition</b> language
 the <b>data</b> <b>definition</b> language for describing both logical and physical
 
 3) CACM-2958
 
+
+[6.4, 3.6, 3.2]
 <b>abstract</b> <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification
+<b>abstract</b> <b>data</b> <b>types</b> and the development of <b>data</b> structures <b>abstract</b>
 the specification of <b>abstract</b> <b>data</b> <b>types</b> among the examples presented
-<b>data</b> <b>types</b> can play a significant role in the development
 
 4) CACM-2956
 
-with conversion of values from one <b>type</b> to another cacm
-of an array as a <b>data</b> <b>type</b> the need for
+
+[2.2857142857142856, 2.0, 2.0]
 <b>data</b> <b>type</b> is a set of values together with a
+some ideas on <b>data</b> <b>types</b> in high level <b>languages</b> a
+of an array as a <b>data</b> <b>type</b> the need for
 
 5) CACM-1861
 
-the mad <b>definition</b> facility one of the first <b>definition</b> facilities
-were predefined information is given on how one writes <b>definitions</b>
+
+[2.0, 2.0, 1.125]
 mad language so that their use appears as if they
+galler b a graham r m mad <b>definitions</b> <b>operators</b> macros
+the mad <b>definition</b> facility one of the first <b>definition</b> facilities
 
 -----------------------------------------------------------------
 For Query 40 : list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed
@@ -1353,30 +1743,40 @@ Top 5 documents are:
 
 1) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
 
 2) CACM-2603
 
+
+[4.166666666666667, 3.2, 3.0]
 the equivalence of reducing transition <b>languages</b> and deterministic <b>languages</b> the
-superclass of the simple precedence <b>languages</b> in this paper this
-is equivalent to the class of deterministic context free <b>languages</b>
+class of reducing transition <b>languages</b> introduced by eickel paul bauer
+cacm september 1974 schkolnick m reducing transition <b>languages</b> syntax controlled
 
 3) CACM-2406
 
-a <b>data</b> definition and mapping language a <b>data</b> definition language
+
+[4.5, 4.0, 2.7777777777777777]
 r w <b>data</b> definition language <b>data</b> and storage structure <b>data</b>
+a <b>data</b> definition and mapping language a <b>data</b> definition language
 the <b>data</b> definition language for describing both logical and physical
 
 4) CACM-2651
 
-<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
+
+[2.6666666666666665, 2.5, 2.0]
 generic functions extensible <b>languages</b> <b>data</b> <b>type</b> definition <b>data</b> description language
+<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
 very flexible <b>data</b> <b>type</b> behavior in a context that allows
 
 5) CACM-0249
 
+
+[1.0, 0, 0]
 specification <b>languages</b> for mechanical <b>languages</b> and their processors a baker
 s dozen cacm december 1961 gorn s ca611201 jb march
 15 1978 10:32 pm
@@ -1388,33 +1788,43 @@ Top 5 documents are:
 
 1) CACM-3082
 
+
+[2.0, 1.7777777777777777, 1.5]
+a <b>distributed</b> system is examined and is shown to define
 time clocks and the ordering of events in a <b>distributed</b>
-the total ordering is illustrated with a method for solving
-system the concept of one event happening before another in
+a partial ordering of the events a <b>distributed</b> algorithm is
 
 2) CACM-2578
 
+
+[2.0, 2.0, 0]
 self stabilizing <b>systems</b> in spite of <b>distributed</b> control cacm november
-repair 4.32 ca741106 jb january 16,1978 10:18 am
 exclusion robustness sharing error recovery <b>distributed</b> control harmonious cooperation self
+repair 4.32 ca741106 jb january 16,1978 10:18 am
 
 3) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis management information <b>systems</b> information <b>systems</b> development information
-need for education related to information <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in information <b>systems</b> the
+need for education related to information <b>systems</b> in organizations is
 
 4) CACM-2407
 
-system design <b>systems</b> analysis 1.52 3.51 ca731201 jb january 19
-problems of implementation are discussed cacm december 1973 couger j
-necessary for such programs is identified and courses incorporating it
+
+[3.5714285714285716, 2.0, 2.0]
+d education undergraduate curricula management <b>systems</b> information <b>systems</b> information analysis
+for education related to information <b>systems</b> in organizations is discussed
+and a curriculum is proposed for an undergraduate program material
 
 5) CACM-2311
 
+
+[4.0, 2.25, 1.5]
 a generational perspective of information system development system development is
-system developer are examined cacm july 1972 benjamin r i
-commonly described computing system generations for each generation the scope
+computing milieu management data processing hardware <b>systems</b> software <b>systems</b> <b>systems</b>
+development process functional <b>systems</b> management <b>systems</b> 2.0 3.50 4.0 6.20
 
 -----------------------------------------------------------------
 For Query 42 : computer performance evaluation techniques using pattern recognition and clustering la 70803
@@ -1423,33 +1833,43 @@ Top 5 documents are:
 
 1) CACM-2318
 
-kimbleton s r modeling <b>evaluation</b> <b>performance</b> analytic models simulation models
-which the use of a model is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of <b>computer</b> system models in <b>performance</b> <b>evaluation</b> models
+constitute a useful means of investigating <b>computer</b> system <b>performance</b> this
 system models 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 2) CACM-2231
 
-their projection three algorithms are developed to reconstruct both unambiguous
-horizontal and vertical projections of a finite binary <b>pattern</b> f
-can we construct the original <b>pattern</b> f in this paper
+
+[2.2857142857142856, 1.5, 1.0]
+chang s <b>pattern</b> reconstruction image reconstruction data compression <b>pattern</b> <b>recognition</b>
+that a <b>pattern</b> similar to an ambiguous <b>pattern</b> can also
+we give a characterization of patterns that are reconstructable from
 
 3) CACM-2322
 
-architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
-of superscale computers cacm july 1972 foster c c <b>computer</b>
+
+[2.0, 2.0, 1.5]
 field of <b>computer</b> architecture standardized inexpensive microcomputers on a single
+a view of <b>computer</b> architecture an attempt is made to
+architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
 
 4) CACM-1653
 
+
+[2.0, 1.5, 1.125]
 system <b>performance</b> <b>evaluation</b> survey and appraisal the state of the
-are presented as three levels of approach to <b>evaluation</b> requiring
 art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals
+in <b>performance</b> <b>evaluation</b> and in the development of <b>evaluation</b> methods
 
 5) CACM-2545
 
+
+[2.6666666666666665, 1.3333333333333333, 1.0]
+f patterns snobol4 <b>pattern</b> theory parsing <b>pattern</b> matching string processing
+patterns in snobol4 are given the general approach is to
 the notion of a discrete <b>pattern</b> is formalized and certain
-properties deduced a <b>pattern</b> is shown to be a generalization
-<b>pattern</b> implementation 4.29 5.39 ca730203 jb january 24 1978 3:13
 
 -----------------------------------------------------------------
 For Query 43 : analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
@@ -1458,33 +1878,43 @@ Top 5 documents are:
 
 1) CACM-2322
 
-architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
-of superscale <b>computers</b> cacm july 1972 foster c c <b>computer</b>
+
+[2.0, 2.0, 1.5]
 field of <b>computer</b> architecture standardized inexpensive microcomputers on a single
+a view of <b>computer</b> architecture an attempt is made to
+architecture projection microcomputers <b>computer</b> design <b>computer</b> organization 1.2 2.1 6.0
 
 2) CACM-1554
 
+
+[2.0, 1.0, 1.0]
+<b>dimensional</b> hyperobject or hypersurface cacm august 1967 noll a m
 of three <b>dimensional</b> experience but no profound feeling or insight
 into the fourth spatial dimension was obtained the technique can
-<b>dimensional</b> hyperobject or hypersurface cacm august 1967 noll a m
 
 3) CACM-2303
 
-of acm was dominated by the first large <b>computer</b> eniac
-its characteristics described here foreshadow later developments cacm july 1972
+
+[1.0, 1.0, 0.5]
 archaeology of <b>computers</b> reminiscences 1945-1947 the period preceding the founding
+alt f l history of <b>computers</b> 1.2 ca720725 jb january
+of acm was dominated by the first large <b>computer</b> eniac
 
 4) CACM-2825
 
+
+[1.8, 1.0, 1.0]
 contingency tables data <b>analysis</b> discriminant <b>analysis</b> factor <b>analysis</b> graphics outliers
-october 1976 frane j w <b>analysis</b> of variance cluster <b>analysis</b>
 the bmd and bmdp series of statistical <b>computer</b> programs cacm
+regression time series transformations 1.3 3.3 4.0 5.5 ca761006 jb
 
 5) CACM-1404
 
+
+[2.0, 1.5, 1.3333333333333333]
+computational aspects of multiple covariance <b>analysis</b> on a multifactor structure
+connection between the <b>analysis</b> of covariance and the <b>analysis</b> of
 statistics is discussed with reference to the <b>analysis</b> of variance
-by an <b>analysis</b> of variance program cacm july 1966 peng
-variance and by introducing a new operator the results are
 
 -----------------------------------------------------------------
 For Query 44 : texture analysis by computer digitized texture analysis texture synthesis perception of texture
@@ -1493,30 +1923,40 @@ Top 5 documents are:
 
 1) CACM-2825
 
+
+[1.8, 1.0, 1.0]
 contingency tables data <b>analysis</b> discriminant <b>analysis</b> factor <b>analysis</b> graphics outliers
-october 1976 frane j w <b>analysis</b> of variance cluster <b>analysis</b>
 the bmd and bmdp series of statistical <b>computer</b> programs cacm
+regression time series transformations 1.3 3.3 4.0 5.5 ca761006 jb
 
 2) CACM-1404
 
+
+[2.0, 1.5, 1.3333333333333333]
+computational aspects of multiple covariance <b>analysis</b> on a multifactor structure
+connection between the <b>analysis</b> of covariance and the <b>analysis</b> of
 statistics is discussed with reference to the <b>analysis</b> of variance
-by an <b>analysis</b> of variance program cacm july 1966 peng
-variance and by introducing a new operator the results are
 
 3) CACM-1823
 
-jb february 15 1978 12:22 pm
+
+[4.166666666666667, 2.25, 0]
 j r factorial variance <b>analysis</b> variance statistical <b>analysis</b> 5.5 ca691107
 factorial <b>analysis</b> of variance algorithm g1 cacm november 1969 howell
+jb february 15 1978 12:22 pm
 
 4) CACM-1732
 
+
+[4.166666666666667, 2.25, 0]
 oliver i factorial variance <b>analysis</b> variance statistical <b>analysis</b> 5.5 ca680613
-jb february 22 1978 3:21 pm
 factorial <b>analysis</b> of variance algorithm 330 g1 cacm june 1968
+jb february 22 1978 3:21 pm
 
 5) CACM-1801
 
+
+[2.25, 2.25, 1.8]
 estimate intra block estimate 5.14 5.5 ca691211 jb february 15
 december 1969 claringbold p j <b>analysis</b> of variance <b>analysis</b> of
 covariance regression <b>analysis</b> experimental design balanced experiment missing data interblock
@@ -1528,33 +1968,43 @@ Top 5 documents are:
 
 1) CACM-2318
 
-kimbleton s r modeling evaluation <b>performance</b> analytic <b>models</b> simulation <b>models</b>
-which the use of a model is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of computer <b>system</b> <b>models</b> in <b>performance</b> evaluation <b>models</b>
+constitute a useful means of investigating computer <b>system</b> <b>performance</b> this
 <b>system</b> <b>models</b> 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 2) CACM-2984
 
+
+[4.166666666666667, 2.2857142857142856, 2.0]
+dor p computer <b>system</b> <b>performance</b> evaluation cost utilization <b>system</b> balance
+cost utilization a measure of <b>system</b> <b>performance</b> a method is
 representation of <b>system</b> <b>performance</b> cacm march 1977 borovits i ein
-presented for evaluating computer <b>system</b> <b>performance</b> in terms of a
-indicate the extent to which the total <b>system</b> cost is
 
 3) CACM-2319
 
+
+[4.166666666666667, 3.0, 3.0]
 computer <b>system</b> operating <b>system</b> <b>performance</b> evaluation <b>performance</b> measurement measurement techniques
-total <b>system</b> must be developed to be able to analyze
-such total <b>system</b> designs are exceptional today it is projected
+positions with respect to operating <b>system</b> <b>performance</b> is given while
+operating <b>system</b> <b>performance</b> an overview of the current and future
 
 4) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 systems systems analysis management <b>information</b> systems <b>information</b> systems development <b>information</b>
-need for education related to <b>information</b> systems in organizations is
 curriculum recommendations for graduate professional programs in <b>information</b> systems the
+need for education related to <b>information</b> systems in organizations is
 
 5) CACM-2407
 
-<b>system</b> design systems analysis 1.52 3.51 ca731201 jb january 19
-problems of implementation are discussed cacm december 1973 couger j
-necessary for such programs is identified and courses incorporating it
+
+[3.5714285714285716, 2.0, 2.0]
+d education undergraduate curricula management systems <b>information</b> systems <b>information</b> analysis
+for education related to <b>information</b> systems in organizations is discussed
+and a curriculum is proposed for an undergraduate program material
 
 -----------------------------------------------------------------
 For Query 46 : the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
@@ -1563,32 +2013,42 @@ Top 5 documents are:
 
 1) CACM-1457
 
-salton g ca660315 jb march 3 1978 11:35 am
-programming facilities to aid in <b>information</b> <b>retrieval</b> cacm march 1966
-or list structures the main data manipulations to be performed
+
+[4.9, 2.0, 1.5]
+data manipulation and programming <b>problems</b> in <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b>
+in <b>automatic</b> <b>information</b> systems are first briefly reviewed a variety
+<b>information</b> <b>retrieval</b> programs require the manipulation of a variety of
 
 2) CACM-1653
 
+
+[2.0, 1.5, 1.125]
 system <b>performance</b> <b>evaluation</b> survey and appraisal the state of the
-are presented as three levels of approach to <b>evaluation</b> requiring
 art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals
+in <b>performance</b> <b>evaluation</b> and in the development of <b>evaluation</b> methods
 
 3) CACM-0891
 
-with limited bubget and personnel the solution however is quite
-v w ca630329 jb march 14 1978 12:37 pm
+
+[3.0, 3.0, 2.6666666666666665]
 to install an <b>information</b> <b>retrieval</b> program in less than three
+many groups who have previously dismissed an <b>information</b> <b>retrieval</b> program
+everyman s <b>information</b> <b>retrieval</b> system the <b>information</b> <b>retrieval</b> problem whose
 
 4) CACM-2711
 
-requests it appears that the best <b>indexing</b> property space is
+
+[2.25, 2.0, 1.8]
+g wong a yang c s <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b>
+a vector space model for <b>automatic</b> <b>indexing</b> in a document
 <b>indexing</b> content analysis document space 3.71 3.73 3.74 3.75 ca751101
-density of the object space in particular <b>retrieval</b> <b>performance</b> may
 
 5) CACM-2278
 
-on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
+
+[4.0, 2.2857142857142856, 1.3333333333333333]
 <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 jb january
+on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
 cacm september 1972 tan k c binary trees search trees
 
 -----------------------------------------------------------------
@@ -1598,33 +2058,43 @@ Top 5 documents are:
 
 1) CACM-2318
 
-kimbleton s r modeling evaluation <b>performance</b> analytic <b>models</b> simulation <b>models</b>
-which the use of a model is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of computer <b>system</b> <b>models</b> in <b>performance</b> evaluation <b>models</b>
+constitute a useful means of investigating computer <b>system</b> <b>performance</b> this
 <b>system</b> <b>models</b> 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 2) CACM-2288
 
-file organization the consecutive <b>retrieval</b> property the consecutive <b>retrieval</b> property
+
+[9.0, 5.444444444444445, 3.0]
 file organization consecutive storage consecutive <b>retrieval</b> <b>information</b> <b>retrieval</b> record organization
+file organization the consecutive <b>retrieval</b> property the consecutive <b>retrieval</b> property
 some important theorems on the consecutive <b>retrieval</b> property are proved
 
 3) CACM-1699
 
+
+[5.444444444444445, 3.0, 2.0]
 testing <b>information</b> <b>system</b> evaluation experimental document <b>retrieval</b> document <b>retrieval</b> document
+of the research is that an <b>information</b> <b>retrieval</b> <b>system</b> that
 to evaluate the capabilities of mechanized <b>information</b> <b>retrieval</b> systems with
-terminal communication <b>retrieval</b> command language symbolic command language interactive systems
 
 4) CACM-2278
 
-on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
+
+[4.0, 2.2857142857142856, 1.3333333333333333]
 <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 jb january
+on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
 cacm september 1972 tan k c binary trees <b>search</b> trees
 
 5) CACM-3134
 
-the organization an d <b>retrieval</b> of <b>information</b> are described this
-the use of normal multiplication tables for <b>information</b> storage and
-the inverted file technique cacm march 1979 motzkin d <b>information</b>
+
+[3.5714285714285716, 2.5, 2.5]
+of <b>information</b> systems the normal multiplication table method yields far
+<b>retrieval</b> of attribute based <b>information</b> systems using the normal multiplication
+<b>retrieval</b> inverted files multiattribute <b>retrieval</b> multilist file normal multiplication table
 
 -----------------------------------------------------------------
 For Query 48 : the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
@@ -1633,33 +2103,43 @@ Top 5 documents are:
 
 1) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 <b>algorithm</b> 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 2) CACM-2325
 
-the analysis of continuous <b>algorithms</b> four of the components of
+
+[2.2857142857142856, 2.25, 2.0]
+<b>numerical</b> mathematics and <b>computer</b> <b>science</b> <b>numerical</b> mathematics is viewed as
 systems computational <b>complexity</b> synthesis and analysis of <b>algorithms</b> analysis of
 <b>numerical</b> mathematics are discussed these are foundations finite precision number
 
 3) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+<b>generating</b> the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-<b>generating</b> the next permutation are very simple performance tests which
 
 4) CACM-2324
 
+
+[5.444444444444445, 2.0, 2.0]
 <b>programming</b> <b>linear</b> <b>programming</b> mathematical <b>programming</b> nonlinear <b>programming</b> quadratic <b>programming</b> management
-<b>programming</b> techniques it is forecast that the useful contributions to
 of integer and continuous nonlinear <b>programming</b> is presented as well
+nonlinear <b>programming</b> actually made in the next few years are
 
 5) CACM-1990
 
+
+[2.0, 1.6, 0]
+<b>algorithm</b> <b>numerical</b> constants 5.10 ca700915 jb february 10 1978 9:48
 <b>numerical</b> constants <b>algorithm</b> cacm september 1970 dunham c b <b>numerical</b>
 am
-<b>algorithm</b> <b>numerical</b> constants 5.10 ca700915 jb february 10 1978 9:48
 
 -----------------------------------------------------------------
 For Query 49 : the role of information retrieval in knowledge based systems i e expert systems
@@ -1668,33 +2148,43 @@ Top 5 documents are:
 
 1) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis management <b>information</b> <b>systems</b> <b>information</b> <b>systems</b> development <b>information</b>
-need for education related to <b>information</b> <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in <b>information</b> <b>systems</b> the
+need for education related to <b>information</b> <b>systems</b> in organizations is
 
 2) CACM-2407
 
-system design <b>systems</b> analysis 1.52 3.51 ca731201 jb january 19
-problems of implementation are discussed cacm december 1973 couger j
-necessary for such programs is identified and courses incorporating it
+
+[3.5714285714285716, 2.0, 2.0]
+d education undergraduate curricula management <b>systems</b> <b>information</b> <b>systems</b> <b>information</b> analysis
+for education related to <b>information</b> <b>systems</b> in organizations is discussed
+and a curriculum is proposed for an undergraduate program material
 
 3) CACM-0651
 
-pm
+
+[1.0, 0, 0]
 january 1962 grems m ca620108 jb march 20 1978 4:36
+pm
 a survey of languages and <b>systems</b> for <b>information</b> <b>retrieval</b> cacm
 
 4) CACM-2479
 
+
+[8.0, 3.5714285714285716, 3.5714285714285716]
 <b>information</b> <b>systems</b> administration <b>information</b> <b>systems</b> management computer management 1.52 3.51
-mcfarlan f w nolan r l education management <b>information</b> <b>systems</b>
-curriculum recommendations for graduate professional programs in <b>information</b> <b>systems</b> recommended
+curriculum a course on <b>information</b> <b>systems</b> administration it is important
+addendum on <b>information</b> <b>systems</b> administration an addendum to the report
 
 5) CACM-3134
 
-the organization an d <b>retrieval</b> of <b>information</b> are described this
-the use of normal multiplication tables for <b>information</b> storage and
-the inverted file technique cacm march 1979 motzkin d <b>information</b>
+
+[3.5714285714285716, 2.5, 2.5]
+of <b>information</b> <b>systems</b> the normal multiplication table method yields far
+<b>retrieval</b> of attribute <b>based</b> <b>information</b> <b>systems</b> using the normal multiplication
+<b>retrieval</b> inverted files multiattribute <b>retrieval</b> multilist file normal multiplication table
 
 -----------------------------------------------------------------
 For Query 50 : parallel processors in information retrieval
@@ -1703,33 +2193,43 @@ Top 5 documents are:
 
 1) CACM-2278
 
-on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
+
+[4.0, 2.2857142857142856, 1.3333333333333333]
 <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 jb january
+on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
 cacm september 1972 tan k c binary trees search trees
 
 2) CACM-0891
 
-with limited bubget and personnel the solution however is quite
-v w ca630329 jb march 14 1978 12:37 pm
+
+[3.0, 3.0, 2.6666666666666665]
 to install an <b>information</b> <b>retrieval</b> program in less than three
+many groups who have previously dismissed an <b>information</b> <b>retrieval</b> program
+everyman s <b>information</b> <b>retrieval</b> system the <b>information</b> <b>retrieval</b> problem whose
 
 3) CACM-3134
 
-the organization an d <b>retrieval</b> of <b>information</b> are described this
-the use of normal multiplication tables for <b>information</b> storage and
-the inverted file technique cacm march 1979 motzkin d <b>information</b>
+
+[3.5714285714285716, 2.5, 2.5]
+of <b>information</b> systems the normal multiplication table method yields far
+<b>retrieval</b> of attribute based <b>information</b> systems using the normal multiplication
+<b>retrieval</b> inverted files multiattribute <b>retrieval</b> multilist file normal multiplication table
 
 4) CACM-2288
 
-file organization the consecutive <b>retrieval</b> property the consecutive <b>retrieval</b> property
+
+[9.0, 5.444444444444445, 3.0]
 file organization consecutive storage consecutive <b>retrieval</b> <b>information</b> <b>retrieval</b> record organization
+file organization the consecutive <b>retrieval</b> property the consecutive <b>retrieval</b> property
 some important theorems on the consecutive <b>retrieval</b> property are proved
 
 5) CACM-1927
 
-science <b>information</b> organization <b>information</b> <b>retrieval</b> data <b>retrieval</b> language analysis <b>information</b>
-<b>information</b> science in a ph computer science program this report
+
+[6.4, 3.5714285714285716, 3.0]
 course curriculum graduate courses university courses computer science curriculum <b>information</b>
+<b>information</b> science in a ph computer science program this report
+ph computer science program the subject area is first briefly
 
 -----------------------------------------------------------------
 For Query 51 : parallel processors and paging algorithms
@@ -1738,33 +2238,43 @@ Top 5 documents are:
 
 1) CACM-2022
 
+
+[1.0, 1.0, 0]
 note on an anomaly in <b>paging</b> cacm july 1970 pomeranz
-jb february 10 1978 4:17 pm
 j e <b>paging</b> machines demand <b>paging</b> replacement algorithm 4.30 ca700715
+jb february 10 1978 4:17 pm
 
 2) CACM-2085
 
+
+[1.0, 1.0, 1.0]
 r h <b>paging</b> machines demand <b>paging</b> replacement algorithm 4.30 ca700313
 jb february 13 1978 3:39 pm
 comment on a <b>paging</b> anomaly cacm march 1970 dempster j
 
 3) CACM-3075
 
+
+[2.25, 2.0, 1.3333333333333333]
 n using n 1 1 k <b>processors</b> for k an
-which no memory contention is permitted a procedure is also
-time a realistic model is used model is used in
+fast <b>parallel</b> sorting <b>algorithms</b> a <b>parallel</b> bucket sort algorithm is
+of n <b>processors</b> the algorithm makes use of a technique
 
 4) CACM-3006
 
-anomalies are presented two <b>paging</b> algorithm properties the inclusion property
-of their anomaly potential and reference string examples of various
-increase in mean memory allocation may result in an increase
+
+[2.0, 2.0, 2.0]
+in fault rate two <b>paging</b> <b>algorithms</b> are examined in terms
+graham g gupta r anomaly memory management program behavior stack
+fact that with certain reference strings and <b>paging</b> <b>algorithms</b> an
 
 5) CACM-2714
 
-general case and km p k 1 2 m p
+
+[4.166666666666667, 3.2, 3.125]
+constant the algorithm requires 2 log2 m 1 m p
 october 1975 gavril f <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary
-which requires at most 2 log2 2m 1 3m p
+previous best <b>parallel</b> merging algorithm batcher s algorithm which requires
 
 -----------------------------------------------------------------
 For Query 52 : modelling and simulation in agricultural ecosystems
@@ -1773,30 +2283,40 @@ Top 5 documents are:
 
 1) CACM-2721
 
+
+[4.166666666666667, 2.6666666666666665, 1.8]
 the digital <b>simulation</b> of river plankton population dynamics this paper
+1975 claudson r m digital <b>simulation</b> mathematical modeling plankton population
 the digital <b>simulation</b> in fortran iv of phytoplankton and zooplankton
-the accuracy of the <b>simulation</b> methods a <b>simulation</b> of the
 
 2) CACM-2749
 
+
+[8.0, 3.0, 3.0]
 organization event <b>simulation</b> clock pulse <b>simulation</b> significant event <b>simulation</b> 8.1
-automobile traffic models the significant event method is found to
-<b>simulation</b> organization called the significant event method with an old
+one called the clock pulse method using as examples two
+be more efficient than the clock pulse method at low
 
 3) CACM-3070
 
+
+[3.0, 3.0, 2.0]
 structure and operation of a hybrid <b>simulation</b> model in which
-<b>simulation</b> only model cacm september 1978 schwetman h performance evaluation
-used to model the arrival and activation of jobs and
+hybrid <b>simulation</b> models of computer systems this paper describes the
+produce efficient yet accurate system models in an example based
 
 4) CACM-3061
 
+
+[3.125, 3.0, 0]
 tenenbaum a searching list processing sequential searching dynamic reordering <b>simulation</b>
 simulations of dynamic sequential search algorithms none cacm september 1978
 3.74 8.1 ca780911 dh january 29 1979 6:30 pm
 
 5) CACM-0557
 
+
+[0, 0]
 <b>simulation</b> of computer timing device cacm july 1962 ca620704 jb
 march 17 1978 8:57 pm
 
@@ -1807,30 +2327,40 @@ Top 5 documents are:
 
 1) CACM-0569
 
-jb march 17 1978 9:22 pm
+
+[1.0, 0]
 <b>binomial</b> <b>coefficients</b> algorithm 19 cacm june 1962 steck b ca620616
+jb march 17 1978 9:22 pm
 
 2) CACM-0514
 
-jb march 17 1978 9:40 pm
+
+[1.0, 0]
 <b>binomial</b> <b>coefficients</b> algorithm 19 cacm august 1962 george r ca620814
+jb march 17 1978 9:40 pm
 
 3) CACM-0139
 
-ca601009 jb march 20 1978 8:14 pm
+
+[1.0, 0]
 <b>binomial</b> <b>coefficients</b> algorithm 19 cacm october 1960 kenyon r r
+ca601009 jb march 20 1978 8:14 pm
 
 4) CACM-1887
 
+
+[2.6666666666666665, 2.0, 1.8]
 1969 sweet r a pentadiagonal <b>matrix</b> quindiagonal <b>matrix</b> quindiagonal <b>matrix</b>
-the determinant of a pentadiagonal <b>matrix</b> a numerical example is
 band <b>matrix</b> determinant characteristic polynomial eigenvalues 5.14 ca690606 jb february
+the determinant of a pentadiagonal <b>matrix</b> a numerical example is
 
 5) CACM-1948
 
-to an increasingly diverse range of problems in <b>group</b> <b>theory</b>
+
+[3.0, 2.25, 2.0]
+and commutator calculus <b>group</b> <b>theory</b> programs range from simple combinatorial
 computers in <b>group</b> <b>theory</b> a survey computers are being applied
-cannon j j <b>group</b> <b>theory</b> coset enumeration subgroup lattices automorphism
+to an increasingly diverse range of problems in <b>group</b> <b>theory</b>
 
 -----------------------------------------------------------------
 For Query 54 : semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
@@ -1839,32 +2369,42 @@ Top 5 documents are:
 
 1) CACM-2295
 
-structures 1.3 4.2 4.22 5.23 5.24 ca720807 jb january 30
+
+[4.0, 1.8, 1.3333333333333333]
 <b>languages</b> algol <b>semantics</b> recursive composition design of <b>programming</b> <b>languages</b> <b>data</b>
 comment on the composition of <b>semantics</b> in algol 68 cacm
+august 1972 van der poel w l <b>programming</b> primitives <b>programming</b>
 
 2) CACM-2958
 
+
+[6.4, 3.6, 3.2]
 <b>abstract</b> <b>data</b> type <b>correctness</b> proof <b>data</b> type <b>data</b> structure specification
+<b>abstract</b> <b>data</b> <b>types</b> and the development of <b>data</b> structures <b>abstract</b>
 the specification of <b>abstract</b> <b>data</b> <b>types</b> among the examples presented
-<b>data</b> <b>types</b> can play a significant role in the development
 
 3) CACM-2406
 
-a <b>data</b> definition and mapping language a <b>data</b> definition language
+
+[4.5, 4.0, 2.7777777777777777]
 r w <b>data</b> definition language <b>data</b> and storage structure <b>data</b>
+a <b>data</b> definition and mapping language a <b>data</b> definition language
 the <b>data</b> definition language for describing both logical and physical
 
 4) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships <b>programming</b> language tree <b>programming</b> language history <b>programming</b> language future
 <b>programming</b> <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 <b>programming</b> <b>languages</b> history and future this paper discusses both the
 
 5) CACM-2651
 
-<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
+
+[2.6666666666666665, 2.5, 2.0]
 generic functions extensible <b>languages</b> <b>data</b> type definition <b>data</b> description language
+<b>data</b> <b>types</b> includes provision for programmer defined <b>data</b> <b>types</b> <b>data</b>
 very flexible <b>data</b> type behavior in a context that allows
 
 -----------------------------------------------------------------
@@ -1874,30 +2414,40 @@ Top 5 documents are:
 
 1) CACM-1896
 
-<b>regular</b> coulomb wave functions algorithm 292 s22 cacm may 1969
+
+[8.0, 4.0, 1.0]
 gautschi w coulomb wave functions wave functions <b>regular</b> coulomb wave
+<b>regular</b> coulomb wave functions algorithm 292 s22 cacm may 1969
 functions 5.12 ca690513 jb february 17 1978 3:15 pm
 
 2) CACM-1898
 
-wave functions 5.12 ca690511 jb february 17 1978 3:19 pm
-<b>regular</b> coulomb wave functions algorithm 292 s22 cacm may 1969
+
+[7.0, 4.0, 2.0]
 kolbig k s coulomb wave functions wave functions <b>regular</b> coulomb
+<b>regular</b> coulomb wave functions algorithm 292 s22 cacm may 1969
+wave functions 5.12 ca690511 jb february 17 1978 3:19 pm
 
 3) CACM-1993
 
+
+[4.0, 4.0, 3.6]
 <b>regular</b> coulomb wave functions algorithm 292 s22 cacm september 1970
-functions <b>regular</b> coulomb wave functions 5.12 ca700912 jb february 10
 cody w j paciorek k a coulomb wave functions wave
+functions <b>regular</b> coulomb wave functions 5.12 ca700912 jb february 10
 
 4) CACM-1739
 
-strings embedded in character text is described and an implementation
-search match <b>regular</b> expression 3.74 4.49 5.32 ca680606 jb february
+
+[3.0, 2.25, 2.0]
 <b>regular</b> expression search algorithm a method for locating specific character
+search match <b>regular</b> expression 3.74 4.49 5.32 ca680606 jb february
+discussed the compiler accepts a <b>regular</b> expression as source language
 
 5) CACM-1355
 
+
+[1.0, 0]
 w ca661103a jb march 2 1978 3:43 pm
 <b>regular</b> coulomb wave functions algorithm 292 cacm november 1966 gautschi
 
@@ -1908,33 +2458,43 @@ Top 5 documents are:
 
 1) CACM-2327
 
+
+[4.0, 2.0, 2.0]
 1972 arbib m a <b>automata</b> <b>theory</b> brain <b>theory</b> network complexity
 toward an <b>automata</b> <b>theory</b> of brains a source of ideas
 suggests the ways in which <b>automata</b> <b>theory</b> might evolve over
 
 2) CACM-1678
 
-the graduate program is discussed cacm november 1968 mcnaughton r
-the area describe as <b>automata</b> formal <b>languages</b> abstract switching and
+
+[8.1, 3.6, 3.2]
 ph computer science curriculum ph computer science program <b>automata</b> formal
+<b>automata</b> formal <b>languages</b> abstract switching and computability in a ph
+the area describe as <b>automata</b> formal <b>languages</b> abstract switching and
 
 3) CACM-2316
 
+
+[7.111111111111111, 4.9, 3.2]
 interrelationships programming language tree programming language history programming language future
 programming <b>languages</b> higher level <b>languages</b> <b>languages</b> history future directions language
 programming <b>languages</b> history and future this paper discusses both the
 
 4) CACM-2323
 
-symbolic integration <b>algebraic</b> geometry differential algebra 1.50 3.15 5.19 5.9
+
+[5.0, 3.2, 2.25]
+july 1972 moses j <b>algebraic</b> manipulation special functions <b>algebraic</b> simplification
 toward a general <b>theory</b> of special functions a list of
-solutions to differential equations such a <b>theory</b> is preferable to
+symbolic integration <b>algebraic</b> geometry differential algebra 1.50 3.15 5.19 5.9
 
 5) CACM-2603
 
+
+[4.166666666666667, 3.2, 3.0]
 the equivalence of reducing transition <b>languages</b> and deterministic <b>languages</b> the
-superclass of the simple precedence <b>languages</b> in this paper this
-is equivalent to the class of deterministic context free <b>languages</b>
+class of reducing transition <b>languages</b> introduced by eickel paul bauer
+cacm september 1974 schkolnick m reducing transition <b>languages</b> syntax controlled
 
 -----------------------------------------------------------------
 For Query 57 : abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
@@ -1943,27 +2503,37 @@ Top 5 documents are:
 
 1) CACM-1106
 
+
+[0, 0]
 <b>programming</b> of digital computers <b>cacm</b> april 1964 <b>perlis</b> a j
 ca640402 jb march 10 1978 1:54 am
 
 2) CACM-3077
 
+
+[9.0, 4.5, 3.6]
 <b>programs</b> combining forms <b>functional</b> forms <b>programming</b> languages <b>von</b> <b>neumann</b> computers
-new class of computing systems uses the <b>functional</b> <b>programming</b> <b>style</b>
-computation <b>cacm</b> august 1978 <b>backus</b> j <b>functional</b> <b>programming</b> <b>algebra</b> of
+applicative state transition systems program transformation program correctness program termination
+<b>functional</b> <b>style</b> and its <b>algebra</b> of <b>programs</b> conventional <b>programming</b> languages
 
 3) CACM-0019
 
+
+[0, 0]
 glossary of computer engineering and <b>programming</b> terminology <b>cacm</b> june 1958
 ca580603 jb march <b>22</b> 1978 9:07 pm
 
 4) CACM-0223
 
+
+[0, 0]
 selfcipher <b>programming</b> <b>cacm</b> february 1960 pelta h n ca600209 jb
 march <b>22</b> 1978 2:13 pm
 
 5) CACM-0004
 
+
+[0, 0]
 glossary of computer engineering and <b>programming</b> terminology <b>cacm</b> november 1958
 ca581103 jb march <b>22</b> 1978 8:32 pm
 
@@ -1974,33 +2544,43 @@ Top 5 documents are:
 
 1) CACM-2395
 
-<b>regression</b> with <b>linear</b> constraints the <b>regression</b> method is published in
-constraints iteration 5.15 5.41 ca720108 jb february 1 1978 9:09
+
+[6.0, 4.5, 1.5]
+equations nonlinear <b>regression</b> nonlinear programming quadratic programming least <b>squares</b> inequality
 quadratic programming for nonlinear <b>regression</b> a quadratic programming algorithm is
+<b>regression</b> with <b>linear</b> constraints the <b>regression</b> method is published in
 
 2) CACM-2318
 
-kimbleton s r modeling evaluation performance analytic <b>models</b> simulation <b>models</b>
-which the use of a model is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of computer <b>system</b> <b>models</b> in performance evaluation <b>models</b>
+constitute a useful means of investigating computer <b>system</b> performance this
 <b>system</b> <b>models</b> 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 3) CACM-1344
 
-variance <b>models</b> are considered a procedure for obtaining variance <b>components</b>
-<b>statistical</b> computations based upon algebraically specified <b>models</b> based upon a
+
+[2.0, 2.0, 1.0]
 method of performing calculations for <b>statistical</b> <b>models</b> of a balanced
+machine readable <b>statistical</b> model and related symbolic specifications an efficient
+variance <b>models</b> are considered a procedure for obtaining variance <b>components</b>
 
 4) CACM-1474
 
+
+[2.25, 1.0, 1.0]
+certain probabilistic <b>models</b> for roundoff error and then to describe
 very good discrepancies are both rare and mild the <b>test</b>
-<b>tests</b> of probabilistic <b>models</b> for propagation of roundoff errors in
-techniques can also be used to experiment with various types
+effect of roundoff errors is in some sense <b>statistical</b> the
 
 5) CACM-2634
 
-use <b>tests</b> were made for each of these systems and
-the results are summarized as to cost and performance cacm
-statistics bivariate tables pearson correlation <b>regression</b> factor analysis one way
+
+[1.3333333333333333, 1.0, 1.0]
+june 1974 slysz w d <b>statistical</b> computation <b>statistical</b> software descriptive
+of <b>statistical</b> <b>packages</b> for general use among those most widely
+an evaluation of <b>statistical</b> software in the social sciences several
 
 -----------------------------------------------------------------
 For Query 59 : dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
@@ -2009,33 +2589,43 @@ Top 5 documents are:
 
 1) CACM-1703
 
-wants standardization and reliable identification of programming languages and <b>related</b>
-to allow local variations with the <b>language</b> explicit standardization of
-the <b>language</b> is undertaken at the organizational source of the
+
+[5.444444444444445, 3.0, 2.7777777777777777]
+standardization programming languages trac t-64 <b>language</b> tranemark public identification of
+programming languages standards which accommodate 2.12 4.2 2.9 ca680811 jb
+accommodating standards and identification of programming languages the user public
 
 2) CACM-1681
 
-the printout of a <b>retrieval</b> demonstration cacm october 1968 rubinoff
-<b>retrieval</b> <b>language</b> symbolic command <b>language</b> 3.74 3.81 4.19 ca681006 jb
+
+[4.166666666666667, 3.6, 2.5]
 on line searching remote console communication <b>information</b> <b>retrieval</b> man machine
+easy <b>english</b> a <b>language</b> for <b>information</b> <b>retrieval</b> through a remote
+communication remote terminal communication translator document <b>retrieval</b> conversational mode <b>information</b>
 
 3) CACM-2437
 
-is <b>applied</b> to a group of transformation <b>methods</b> using files
-and the average performance of the transformation <b>methods</b> on these
-address transformation <b>methods</b> in this approach the keys in a
+
+[5.444444444444445, 4.5, 4.166666666666667]
+y <b>hashing</b> <b>hashing</b> techniques <b>hashing</b> <b>methods</b> hash coding key transformation
+general performance analysis of key to address transformation <b>methods</b> using
+storage <b>information</b> <b>retrieval</b> <b>hashing</b> analysis randomization performance analysis 3.7 3.72
 
 4) CACM-1441
 
-are found to be slightly superior but no one method
-waters j ca660408 jb march 3 1978 10:37 am
+
+[1.0, 1.0, 1.0]
 some of the newer one step <b>methods</b> due to butcher
+relatively trivial recent <b>methods</b> due to butcher and gear are
+<b>methods</b> of numerical integration require the least computation time for
 
 5) CACM-0891
 
-with limited bubget and personnel the solution however is quite
-v w ca630329 jb march 14 1978 12:37 pm
+
+[3.0, 3.0, 2.6666666666666665]
 to install an <b>information</b> <b>retrieval</b> program in less than three
+many groups who have previously dismissed an <b>information</b> <b>retrieval</b> program
+everyman s <b>information</b> <b>retrieval</b> system the <b>information</b> <b>retrieval</b> problem whose
 
 -----------------------------------------------------------------
 For Query 60 : hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
@@ -2044,32 +2634,42 @@ Top 5 documents are:
 
 1) CACM-2311
 
+
+[4.0, 2.25, 1.5]
 a generational perspective of information <b>system</b> development <b>system</b> development is
-<b>system</b> developer are examined cacm july 1972 benjamin r i
-commonly described computing <b>system</b> generations for each generation the scope
+computing milieu <b>management</b> data processing <b>hardware</b> <b>systems</b> <b>software</b> <b>systems</b> <b>systems</b>
+development process functional <b>systems</b> <b>management</b> <b>systems</b> 2.0 3.50 4.0 6.20
 
 2) CACM-2345
 
+
+[4.9, 2.25, 2.0]
 <b>systems</b> <b>systems</b> analysis <b>management</b> information <b>systems</b> information <b>systems</b> development information
-need for education related to information <b>systems</b> in organizations is
 curriculum recommendations for graduate professional programs in information <b>systems</b> the
+need for education related to information <b>systems</b> in organizations is
 
 3) CACM-2407
 
-<b>system</b> design <b>systems</b> analysis 1.52 3.51 ca731201 jb january 19
-problems of implementation are discussed cacm december 1973 couger j
-necessary for such programs is identified and courses incorporating it
+
+[3.5714285714285716, 2.0, 2.0]
+d education undergraduate curricula <b>management</b> <b>systems</b> information <b>systems</b> information analysis
+for education related to information <b>systems</b> in organizations is discussed
+and a curriculum is proposed for an undergraduate program material
 
 4) CACM-2151
 
-such a <b>system</b> and the characteristics of this implementation are
-reported a scenario showing the <b>system</b> in use is presented
-user programs in a time shared environment the tx-2 computer
+
+[5.444444444444445, 2.6666666666666665, 2.6666666666666665]
+<b>software</b> measurement user program measurement measurement technology tx-2 computer virtual
+user program measurement in a time shared environment a general
+rovner p d operating <b>systems</b> multiprogramming <b>systems</b> time sharing <b>systems</b>
 
 5) CACM-2882
 
-data retrieval <b>system</b> which has the effect of significantly reducing
+
+[5.142857142857143, 3.5714285714285716, 3.2]
 alternative data retrieval <b>systems</b> these data retrieval <b>systems</b> can be
+a stochastic evaluation model for <b>database</b> organization in data retrieval
 to study the effect of <b>database</b> organizations in data retrieval
 
 -----------------------------------------------------------------
@@ -2079,31 +2679,41 @@ Top 5 documents are:
 
 1) CACM-0634
 
-manipulation of trees in <b>information</b> <b>retrieval</b> cacm february 1962 <b>salton</b>
+
+[1.0, 0]
 g ca620209 jb march 20 1978 3:44 pm
+manipulation of trees in <b>information</b> <b>retrieval</b> cacm february 1962 <b>salton</b>
 
 2) CACM-2278
 
-on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
+
+[4.0, 2.2857142857142856, 1.3333333333333333]
 <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 jb january
+on foster s <b>information</b> storage and <b>retrieval</b> using avl trees
 cacm september 1972 tan k c binary trees <b>search</b> trees
 
 3) CACM-3134
 
-the organization an d <b>retrieval</b> of <b>information</b> are described this
-the use of normal multiplication tables for <b>information</b> storage and
-the <b>inverted</b> file technique cacm march 1979 motzkin d <b>information</b>
+
+[3.5714285714285716, 2.5, 2.5]
+of <b>information</b> systems the normal multiplication table method yields far
+<b>retrieval</b> of attribute based <b>information</b> systems using the normal multiplication
+<b>retrieval</b> <b>inverted</b> files multiattribute <b>retrieval</b> multilist file normal multiplication table
 
 4) CACM-2711
 
-requests it appears that the best indexing property <b>space</b> is
+
+[2.25, 2.0, 1.8]
+g wong a yang c s automatic <b>information</b> <b>retrieval</b> automatic
+a <b>vector</b> <b>space</b> <b>model</b> for automatic indexing in a document
 indexing content analysis document <b>space</b> 3.71 3.73 3.74 3.75 ca751101
-density of the object <b>space</b> in particular <b>retrieval</b> performance may
 
 5) CACM-2318
 
-kimbleton s r modeling evaluation performance analytic models simulation models
-which the use of a <b>model</b> is appropriate cacm july,1972
+
+[3.5714285714285716, 3.0, 2.0]
+the role of computer system models in performance evaluation models
+constitute a useful means of investigating computer system performance this
 system models 2.43 2.44 6.2 8.3 ca720710 jb january 30
 
 -----------------------------------------------------------------
@@ -2113,33 +2723,43 @@ Top 5 documents are:
 
 1) CACM-2932
 
+
+[1.3333333333333333, 1.3333333333333333, 1.3333333333333333]
 of <b>complexity</b> of computations is described emphasizing the in terrelation
 discussed cacm september 1977 rabin m o <b>complexity</b> of computations
-december 28 1977 6:54 am
+<b>complexity</b> of computations the framework for research in the <b>theory</b>
 
 2) CACM-2327
 
+
+[4.0, 2.0, 2.0]
 1972 arbib m a automata <b>theory</b> brain <b>theory</b> network <b>complexity</b>
 toward an automata <b>theory</b> of brains a source of ideas
 suggests the ways in which automata <b>theory</b> might evolve over
 
 3) CACM-1961
 
-search algorithm path search algorithm searching 3.74 5.32 ca701202 jb
+
+[3.5714285714285716, 3.2, 2.2857142857142856]
 an efficient search algorithm to find the elementary <b>circuits</b> of
-a graph a theoretically most efficient search algorithm is presented
+search algorithm path search algorithm searching 3.74 5.32 ca701202 jb
+elementary <b>circuits</b> of a graph the algorithm can be easily
 
 4) CACM-2975
 
+
+[2.7777777777777777, 2.6666666666666665, 1.0]
+1977 hollander c data structures directed graphs <b>uniform</b> insertion 4.34
 remark on <b>uniform</b> insertion in structured data structures cacm april
 ca770407 jb december 29 1977 5:04 am
-1977 hollander c data structures directed graphs <b>uniform</b> insertion 4.34
 
 5) CACM-0950
 
-several subtasks which can be computed without knowledge of the
+
+[1.0, 1.0, 1.0]
 serial cacm december 1964 nievergelt j ca641221 jb march 9
 <b>results</b> of the other subtasks as an example a method
+<b>parallel</b> methods for integrating ordinary differential equations this paper is
 
 -----------------------------------------------------------------
 For Query 63 : algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
@@ -2148,33 +2768,43 @@ Top 5 documents are:
 
 1) CACM-3166
 
-will be accurate we conclude that all four <b>algorithms</b> will
+
+[2.0, 2.0, 1.0]
+of the standard deviation of unweighted sampled data are analyzed
+chan t lewis j mean standard deviation least squares updating
 two of the <b>algorithms</b> are well known in the statistical
-four <b>algorithms</b> is analyzed for the conditions under which it
 
 2) CACM-0371
 
+
+[3.125, 1.0, 1.0]
 remarks on <b>algorithms</b> 2 and 3 algorithm 15 and <b>algorithms</b>
 jb march 17 1978 12:35 am
 25 and 26 cacm march 1961 wilkinson j h ca610311
 
 3) CACM-2884
 
+
+[2.5, 1.2857142857142858, 1.0]
 permutation enumeration four new permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b>
+generating the n permutations on n marks four new <b>algorithms</b>
 subscripted array references have shown superiority of the new <b>algorithms</b>
-generating the next permutation are very simple performance tests which
 
 4) CACM-2325
 
-the analysis of continuous <b>algorithms</b> four of the components of
+
+[2.2857142857142856, 2.25, 2.0]
+numerical mathematics and computer science numerical mathematics is viewed as
 systems computational complexity synthesis and analysis of <b>algorithms</b> analysis of
 numerical mathematics are discussed these are foundations finite precision number
 
 5) CACM-2973
 
-to higher dimensional arrays are also given cacm april 1977
-to be optimal in time within small constant factors extensions
+
+[2.25, 1.3333333333333333, 1.0]
 thompson c d kung h t <b>parallel</b> computer <b>parallel</b> sorting
+presented for sorting n 2 elements on an n x
+<b>parallel</b> merge routing and comparison steps perfect shuffle processor in
 
 -----------------------------------------------------------------
 For Query 64 : list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
@@ -2183,29 +2813,39 @@ Top 5 documents are:
 
 1) CACM-0347
 
+
+[1.3333333333333333, 0, 0]
 gamma function for range <b>1</b> to 2 algorithm 54 cacm
 april 1961 herndon j r ca610421 jb march 16 1978
 11:45 pm
 
 2) CACM-0812
 
+
+[1.0, 0]
 smoothing <b>1</b> algorithm 188 cacm july 1963 rodriguez gil f
 ca630712 jb march 14 1978 8:34 am
 
 3) CACM-0782
 
+
+[1.0, 0]
 telescope <b>1</b> algorithm 37 cacm august 1963 bridges j f
 ca630816 jb march 13 1978 8:31 pm
 
 4) CACM-2392
 
-5.14 ca720111 jb february <b>1</b> 1978 8:57 am
+
+[2.0, 2.0, 1.0]
 in situ transposition of a rectangular matrix f1 algorithm c380
 cacm january 1972 macleod i d g rectangular matrix transpose
+5.14 ca720111 jb february <b>1</b> 1978 8:57 am
 
 5) CACM-1539
 
+
+[9.0, 3.5714285714285716, 0]
 prime number generator <b>1</b> prime number generator 2 algorithm 35
-chartres b a ca670907c jb march 23 1978 2:37 pm
 a1 algorithm 310 a1 algorithm 311 a1 cacm september 1967
+chartres b a ca670907c jb march 23 1978 2:37 pm
 

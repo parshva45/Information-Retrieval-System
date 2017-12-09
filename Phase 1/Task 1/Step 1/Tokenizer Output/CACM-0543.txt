@@ -1,1 +1,1 @@
-interpolation by aitken algorithm 70 cacm july 1962 relph a p ca620718 jb march 17 1978 8:19 pm 543 5 543 543 5 543 543 5 543
+interpolation by aitken algorithm 70 cacm july 1962 relph a p ca620718 jb march 17 1978 8:19 pm

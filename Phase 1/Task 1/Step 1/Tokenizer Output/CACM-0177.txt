@@ -1,1 +1,1 @@
-solution of polynomial equation by bairstow hitchcock method a a grau communications acm february 1960 algorithm cacm june 1960 thacher jr h c ca600613 jb march 20 1978 9:31 pm 177 5 177 177 5 177 177 5 177
+solution of polynomial equation by bairstow hitchcock method a a grau communications acm february 1960 algorithm cacm june 1960 thacher jr h c ca600613 jb march 20 1978 9:31 pm

@@ -1,1 +1,1 @@
-curve fitting with format fortran cacm december 1964 garber m j ca641211 jb march 9 1978 3:25 pm 960 5 960 960 5 960 960 5 960
+curve fitting with format fortran cacm december 1964 garber m j ca641211 jb march 9 1978 3:25 pm

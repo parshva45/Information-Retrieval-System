@@ -1,1 +1,1 @@
-realizing boolean connectives on the ibm 1620 cacm july 1963 hellerman h senzig d n ca630706 jb march 14 1978 8:44 am 818 5 818 818 5 818 818 5 818
+realizing boolean connectives on the ibm 1620 cacm july 1963 hellerman h senzig d n ca630706 jb march 14 1978 8:44 am
