@@ -3,7 +3,6 @@ import collections
 import os
 
 d1 = {}                                                      #dictionary to store term, term frequency
-#docID = 0                                                    #gives the document ID for a particular document
 doc_name = []                                                #list to store all the document names obtained
 docID_doclen = {}                                            #dictionary to store the document length of a particular document
 docID_docName = {}
@@ -19,23 +18,19 @@ def generate_ngrams(words_list, n):                           #Function to gener
 
 
 def inverted_index(file):                                     #Function to generate inverted index
-    #c = 1
     d1 = {}
     inv_index_unigram = {}
     current_file = os.path.join(path,file)
     terms = open(current_file,'r').read()
     term_list = terms.split()
-    #docID_doclen[file[:-4]] = len(term_list)
     for i, term in enumerate(term_list,1):
         if term in d1:
             d1[term].append(i)
         else:
-            #position = []
             d1[term] = []
             d1[term].append(i)
         tuple = file[:-4],d1[term]
         inv_index_unigram[term] = tuple
-        #c += 1
     return inv_index_unigram
 
 parent_inverted_list = {}
@@ -62,19 +57,3 @@ output.close()
 output = open('inverted_list_unigram_position_encoded.txt' , 'wb')
 pickle.dump(inv_list_unigram , output)
 output.close()
-
-#print(inv_list_unigram['for'])
-
-for val in inv_list_unigram['and']:
-    if val[0] == 'CACM-0405':
-        print(val)
-
-'''
-f = open("DocumentID-DocLen.txt", 'w', encoding = 'utf-8')
-f.write(str(docID_doclen))
-f.close()
-
-output = open('DocumentID-DocLen-encoded.txt' , 'wb')
-pickle.dump(docID_doclen , output)
-output.close()
-'''

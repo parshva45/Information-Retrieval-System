@@ -1,19 +1,25 @@
 import pickle
 import math
 import collections
+import os
+
+newpath = 'Top_100_docs_using_proximity_encoded/'
+if not os.path.exists(newpath):
+    os.makedirs(newpath)
 
 with open("inverted_list_unigram_position_encoded.txt", 'rb') as f:
     inverted_index = pickle.loads(f.read())
 
-with open("DocumentID-DocLen-encoded.txt", 'rb') as f:
-    docID_doclen = pickle.loads(f.read())
+with open("../Phase 1/Task 1/Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') as f:
+    all_docs = pickle.loads(f.read()).keys()
 
-with open("Cleaned_queries_encoded.txt", 'rb') as f:
+with open("../Phase 1/Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
 
 queryTerm_Position = {}
 queryTerm_docList = {}
 query_positionInfo = {}
+i = 1
 
 def generate_ngrams(words_list, n):                           #Function to generate n-grams
     ngrams_list = []
@@ -26,13 +32,10 @@ def generate_ngrams(words_list, n):                           #Function to gener
 
 query_docNamedocScore = {}
 
-for q in query_dict:
+def calc_score(query):
     document_docScore = {}
-    query_score = 0
-    query = query_dict[q]
     query_terms = query.split()
     bigrams = generate_ngrams(query_terms,2)
-    #print(bigrams)
     for term in query_terms:
         docList = []
         doc_list = []
@@ -46,70 +49,44 @@ for q in query_dict:
     for term in bigrams:
         terms_under_consideration = term.split()
         if len(term.split()) == 2:
-            #print(terms_under_consideration)
-            #print(queryTerm_docList[terms_under_consideration[0]])
-            #print(len(queryTerm_docList[terms_under_consideration[0]]))
-            #print(queryTerm_docList[terms_under_consideration[1]])
-            #print(len(queryTerm_docList[terms_under_consideration[1]]))
-            #print("-----------------------------------------------")
-        #print(list(set(queryTerm_docList[terms_under_consideration[0]] + queryTerm_docList[terms_under_consideration[1]])))
             common_docs = [val for val in queryTerm_docList[terms_under_consideration[0]] if val in queryTerm_docList[terms_under_consideration[1]]]
-            #print(common_docs)
-            #print("-----------------------------------------------")
             for doc in common_docs:
                 positionListOfTerm1 = []
                 positionListOfTerm2 = []
                 value_part_of_term_1 = inverted_index[terms_under_consideration[0]]
                 value_part_of_term_2 = inverted_index[terms_under_consideration[1]]
                 for i in range(0,len(value_part_of_term_1)):
-                    #print(value_part[i])
                     if value_part_of_term_1[i][0] == doc:
-                        #print("aaya")
                         positionListOfTerm1 = value_part_of_term_1[i][1]
-                #print("positionListOfTerm1")
-                #print(positionListOfTerm1)
-                #print("----------------------")
                 for i in range(0,len(value_part_of_term_2)):
-                    #print(value_part[i])
                     if value_part_of_term_2[i][0] == doc:
-                        #print("aaya")
                         positionListOfTerm2 = value_part_of_term_2[i][1]
-                #print("positionListOfTerm2")
-                #print(positionListOfTerm2)
-                #print("----------------------")
                 score = 0
                 for element1 in positionListOfTerm1:
                     for element2 in positionListOfTerm2:
-                        if ( (element1-element2) >= -4) and ( (element1 - element2) <= 0):
+                        if ((element1-element2) >= -4) and ((element1 - element2) <= 0):
                             score += 1
                 if doc not in document_docScore:
                     document_docScore[doc] = score
                 else:
                     document_docScore[doc] += score
-    query_docNamedocScore[q] = document_docScore
+    return document_docScore
 
-#print(query_docNamedocScore)
-for key,value in query_docNamedocScore.items():
-    v = query_docNamedocScore[key]
-    query_docNamedocScore_sorted = collections.OrderedDict(sorted(v.items(), key=lambda x: x[1], reverse=True)) #sort the inverted index
-    query_docNamedocScore[key] = query_docNamedocScore_sorted
-
-print(query_docNamedocScore)
-
-
-
-
-
-
-
-
-
-'''    
-f = open("Query_PositionInfo.txt",'w')
-f.write(str(query_positionInfo))
+f=open('Top_100_pages_for_queries_using_proximity.txt', 'w')
+for query in query_dict.values():
+    c = 1                          #the variable c denotes rank
+    proximity_score = calc_score(query)
+    for doc in all_docs:
+        if doc not in proximity_score:
+            proximity_score[doc] = 0
+    final_score1 = collections.OrderedDict(sorted(proximity_score.items(), key = lambda s : s[1], reverse = True))
+    f.write('\nFor query : %s\n\n' %query)
+    for id in final_score1:
+        if (c <= 100):
+            f.write('%d Q0 %s %d %s Proximity\n' %(i,id,c,final_score1[id]))             #format-> query_id Q0 doc_id rank BM25_score system_name
+            c += 1
+    output = open(newpath + 'Top_100_documents_using_proximity_for_query' + '_%d' %i + '_encoded.txt', 'wb')
+    pickle.dump(final_score1, output)
+    output.close()
+    i += 1
 f.close()
-
-f = open("QueryTerm_DocList.txt", 'w')
-f.write(str(queryTerm_docList))
-f.close()
-'''
