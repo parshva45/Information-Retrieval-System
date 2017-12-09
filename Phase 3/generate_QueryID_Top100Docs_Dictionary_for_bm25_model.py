@@ -5,13 +5,13 @@ from collections import OrderedDict
 path = r'C:\Users\virat\PycharmProjects\Project\Top_100_docs_using_bm25_encoded'
 queryID_top100Docs = {}
 for file in os.listdir(path):
-    doc_qlmScore = {}
+    doc_bm25Score = {}
     current_file = os.path.join(path,file)
     string = current_file.split("Top_100_documents_using_bm25_model_for_query_")
     id = string[1].split("_")[0]
     with open(current_file, 'rb') as f:
-        doc_qlmScore = pickle.loads(f.read())
-    all_docs = list(doc_qlmScore.keys())
+        doc_bm25Score = pickle.loads(f.read())
+    all_docs = list(doc_bm25Score.keys())
     top_100_docs = all_docs[:100]
     queryID_top100Docs[id] = top_100_docs
 

@@ -23,15 +23,6 @@ for doc in top_100_docs:
     queryID_Top100Docs[i].append(doc)
     c = 1
 
-print(queryID_Top100Docs)
-
-for id in queryID_Top100Docs:
-    print(queryID_Top100Docs[id])
-    print(len(queryID_Top100Docs[id]))
-    print("---------------------------")
-
-print(queryID_Top100Docs)
-
 output = open('QueryID_Top100Docs_by_lucene_encoded.txt' , 'wb')
 pickle.dump(queryID_Top100Docs , output)
 output.close()

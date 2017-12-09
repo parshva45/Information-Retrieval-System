@@ -32,10 +32,10 @@ def calc_R_N_list(q):
     return docName_R_N
 
 def Reciprocal_rank(i):
-    docName_R_N = calc_R_N_list(str(i))
+    docName_R_N = calc_R_N_list(i)
     N_R_list = list(docName_R_N.values())
     try:
-        rank = N_R_list.index("R")                 #gets the first occurence of "R"
+        rank = N_R_list.index("R") + 1                 #gets the first occurence of "R"
     except ValueError:
         rank = 0
     if rank == 0:
@@ -50,14 +50,16 @@ for id in queryID_relevantDocs:
     queryID_noOfRelevantDocs[id] = len(queryID_relevantDocs[id])
 
 queryID_finalRecall = {}
-queryID_finalPrecision = {}
+queryID_averagePrecision = {}
 queryID_RR = {}
 precision_at_5 = {}
 precision_at_20 = {}
+queryID_relevantPrecisions = {}
 
-for qID in queryID_query:
+for qID in queryID_relevantDocs:
     rank = 1
     R_count = 0
+    RelevantPrecisions = []
     PrecisionValueList = []
     RecallValueList = []
     no_of_rel_docs = queryID_noOfRelevantDocs[str(rank)]
@@ -73,6 +75,8 @@ for qID in queryID_query:
         if docName_R_N[rel] == "R":
             R_count += 1
         precision = R_count/rank
+        if docName_R_N[rel] == "R":
+            RelevantPrecisions.append(precision)
         if rank == 5:
             precision_at_5[int(qID)] = precision
         if rank == 20:
@@ -86,13 +90,15 @@ for qID in queryID_query:
             rank_str = str(rank)
         f.write(rank_str+"  \t  "+docName_R_N[rel]+"  \t  %.3f" %precision+"  \t  %.3f" %recall+"\n")
         rank += 1
-    queryID_finalPrecision[qID] = precision
-    queryID_finalRecall[qID] = recall
+        if len(RelevantPrecisions) == 0:
+            queryID_averagePrecision[qID] = 0
+        else:
+            queryID_averagePrecision[qID] = sum(RelevantPrecisions) / len(RelevantPrecisions)
     queryID_RR[qID] = RR
     f.close()
 
 f1 = open("Precision_Recall_Tables/QLM/Final Evaluation.txt", 'w')
-MAP = sum(queryID_finalPrecision.values()) / len(queryID_finalPrecision.keys())
+MAP = sum(queryID_averagePrecision.values()) / len(queryID_averagePrecision.keys())
 f1.write("Mean Average Precision = %f\n\n" %MAP)
 
 MRR = sum(queryID_RR.values()) / len(queryID_RR.keys())
@@ -100,7 +106,7 @@ f1.write("Mean Reciprocal Rank = %f\n\n" %MRR)
 f1.close()
 
 f2 = open("Precision_Recall_Tables/QLM/P@KValuesForAllQueries.txt",'w')
-for qID in queryID_query:
+for qID in queryID_relevantDocs:
     if int(qID) in precision_at_5.keys():
         f2.write("For query: %s\n\n" %queryID_query[qID])
         f2.write("Precision at rank 5: %f\n" %precision_at_5[int(qID)])
