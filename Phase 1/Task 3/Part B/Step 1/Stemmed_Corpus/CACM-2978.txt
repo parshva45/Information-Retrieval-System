@@ -1,0 +1,21 @@
+analysi of design altern for virtual memori index a class
+of index structur for us in a virtual memori environ
+is describ design altern within thi class of index structur
+ar analyz these altern includ a choic of search strategi
+whether or not page in the index ar structur and
+whether or not kei ar compress the averag cost of
+retriev entri from these index is express as a wieght
+sum of the cost of a basic kei comparison and
+the cost of cross a page boundari in the index
+structur formula for the retriev cost for possibl combin of
+design altern ar given these ar us in numer case
+studi which compar the retriev cost of the altern qualit
+comparison of the main tenanc cost insert delet reorgan of
+the design altern ar also includ cacm april 1977 maruyama
+k smith s e index index structur page virtual memori
+file retriev main tenanc search strategi kei compress 3 50
+3 51 3 02 3 73 3 74 ca770404 jb
+decemb 29 1977 5 22 am 2451 4 2978 2556
+4 2978 2978 4 2978 1935 5 2978 2978 5
+2978 2978 5 2978 2978 5 2978 3058 5 2978
+3063 5 2978 2978 6 2978 2978 6 2978

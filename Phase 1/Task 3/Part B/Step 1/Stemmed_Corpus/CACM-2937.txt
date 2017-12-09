@@ -1,0 +1,17 @@
+an experiment evalu of data type convent the languag in
+which program ar written can have a substanti effect on
+the reliabl of the result program thi paper discuss an
+experi that compar the program reliabl of subject us a
+static type languag and a typeless languag analysi of the
+number of error and the number of run contain error
+show that at least in on environ the us of
+a static type languag can increas program reliabl detail analysi
+of the error made by the subject in program solut
+to reason small problem show that the subject had difficulti
+manipul the represent of data cacm august 1977 gannon j
+d data type experiment languag design redund reliabl softwar 4
+22 ca770806jb decemb 28 1977 7 32 am 2411 4
+2937 2709 4 2937 2889 4 2937 2937 4 2937
+2989 4 2937 3005 4 2937 3025 4 2937 3101
+4 2937 2138 5 2937 2937 5 2937 2937 5
+2937 2937 5 2937

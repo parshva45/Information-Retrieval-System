@@ -1,0 +1,26 @@
+optim the perform of a relat algebra databas interfac an
+approach for implement a smart interfac to support a relat
+view of data is propos the basic idea is to
+emploi automat program techniqu so that the interfac analyz and
+effici refin the high level queri specif suppli by the
+user a relat algebra interfac call squiral which wa design
+us thi approach is describ in detail squiral seek to
+minim queri respons time and space util by 1 perform
+global queri optim 2 exploit disjoint and pipelin concurr 3
+coordin sort order in temporari relat 4 emploi directori analysi
+and 5 maintain local in page refer algorithm for implement
+the oper of e f codd s relat algebra ar
+present and a methodolog for compos them to optim the
+perform of a particular user queri is describ cacm octob
+1975 smith j m yen tang chang p relat databas
+databas optim invert file automat program queri languag data manipul
+languag veri high level languag 3 70 4 13 4
+33 ca751003 jb januari 6 1978 11 19 am 2155
+4 2716 2406 4 2716 2710 4 2716 2710 4
+2716 2715 4 2716 2716 4 2716 2716 4 2716
+2717 4 2716 2718 4 2716 2765 4 2716 2817
+4 2716 2888 4 2716 2901 4 2716 2901 4
+2716 2957 4 2716 2959 4 2716 2965 4 2716
+3087 4 2716 3154 4 2716 2046 5 2716 2715
+5 2716 2716 5 2716 2716 5 2716 2716 5
+2716

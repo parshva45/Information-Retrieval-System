@@ -1,0 +1,22 @@
+the restrict languag for comput grammar of natur languag over
+the past few year a number of system for the
+comput analysi of natur languag sentenc have been base on
+augment context free grammar a context free grammar which defin
+a set of pars tree for a sentenc plu a
+group of restrict to which a tree must conform in
+order to be a valid sentenc analysi as the coverag
+of the grammar is increas an effici represent becom essenti
+for further develop thi paper present a program languag design
+specif for the compact and perspicu statement of restrict of
+a natur languag grammar it is base on ten year
+experi pars text sentenc with the comprehens english grammar of
+the n linguist string project and embodi in it syntax
+and routin the relat which were found to be us
+and adequ for computer natur languag analysi the languag is
+us in the current implement of the linguist string parser
+cacm juli 1975 sager n grishman r natur languag pars
+grammar program languag 3 42 3 79 4 22 ca750703
+jb januari 9 1978 10 17 am 2581 4 2739
+2739 4 2739 2795 4 2739 2921 4 2739 3087
+4 2739 1989 5 2739 2739 5 2739 2739 5
+2739 2739 5 2739

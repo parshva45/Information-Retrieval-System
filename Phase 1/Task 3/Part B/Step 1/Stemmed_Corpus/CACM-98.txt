@@ -1,0 +1,6 @@
+the arithmet translat compil of the ibm fortran automat code
+system cacm februari 1959 sheridan p b ca590203 jb march
+22 1978 8 21 pm 224 5 98 364 5
+98 98 5 98 98 5 98 98 5 98
+100 6 98 224 6 98 44 6 98 77
+6 98 98 6 98 98 6 98

@@ -1,0 +1,16 @@
+length of string for a merg sort detail statist ar
+given on the length of maxim sort string which result
+form the first intern sort phase of a merg sort
+onto tape it is shown that the string produc by
+an altern method i e on which produc ascend and
+descend string altern tend to be onli three fourth as
+long as those in a method which produc onli ascend
+string contrari to statement which have appear previous in the
+literatur a slight modif of the read backward polyphas merg
+algorithm is therefor suggest cacm novemb 1963 knuth d e
+ca631115 jb march 13 1978 3 31 pm 1117 4
+677 2017 4 677 2146 4 677 677 4 677
+860 4 677 1638 5 677 2176 5 677 2272
+5 677 677 5 677 677 5 677 677 5
+677 861 5 677 1638 6 677 677 6 677
+677 6 677 677 6 677

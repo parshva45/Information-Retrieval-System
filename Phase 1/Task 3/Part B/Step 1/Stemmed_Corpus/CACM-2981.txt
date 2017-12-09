@@ -1,0 +1,19 @@
+subgoal induct a proof method subgoal induct is present as
+an altern or supplement to the commonli us induct assert
+method it major virtu is that it can often be
+us to prove a loop s correct directli from it
+input output specif without the us of an invari the
+relat between subgoal induct and other commonli us induct rule
+is explor and in particular it is shown that subgoal
+induct can be view as a special form of comput
+induct a set of suffici condit ar present which guarante
+that an input output specif is strong enough for the
+induct step of a proof by subgoal induct to be
+valid cacm april 1977 morri j h jr wegbreit b
+program verif prove program correct induct rule comput induct induct
+assert structur induct proof rule recurs program iter program 4
+19 4 22 5 21 5 24 ca770401 jb decemb
+29 1977 6 31 am 2981 4 2981 3030 4
+2981 3077 4 2981 3104 4 2981 2457 5 2981
+2981 5 2981 2981 5 2981 2981 5 2981 3014
+5 2981 1834 6 2981 2981 6 2981

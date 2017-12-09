@@ -1,0 +1,4 @@
+matrix invers by gauss jordan invers ii algorithm 120 cacm
+januari 1963 naur p ca630116 jb march 14 1978 2
+27 pm 932 5 932 932 5 932 932 5
+932 806 5 932 932 6 932 454 6 932

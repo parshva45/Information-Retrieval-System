@@ -1,0 +1,23 @@
+sp k a system for teach comput program sp k
+is a compat subset of the pl i languag that
+ha been design for teach program the featur of the
+sp k languag were chosen to encourag structur problem solv
+by comput to make the languag easi to learn and
+us to elimin confus and redund construct and to make
+the languag easi to compil the result languag is suitabl
+for in troduc program concept us in variou applic includ
+busi data process scientif calcul and non numer comput sp
+k is actual a sequenc of languag subset call sp
+1 sp 2 p 8 each subset in troduc new
+program languag construct while retain all the construct of preced
+subset each subset is precis defin and can be learn
+or implement without the follow subset cacm mai 1977 holt
+r c wortman d b barnard d t cordi j
+r programm educ univers commun colleg high school pl i
+sp k minicomput program languag design teach program in troductori
+comput 1 5 4 2 4 12 4 13 ca770501
+jb decemb 29 1977 4 40 am 2708 4 2971
+2820 4 2971 2971 4 2971 2971 4 2971 2971
+4 2971 3045 4 2971 1835 5 2971 1974 5
+2971 2534 5 2971 2971 5 2971 2971 5 2971
+2971 5 2971

@@ -1,0 +1,16 @@
+the alias problem in comput gener shade imag certain defect
+such as jag edg and disappear detail have long been
+an annoy in digit gener shade imag although increas the
+resolut or defocus the displai can attenu them an understand
+of these defect lead to more effect method thi paper
+explain the observ defect in term of the alias phenomenon
+inher in sampl signal and discuss prefilt as a recogn
+cure a method for evalu filter is present the applic
+of prefilt to hidden surfac algorithm is discuss and an
+implement of a filter tiler is shown accompani by exampl
+of it effect cacm novemb 1977 crow f c alias
+comput graphic convolut filter hidden surfac remov sampl 8 2
+ca771103 jb decemb 27 1977 7 56 am 2816 4
+2913 2828 4 2913 2827 4 2913 2913 4 2913
+3047 4 2913 2751 5 2913 2913 5 2913 2913
+5 2913 2913 5 2913

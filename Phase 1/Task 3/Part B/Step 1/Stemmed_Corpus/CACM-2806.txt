@@ -1,0 +1,9 @@
+two hadamard number for matric a discuss is given of
+two function of the entri of a squar matrix both
+relat to hadamard s determin theorem which have some merit
+as altern to norm bound condit number on for linear
+system is known the other for eigen system seem to
+be new cacm januari 1975 birkhoff g matric eigenvalu norm
+condit number error analysi gram schmidt orthogon 5 11 5
+14 ca750105 jb januari 12 1978 10 37 am 2806
+5 2806 2806 5 2806 2806 5 2806

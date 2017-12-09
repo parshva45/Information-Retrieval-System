@@ -1,0 +1,13 @@
+optim program and data locat in comput network an optim
+procedur for the alloc of program and data file in
+a comput network is present thi algorithm take into account
+the depend between file and program such as occur in
+real heterogen comput network insight into whether or not to
+convert program from on comput to anoth can also be
+gain from the model a search procedur for the file
+locat problem is describ along with an exampl and a
+possibl applic of the model cacm mai 1977 morgan h
+l levin k d comput network databas distribut databas optim
+file locat 3 81 3 51 4 33 ca770503 jb
+decemb 29 1977 2 22 am 2969 5 2969 2969
+5 2969 2969 5 2969

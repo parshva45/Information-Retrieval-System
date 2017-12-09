@@ -1,0 +1,18 @@
+thoth a portabl real time oper system thoth isa real
+time oper system which is design to be portabl over
+a larg set of machin it is current run on
+two minicomput with quit differ architectur both the system and
+applic program which us it ar written in a high
+level languag becaus the system is implement by the same
+softwar on differ hardwar it ha the same interfac to
+user program henc applic program which us thoth ar highli
+portabl thoth encourag structur program as network of commun process
+by provid effici interprocess commun primit cacm februari 1979 cheriton
+d malcolm m melen l sager g portabl real time
+oper system minicomput 3 80 4 30 4 35 ca790206
+dh april 12 1979 9 10 am 2319 4 3127
+2378 4 3127 2320 4 3127 2632 4 3127 2738
+4 3127 2740 4 3127 2868 4 3127 2928 4
+3127 3127 4 3127 3127 4 3127 2080 5 3127
+2277 5 3127 3127 5 3127 3127 5 3127 3127
+5 3127

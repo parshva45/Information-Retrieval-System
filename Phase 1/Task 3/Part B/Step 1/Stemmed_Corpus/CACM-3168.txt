@@ -1,0 +1,7 @@
+comment on an optim evalu of boolean express in an
+onlin queri system cacm octob 1979 laird p queri boolean
+express inform retriev file organ 3 53 70 3 73
+3 74 ca791001 db januari 16 1980 4 50 pm
+3168 4 3168 3168 4 3168 3169 4 3168 2965
+5 3168 3002 5 3168 3168 5 3168 3168 5
+3168 3168 5 3168

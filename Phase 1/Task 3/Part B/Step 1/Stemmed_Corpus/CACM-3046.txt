@@ -1,0 +1,18 @@
+comput gener of gamma random variabl ii a reject method
+is propos for gener gamma variat with nonintegr shape paramet
+a a 1 thi method is similar to other method
+given by fishman wallac and tadikamalla and is faster than
+these method for a 2 the core storag requir and
+the program effort for the propos method ar similar to
+those of wallac s or tadikamalla s method the comput
+time for the propos method remain fairli constant for medium
+and larg valu of a and ar superior to time
+obtain by ahren and dieter s method for all valu
+of a the propos method is simpler than ahren and
+dieter s method cacm novemb 1978 tadikamalla p gamma variabl
+reject method comput method 5 5 8 1 ca781105 dh
+januari 26 1979 11 02 am 2847 4 3046 2928
+4 3046 3046 4 3046 3046 4 3046 3046 4
+3046 3098 4 3046 3098 4 3046 3107 4 3046
+2569 5 3046 2847 5 3046 3046 5 3046 3046
+5 3046 3046 5 3046 3098 5 3046

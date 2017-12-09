@@ -1,0 +1,5 @@
+ten subroutin for the manipul of chebyshev seri algorithm r446
+c446 cacm mai 1975 piessen r merten i ca750505 jb
+januari 9 1978 2 37 pm 2762 4 2762 2521
+5 2762 2762 5 2762 2762 5 2762 2762 5
+2762

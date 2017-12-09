@@ -1,0 +1,15 @@
+a linear siev algorithm for find prime number a new
+algorithm is present for find all prime between 2 and
+n the algorithm execut in time proport to n assum
+that multipl of integ not larger than n can be
+perform in unit time the method ha the same arithmet
+complex as the algorithm present by mairson 6 howev our
+version is perhap simpler and more eleg it is also
+easili extend to find the prime factor of all integ
+between 2 and n in time proport to n cacm
+decemb 1978 gri d misra j prime algorithm data structur
+5 25 5 24 5 29 ca781202 dh januari 22
+1979 11 12 am 2896 4 3037 2972 4 3037
+3037 4 3037 3037 4 3037 3039 4 3037 3043
+4 3037 3073 4 3037 2732 5 3037 2927 5
+3037 3037 5 3037 3037 5 3037 3037 5 3037

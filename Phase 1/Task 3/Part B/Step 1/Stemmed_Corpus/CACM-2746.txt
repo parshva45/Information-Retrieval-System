@@ -1,0 +1,23 @@
+effici string match an aid to bibliograph search thi paper
+describ a simpl effici algorithm to locat all occurr of
+ani of a finit number of keyword in a string
+of text the algorithm consist of construct a finit state
+pattern match machin from the keyword and then us the
+pattern match machin to process the text string in a
+singl pass construct of the pattern match machin take time
+proport to the sum of the length of the keyword
+the number of state transit made by the pattern match
+machin in process the text string is independ of the
+number of keyword the algorithm ha been us to improv
+the speed of a librari bibliograph search program by a
+factor of 5 to 10 cacm june 1975 aho a
+v corasick m j keyword and phrase string pattern match
+bibliograph search inform retriev text edit finit state machin comput
+complex 3 74 3 71 5 22 5 25 ca750607
+jb januari 9 1978 1 03 pm 2532 4 2746
+2545 4 2746 2631 4 2746 2733 4 2746 2746
+4 2746 2746 4 2746 2746 4 2746 2746 4
+2746 2746 4 2746 3001 4 2746 1665 5 2746
+1739 5 2746 2139 5 2746 2545 5 2746 2746
+5 2746 2746 5 2746 2746 5 2746 2786 5
+2746 2916 5 2746 2746 6 2746

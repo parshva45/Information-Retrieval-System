@@ -1,0 +1,19 @@
+occurr of cycl and other phenomena aris in a class
+of linear program model an investig into the averag queue
+size for a certain class of queue ha result in
+the formul of linear program problem which ar ill condit
+in some case in attempt to solv these linear program
+model us ibm s mp packag instanc of cycl were
+encount small perturb in the input data result in problem
+which did not cycl thi fact plu sever other observ
+phenomena suggest that the primari reason that cycl is not
+known to occur more frequent is the round off error
+in the comput perturb the problem suffici to prevent cycl
+or at least to prevent indefinit cycl in on case
+maxim and minim an object function subject to the same
+constrain t set wa attempt but mp solv onli on
+of these while give an indic of infeas for the
+other cacm februari 1977 kotiah t c t steinberg d
+i linear program cycl queue model 5 41 5 9
+ca770208 jb decemb 30 1977 2 11 am 2993 5
+2993 2993 5 2993 2993 5 2993

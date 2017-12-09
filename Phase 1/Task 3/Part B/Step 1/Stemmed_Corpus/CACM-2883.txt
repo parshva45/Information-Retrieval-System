@@ -1,0 +1,23 @@
+an applic of heurist search method to edg and contour
+detect thi paper present a method for detect edg and
+contour in noisi pictur the properti of an edg ar
+embed in a figur of merit and the edg detect
+problem becom the problem of minim the given figur of
+merit thi problem can be repres as a shortest path
+problem on a graph and can be solv us well
+known graph search algorithm the relat between thi represent of
+the minim problem and a dynam program approach ar discuss
+show that the graph search method can lead to substanti
+improv in comput time moreov if heurist search method ar
+us the comput time will depend on the amount of
+nois in the pictur some experiment result ar given these
+show how variou inform about the shape of the contour
+of an object can be embed in the figur of
+merit thu allow the extract of contour from noisi pictur
+and the separ of touch object cacm februari 1976 martelli
+a pictur process pattern recognit edg detect contour detect contour
+follow optim problem dynam program shortest path heurist search method
+problem solv method 3 63 3 64 3 66 5
+42 ca760204 jb januari 5 1978 9 30 am 2883
+4 2883 2195 5 2883 2883 5 2883 2883 5
+2883 2883 5 2883

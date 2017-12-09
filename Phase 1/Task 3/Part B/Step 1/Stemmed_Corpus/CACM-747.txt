@@ -1,0 +1,4 @@
+gener of permut in lexicograph order algorithm 202 cacm septemb
+1963 shen m k ca630911 jb march 13 1978 7
+31 pm 2443 5 747 747 5 747 747 5
+747 747 5 747 747 6 747

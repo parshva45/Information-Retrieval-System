@@ -1,0 +1,21 @@
+comput standard deviat accuraci four algorithm for the numer comput
+of the standard deviat of unweight sampl data ar analyz
+two of the algorithm ar well known in the statist
+and comput literatur the other two ar new algorithm specif
+intend for automat comput our discuss is expositori with emphasi
+on reach a suitabl definit of accuraci each of the
+four algorithm is analyz for the condit under which it
+will be accur we conclud that all four algorithm will
+provid accur answer for mani problem but two of the
+algorithm on new on old ar substanti more accur on
+difficult problem than ar the other two cacm septemb 1979
+chan t lewi j mean standard deviat least squar updat
+estim round error analysi condit number 5 5 5 11
+5 19 ca790907 db januari 16 1980 4 23 pm
+1619 4 3166 2731 4 3166 3159 4 3166 3159
+4 3166 3166 4 3166 3166 4 3166 3166 4
+3166 3166 4 3166 3166 4 3166 3167 4 3166
+3167 4 3166 1411 5 3166 2731 5 3166 2799
+5 3166 3159 5 3166 3166 5 3166 3166 5
+3166 3166 5 3166 3167 5 3166 2731 6 3166
+2799 6 3166 3166 6 3166

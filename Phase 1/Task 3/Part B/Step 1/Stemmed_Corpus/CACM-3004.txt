@@ -1,0 +1,24 @@
+structur program in cobol an approach for applic programm techniqu
+for design and write cobol program ar present previou work
+in structur program is drawn upon and adapt the present
+is inform the terminolog is nonmathemat as far as possibl
+no theorem ar prove and exampl ar us frequent top
+down program design is implement through the us of structur
+flowchart disciplin specif and step by step verif a well
+form cobol program is defin the proper us of the
+go to and other cobol code practic ar discuss cacm
+januari 1977 van gelder a structur program top down well
+form program go to statement repeat statement flowchart applic program
+cobol softwar reliabl program verif 4 0 4 22 5
+24 ca770101 jb januari 3 1978 12 44 am 2193
+4 3004 2326 4 3004 2477 4 3004 2480 4
+3004 2541 4 3004 2594 4 3004 2704 4 3004
+2709 4 3004 2709 4 3004 2738 4 3004 2738
+4 3004 2802 4 3004 2866 4 3004 2867 4
+3004 2869 4 3004 2941 4 3004 2958 4 3004
+3004 4 3004 3004 4 3004 3004 4 3004 3004
+4 3004 3004 4 3004 3030 4 3004 3030 4
+3004 3121 4 3004 3155 4 3004 1425 5 3004
+2247 5 3004 2356 5 3004 2456 5 3004 3004
+5 3004 3004 5 3004 3004 5 3004 3186 5
+3004

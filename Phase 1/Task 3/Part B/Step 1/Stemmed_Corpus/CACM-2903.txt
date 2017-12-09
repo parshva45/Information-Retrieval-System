@@ -1,0 +1,17 @@
+improv program by the introduct of recurs a new techniqu
+of program transform call recurs in troduct is describ and
+appli to two algorithm which solv pattern match problem by
+us recurs in troduct algorithm which manipul a stack ar
+first translat into recurs algorithm in which no stack oper
+occur these algorithm ar then subject to a second transform
+a method of recurs elimin call tabul to produc program
+with a veri effici run time in particular it is
+shown how the fast linear pattern match algorithm of knuth
+morri and pratt can be deriv in a few step
+from a simpl nonlinear stack algorithm cacm novemb 1977 bird
+r s program transform optim of program recurs elimin pattern
+match algorithm stack comput induct 4 0 4 2 5
+20 5 24 5 25 ca771113 jb decemb 27 1977
+6 29 am 2326 4 2903 2457 4 2903 2842
+4 2903 2903 4 2903 2192 5 2903 2903 5
+2903 2903 5 2903 2903 5 2903

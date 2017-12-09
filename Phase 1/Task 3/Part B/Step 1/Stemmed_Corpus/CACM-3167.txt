@@ -1,0 +1,14 @@
+updat mean and varianc estim an improv method a method
+of improv effici is given for updat the mean and
+varianc of weight sampl data when an addit data valu
+is includ in the set evid is present that the
+method is stabl and at least as accur as the
+best exist updat method cacm septemb 1979 west d mean
+standard deviat varianc updat estim remov data 5 5 5
+19 ca790908 db januari 16 1980 4 47 pm 2731
+4 3167 3159 4 3167 3159 4 3167 3166 4
+3167 3166 4 3167 3167 4 3167 3167 4 3167
+3167 4 3167 2731 5 3167 2799 5 3167 3166
+5 3167 3167 5 3167 3167 5 3167 3167 5
+3167 1411 6 3167 2731 6 3167 2799 6 3167
+3159 6 3167 3167 6 3167

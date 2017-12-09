@@ -1,0 +1,15 @@
+an algorithm for plan collis free path among polyhedr obstacl
+thi paper describ a collis avoid algorithm for plan a
+safe path for a polyhedr object move among known polyhedr
+object the algorithm transform the obstacl so that thei repres
+the locu of forbidden posit for an arbitrari refer point
+on the move object a trajectori of thi refer point
+which avoid all forbidden region is free of collis trajectori
+ar found by search a network which indic for each
+vertex in the transform obstacl which other vertic can be
+reach safe cacm octob 1979 lozano perez t weslei m
+path find collis free path polyhedr object polyhedr obstacl graph
+search grow object 3 15 3 64 3 66 8
+1 ca791005 db januari 17 1980 10 13 am 3172
+4 3172 3116 5 3172 3172 5 3172 3172 5
+3172 3172 5 3172

@@ -1,0 +1,24 @@
+some characterist of sort in comput system us random access
+storag devic the substanti differ in characterist of random access
+storag and tape devic dictat that concept and object of
+comput program design be consid from the viewpoint of the
+extern file medium us thi is particularli true in the
+case of sort in a tape orient system the major
+sort problem is that of minim merg time despit the
+limit order of merg possibl in contrast sort in a
+random access orient system encourag the select of the optimum
+order of merg from mani possibl order the latter problem
+is discuss in thi paper along with criteria develop for
+determin the optimum order of merg accord to the variou
+properti of random access storag devic attent is also given
+to the problem of kei sort versu record sort and
+the possibl seriou disadvantag of kei sort on a random
+access system cacm mai 1963 hubbard g u ca630513 jb
+march 14 1978 11 05 am 1956 5 854 2017
+5 854 854 5 854 854 5 854 854 5
+854 849 6 854 850 6 854 851 6 854
+852 6 854 853 6 854 854 6 854 854
+6 854 855 6 854 856 6 854 857 6
+854 858 6 854 859 6 854 860 6 854
+861 6 854 862 6 854 863 6 854 864
+6 854 865 6 854 866 6 854

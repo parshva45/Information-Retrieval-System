@@ -89,6 +89,8 @@ def calc_score(q, R, id):
 f = open('BM25_Relevance_Top100_Pages.txt', 'w')
 for query in query_dict.values():
     c = 1                          # the variable c denotes rank
+    counter = 1
+    final_score2 = {}
     print("Calculating BM25 Score for query: " + query)
     if str(i) in queryID_relevantDocs.keys():
         try:
@@ -114,6 +116,16 @@ for query in query_dict.values():
     output = open(
         newpath + 'Encoded-Top100Docs-BM25-Relevance' + '_%d' % i + '.txt', 'wb')
     pickle.dump(final_score1, output)
+    output.close()
+    newpath1 = r'../../Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/'
+    if not os.path.exists(newpath1):
+        os.makedirs(newpath1)
+    output = open(newpath1 + 'Encoded-Top5Docs-BM25-Relevance' + '_%d' % i + '.txt', 'wb')
+    for qID in final_score1:
+        if counter <= 5:
+            final_score2[qID] = final_score1[qID]
+        counter += 1
+    pickle.dump(final_score2, output)
     output.close()
     i += 1
 f.close()

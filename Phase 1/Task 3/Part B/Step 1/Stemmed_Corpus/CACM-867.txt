@@ -1,0 +1,18 @@
+least squar fit of plane to surfac us dynam program
+dynam program ha recent been us by stone by bellman
+and by gluss to determin the closet fit of broken
+line segment to a curv in an interv under the
+constraint that the number of segment is fix in the
+present paper success model ar develop to extend the method
+to the fit of broken plane segment to surfac z
+g x y defin over certain type of subarea of
+the x y space the first model consid a rectangular
+area with the constraint that the plane segment ar defin
+over a grid in the x y space it is
+then shown how thi model mai be incorpor into an
+algorithm that provid success approxim to optim fit for ani
+type of close area final applic ar briefli describ cacm
+april 1963 gluss b ca630424 jb march 14 1978 11
+43 am 497 4 867 867 4 867 867 4
+867 317 5 867 497 5 867 867 5 867
+867 5 867 867 5 867

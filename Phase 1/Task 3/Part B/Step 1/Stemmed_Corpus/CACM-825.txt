@@ -1,0 +1,10 @@
+pip a photo interpret program for the analysi of spark
+chamber data an oper comput program that process photograph record
+data is describ the input to the program consist of
+spark chamber photograph on which track of high energi particl
+ar record the program automat scan measur and perform the
+preliminari interpret of these photograph in continu oper a process
+rate of 5 000 photograph frame per hour is achiev
+cacm june 1963 rudlo h deutsch m maril t ca630624
+jb march 14 1978 9 59 am 825 5 825
+825 5 825 825 5 825

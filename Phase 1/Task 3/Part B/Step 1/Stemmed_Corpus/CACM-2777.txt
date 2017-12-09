@@ -1,0 +1,19 @@
+on a solut to the cigarett smoker s problem without
+condit statement thi report discuss a problem first introduc by
+patil who ha claim that the cigarett smoker s problem
+cannot be solv us the p and v oper introduc
+by dijkstra unless condit statement ar us an examin of
+patil s proof show that he ha establish thi claim
+onli under strong restrict on the us of p and
+v these restrict elimin program techniqu us by dijkstra and
+other sinc the first introduct of the semaphor concept thi
+paper contain a solut to the problem it also discuss
+the need for the gener oper suggest by patil cacm
+march 1975 parna d l oper system co oper process
+process synchron primit 4 3 ca750311 jb januari 9 1978
+4 24 pm 2320 4 2777 2597 4 2777 2777
+4 2777 2851 4 2777 2895 4 2777 2912 4
+2777 2946 4 2777 3128 4 2777 2150 5 2777
+2738 5 2777 2777 5 2777 2777 5 2777 2777
+5 2777 1749 6 2777 2080 6 2777 2247 6
+2777 2356 6 2777 2777 6 2777

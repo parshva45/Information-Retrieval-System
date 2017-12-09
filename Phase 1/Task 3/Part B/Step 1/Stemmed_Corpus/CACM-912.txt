@@ -1,0 +1,5 @@
+address an arrai yi in k dimens by fortran for
+analysi of varianc cacm march 1963 garber m j ca630309
+jb march 14 1978 1 44 pm 912 5 912
+912 5 912 912 5 912 1014 5 912 912
+6 912

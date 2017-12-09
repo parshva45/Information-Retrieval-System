@@ -1,0 +1,5 @@
+remark on uniform insert in structur data structur cacm april
+1977 holland c data structur direct graph uniform insert 4
+34 ca770407 jb decemb 29 1977 5 04 am 2975
+4 2975 2594 5 2975 2975 5 2975 2975 5
+2975 2975 5 2975

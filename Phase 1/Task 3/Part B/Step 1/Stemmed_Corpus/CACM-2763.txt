@@ -1,0 +1,6 @@
+basic cycl gener h algorithm 491 cacm mai 1975 gibb
+n e graph basic cycl fundament cycl span tree vertex
+adjac matrix 5 32 3 24 ca750504 jb januari 9
+1978 2 39 pm 1961 4 2763 2177 4 2763
+2763 4 2763 1847 5 2763 2763 5 2763 2763
+5 2763 2763 5 2763

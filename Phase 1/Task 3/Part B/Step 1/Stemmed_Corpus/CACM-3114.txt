@@ -1,0 +1,23 @@
+a techniqu for isol differ between file a simpl algorithm
+is describ for isol the differ between two file on
+applic is the compar of two version of a sourc
+program or other file in order to displai all differ
+the algorithm isol differ in a wai that correspond close
+to our intuit notion of differ is easi to implement
+and is computation effici with time linear in the file
+length for most applic the algorithm isol differ similar to
+those isol by the longest common subsequ anoth applic of
+thi algorithm merg file contain independ gener chang into a
+singl file the algorithm can also be us to gener
+effici encod of a file in the form of the
+differ between itself and a given datum file permit reconstruct
+of the origin file from the differ and datum file
+cacm april 1978 heckel p differ isol word process text
+edit program mainten hash code file compress bandwidth compress longest
+common subsequ file comparison molecular evolut 3 63 3 73
+3 81 4 43 ca780402 dh februari 27 1979 10
+52 am 2299 4 3114 2501 4 3114 2629 4
+3114 2915 4 3114 2963 4 3114 3114 4 3114
+3114 4 3114 3114 4 3114 1502 5 3114 2499
+5 3114 2745 5 3114 3114 5 3114 3114 5
+3114 3114 5 3114

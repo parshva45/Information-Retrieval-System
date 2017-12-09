@@ -1,0 +1,3 @@
+lagrangian interpol algorithm 210 cacm octob 1963 schubert g r
+ca631012 jb march 13 1978 5 52 pm 713 5
+713 713 5 713 713 5 713

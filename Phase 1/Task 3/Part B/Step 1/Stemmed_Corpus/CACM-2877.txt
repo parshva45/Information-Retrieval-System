@@ -1,0 +1,13 @@
+a program data flow analysi procedur the global data relationship
+in a program can be expos and codifi by the
+static analysi method describ in thi paper a procedur is
+given which determin all the definit which can possibl reach
+each node of the control flow graph of the program
+and all the definit that ar live on each edg
+of the graph the procedur us an interv order edg
+list data structur and handl reduc and irreduc graph indistinguish
+cacm march 1976 allen j e cock j program optim
+data flow analysi flow graph algorithm compil 4 12 5
+24 ca760303 jb januari 5 1978 8 33 am 2877
+5 2877 2877 5 2877 2877 5 2877 3103 5
+2877 1860 6 2877 2877 6 2877

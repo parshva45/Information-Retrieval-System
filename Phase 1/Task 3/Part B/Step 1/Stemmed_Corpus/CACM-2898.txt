@@ -1,0 +1,18 @@
+a conceptu framework for a nonprocedur program languag a sequenti
+program languag forc the programm to prescrib explicitli the order
+in which the oper in hi program have to be
+execut even if the order is not relev to the
+solut of hi problem the requir to indic irrelev sequenc
+can be remov if the languag provid facil for specifi
+a task in a nonprocedur manner in gener a program
+specifi in thi wai will allow concurr evalu thi paper
+describ a conceptu framework for a high level program languag
+provid both nonprocedur and sequenti facil within a program nonprocedur
+and sequenti program modul mai be nest freeli cacm decemb
+1977 kessel j l w parallel program descript program nonprocedur
+program definit languag data flow program applic program 4 20
+ca771202 jb februari 1 1980 4 05 am 2865 4
+2898 2866 4 2898 2898 4 2898 2898 4 2898
+2972 4 2898 3043 4 2898 3128 4 2898 3144
+4 2898 2597 5 2898 2898 5 2898 2898 5
+2898 2898 5 2898 2946 5 2898

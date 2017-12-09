@@ -1,0 +1,18 @@
+multiprocessor memori organ and memori interfer the structur of share
+memori in a multiprocessor comput system is examin with particular
+attent to nonin terleav memori altern memori organ ar compar
+and it is shown that a home memori organ in
+which each processor is associ with on or more memori
+in which it address space is concentr is quit effect
+in reduc memori in terfer home memori organ is shown
+to be particularli suit to certain special comput problem as
+well as to possess advantag in term of in terfer
+and reliabl for gener purpos comput result for in terleav
+memori ar drawn from previou work and ar us for
+comparison trace driven simul ar us to verifi the conclus
+of the analysi cacm octob 1977 smith a j memori
+in terfer interleav multiprocess trace driven simul queue theori share
+memori 4 30 4 32 6 34 ca771008 jb decemb
+27 1977 10 28 am 2918 4 2918 3119 4
+2918 2859 5 2918 2918 5 2918 2918 5 2918
+2918 5 2918

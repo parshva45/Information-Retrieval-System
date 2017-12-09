@@ -1,0 +1,12 @@
+recurs analysi for compil optim a rel simpl method for
+the detect of recurs us of procedur is present for
+us in compil optim implement consider ar discuss and a
+modif of the algorithm is given to further improv optim
+thi analysi can also be us to determin what possibl
+subset of valu could be assum by variabl which can
+onli take on a rel small discret set of valu
+the most common ar paramet of variabl assum valu of
+label procedur or pascal s enumer type cacm septemb 1976
+walter k g recurs compil optim 4 12 ca760904 jb
+januari 4 1978 9 36 am 2835 5 2835 2835
+5 2835 2835 5 2835

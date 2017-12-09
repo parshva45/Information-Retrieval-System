@@ -1,0 +1,26 @@
+proof techniqu for hierarch structur program a method for describ
+and structur program that simplifi proof of their correct is
+present the method formal repres a program in term of
+level of abstract each level of which can be describ
+by a self contain nonprocedur specif the proof like the
+program ar structur by level although onli manual proof ar
+describ in the paper the method is also applic to
+semi automat and automat proof preliminari result ar encourag indic
+that the method can be appli to larg program such
+as oper system cacm april 1977 robinson l levitt k
+n hierarch structur program verif structur program formal specif abstract
+and program methodolog 4 0 4 29 4 9 5
+24 ca770410 jb decemb 29 1977 4 53 am 2042
+4 2972 2222 4 2972 2319 4 2972 2356 4
+2972 2480 4 2972 2594 4 2972 2679 4 2972
+2709 4 2972 2844 4 2972 2865 4 2972 2866
+4 2972 2896 4 2972 2898 4 2972 2939 4
+2972 2972 4 2972 2972 4 2972 2972 4 2972
+2972 4 2972 2972 4 2972 3037 4 2972 3039
+4 2972 3043 4 2972 3043 4 2972 3073 4
+2972 3128 4 2972 3144 4 2972 3155 4 2972
+970 5 2972 2204 5 2972 2597 5 2972 2732
+5 2972 2738 5 2972 2972 5 2972 2972 5
+2972 2972 5 2972 3030 5 2972 2247 6 2972
+2356 6 2972 2457 6 2972 2651 6 2972 2958
+6 2972 2972 6 2972

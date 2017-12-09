@@ -1,0 +1,24 @@
+empir evalu of some featur of instruct set processor architectur
+thi paper present method for empir evalu of featur of
+instruct set processor isp isp featur ar evalu in term
+of the time us or save by have or not
+have the featur the method ar base on analysi of
+trace of program execut the concept of a regist life
+is in troduc and us to answer question like how
+mani regist ar us simultan how mani would be suffici
+all of the time most of the time what would
+the overhead be if the number of regist were reduc
+what ar regist us for dure their live the paper
+also discuss the problem of detect desir but non exist
+instruct other problem ar briefli discuss experiment result ar present
+obtain by analyz 41 program run on the dec system
+10 isp cacm march 1977 lund a comput architectur program
+behavior instruct set op code util regist structur regist util
+simultan regist live instruct trace execut time 6 20 6
+21 6 33 ca770303 jb decemb 30 1977 1 00
+am 1653 4 2989 2411 4 2989 2709 4 2989
+2889 4 2989 2937 4 2989 2989 4 2989 2989
+4 2989 3005 4 2989 3025 4 2989 3101 4
+2989 1069 5 2989 2138 5 2989 2989 5 2989
+2989 5 2989 2989 5 2989 3025 5 2989 2138
+6 2989 2989 6 2989

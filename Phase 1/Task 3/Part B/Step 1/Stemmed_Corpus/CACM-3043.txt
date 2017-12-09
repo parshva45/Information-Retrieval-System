@@ -1,0 +1,18 @@
+distribut process a concurr program concept a languag concept for
+concurr process without common variabl is introduc these process commun
+and synchron by mean of procedur call and guard region
+thi concept is propos for real time applic control by
+microcomput network with distribut storag the paper give sever exampl
+of distribut process and show that thei includ procedur coroutin
+class monitor process semaphor buffer path express and input output
+as special case cacm novemb 1978 hansen p concurr program
+distribut process microprocessor network nondetermin guard region program languag process
+commun and schedul sort arrai coroutin class monitor process semaphor
+buffer path express input output 3 8 4 2 4
+22 4 32 5 24 ca781108 dh januari 26 1979
+10 40 am 2865 4 3043 2866 4 3043 2896
+4 3043 2898 4 3043 2972 4 3043 2972 4
+3043 3037 4 3043 3039 4 3043 3043 4 3043
+3043 4 3043 3073 4 3043 3128 4 3043 3144
+4 3043 2597 5 3043 2732 5 3043 3043 5
+3043 3043 5 3043 3043 5 3043

@@ -1,0 +1,11 @@
+weight deriv tree the node of a weight deriv tree
+ar associ with weight function over the vocabulari of a
+context free grammar an algorithm is present for construct the
+optim deriv tree have the same structur as a given
+weight deriv tree in addit the correct of the algorithm
+is establish the method mai be appli to problem involv
+probabilist pars or combinatori optim cacm septemb 1976 loui m
+c deriv tree pars tree probabilist grammar structur ambigu combinatori
+optim 5 23 5 49 ca760903 jb januari 4 1978
+9 41 am 2836 5 2836 2836 5 2836 2836
+5 2836

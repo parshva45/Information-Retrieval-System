@@ -1,0 +1,22 @@
+a case studi of a new code gener techniqu for
+compil recent develop in optim techniqu have allow a new
+design for compil to emerg such a compil translat the
+pars sourc code into lower level code by a sequenc
+of step each step expand higher level statement into block
+of lower level code and then perform optim on the
+result each statement ha onli on possibl expans the task
+of tailor thi code to take advantag of ani special
+case is done by the optim thi paper provid evid
+that thi strategi can inde result in good object code
+the tradition difficult pl i concaten statement wa investig as
+a detail exampl a set of fairli simpl optim wa
+identifi which allow the compil to produc good code more
+elabor optim can further improv the object code for most
+context of the concaten statement the code produc by a
+compil us the expans optim strategi describ abov compar favor
+with the code produc by a convent pl i optim
+compil cacm decemb 1977 carter j l compil structur optim
+compil code gener pl i compil concaten program optim optim
+techniqu data flow analysi 4 12 4 13 4 22
+ca771203 jb februari 1 1980 3 54 am 2897 5
+2897 2897 5 2897 2897 5 2897

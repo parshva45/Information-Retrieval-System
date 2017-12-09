@@ -1,0 +1,18 @@
+a veri high level program languag for data process applic
+applic develop todai is too labor in tensiv in recent
+year veri high level languag have been increasingli explor as
+a solut to thi problem the busi definit languag bdl
+is such a languag on aim at busi data process
+problem the concept in bdl mimic those which have evolv
+through the year in busi us manual method thi result
+in three differ sublanguag or compon on for defin the
+busi form on for describ the busi organ and on
+for write calcul cacm novemb 1977 hammer m ow w
+g kruskal v j wladawski i veri high level languag
+nonprocedur languag data flow languag busi applic busi data process
+structur program modular program format specif and design methodolog 3
+50 4 22 4 32 ca771110 jb decemb 27 1977
+7 06 am 1135 4 2906 1136 4 2906 493
+4 2906 2710 4 2906 2765 4 2906 2888 4
+2906 2906 4 2906 729 4 2906 2906 5 2906
+2906 5 2906 2906 5 2906 616 5 2906

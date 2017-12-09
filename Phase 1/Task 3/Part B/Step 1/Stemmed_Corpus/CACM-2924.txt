@@ -1,0 +1,22 @@
+an interact comput graphic approach to surfac represent an in
+teract comput graphic method ha been develop for the rapid
+gener of arbitrari shape three dimension surfac the method is
+a synthesi of spline theori and algorithm an in teract
+mean for man machin commun and softwar for static or
+dynam graphic displai the basic techniqu emploi is a modifi
+loft method on which section curv ar repres by uniform
+b spline and the surfac is in terpol between section
+by cardin spline among the featur of thi method ar
+algorithm which enabl in teract modif of the b spline
+represent of the section curv at all stage of the
+process the spatial inform is graphic displai to the user
+complex surfac can be creat by the combin of a
+number of shape that have been separ gener and automat
+join the system ha been successfulli in terfac to a
+varieti of analyt routin for structur medic and graphic applic
+cacm octob 1977 wu sheng chuan abel j f greenberg
+d p comput graphic three dimension surfac represent spline loft
+finit element input method 3 20 3 23 3 34
+8 1 8 2 ca771002 jb decemb 27 1977 11
+53 am 2924 5 2924 2924 5 2924 2924 5
+2924

@@ -1,0 +1,23 @@
+semant evalu from left to right thi paper describ attribut
+grammar and their us for the definit of program languag
+and compil a formal definit of attribut grammar and a
+discuss of some of it import aspect ar includ the
+paper concentr on the evalu of semant attribut in a
+few pass from left to right over the deriv tree
+of a program a condit for an attribut grammar is
+given which assur that the semant of ani program can
+be evalu in a singl pass over the deriv tree
+and an algorithm is discuss which decid how mani pass
+from left to right ar in gener necessari given the
+attribut grammar these notion ar explain in term of an
+exampl grammar which describ the scope rule of algol 60
+practic question such as the rel effici of differ evalu
+scheme and the eas of adapt the attribut grammar of
+a given program languag to the left to right evalu
+scheme ar discuss cacm februari 1976 bochmann g v attribut
+grammar semant of program languag semant attribut left to right
+pars multipass compil semant evalu semant condit 4 10 4
+20 5 23 5 24 ca760201 jb januari 5 1978
+9 54 am 2886 4 2886 2301 5 2886 2703
+5 2886 2886 5 2886 2886 5 2886 2886 5
+2886 2886 6 2886

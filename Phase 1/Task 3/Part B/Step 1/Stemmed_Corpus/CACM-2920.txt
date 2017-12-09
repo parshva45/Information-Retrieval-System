@@ -1,0 +1,18 @@
+game interpret of the deadlock avoid problem the deadlock avoid
+problem mai be defin inform as the determin from some
+a priori inform about the process resourc oper system etc
+of the safe situat which mai be realiz without endang
+the smooth run of the system when each process specifi
+it futur need by a flowchart of need defin step
+a global approach to the phenomenon and it in terpret
+as a game between the oper system and the process
+allow formal of risk and safeti concept the bipartit graph
+represent of thi game mai then be us to construct
+explicitli the set of safe state and to studi their
+properti cacm octob 1977 devil r oper system multiprogram time
+share resourc alloc deadlock in terlock deadli embrac deadlock avoid
+flowchart 4 30 4 32 ca771006 jb decemb 27 1977
+10 50 am 2228 4 2920 2280 4 2920 2379
+4 2920 2482 4 2920 2740 4 2920 2851 4
+2920 2920 4 2920 1877 5 2920 2920 5 2920
+2920 5 2920 2920 5 2920

@@ -1,0 +1,13 @@
+break substitut cipher us a relax algorithm substitut cipher ar
+code in which each letter of the alphabet ha on
+fix substitut and the word divis do not chang in
+thi paper the problem of break substitut cipher is repres
+as a probabilist label problem everi code letter is assign
+probabl of repres plain text letter these probabl ar updat
+in parallel for all code letter us joint letter probabl
+iter the updat scheme result in improv estim that final
+lead to break the cipher the method is appli successfulli
+to two exampl cacm novemb 1979 peleg s rosenfeld a
+cryptographi substitut cipher probabilist classif relax 3 42 3 63
+ca791103 db januari 23 1980 11 15 am 3175 5
+3175 3175 5 3175 3175 5 3175
