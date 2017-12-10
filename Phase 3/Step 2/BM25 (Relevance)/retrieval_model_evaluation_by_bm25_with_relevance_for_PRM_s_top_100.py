@@ -9,7 +9,7 @@ with open("../../../Phase 1/Task 1/Encoded Data Structures/Encoded-QueryID_Relev
 with open("../../Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt", 'rb') as f:
     queryID_top100Docs = pickle.loads(f.read())
 
-with open("../../../Phase 1/Task 2/Encoded-Expanded_Queries.txt", 'rb') as f:
+with open("../../../Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-Expanded_Queries.txt", 'rb') as f:
     queryID_query = pickle.loads(f.read())
 
 # make the directory if it doesn't exist already

@@ -2,13 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_TF_IDF.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_11.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_11.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_12.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_12.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_13.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_13.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_16.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_16.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_17.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_17.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_18.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_18.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_19.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_19.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_2.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_20.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_20.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_21.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_23.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_23.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_24.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_24.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_25.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_25.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_26.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_26.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_27.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_27.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_3.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_30.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_32.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_33.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_36.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_36.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_4.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_42.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_42.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_45.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_45.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_48.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_49.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_57.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_6.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_62.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_62.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Steps for project execution.txt" afterPath="$PROJECT_DIR$/Steps for project execution.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,18 +67,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Snippet_generation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2614">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,7 +135,6 @@
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
-        <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py" />
@@ -119,6 +156,7 @@
         <option value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
       </list>
     </option>
   </component>
@@ -147,11 +185,6 @@
             <path>
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bm25_no_relevance_stemming">
+  <component name="RunManager" selected="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100">
     <configuration name="Snippet_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,37 +288,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="creating_inv_list_for_top_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-      <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Snippet_generation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
+      <item index="0" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+      <item index="1" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
+      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Snippet_generation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-        <item index="3" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-        <item index="4" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+        <item index="4" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +359,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27411765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27411765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -497,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_lucene.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -632,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -696,7 +715,7 @@
         <state relative-caret-position="223">
           <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -706,15 +725,31 @@
         <state relative-caret-position="765">
           <caret line="51" column="93" lean-forward="false" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="93" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2614">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="206">
+          <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
