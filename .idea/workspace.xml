@@ -2,400 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/P@KValuesForAllQueries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Final Evaluation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/P@KValuesForAllQueries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Precision_Recall_Table_for_9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Expanded_Queries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Queries_With_Their_Expansion_Terms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-QueryID_Top5Docs_BM25_Relevance.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NonRelevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NonRelevance_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-QueryID_Top5Docs_BM25_Relevance.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-QueryID_Top5Docs_BM25_Relevance.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/P@KValuesForAllQueries.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_10.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_11.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_12.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_13.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_13.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_16.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_16.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_17.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_17.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_18.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_18.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_19.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_19.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_21.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_25.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_26.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_27.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_29.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_30.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_30.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_31.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_32.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_32.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_33.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_33.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_36.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_36.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_37.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_38.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_39.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_4.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_40.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_42.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_42.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_45.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_45.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_48.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_48.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_49.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_49.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_57.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_57.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_58.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_59.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_60.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_61.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Precision_Recall_Table_for_9.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-QueryID_Top100Docs_Proximity_no_stopping.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-QueryID_Top100Docs_Proximity_no_stopping.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-QueryID_Top100Docs_Proximity_with_stopping.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-QueryID_Top100Docs_Proximity_with_stopping.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_1.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_10.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_10.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_11.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_12.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_13.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_13.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_14.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_15.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_15.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_16.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_16.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_17.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_17.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_18.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_18.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_19.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_19.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_2.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_20.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_21.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_22.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_23.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_23.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_24.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_24.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_25.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_26.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_27.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_28.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_28.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_29.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_29.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_3.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_30.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_30.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_31.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_31.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_32.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_32.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_33.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_33.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_34.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_34.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_35.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_35.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_36.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_36.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_37.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_37.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_38.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_38.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_39.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_39.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_4.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_40.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_40.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_41.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_41.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_42.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_42.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_43.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_43.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_44.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_44.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_45.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_45.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_46.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_46.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_47.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_47.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_48.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_48.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_49.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_49.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_5.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_50.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_50.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_51.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_51.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_52.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_52.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_53.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_53.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_54.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_54.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_55.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_55.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_56.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_56.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_57.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_57.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_58.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_58.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_59.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_59.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_6.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_60.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_60.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_61.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_61.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_62.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_62.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_63.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_63.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_64.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_64.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_7.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_8.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_9.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-NoStopping/Encoded-Top100Docs-Proximity-NoStopping_9.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_1.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_10.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_10.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_11.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_12.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_13.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_13.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_14.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_15.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_15.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_16.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_16.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_17.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_17.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_18.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_18.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_19.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_19.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_20.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_21.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_22.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_23.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_23.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_24.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_24.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_25.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_26.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_27.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_28.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_28.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_29.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_29.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_3.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_30.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_30.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_31.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_31.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_32.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_32.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_33.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_33.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_34.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_34.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_35.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_35.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_36.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_36.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_37.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_37.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_38.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_38.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_39.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_39.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_4.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_40.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_40.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_41.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_41.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_42.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_42.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_43.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_43.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_44.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_44.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_45.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_45.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_46.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_46.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_47.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_47.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_48.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_48.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_49.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_49.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_5.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_50.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_50.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_51.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_51.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_53.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_53.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_54.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_54.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_55.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_55.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_56.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_56.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_57.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_57.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_58.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_58.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_59.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_59.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_6.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_60.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_60.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_61.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_61.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_62.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_62.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_63.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_63.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_7.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_8.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_9.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-Stopping/Encoded-Top100Docs-Proximity-Stopping_9.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py" afterPath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/Proximity_Stopping_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/Proximity_Stopping_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py" afterPath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 2/Snippet_generation.py" afterPath="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_NoRelevance.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_NoRelevance.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" afterPath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -406,50 +37,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tokenizer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py">
+      <file leaf-file-name="Snippet_generation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_inverted_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query_cleaning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bm25_no_relevance.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3270">
+              <caret line="221" column="38" lean-forward="true" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -466,7 +59,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>path4</find>
-      <find>ret_dict</find>
       <find>path2</find>
       <find>statistical</find>
       <find>modelling and simulation in agricultural ecosystems</find>
@@ -479,6 +71,10 @@
       <find>all_docs</find>
       <find>pm</find>
       <find>pm</find>
+      <find>ID_CleanedSentence</find>
+      <find>dict_query_doc</find>
+      <find>master_dict</find>
+      <find>ret_dict</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Studdy Stuffs\IR\Information-Retrieval-System</dir>
@@ -490,19 +86,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Supplementary Features/proximity.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 1/creating_unigram_inv_list_stemming.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 1/cacm_stem_extracter.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/creating_unigram_inv_list_stemming.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopping.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_stemming.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/rel-doc-stemmed.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_relevance_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/QLM (Stemmed)/QLM_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py" />
         <option value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_s_top_100.py" />
         <option value="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
@@ -524,23 +111,32 @@
         <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions_no_stop.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/create_inverted_list_with_positions_with_stop.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py" />
-        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_no_stopping.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
-        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
       </list>
     </option>
   </component>
@@ -572,53 +168,6 @@
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 4" type="462c0819:PsiDirectoryNode" />
-              <item name="BM25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Lucene" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 4" type="462c0819:PsiDirectoryNode" />
-              <item name="QLM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -631,11 +180,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Phase 1/Task 2/Step 4" />
+      <recent name="$PROJECT_DIR$/Phase 1/Task 2/Step 3" />
+      <recent name="$PROJECT_DIR$/Phase 1/Task 2/Step 2" />
+      <recent name="$PROJECT_DIR$/Phase 1/Task 2/Step 1" />
       <recent name="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)" />
-      <recent name="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)" />
-      <recent name="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations" />
-      <recent name="$PROJECT_DIR$/Supplementary Features" />
-      <recent name="$PROJECT_DIR$/Phase 3/Bonus Task Evaluations" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -903,106 +452,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bm25_no_relevance">
-    <configuration name="bm25_no_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Snippet_generation">
+    <configuration name="Snippet_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="create_inverted_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bm25_Relevance_PRF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 1/Step 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_QueryID_Top100Docs_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="create_expanded_queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="proximity_with_stop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="creating_inv_list_for_top_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.proximity_with_stop" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
-      <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
-      <item index="3" class="java.lang.String" itemvalue="Python.create_inverted_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.bm25_no_relevance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" />
+      <item index="1" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Snippet_generation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.bm25_no_relevance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.create_inverted_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
-        <item index="4" class="java.lang.String" itemvalue="Python.proximity_with_stop" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+        <item index="2" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="3" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" />
       </list>
     </recent_temporary>
   </component>
@@ -1039,9 +588,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1087,196 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/QLM/Final Evaluation.txt" />
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Final Evaluation.txt" />
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_tf-idf_normalized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_2_encoded.txt" />
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Inverted_List_With_Positions.txt" />
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions.py" />
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/creating_unigram_inv_list_position_stopped.py" />
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity.py" />
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions_no_stop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/create_inverted_list_with_positions_with_stop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/Proximity_Stopping_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py" />
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="122" column="51" lean-forward="false" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/DocumentID_DocLen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="90" column="11" lean-forward="false" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_no_stopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1343,24 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -1390,16 +730,6 @@
         <state relative-caret-position="36142">
           <caret line="2427" column="42" lean-forward="false" selection-start-line="2427" selection-start-column="41" selection-end-line="2427" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,23 +765,299 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#197#210#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_lucene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_lucene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/QLM/retrieval_model_evaluation_QLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/QLM/generate_QueryID_Top100Docs_QLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        <state relative-caret-position="148">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/src/Lucene/Lucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="387">
+          <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 4/BM25_Relevance_PRF_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/QLM Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 2/create_stopped_inverted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="75" lean-forward="false" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="221" column="38" lean-forward="true" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

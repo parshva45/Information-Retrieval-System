@@ -3,6 +3,9 @@ import math
 import collections
 import os
 
+# This script implements the TF-IDF Model for ranking the documents for every query
+# and retrieving the top 100 documents from the ranked documents
+
 # Access Encoded Data Structures
 with open("../../Encoded Data Structures/Encoded-Inverted_List.txt", 'rb') as f:
     inverted_index = pickle.loads(f.read())
@@ -13,15 +16,17 @@ with open("../../Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') a
 with open("../../Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
 
-query_list = list(query_dict.values())    #Contains all the queries required
+query_list = list(query_dict.values())    # Contains all the queries required
 
-#idf = log(N/df)
+# idf = log(N/df)
 
 final_score = {}     # dictionary of docID, bm25-score
-i = 1                #counter for counting query ids
-top_5 = {}
+i = 1                # counter for counting query ids
+top_5 = {}           # dictionary storing the top 5 pages by tf-idf scoring
 
 
+# # this function implements by calculating and returning a score
+# based on the given arguments
 def tf_idf(tf, df, D):
 
     N = len(docID_documentLen.keys())
@@ -32,6 +37,7 @@ def tf_idf(tf, df, D):
     return score
 
 
+# this function is used calculate the score for every document and calls the tf-idf function
 def calc_score(q):
     final_score = {}
     terms = q.split()
@@ -47,15 +53,20 @@ def calc_score(q):
 
 
 f = open('TF_IDF_Normalized_Top100_Pages.txt', 'w')
+
+f.write('Ranking (Top 100) for the queries in Cleaned_Queries.txt in the format:' + "\n")
+f.write('query_id Q0 doc_id rank TF-IDF_normalized_score system_name' + "\n\n")
+
 for query in query_list:
     c = 1                          # the variable c denotes rank
-    print("Calculating TF-IDF Score for query: " + query)
+    print("Calculating TF-IDF Normalized Score for query: " + query)
     tf_idf_score = calc_score(query)
     final_score1 = collections.OrderedDict(sorted(tf_idf_score.items(), key=lambda s: s[1], reverse=True))
     f.write('\nFor query : %s\n\n' %query)
     for quid in final_score1:
         if c < 100:
-            f.write('%d Q0 %s %d %s tf_idf_model\n' % (i, quid, c, final_score1[quid]))           # format-> query_id Q0 doc_id rank BM25_score system_name
+            # format-> query_id Q0 doc_id rank BM25_score system_name
+            f.write('%d Q0 %s %d %s tf_idf_model\n' % (i, quid, c, final_score1[quid]))
         if c <= 5:
             if query not in top_5.keys():
                 top_5[query] = [quid]
@@ -80,6 +91,9 @@ for doc in top_5_docs:
 list_output.close()
 
 print("\n\nTF-IDF Scoring Process DONE")
+
+# write the dictionary containing the query as key and a list of top 5 relevant document by
+# tf-idf scores as its corresponding values
 output = open('TF_IDF_Normalized_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()

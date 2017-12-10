@@ -1,5 +1,8 @@
 import pickle
 
+# This script uses the cacm.rel.txt file and converts the given relevance information
+# in this file to a dictionary to be used by BM25 with relevance model
+
 current_file = r'cacm.rel.txt'
 content = open(current_file, 'r').read()
 content = content.split("\n")

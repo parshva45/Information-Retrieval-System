@@ -62,3 +62,5 @@ f.close()
 output = open(encoded_dir + 'Encoded-Cleaned_Queries.txt', 'wb')
 pickle.dump(query_dict, output)
 output.close()
+
+print("\n\nQuery Cleaning Process DONE")

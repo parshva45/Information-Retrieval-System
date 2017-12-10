@@ -54,3 +54,5 @@ for file in os.listdir(path):
         result_text = result_text.lower()                                           # convert everything to lower case
         f.write(result_text.strip())
         f.close()
+
+print("\n\nTokenizing Process DONE")

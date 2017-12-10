@@ -9,7 +9,8 @@ import pickle
 d1 = {}                                               # dictionary to store term, term frequency
 doc_name = []                                         # list to store all the document names obtained
 
-# dictionary with key as docID and value as corresponding document lengthdocID_documentLen = {}
+# dictionary with key as docID and value as corresponding document length
+docID_documentLen = {}
 docID_docName = {}
 
 # create new directory for encoded output files that can be used later on
@@ -75,3 +76,4 @@ output = open(encoded_dir + 'Encoded-DocumentID_DocLen.txt', 'wb')
 pickle.dump(docID_documentLen, output)
 output.close()
 
+print("\n\nInverted List generated SUCCESSFULLY")

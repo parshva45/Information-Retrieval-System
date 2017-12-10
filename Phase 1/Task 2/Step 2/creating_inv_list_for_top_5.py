@@ -1,7 +1,7 @@
 import pickle
 import collections
 
-with open("../Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
+with open("../../Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     qID_query = pickle.loads(f.read())
 
 d1 = {}                                                      #dictionary to store term, term frequency
@@ -10,12 +10,12 @@ doc_name = []                                                #list to store all 
 docID_doclen = {}                                            #dictionary to store the document length of a particular document
 
 common_words = []
-with open('common_words.txt','r') as f:
+with open('../common_words.txt','r') as f:
    l = f.readlines()
 l = [x.strip() for x in l]
 common_words.extend(l)
 
-with open("Encoded-QueryID_Top5Docs_BM25_Relevance.txt", 'rb') as f:
+with open("../Encoded Data Structures (PRF)/Encoded-QueryID_Top5Docs_BM25_Relevance.txt", 'rb') as f:
     qID_top5Docs = pickle.loads(f.read())
 
 docs = []
@@ -25,7 +25,7 @@ for docList in qID_top5Docs.values():
 alltop5words = []
 for doc in docs:
    top5words = []
-   filename = '../Task 1/Step 1/Tokenizer Output/' + doc + '.txt'
+   filename = '../../Task 1/Step 1/Tokenizer Output/' + doc + '.txt'
    doc_terms = []
    f = open(filename, 'r').read()
    content = f.split(" ")
@@ -59,6 +59,6 @@ query_expansionterms = dict(zip(query_name,final_top5words_array))
 
 print(query_expansionterms)
 
-output = open('Encoded-Queries_With_Their_Expansion_Terms.txt','wb')
+output = open('../Encoded Data Structures (PRF)/Encoded-Queries_With_Their_Expansion_Terms.txt','wb')
 pickle.dump(query_expansionterms, output)
 output.close()

@@ -10,7 +10,7 @@ newpath = r'../../Encoded Data Structures (Phase 3)/'
 if not os.path.exists(newpath):
     os.makedirs(newpath)
 
-path = r'C:\Users\virat\PycharmProjects\IR_Final_Project\IR_Final_Project\Information-Retrieval-System\Phase 1\Task 2\Encoded Data Structures (PRF)\Encoded-BM25-Relevance-PRF-Top100Docs-perQuery'
+path = r'../../../Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery'
 queryID_top100Docs = {}                             # dictionary to store query id as key and it's corresponding
                                                     # top 100 documents as it's value
 for file in os.listdir(path):

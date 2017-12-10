@@ -3,16 +3,27 @@ import math
 import collections
 import os
 
+# This script implements the BM25 Model with Relevance Information for ranking the documents
+# for every query and retrieving the top 100 documents from the ranked documents
+
 # Access Encoded Data Structures
+
+# load the dictionary while contains all inverted list of the corpus
 with open("../../Encoded Data Structures/Encoded-Inverted_List.txt", 'rb') as f:
     inverted_index = pickle.loads(f.read())
 
+
+# load the dictionary which contains the docID and documentLen for all the
+# document in the corpus
 with open("../../Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') as f:
     docID_documentLen = pickle.loads(f.read())
 
+# load the cleaned queries dictionary to calculate document scores for each of these queries
 with open("../../Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
 
+# load the relevance information for given collection which is in the form of a dictionary
+# with value as QueryID and its value as all the corresponding RelevantDocs
 with open('../../Encoded Data Structures/Encoded-QueryID_RelevantDocs.txt', 'rb') as f:
     queryID_relevantDocs = pickle.loads(f.read())
 
@@ -20,24 +31,28 @@ queryID_noofrelevantdocs = {}
 for string in queryID_relevantDocs:
     queryID_noofrelevantdocs[string] = len(queryID_relevantDocs[string])
 
-#print(queryID_relevantDocs)
-#print(queryID_noofrelevantdocs)
 
 query_list = list(query_dict.values())    # Contains all the queries required
 
-#BM25 FORMULA : ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
-#where: K = k1(bL + (1 − b))
+# BM25 FORMULA :
+# ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
+# where: K = k1(bL + (1 − b))
 
-#f = term frequency in that document
-#n = total number of documents in which the term appears,i.e., len(docIds)
-#L = doc length / avg doc length
+# f = term frequency in that document
+# n = total number of documents in which the term appears,i.e., len(docIds)
+# L = doc length / avg doc length
 
 final_score = {}     # dictionary of docID, bm25-score
-avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())  #gives the average document length for the given corpus
-i = 1                #counter for counting query ids
-top_5 = {}
+
+# gives the average document length for the given corpus
+avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())
+
+i = 1                # counter for counting query ids
+top_5 = {}           # dictionary to store top 5 pages by BM25 scores
 
 
+# this function implements the above mathematical formula to calculate a return score
+# based on the given arguments
 def bm25(f, n, L, R, r):
 
     k1 = 1.2
@@ -57,6 +72,7 @@ def bm25(f, n, L, R, r):
     return score
 
 
+# this function computes the value of r to calculate relevance of each term in tokenize text
 def compute_r(term, id):
     r = 0
     relevant_doc_list = queryID_relevantDocs[str(id)]
@@ -69,6 +85,7 @@ def compute_r(term, id):
     return r
 
 
+# this function is used calculate the score for every document and calls the bm25 function
 def calc_score(q, R, id):
     final_score = {}
     terms = q.split()
@@ -87,11 +104,15 @@ def calc_score(q, R, id):
 
 
 f = open('BM25_Relevance_Top100_Pages.txt', 'w')
+
+f.write('Ranking (Top 100) for the queries in Cleaned_Queries.txt in the format:' + "\n")
+f.write('query_id Q0 doc_id rank BM25_Relevance_score system_name' + "\n\n")
+
 for query in query_dict.values():
     c = 1                          # the variable c denotes rank
     counter = 1
     final_score2 = {}
-    print("Calculating BM25 Score for query: " + query)
+    print("Calculating BM25 Score with relevance for query: " + query)
     if str(i) in queryID_relevantDocs.keys():
         try:
             R = queryID_noofrelevantdocs[str(i)]
@@ -137,7 +158,10 @@ for doc in top_5_docs:
         list_output.write(i + "\n")
 list_output.close()
 
-print("\n\nBM25 Scoring Process DONE")
+print("\n\nBM25 Scoring with Relevance Process DONE")
+
+# write the dictionary containing the query as key and a list of top 5 relevant document by
+# bm25 scores as its corresponding values
 output = open('BM25_Relevance_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()
