@@ -13,7 +13,6 @@ ret_dict = {}
 word_vectors = []
 
 
-#"/../Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top5_Docs.txt"
 path1 = os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt"
 path2 = os.path.dirname(os.path.realpath(__file__)) + "/../Raw HTML/"
 path4 = os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_Inverted_List.txt"
@@ -49,11 +48,9 @@ def calc_significant_words(words, doc, num_of_sentences):
     word_vectors = []
     significant_words = []
     for word in words:
-        if word not in common_words:
-            val = ret_dict[word]
+        if word.lower() not in common_words:
+            val = ret_dict[word.lower()]
             for tup in val:
-                    #print(doc)
-                #print(tup)
                 if doc == tup[0]:
                     if tup[1] >= threshold:
                         word_vectors.append(1)
@@ -69,10 +66,8 @@ def calc_significant_words(words, doc, num_of_sentences):
         numberof1 = word_vectors.count(1)
         total_bracketed = end - start + 1
         significance_factor = (numberof1 ** 2)/total_bracketed
-        # return [significance_factor, significant_words]
         return significance_factor
     else:
-        # return [0, significant_words]
         return 0
 
 def generate_snippet(filepath, writepath):
@@ -86,7 +81,6 @@ def generate_snippet(filepath, writepath):
         page_content = open(current_file,'r').read()
         soup = BeautifulSoup(page_content,"html.parser")
         for req_content in soup.find_all("html"):
-            #ID_CleanedSentence = {}
             req_content_text = req_content.text
             result_text = req_content_text.split('\n')
             for element in result_text:
@@ -94,10 +88,9 @@ def generate_snippet(filepath, writepath):
                     result_text.remove(element)
 
             result_text = '\n'.join(result_text)
-            #print(result_text)
-            result_text = result_text.lower()                             #convert everything to lower case
-            index_of_am = result_text.rfind("am")                         #contains the last index of the term "am"
-            index_of_pm = result_text.rfind("pm")                         #contains the last index of the term "pm"
+            # result_text = result_text.lower()                             #convert everything to lower case
+            index_of_am = result_text.rfind("AM")                         #contains the last index of the term "am"
+            index_of_pm = result_text.rfind("PM")                         #contains the last index of the term "pm"
 
             #retain the text content uptil am or pm in the corpus documents
 
@@ -109,19 +102,11 @@ def generate_snippet(filepath, writepath):
 
 
             cleaned_sentence = []
-            # for sentence in result_text.split('\n'):
-            #     sentence = re.sub(r"[^0-9A-Za-z,-\.:\\$]"," ", sentence)   #retain alpha-numeric text along with ',',':' and '.'
-            #     sentence = re.sub(r"(?!\d)[$,%,:.,-](?!\d)"," ", sentence, 0)    #retain '.', '-' or ',' between digits
-            #     sentence = re.sub(r' +', ' ', sentence).strip()             #remove spaces
-            #     #print(len(sentence))
-            #     cleaned_sentence.append(sentence)
-            # ID_CleanedSentence[file[:-5]] = cleaned_sentence
             result_text = re.sub(r"[^0-9A-Za-z,-\.:\\$]", " ", result_text)  # retain alpha-numeric text along with ',',':' and '.'
             result_text = re.sub(r"(?!\d)[$,%,:.,-](?!\d)"," ", result_text, 0)    #retain '.', '-' or ',' between digits
             result_text = re.sub(r' +', ' ', result_text).strip()             #remove spaces
 
             list_of_words = result_text.split()
-            #print(list_of_words)
             final = []
             each_sentence = ""
             i = 0
@@ -147,19 +132,15 @@ def generate_snippet(filepath, writepath):
                 for element in e:
                     s += " " + str(element)
                 sentences.append(s.strip())
-            #print(sentences)
             ID_CleanedSentence[file[:-5]] = sentences
-    #print(ID_CleanedSentence)
 
     with open(filepath, 'r') as file:
         ret = file.read().split()
 
-    #print(ID_CleanedSentence)
     for k, v in ID_CleanedSentence.items():
         for sentence in v:
             all_sentences.append(sentence)
 
-    #print(all_sentences)
     j = 0
     for i in range(0,  int(len(ret)/5)):
         list_doc = [ret[j], ret[j+1], ret[j+2], ret[j+3], ret[j+4]]
@@ -187,7 +168,6 @@ def generate_snippet(filepath, writepath):
 
             f.write(str(i)+") "+doc[0]+"\n\n")
             factor_sentences = highestThree(doc[1], s_factor_list)
-            # print(str(factor_words))
             significance_factors = []
             sentences = []
             for factor_sentence in factor_sentences:
@@ -199,11 +179,11 @@ def generate_snippet(filepath, writepath):
             for sentence in sentences:
                 highlighted_sentence_terms = []
                 for term in sentence.split(" "):
-                    if term in query_terms and term not in common_words:
+                    if term.lower() in query_terms and term.lower() not in common_words:
                         highlighted_sentence_terms.append("<b>"+term+"</b>")
                     else:
                         highlighted_sentence_terms.append(term)
-                highlighted_sentences.append(" ".join(highlighted_sentence_terms))
+                highlighted_sentences.append(" ".join(highlighted_sentence_terms).replace("</b> <b>"," "))
 
             for highlighted_sentence in highlighted_sentences:
                 f.write(highlighted_sentence+"\n")
