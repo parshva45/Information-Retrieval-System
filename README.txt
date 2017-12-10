@@ -1,3 +1,8 @@
+Prerequisites to run this project:
+1) Python Environment
+2) Java IDE like Eclipse to import entire Lucene Folders as Java Projects
+
+
 Steps for project execution:
 
 NOTE: Execute each file in the exact order as mentioned below.
@@ -10,6 +15,9 @@ Only Lucene model is implemented in Java. To execute it, just import the entire 
 2) Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/src/Lucene.java
 3) Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/src/Lucene.java
 
+
+Execute each file in the exact order as mentioned below.
+Input and output fields for every file has been mentioned for better understanding.
 -----------------------------------------------------------------------------------------------------------------------------
 
 PHASE 1:
