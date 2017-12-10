@@ -4,7 +4,7 @@ import re
 from bs4 import BeautifulSoup
 
 common_words = []
-with open('../../common_words.txt', 'r') as f:
+with open('../common_words.txt', 'r') as f:
     line = f.readlines()
 line = [x.strip() for x in line]
 common_words.extend(line)

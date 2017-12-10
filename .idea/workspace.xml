@@ -2,31 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Expanded_Queries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Queries_With_Their_Expansion_Terms.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-QueryID_Top5Docs_BM25_Relevance.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 2/Snippet_generation.py" afterPath="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_NoRelevance.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_NoRelevance.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" afterPath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 1/tokenizer_with_stopping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 3/query_cleaning_stopwords_removed.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,12 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Snippet_generation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3270">
-              <caret line="221" column="38" lean-forward="true" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+            <state relative-caret-position="-2614">
+              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -86,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_relevance_stemming.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/QLM (Stemmed)/QLM_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py" />
@@ -137,10 +117,12 @@
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
         <option value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -159,8 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,10 +148,17 @@
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,259 +174,6 @@
       <recent name="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Indexes/_0.si</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/proximity.py</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_10_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_11_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_12_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_13_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_14_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_15_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_16_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_17_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_18_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_19_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_1_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_20_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_21_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_22_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_23_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_24_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_25_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_26_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_27_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_28_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_29_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_2_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_30_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_31_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_32_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_33_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_34_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_35_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_36_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_37_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_38_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_39_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_3_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_40_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_41_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_42_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_43_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_44_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_45_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_46_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_47_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_48_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_49_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_4_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_50_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_51_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_52_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_53_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_54_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_55_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_56_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_57_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_58_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_59_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_5_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_60_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_61_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_62_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_63_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_64_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_6_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_7_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_8_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_9_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_pages_for_queries_using_proximity.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_10_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_11_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_12_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_13_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_14_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_15_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_16_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_17_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_18_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_19_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_1_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_20_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_21_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_22_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_23_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_24_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_25_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_26_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_27_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_28_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_29_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_2_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_30_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_31_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_32_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_33_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_34_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_35_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_36_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_37_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_38_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_39_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_3_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_40_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_41_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_42_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_43_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_44_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_45_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_46_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_47_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_48_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_49_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_4_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_50_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_51_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_52_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_53_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_54_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_55_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_56_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_57_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_58_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_59_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_5_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_60_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_61_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_62_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_63_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_64_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_6_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_7_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_8_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_9_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_pages_for_queries_using_proximity.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position_stopped.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/proximity_stopped.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position_encoded.txt</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Stopped_Lucene_Top100_Pages.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Stopped_Lucene_Top5_Docs.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Cleaned_queries_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/DocumentID-DocLen-encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Query_PositionInfo.txt</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -452,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Snippet_generation">
+  <component name="RunManager" selected="Python.bm25_no_relevance_stemming">
     <configuration name="Snippet_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,6 +217,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="bm25_no_relevance_stemming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval-System" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -521,37 +272,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2/Step 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" />
-      <item index="1" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Snippet_generation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-        <item index="2" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-        <item index="3" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bm25_no_relevance_stemming" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+        <item index="3" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.creating_inv_list_for_top_5" />
       </list>
     </recent_temporary>
   </component>
@@ -587,38 +321,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27411765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2747253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2528978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -635,37 +357,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="78" column="80" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="78" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="83" column="33" lean-forward="false" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="19" column="69" lean-forward="false" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="41" column="64" lean-forward="false" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36142">
           <caret line="2427" column="42" lean-forward="false" selection-start-line="2427" selection-start-column="41" selection-end-line="2427" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,9 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="e#197#210#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,9 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,23 +585,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -981,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,9 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,14 +678,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="24" column="75" lean-forward="false" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 1/cacm_stem_extracter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="93" lean-forward="false" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3270">
-          <caret line="221" column="38" lean-forward="true" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+        <state relative-caret-position="-2614">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -37,7 +37,7 @@ for query in root:
             continue
     q = [x for x in q if x not in common_words]  #remove stop words from the list
     q = ' '.join(q)
-    query_dict[q_id] = qq
+    query_dict[q_id] = q
 for key, value in query_dict.items():
     print(key + " : " + value)
 

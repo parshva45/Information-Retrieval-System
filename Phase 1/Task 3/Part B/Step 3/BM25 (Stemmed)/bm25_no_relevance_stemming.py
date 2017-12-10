@@ -14,15 +14,18 @@ with open('../cacm_stem.query.txt','r') as f:
 l = [x.strip() for x in l]
 stemmed_queries.extend(l)
 
-#BM25 FORMULA : ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
-#where: K = k1(bL + (1 − b))
+# BM25 FORMULA :
+# ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
+# where: K = k1(bL + (1 − b))
 
-#f = term frequency in that document
-#n = total number of documents in which the term appears,i.e., len(docIds)
-#L = doc length / avg doc length
+# f = term frequency in that document
+# n = total number of documents in which the term appears,i.e., len(docIds)
+# L = doc length / avg doc length
 
 final_score = {}     # dictionary of docID, bm25-score
-avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())  # gives the average document length for the given corpus
+
+# gives the average document length for the given corpus
+avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())
 i = 1                # counter for counting query ids
 
 

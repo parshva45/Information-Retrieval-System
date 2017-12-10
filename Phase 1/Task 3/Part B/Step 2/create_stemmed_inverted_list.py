@@ -2,10 +2,12 @@ import pickle
 import collections
 import os
 
-d1 = {}                                                      #dictionary to store term, term frequency
-#docID = 0                                                    #gives the document ID for a particular document
-doc_name = []                                                #list to store all the document names obtained
-docID_doclen = {}                                            #dictionary to store the document length of a particular document
+d1 = {}                                                      # dictionary to store term, term frequency
+
+doc_name = []                                                # list to store all the document names obtained
+
+# dictionary to store the document length of a particular document
+docID_doclen = {}
 docID_docName = {}
 
 
@@ -14,7 +16,7 @@ if not os.path.exists(encoded_dir):
     os.makedirs(encoded_dir)
 
 
-def generate_ngrams(words_list, n):                           #Function to generate n-grams
+def generate_ngrams(words_list, n):                           # Function to generate n-grams
     ngrams_list = []
 
     for num in range(0, len(words_list)):
@@ -24,7 +26,7 @@ def generate_ngrams(words_list, n):                           #Function to gener
     return ngrams_list
 
 
-def inverted_index(file):                                     #Function to generate inverted index
+def inverted_index(file):                                     # Function to generate inverted index
     inv_index_unigram = {}
     current_file = os.path.join(path,file)
     terms = open(current_file,'r').read()
@@ -47,14 +49,14 @@ for file in os.listdir(path):
     for term in child_inverted_list:
 
         if term in parent_inverted_list:
-
-            parent_inverted_list[term].append(child_inverted_list[term])              #append the (docID,tf) for the term if the same term appears in another document
+            # append the (docID,tf) for the term if the same term appears in another document
+            parent_inverted_list[term].append(child_inverted_list[term])
 
         else:
 
             parent_inverted_list[term] = [child_inverted_list[term]]
 
-inv_list_unigram = collections.OrderedDict(sorted(parent_inverted_list.items()))      #sort the inverted index
+inv_list_unigram = collections.OrderedDict(sorted(parent_inverted_list.items()))      # sort the inverted index
 
 output = open('Stemmed_Inverted_List.txt', 'w+', encoding='utf-8')
 for term in inv_list_unigram:
