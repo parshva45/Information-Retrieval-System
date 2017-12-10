@@ -83,28 +83,28 @@ def calc_score(q,R,id):
 
     return final_score
 
-
 f = open('BM25_Relevance_PRF_Top100_Pages.txt', 'w')
-for query in query_dict.values():
+for qID in query_dict:
     c = 1                          # the variable c denotes rank
-    if str(i) in queryID_relevantDocs.keys():
-        try:
-            R = queryID_noofrelevantdocs[str(i)]
-        except ValueError:
-            R = 0
-
-    bm25_score = calc_score(query,R,i)
+    # if qID in queryID_relevantDocs.keys():
+    #     try:
+    #         R = queryID_noofrelevantdocs[qID]
+    #     except ValueError:
+    #         R = 0
+    R = queryID_noofrelevantdocs[qID]
+    bm25_score = calc_score(query_dict[qID],R,qID)
     final_score1 = collections.OrderedDict(sorted(bm25_score.items(), key = lambda s : s[1], reverse = True))
-    f.write('\nFor query : %s\n\n' %query)
+    f.write('\nFor query : %s\n\n' %query_dict[qID])
     for id in final_score1:
         if (c < 100):
-            f.write('%d Q0 %s %d %s BM25_model\n' %(i,id,c,final_score1[id]))             #format-> query_id Q0 doc_id rank BM25_score system_name
+            f.write('%d Q0 %s %d %s BM25_model\n' %(int(qID),id,c,final_score1[id]))             #format-> query_id Q0 doc_id rank BM25_score system_name
             c += 1
     newpath = r'Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/'
     if not os.path.exists(newpath):
         os.makedirs(newpath)
-    output = open(newpath + 'Encoded-Top100Docs-BM25-Relevance-PRF' + '_%d' %i + '.txt', 'wb')
+    #if qID in queryID_relevantDocs.keys():
+    output = open(newpath + 'Encoded-Top100Docs-BM25-Relevance-PRF' + '_%d' %int(qID) + '.txt', 'wb')
     pickle.dump(final_score1, output)
     output.close()
-    i += 1
+    #i += 1
 f.close()

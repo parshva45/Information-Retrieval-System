@@ -1,0 +1,260 @@
+For query: what articles exist which deal with tss time sharing system an operating for ibm computers program memory interarrival distribution data performance monitoring software criteria systems simulation development
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.150000
+
+For query: i am interested in articles written either by prieve or udo pooch b u language glypnir programming illiac iv computers parallel execution loops multiprocessor zeros real algorithm polynomial code optimal serial computation structures fortran data
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: intermediate languages used in construction of multi targeted compilers tcoll data automatic structure choice language business high level interfaces input translation convert definition reply gentleman marovich cacm march
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: i m interested in mechanisms for communicating between disjoint processes possibly but not exclusively a distributed environment would rather see descriptions of complete with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing are examples my interests thoth system programs portable real operating security systems model verification language software machine independent march discussion summary performance future subsystems
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.200000
+
+For query: i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface with views improvements to user efficiency effectiveness satisfaction code compiler optimizations optimizing level object flow optimization data optimal serial parallel computation generation arithmetic expressions adapting programs language system
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.200000
+
+For query: interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not dynamics of arm sorting algorithm performance quicksort algorithms sort partial pass block design parallel time processors model polyphase tapes backward read merge m1 a426
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.100000
+
+For query: i am interested in distributed algorithms concurrent programs which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance techniques for understanding the correctness these object flow code optimization data elimination computations invariant loop execution compiler optimizations optimizing level values recursion analysis collection compile time garbage overhead
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.500000
+
+For query: addressing schemes for resources in networks resource network operating systems system user command time process multiprogramming hierarchy nucleus supervisor supervisory computer algorithm decentralized processes finding number buffer synchronization mechanism prove
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.100000
+
+For query: security considerations in local networks network operating systems and distributed code compiler optimizations optimizing level object flow optimization data optimal serial parallel computation programs language system pass efficient
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.300000
+
+For query: parallel languages for computation processors processor solution time 2 log2 algorithm merging illiac structures iv fortran data computers execution loops multiprocessor sort model
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.600000
+
+For query: setl very high level languages parallel sorting mesh connected computer sort time processors model methods ordinary differential numerical zeros real algorithm polynomial illiac structures iv fortran data
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.450000
+
+For query: portable operating systems working set parameter model page computer markov availability aided manipulation replacement algorithms vmin variable line curve bellman problem fitting complexity computational computing measure decision
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: code optimization for space efficiency matrix algorithm tridiagonal form number precedence relations sparse compute steps warshall transitive closure binary finding method hamilton knight graph algorithms paths efficient
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.350000
+
+For query: find all discussions of optimal implementations sort algorithms for database management applications sorting complexity technique computational problem keyword complete clique cover mathematics numerical analysis computer grammars lr grammar convex poin ts hulls
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.850000
+
+For query: find all discussions of horizontal microcode optimization with special emphasis on loops and global surface visible plotting program j6 hidden line plot shading computer generated polygons rotation axis determining
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.100000
+
+For query: find all descriptions of file handling in operating systems based on multiple processes and message passing programming distributed computing languages level packet ethernet communication switching design system information transaction communications services free concurrent concept
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.200000
+
+For query: optimization of intermediate and machine code stochastic ergodic matrix algorithm identifying evaluation static storage allocation retrieval database data systems list time interarrival distribution sharing preference assignment students sections
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction models performance computer system evaluation disciplines impact distributions multiple processor operating future subsystems survey appraisal problem design statement systems
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.300000
+
+For query: parallel algorithms control protection sharing multics design data access constraints languages objects process multiprogramming system hierarchy nucleus systems operating model kernel object hydra
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+For query: graph theoretic algorithms applicable to sparse matrices memory paging page program model time computer systems teractive information multics sharing segmentation allocation dynamic simulation system resource management
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.150000
+
+For query: computational complexity intractability class complete reductions algorithms and efficiency forwarding broadcast packet reverse path network topology information computer distributed routing adaptive quadratic line arpanet overhead communication ethernet switching
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.200000
+
+For query: i am interested in hidden line and surface algorithms for cylinders toroids spheres cones this is a rather specialized topic computer graphics prime number efficient generator algorithm complex numbers improved produce treesort principle 310 a1
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.650000
+
+For query: distributed computing structures and algorithms compiler formalism translator interactions presented duplex system programming computer method nonsingular binary matrices number natural transition language grammar recognizer context bounded algorithm free parser
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.150000
+
+For query: applied stochastic processes text format processing program editing blocks data snobol4 block dimensional typesetting compiler system mathematics language remote wylbur job phrases storage messages common
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: performance evaluation and modelling of computer systems image images surface models synthetic holograms digital holography display algorithms hexagonal triangular arrays thinning step edges pictures operators minimal contour digitized polygon
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.500000
+
+For query: concurrency control mechanisms in operating systems methods graph color heuristic method git graphs isomorphism program directed edges algorithm blocks 2 problem keyword complete clique cover storage presented welch fundamental
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: memory management aspects of operating systems eigenvalues matrices bounds perturbations non band symmetric problem algorithm generalized matrix tridiagonal form number linear floating point lu inverse case
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.500000
+
+For query: any information on packet radio networks of particular interest are algorithms for routing and dealing with changes in network topography i am not interested the hardware used algorithm context free parsing grammars translation equations pushdown automata grammar form analyzer bounded parser recognition procedures
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.200000
+
+For query: number theoretic algorithms especially involving prime series sieves and chinese remainder theorem type checking program correct lambda system kernel operating object hydra data access constraints languages objects types set values language reference structure programming
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.600000
+
+For query: articles on text formatting systems including what you see is get examples t nroff scribe bravo data access constraints languages objects abstract types programs automatic implementation axioms type development specification system formal semantics
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+For query: i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations original and restoring images that are subject noise an article on is h andrews c patterson outer product expansions their uses american mathematical data types type language treatment access constraints languages objects abstraction verification alphard iteration set values abstract programs automatic
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value of ajacency matrix for m especially interested in any heuristic coloring and isomorphism using this method synchronization ordering eventcounts sequencers processes distributed concurrent programming concept protection hardware rings mechanisms implementing parallel rules interference mutual information communicating system problem complex
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+For query: articles about the sensitivity of eigenvalue decomposition real matrices in particular zero one i m especially interested separation eigenspaces corresponding to distinct eigenvalues on subject c davis and w kahn rotation eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces closed linear operators 8 4 1971 data types type set values mesa programming languages access constraints objects mathematics language natural definition structures
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: currently interested in isolation of root polynomial there is an old more recent material heindel l evaluation performance system survey appraisal models computer cost utilization measure design software operating future subsystems
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin algorithm on finite field siam waztch testing of polynomial identities rabin m method random gamma integral variables solids synthesis bounded faces technique proposed methods tadikamalla start miss cold ratio ratios suggested sampling variates
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: fast algorithm for context free language recognition or parsing regions picture region scene analysis texture surface images patch solids synthesis bounded faces technique mathematics numerical algorithms computer shading hidden generated
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: articles describing the relationship between data types and concurrency e g what is type of a process when synchronization attempt two processes correct in message passing system there any notion messages i way to check that sender receiver are both treating bit stream as some particular reorganization disk database costs space organization base model secondary index query retrieval scheme inverted performance computer networks optimal program
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.250000
+
+For query: what is the type of a module i don t want entire literature on abstract data types here but m not sure how to phrase this avoid it interested in questions about one can check that matches contexts which used linear solution programs 0-1 algorithm transportation problem 293 cacm gomory 263a 1970 computer routine quadratic programming variables enumeration
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+For query: what does type compatibility mean in languages that allow programmer defined types you might want to restrict this extensible definition of abstract data or supplied definitions operators like retrieval information communication evaluation systems term query accuracy system storage study interactive database list organization relevant
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: list all articles dealing with data types in the following languages that are referenced frequently papers on above e g catch any interesting type structures i might have missed editing system machine line linc monitor graphic program graphical design computer language software circuit method lines structure incremental retrieval information communication evaluation systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.250000
+
+For query: theory of distributed systems and databases subtopics special interest include reliability fault tolerance in atomicity transactions synchronization algorithms resource allocation lower bounds models for asynchronous parallel also communicating processes protocols p box 2158 yale station new haven conn 06520 programs programming style functional forms proofs formal verification program output input procedures real point languages mathematics language natural statement indivisible reduction
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: computer performance evaluation techniques using pattern recognition and clustering la 70803 statistical software analysis social storage regression linear variables models based model variance roundoff probabilistic errors tests random numbers number generator
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.150000
+
+For query: analysis and perception of shape by humans computers descriptions recognition computer two dimensional shapes measures circularity matching structures lisp dictionary english information words coding program word hashing method perfect functions sets system language database relational questions present character transmission systems
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: texture analysis by computer digitized synthesis perception of animation skeleton key frame control formulation equations motion digital visible geometric surface structure algorithms formac programming solution language patterns dimensional design
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases language database relational questions retrieval data systems list query interface algebra aggregation abstractions relations privacy protection intentional resolution
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation automatic indexing considerations manipulation trees cacm space density processing dynamic document library data programming science computer curriculum courses
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules determine when a user should cease scanning output search processes parallel interference mutual procedures numerical environment solution computers execution loops multiprocessor processor arithmetic pass compilation expressions 2 log2 algorithm merging
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.200000
+
+For query: the use of computer science principles e g data structures numerical methods in generating optimization linear programming algorithms this includes issues khachian russian ellipsoidal algorithm and complexity such cellular problems graph arrays parallel sort time processors model sorting mesh connected illiac iv fortran zeros real polynomial
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.450000
+
+For query: the role of information retrieval in knowledge based systems i e expert data types type language treatment reference structure programming sp teaching subset cobol problem syntax solving list items multiword single words
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.450000
+
+For query: parallel processors in information retrieval processes distributed concurrent programming concept rules interference mutual synchronization ordering eventcounts sequencers buffer mechanism prove data problem process reading
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.200000
+
+For query: parallel processors and paging algorithms addressing capability address based systems system design scheduling operating concurrent forwarding broadcast packet reverse path time response network computing sharing networks higher education computer
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.400000
+
+For query: modelling and simulation in agricultural ecosystems security systems data information access operating model verification passwords time sharing flow lattice secure cryptographic techniques computers methods
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+

@@ -3,6 +3,9 @@ import pickle
 with open("Encoded-Queries_With_Their_Expansion_Terms.txt", 'rb') as f:
     query_expansionterms = pickle.loads(f.read())
 
+with open("../Task 1/Encoded Data Structures/Encoded-QueryID_RelevantDocs.txt", 'rb') as f:
+    queryID_relevantDocs = pickle.loads(f.read())
+
 query = list(query_expansionterms.keys())  #contains all the unexpanded, depunctuated queries
 query_terms = []                           #contains the terms of the query
 for q in query:
@@ -27,13 +30,21 @@ while i<len(query_terms):
      answer.append(new_answer)
      i += 1
 
+print(answer)
+
 final_query = {}   #dictionary having query id as key and expanded query as it's corresponding value
-
+'''
 for i, list in enumerate(answer,1):
-    expanded_query = ' '.join(list)
+    
     final_query[i] = expanded_query
+'''
+ids = list(queryID_relevantDocs.keys())
 
-print(final_query)
+i = 0
+for list in answer:
+    expanded_query = ' '.join(list)
+    final_query[ids[i]] = expanded_query
+    i += 1
 
 output = open('Encoded-Expanded_Queries.txt','wb')
 pickle.dump(final_query, output)

@@ -1,13 +1,19 @@
 import pickle
+import os
 
-with open("QueryID_RelevantDocs_encoded.txt", 'rb') as f:
+with open("../../../Phase 1/Task 1/Encoded Data Structures/Encoded-QueryID_RelevantDocs.txt", 'rb') as f:
     queryID_relevantDocs = pickle.loads(f.read())
 
-with open("QueryID_Top100Docs_by_bm25_WithRelevance_for_PRM_encoded.txt", 'rb') as f:
+with open("../../Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt", 'rb') as f:
     queryID_top100Docs = pickle.loads(f.read())
 
-with open("Resulting_expanded_Queries_encoded.txt", 'rb') as f:
+with open("../../../Phase 1/Task 2/Encoded-Expanded_Queries.txt", 'rb') as f:
     queryID_query = pickle.loads(f.read())
+
+newpath = r'../../Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/'
+if not os.path.exists(newpath):
+    os.makedirs(newpath)
+
 
 def calculate_total_no_of_relevant_docs(i):    #function to calculate the total no. of relevant docs for a particular query
     R = 0
@@ -17,6 +23,7 @@ def calculate_total_no_of_relevant_docs(i):    #function to calculate the total 
         if doc in top_100_docs:
             R += 1
     return R
+
 
 def calc_R_N_list(q):
     docName_R_N_list = {}                            #dictinary that has query ID as it's key and it's corresponding
@@ -30,6 +37,7 @@ def calc_R_N_list(q):
             else:
                 docName_R_N_list[doc] = "N"             #"N" denotes the document is non-relevant
     return docName_R_N_list
+
 
 def Reciprocal_rank(i):
     docName_R_N = calc_R_N_list(str(i))
@@ -56,8 +64,6 @@ precision_at_5 = {}
 precision_at_20 = {}
 queryID_relevantPrecisions = {}
 
-print(queryID_relevantDocs)
-
 for qID in queryID_relevantDocs:
     rank = 1
     R_count = 0
@@ -69,8 +75,8 @@ for qID in queryID_relevantDocs:
     if docName_R_N == {}:
         continue
     RR = Reciprocal_rank(qID)
-    f = open("Precision_Recall_Tables/BM25_WithRelevance_PRM/Precision_Recall_Table_for_" +qID+'.txt', 'w')
-    f.write("For Query: %s\n\n" %queryID_query[int(qID)])
+    f = open(newpath + "Precision_Recall_Table_for_" + qID +'.txt', 'w')
+    f.write("For Query: %s\n\n" %queryID_query[qID])
     f.write("RANK \t R/N \tPrecision \t  Recall\n\n")
     R_N_list = docName_R_N.values()
     for rel in docName_R_N:
@@ -106,7 +112,7 @@ for qID in queryID_relevantDocs:
 #print(queryID_averagePrecision)
 #print(queryID_relevantPrecisions)
 
-f1 = open("Precision_Recall_Tables/BM25_WithRelevance_PRM/Final Evaluation.txt", 'w')
+f1 = open(newpath + "Final Evaluation.txt", 'w')
 MAP = sum(queryID_averagePrecision.values()) / len(queryID_averagePrecision.keys())
 f1.write("Mean Average Precision = %f\n\n" %MAP)
 
@@ -114,10 +120,10 @@ MRR = sum(queryID_RR.values()) / len(queryID_RR.keys())
 f1.write("Mean Reciprocal Rank = %f\n\n" %MRR)
 f1.close()
 
-f2 = open("Precision_Recall_Tables/BM25_WithRelevance_PRM/P@KValuesForAllQueries.txt",'w')
+f2 = open(newpath + "P@KValuesForAllQueries.txt",'w')
 for qID in queryID_relevantDocs:
     if int(qID) in precision_at_5.keys():
-        f2.write("For query: %s\n\n" %queryID_query[int(qID)])
+        f2.write("For query: %s\n\n" %queryID_query[qID])
         f2.write("Precision at rank 5: %f\n" %precision_at_5[int(qID)])
         f2.write("Precision at rank 20: %f\n\n" %precision_at_20[int(qID)])
 f2.close()

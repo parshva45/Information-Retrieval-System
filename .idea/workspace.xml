@@ -2,8 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_52.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_9.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.txt" afterPath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Expanded_Queries.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Encoded-Expanded_Queries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,35 +71,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="proximity_no_stop.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py">
+      <file leaf-file-name="retrieval_model_evaluation_bm25_relevance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="28" lean-forward="false" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Snippets_Stopped_Lucene.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3066">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Snippet_generation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Phase 2/Snippet_generation.py">
+      <file leaf-file-name="retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="178">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Phase 2/Snippets_Stopped_TF-IDF.txt" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Top_100_pages_for_queries_using_lucene_model.txt" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" />
@@ -101,8 +144,6 @@
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py" />
         <option value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_s_top_100.py" />
         <option value="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
@@ -132,6 +173,10 @@
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
       </list>
     </option>
   </component>
@@ -166,7 +211,20 @@
             <path>
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 2" type="462c0819:PsiDirectoryNode" />
+              <item name="BM25 (Relevance)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,20 +510,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Snippet_generation">
-    <configuration name="Snippet_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100">
+    <configuration name="bm25_Relevance_PRF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -487,71 +545,71 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_QueryID_Top100Docs_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top100Docs_bm25_relevance_PRF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_proximity_no_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="retrieval_model_evaluation_bm25_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
-      <item index="1" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-      <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_no_stopping" />
-      <item index="3" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Snippet_generation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance" />
+      <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_PRF" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+      <item index="3" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Snippet_generation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_no_stopping" />
-        <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
-        <item index="4" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
+        <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_PRF" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
+        <item index="3" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance" />
       </list>
     </recent_temporary>
   </component>
@@ -588,8 +646,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -635,23 +694,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="68" lean-forward="false" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 2/Sentence_generation.py" />
-    <entry file="file://$PROJECT_DIR$/Phase 2/Snippets_Stopped_BM25_NoRelevance.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" />
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
     <entry file="file://$PROJECT_DIR$/Phase 3/Top_100_docNames_for_queries_using_lucene_model.txt" />
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Lucene_Top100_Docs.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -668,13 +710,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/retrieval_model_evaluation_by_proximity_s_top_100.py" />
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/QLM/generate_QueryID_Top100Docs_QLM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -686,13 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -708,13 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-647">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -756,13 +777,6 @@
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/QLM/Final Evaluation.txt" />
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Final Evaluation.txt" />
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -824,22 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3066">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,6 +928,102 @@
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="108" column="11" lean-forward="true" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="122" column="51" lean-forward="false" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="66" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
