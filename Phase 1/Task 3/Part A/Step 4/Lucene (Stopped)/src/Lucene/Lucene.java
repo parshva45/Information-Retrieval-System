@@ -77,6 +77,7 @@ public class Lucene {
 		
 		PrintWriter writer = new PrintWriter("Stopped_Lucene_Top100_Pages.txt", "UTF-8");			
 		PrintWriter writer1 = new PrintWriter("Stopped_Lucene_Top5_Docs.txt", "UTF-8");
+		PrintWriter writer2 = new PrintWriter("Stopped_Lucene_Top100_Docs.txt", "UTF-8");
 		writer.println("Ranking (Top 100) for the queries in Cleaned_queries.txt in the format:");
 		writer.println("query_id Q0 doc_id rank Lucene_score system_name");
 		
@@ -104,6 +105,7 @@ public class Lucene {
 	    				int pos = d.get("path").lastIndexOf('\\')+1;
 	    				int tot = d.get("path").length();
 	    				writer.println(q_id+" Q0 "+d.get("path").substring(pos,tot-4)+" "+(i+1)+" "+hits[i].score+" LuceneStopNoStem");
+	    				writer2.println(d.get("path").substring(pos,tot-4));
 	    				if(i < 5)
 	    					writer1.println(d.get("path").substring(pos,tot-4));
 	    			}
@@ -118,6 +120,7 @@ public class Lucene {
 	    }
 	    writer.close();
 	    writer1.close();
+	    writer2.close();
 
     }
 

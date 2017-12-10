@@ -86,7 +86,7 @@ def calc_significant_words(words, doc, num_of_sentences):
         return 0
 
 # this function generates snippets for each of the models
-def generate_snippet(filepath, writepath):
+def generate_snippet(filepath, writepath, writepath_html):
     global path2
     global path4
     global path1
@@ -163,6 +163,8 @@ def generate_snippet(filepath, writepath):
         j += 5
 
     f = open(writepath, 'w')
+    h = open(writepath_html, 'w')
+    h.write("<html>\n<body>\n\n")
     for quid, docs in dict_query_doc.items():
         master_dict[quid] = []
         for doc in docs:
@@ -172,6 +174,8 @@ def generate_snippet(filepath, writepath):
         quid_str = str(quid)
         f.write("-----------------------------------------------------------------\n")
         f.write("For Query " + str(quid) + " : "+query_dict[quid_str]+"\n\nTop 5 documents are:\n\n")
+        h.write("<hr><br>")
+        h.write("For Query " + str(quid) + " : "+query_dict[quid_str]+"<br><br>Top 5 documents are:<br><br>")
         i = 0
         for doc in doclist:
             i += 1
@@ -182,13 +186,13 @@ def generate_snippet(filepath, writepath):
                 s_factor_list.append(s_factor)
 
             f.write(str(i)+") "+doc[0]+"\n\n")
+            h.write(str(i)+") "+doc[0]+"<br>")
             factor_sentences = highestThree(doc[1], s_factor_list)
             significance_factors = []
             sentences = []
             for factor_sentence in factor_sentences:
                 significance_factors.append(factor_sentence[0])
                 sentences.append(factor_sentence[1])
-            f.write("\n"+ str(significance_factors)+ "\n")
             highlighted_sentences = []
             query_terms = query_dict[quid_str].split(" ")
             for sentence in sentences:
@@ -200,13 +204,19 @@ def generate_snippet(filepath, writepath):
                         highlighted_sentence_terms.append(term)
                 highlighted_sentences.append(" ".join(highlighted_sentence_terms).replace("</b> <b>"," "))
 
-            for highlighted_sentence in highlighted_sentences:
-                f.write(highlighted_sentence+"\n")
-            f.write("\n")
+            final_snippet = " ... ".join(highlighted_sentences)
+
+            f.write(final_snippet)
+            f.write("\n\n")
+
+            h.write("<p>"+final_snippet+"</p>")
+
+    h.write("\n\n</body>\n</html>")
 
 
 filepath_list = []
 writepath_list = []
+writepath_html_list = []
 
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Stopped_Lucene_Top5_Docs.txt")
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NoRelevance_Top5_Docs.txt")
@@ -219,6 +229,13 @@ writepath_list.append(r'Snippets_Stopped_BM25_NoRelevance.txt')
 writepath_list.append(r'Snippets_Stopped_QLM.txt')
 writepath_list.append(r'Snippets_Stopped_TF_IDF_Normalized.txt')
 
+
+writepath_html_list.append(r'Snippets_Stopped_Lucene.html')
+writepath_html_list.append(r'Snippets_Stopped_BM25_NoRelevance.html')
+writepath_html_list.append(r'Snippets_Stopped_QLM.html')
+writepath_html_list.append(r'Snippets_Stopped_TF_IDF_Normalized.html')
+
+
 for i in range(0, len(filepath_list)):
     print("\nDONE\n\n")
-    generate_snippet(filepath_list[i], writepath_list[i])
+    generate_snippet(filepath_list[i], writepath_list[i], writepath_html_list[i])
