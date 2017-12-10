@@ -10,7 +10,7 @@ with open("../Encoded Data Structures (Bonus)/Encoded-Inverted_List_Position_No_
     inverted_index = pickle.loads(f.read())
 
 with open("../../Phase 1/Task 1/Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') as f:
-    all_docs = pickle.loads(f.read()).keys()
+    all_docs = pickle.loads(f.read())
 
 with open("../../Phase 1/Task 1/Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
@@ -19,6 +19,11 @@ queryTerm_Position = {}
 queryTerm_docList = {}
 query_positionInfo = {}
 i = 1
+
+sum_docLen = 0
+for doc_len in all_docs.values():
+    sum_docLen += doc_len
+avg_docLen = sum_docLen/len(all_docs.values())
 
 
 def generate_ngrams(words_list, n):                           #Function to generate n-grams
@@ -66,12 +71,12 @@ def calc_score(query):
                 score = 0
                 for element1 in positionListOfTerm1:
                     for element2 in positionListOfTerm2:
-                        if ((element1-element2) >= -4) and ((element1 - element2) <= 0):
-                            score += 1
+                        if ((element1-element2) >= -4) and ((element1 - element2) < 0):
+                            score += ((element1-element2) + 5)
                 if doc not in document_docScore:
-                    document_docScore[doc] = score
+                    document_docScore[doc] = score * avg_docLen / all_docs[doc]
                 else:
-                    document_docScore[doc] += score
+                    document_docScore[doc] += score * avg_docLen / all_docs[doc]
     return document_docScore
 
 
@@ -79,7 +84,7 @@ f = open('Proximity_NoStopping_Top100_Pages.txt', 'w')
 for query in query_dict.values():
     c = 1                          # the variable c denotes rank
     proximity_score = calc_score(query)
-    for doc in all_docs:
+    for doc in all_docs.keys():
         if doc not in proximity_score:
             proximity_score[doc] = 0
     final_score1 = collections.OrderedDict(sorted(proximity_score.items(), key=lambda s: s[1], reverse=True))

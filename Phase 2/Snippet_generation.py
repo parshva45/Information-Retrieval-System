@@ -3,13 +3,28 @@ import os
 from bs4 import BeautifulSoup
 import pickle
 
+# this variable stores length of document
 doclen = 0
+
+# dictionary which has key as docID and value as doc length
 docID_doclen = {}
+
+# dictionary which has key as docID and value as list of sentences
 ID_CleanedSentence = {}
+
+# list of all sentences
 all_sentences = []
+
+# dictionary with query as key and documents as value
 dict_query_doc = {}
+
+# dictionary with query as input and documentID, sentences as value
 master_dict = {}
+
+# stopped inverted list
 ret_dict = {}
+
+# list of words in the sentence
 word_vectors = []
 
 
@@ -17,7 +32,7 @@ path1 = os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 1/Encode
 path2 = os.path.dirname(os.path.realpath(__file__)) + "/../Raw HTML/"
 path4 = os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_Inverted_List.txt"
 
-
+# list of common words
 common_words = []
 with open('common_words.txt','r') as f:
    l = f.readlines()
@@ -30,12 +45,12 @@ with open(path4, 'rb') as file:
 with open(path1, 'rb') as file:
     query_dict = pickle.loads(file.read())
 
-
+# this function maps sentences with scores and sorts them in decreasing order of scores
 def highestThree(sentence_list,score_list):
     highThree = sorted(zip(score_list, sentence_list), reverse=True)[:3]
     return highThree
 
-
+# this function calculates significance factor for the sentence
 def calc_significant_words(words, doc, num_of_sentences):
     global ret_dict
     global word_vectors
@@ -70,12 +85,13 @@ def calc_significant_words(words, doc, num_of_sentences):
     else:
         return 0
 
+# this function generates snippets for each of the models
 def generate_snippet(filepath, writepath):
     global path2
     global path4
     global path1
     for file in os.listdir(path2):
-        print("file name: " + file)
+        print("Generating Snippets for File: " + file)
         i = 1
         current_file = os.path.join(path2,file)
         page_content = open(current_file,'r').read()
@@ -88,11 +104,10 @@ def generate_snippet(filepath, writepath):
                     result_text.remove(element)
 
             result_text = '\n'.join(result_text)
-            # result_text = result_text.lower()                             #convert everything to lower case
-            index_of_am = result_text.rfind("AM")                         #contains the last index of the term "am"
-            index_of_pm = result_text.rfind("PM")                         #contains the last index of the term "pm"
+            index_of_am = result_text.rfind("AM")                         # contains the last index of the term "AM"
+            index_of_pm = result_text.rfind("PM")                         # contains the last index of the term "PM"
 
-            #retain the text content uptil am or pm in the corpus documents
+            # retain the text content uptil AM or PM in the corpus documents
 
             if index_of_am > index_of_pm:
                 greater_index = index_of_am
@@ -100,15 +115,15 @@ def generate_snippet(filepath, writepath):
                 greater_index = index_of_pm
             result_text = result_text[:(greater_index+2)]
 
+            # retain alpha-numeric text along with ',',':' and '.'
+            result_text = re.sub(r"[^0-9A-Za-z,-\.:\\$]", " ", result_text)
 
-            cleaned_sentence = []
-            result_text = re.sub(r"[^0-9A-Za-z,-\.:\\$]", " ", result_text)  # retain alpha-numeric text along with ',',':' and '.'
-            result_text = re.sub(r"(?!\d)[$,%,:.,-](?!\d)"," ", result_text, 0)    #retain '.', '-' or ',' between digits
-            result_text = re.sub(r' +', ' ', result_text).strip()             #remove spaces
+            # retain '.', '-' or ',' between digits
+            result_text = re.sub(r"(?!\d)[$,%,:.,-](?!\d)"," ", result_text, 0)
+
+            result_text = re.sub(r' +', ' ', result_text).strip()             # remove spaces
 
             list_of_words = result_text.split()
-            final = []
-            each_sentence = ""
             i = 0
             j = 0
             each = []
@@ -190,7 +205,6 @@ def generate_snippet(filepath, writepath):
             f.write("\n")
 
 
-
 filepath_list = []
 writepath_list = []
 
@@ -206,4 +220,5 @@ writepath_list.append(r'Snippets_Stopped_QLM.txt')
 writepath_list.append(r'Snippets_Stopped_TF_IDF_Normalized.txt')
 
 for i in range(0, len(filepath_list)):
+    print("\nDONE\n\n")
     generate_snippet(filepath_list[i], writepath_list[i])

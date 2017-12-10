@@ -2,13 +2,17 @@ import pickle
 import os
 from collections import OrderedDict
 
-path = r'../Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/'
+newpath = r'../Encoded Data Structures (PRF)/'
+if not os.path.exists(newpath):
+    os.makedirs(newpath)
+
+path = r'../../Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/'
 queryID_top5Docs = {}
 for file in os.listdir(path):
     doc_bm25_withRelevanceScore = {}
     current_file = os.path.join(path,file)
     string = current_file.split("Encoded-Top5Docs-BM25-Relevance_")
-    id = string[1]
+    id = string[1].split('.')[0]
     with open(current_file, 'rb') as f:
         doc_bm25_withRelevanceScore = pickle.loads(f.read())
     all_docs = list(doc_bm25_withRelevanceScore.keys())
@@ -18,6 +22,6 @@ for file in os.listdir(path):
 queryID_top5Docs_sorted = OrderedDict(sorted(queryID_top5Docs.items(), key=lambda x: x,reverse=False))
 
 print(queryID_top5Docs_sorted)
-output = open('Encoded-QueryID_Top5Docs_BM25_Relevance.txt', 'wb')
+output = open(newpath + 'Encoded-QueryID_Top5Docs_BM25_Relevance.txt', 'wb')
 pickle.dump(queryID_top5Docs_sorted , output)
 output.close()

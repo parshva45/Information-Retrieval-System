@@ -2,13 +2,22 @@ import re
 import os
 from bs4 import BeautifulSoup
 
+# This script is used to tokenize by de-punctuation and case-folding of the
+# raw HTML text of the cacm corpus to get the cleaned up text files to be
+# input to the inverted indexer
+
+# variable to store document length
 documentLen = 0
+
+# dictionary with key as docID and value as corresponding document length
 docID_documentLen = {}
 
+# create new directory for output
 newpath = 'Tokenizer Output/'
 if not os.path.exists(newpath):
     os.makedirs(newpath)
 
+# input path of corpus of raw cacm html
 path = os.path.dirname(os.path.realpath(__file__)) + "/../../../Raw HTML/"
 
 for file in os.listdir(path):
@@ -29,11 +38,11 @@ for file in os.listdir(path):
             else:
                 continue
         result_text = ' '.join(result_text)
-        result_text = result_text.lower()  # convert everything to lower case
-        index_of_am = result_text.rfind("am")  # contains the last index of the term "am"
-        index_of_pm = result_text.rfind("pm")  # contains the last index of the term "pm"
+        result_text = result_text.lower()       # convert everything to lower case
+        index_of_am = result_text.rfind("am")   # contains the last index of the term "am"
+        index_of_pm = result_text.rfind("pm")   # contains the last index of the term "pm"
 
-        # retain the text content uptil am or pm in the corpus documents
+        # retain the text content until am or pm in the corpus documents
 
         if index_of_am > index_of_pm:
             greater_index = index_of_am
@@ -45,3 +54,5 @@ for file in os.listdir(path):
         result_text = result_text.lower()                                           # convert everything to lower case
         f.write(result_text.strip())
         f.close()
+
+print("\n\nTokenizing Process DONE")

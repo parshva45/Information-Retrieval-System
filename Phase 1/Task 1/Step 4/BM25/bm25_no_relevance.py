@@ -3,31 +3,45 @@ import math
 import collections
 import os
 
+# This script implements the BM25 model for ranking the documents for every query
+# and retrieving the top 100 documents from the ranked documents
+
 # Access Encoded Data Structures
+
+# load the dictionary while contains all inverted list of the corpus
 with open("../../Encoded Data Structures/Encoded-Inverted_List.txt", 'rb') as f:
     inverted_index = pickle.loads(f.read())
 
+# load the dictionary which contains the docID and documentLen for all the
+# document in the
 with open("../../Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') as f:
     docID_documentLen = pickle.loads(f.read())
 
+# load the cleaned queries dictionary to calculate document scores for each of these queries
 with open("../../Encoded Data Structures/Encoded-Cleaned_Queries.txt", 'rb') as f:
     query_dict = pickle.loads(f.read())
 
 query_list = list(query_dict.values())    # Contains all the queries required
 
-#BM25 FORMULA : ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
-#where: K = k1(bL + (1 − b))
+# BM25 FORMULA :
+# ((k2 + 1)q)/((k2 + q)) * ((k1 + 1)f)/((K + f)) * log((r + 0.5)(N − n − R + r + 0.5))/((n − r + 0.5)(R − r + 0.5))
+# where: K = k1(bL + (1 − b))
 
-#f = term frequency in that document
-#n = total number of documents in which the term appears,i.e., len(docIds)
-#L = doc length / avg doc length
+# f = term frequency in that document
+# n = total number of documents in which the term appears,i.e., len(docIds)
+# L = doc length / avg doc length
 
 final_score = {}     # dictionary of docID, bm25-score
-avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())  # gives the average document length for the given corpus
+
+# gives the average document length for the given corpus
+avg_doc_len = sum(docID_documentLen.values()) / len(docID_documentLen.keys())
+
 i = 1                # counter for counting query ids
-top_5 = {}
+top_5 = {}           # dictionary which wil store information of top 5 pages by BM25 score
 
 
+# this function implements the above mathematical formula to calculate a return score
+# based on the given arguments
 def bm25(f, n, L, R, r):
 
     k1 = 1.2
@@ -53,24 +67,28 @@ def calc_score(q):
         if term in inverted_index:
             for doc in inverted_index[term]:
                 if doc[0] not in final_score.keys():
-                    final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]) , (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
+                    final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
                 else:
-                    final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]) , (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
+                    final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
 
     return final_score
 
 
 f = open('BM25_NonRelevance_Top100_Pages.txt', 'w')
+
+f.write('Ranking (Top 100) for the queries in Cleaned_Queries.txt in the format:' + "\n")
+f.write('query_id Q0 doc_id rank BM25_NoRelevance_score system_name' + "\n\n")
+
 for query in query_dict.values():
     c = 1                                      # the variable c denotes rank
-    print("Calculating BM25 Score for query: " + query)
+    print("Calculating BM25 Score with no relevance for query: " + query)
     bm25_score = calc_score(query)
     final_score1 = collections.OrderedDict(sorted(bm25_score.items(), key=lambda s: s[1], reverse=True))
     f.write('\nFor query : %s\n\n' % query)
     for quid in final_score1:
         if c < 100:
             # format-> query_id Q0 doc_id rank BM25_score system_name
-            f.write('%d Q0 %s %d %s BM25_model\n' % (i, quid, c, final_score1[quid]))
+            f.write('%d Q0 %s %d %s BM25_model_NoRelevance\n' % (i, quid, c, final_score1[quid]))
         if c <= 5:
             if query not in top_5.keys():
                 top_5[query] = [quid]
@@ -94,7 +112,7 @@ for doc in top_5_docs:
         list_output.write(i + "\n")
 list_output.close()
 
-print("\n\nBM25 Scoring Process DONE")
+print("\n\nBM25 Scoring with No Relevance Process DONE")
 output = open('BM25_NoRelevance_Top5_Query_Pages.txt', 'w')
 output.write(str(top_5))
 output.close()
