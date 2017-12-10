@@ -1,0 +1,170 @@
+For query : portabl oper system
+
+As Per BM25 Model:
+
+1 Q0 CACM-3127 1 12.601319015335209 BM25ModelStemNoStop
+1 Q0 CACM-2246 2 7.737073345786889 BM25ModelStemNoStop
+1 Q0 CACM-1591 3 7.13390475479656 BM25ModelStemNoStop
+1 Q0 CACM-1680 4 7.100080413174487 BM25ModelStemNoStop
+1 Q0 CACM-1033 5 6.986296478505674 BM25ModelStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 1 to rank 2.
+2) Scores remain almost similar from rank 2 to rank 3 and from rank 3 to rank 4.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per TF-IDF Model:
+
+1 Q0 CACM-3127 1 0.23904517591341828 tfidf_StemNoStop
+1 Q0 CACM-2311 2 0.1678104977625995 tfidf_StemNoStop
+1 Q0 CACM-2246 3 0.1640237397930409 tfidf_StemNoStop
+1 Q0 CACM-1461 4 0.15820216220570554 tfidf_StemNoStop
+1 Q0 CACM-1657 5 0.1453206032609993 tfidf_StemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 1 to rank 2.
+2) Scores remain almost similar from rank 2 to rank 3.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per Lucene model:
+
+For query: portabl oper system
+
+1 Q0 CACM-3127 1 1.2878323 LuceneStemNoStop
+1 Q0 CACM-2246 2 0.76457447 LuceneStemNoStop
+1 Q0 CACM-3196 3 0.5516708 LuceneStemNoStop
+1 Q0 CACM-2593 4 0.37100837 LuceneStemNoStop
+1 Q0 CACM-1930 5 0.33207375 LuceneStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 1 to rank 2, and comparitively lesser but  
+   still drop good enough from rank 2 to rank 3 and from rank 3 to rank 4.
+2) Scores remain almost similar from rank 4 to rank 5.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+General analysis for Query 1:
+
+1) Common documents by all three retrieval models are 'CACM-3127' and 'CACM-2246'.
+2) The document 'CACM-3127' is at rank 1 by all the three retrieval models. This
+   denotes that document 'CACM-3127' is most important for the given query.
+3) The document 'CACM-2246' is at rank 2 by models - Lucene and BM25, and at rank 3
+   by model- TF-IDF. This suggests that the document 'CACM-2246' is of very high 
+   importance for the given query.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+For query : code optim for space effici
+
+As per BM25 Model:
+
+2 Q0 CACM-2680 1 9.172984108954054 BM25ModelStemNoStop
+2 Q0 CACM-2816 2 8.104255940498316 BM25ModelStemNoStop
+2 Q0 CACM-3129 3 7.883053898669624 BM25ModelStemNoStop
+2 Q0 CACM-2863 4 7.376122003011924 BM25ModelStemNoStop
+2 Q0 CACM-1195 5 7.340200524211628 BM25ModelStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 1 to rank 2 and from rank 2 to rank 3.
+2) Scores remain almost similar from rank 3 to rank 4 and very similar from rank 4 to rank 5.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per TF-IDF Model:
+
+2 Q0 CACM-1795 1 0.31676015343217867 tfidf_StemNoStop
+2 Q0 CACM-2897 2 0.3071266141800507 tfidf_StemNoStop
+2 Q0 CACM-2748 3 0.28366047905441394 tfidf_StemNoStop
+2 Q0 CACM-2495 4 0.28278191691050947 tfidf_StemNoStop
+2 Q0 CACM-2464 5 0.2410673872296269 tfidf_StemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 2 to rank 3.
+2) Scores remain almost similar from rank 1 to rank 2 and from rank 4 to rank 5,
+   and very similar from ranks 3 to rank 4.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per Lucene model:
+
+2 Q0 CACM-2748 1 0.66814697 LuceneStemNoStop
+2 Q0 CACM-2491 2 0.6482463 LuceneStemNoStop
+2 Q0 CACM-2701 3 0.46911788 LuceneStemNoStop
+2 Q0 CACM-2033 4 0.4622833 LuceneStemNoStop
+2 Q0 CACM-2530 5 0.4399488 LuceneStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 2 to rank 3.
+2) Scores remain very similar from rank 3 to rank 4 and almost similar from rank 1 to rank 2
+   and from rank 4 to rank 5.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Genral analysis for Query 2:
+
+1) There is one common document 'CACM-2748' by models- lucene and TF-IDF. 
+   Also, this document is at rank 1 by Lucene model and at rank 3 by TF-IDF model.
+   This suggests this document might be of good importance to the given query.
+2) We observe different outputs by different retrieval models. This means,
+   possibly the query can be ambiguous, or maybe the query terms after stemming,
+   lost the initial context.
+   For example: consider the stemmed word in the given query : "optim"
+   It might be possible that the user wanted to find something related to 
+   "optimization" and the document contained a word "optimistic" which got
+   stemmed to "optim". The models consider this as a match, although they do
+   not match in context.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+For query : appli stochast process
+
+As per BM25 Model:
+
+5 Q0 CACM-1696 1 4.665691686774224 BM25ModelStemNoStop
+5 Q0 CACM-268 2 3.908255652841781 BM25ModelStemNoStop
+5 Q0 CACM-1359 3 3.7578012249737895 BM25ModelStemNoStop
+5 Q0 CACM-2065 4 3.529245568282912 BM25ModelStemNoStop
+5 Q0 CACM-1410 5 3.430098702234794 BM25ModelStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 1 to rank 2.
+2) Scores remain almost similar from rank 1 to rank 5 consecutively.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per TF-IDF Model:
+
+5 Q0 CACM-1696 1 0.20707359187077246 tfidf_StemNoStop
+5 Q0 CACM-268 2 0.1863662326836952 tfidf_StemNoStop
+5 Q0 CACM-2065 3 0.14371551730748944 tfidf_StemNoStop
+5 Q0 CACM-2999 4 0.12526788115223128 tfidf_StemNoStop
+5 Q0 CACM-2727 5 0.11765815005419854 tfidf_StemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 2 to rank 3.
+2) Scores remain almost similar from rank 1 to rank 5 consecutively.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+As per Lucene model:
+
+5 Q0 CACM-1696 1 0.37093884 LuceneStemNoStop
+5 Q0 CACM-1410 2 0.3602434 LuceneStemNoStop
+5 Q0 CACM-2535 3 0.3602434 LuceneStemNoStop
+5 Q0 CACM-268 4 0.31794757 LuceneStemNoStop
+5 Q0 CACM-1233 5 0.30616724 LuceneStemNoStop
+
+Explanation: 
+1) Score drops drastically from rank 3 to rank 4.
+2) Scores remain almost similar from rank 1 to rank 3 consecutively, and from rank 4 to rank 5.
+NOTE: Lesser difference in document scores denote that these documents are similar
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Genral analysis for Query 5:
+
+1) Common documents by these three retrieval models are: 'CACM-268', 'CACM-1696'.
+2) The document 'CACM-1696' is at rank 1 for by all the three retrieval models. This
+   denotes that document 'CACM-3127' is most important for the given query. 
+3) The document 'CACM-268' is at rank 2 by BM25 and TF-IDF models, and is at rank 4 by Lucene model.
+4) The document 'CACM-2065' is common by BM25 and TF-IDF retrieval models.
+5) All of these suggest that the documents - 'CACM-1696', 'CACM-268', 'CACM-3127' are 
+   important documents for this given stemmed query.
