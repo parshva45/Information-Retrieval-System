@@ -23,7 +23,7 @@ i = 1                # counter for counting query ids
 def tf_idf(tf,df,D):
 
     N = len(docID_documentLen.keys())
-    idf = math.log(N / df + 1)
+    idf = math.log(N / df + 1) + 1
     normalized_tf = tf / D
     score = normalized_tf * idf
     return score

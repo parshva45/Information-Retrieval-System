@@ -30,7 +30,7 @@ top_5 = {}           # dictionary storing the top 5 pages by tf-idf scoring
 def tf_idf(tf, df, D):
 
     N = len(docID_documentLen.keys())
-    idf = math.log(N/df+1)
+    idf = math.log(N/df+1) + 1
     normalized_tf = tf/D
     score = normalized_tf * idf
 

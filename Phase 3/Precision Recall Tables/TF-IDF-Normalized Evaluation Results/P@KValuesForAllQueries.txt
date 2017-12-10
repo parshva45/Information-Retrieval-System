@@ -45,17 +45,17 @@ Precision at rank 20: 0.150000
 
 For query: parallel languages languages for parallel computation
 
-Precision at rank 5: 0.200000
-Precision at rank 20: 0.400000
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.350000
 
 For query: setl very high level languages
 
 Precision at rank 5: 0.600000
-Precision at rank 20: 0.350000
+Precision at rank 20: 0.300000
 
 For query: portable operating systems
 
-Precision at rank 5: 0.400000
+Precision at rank 5: 0.200000
 Precision at rank 20: 0.150000
 
 For query: code optimization for space efficiency
@@ -65,28 +65,28 @@ Precision at rank 20: 0.200000
 
 For query: find all discussions of optimal implementations of sort algorithms for database management applications
 
-Precision at rank 5: 0.600000
-Precision at rank 20: 0.450000
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.300000
 
 For query: find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
 
-Precision at rank 5: 0.200000
-Precision at rank 20: 0.150000
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
 
 For query: find all descriptions of file handling in operating systems based on multiple processes and message passing
 
-Precision at rank 5: 0.200000
-Precision at rank 20: 0.100000
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
 
 For query: optimization of intermediate and machine code
 
 Precision at rank 5: 0.000000
-Precision at rank 20: 0.150000
+Precision at rank 20: 0.100000
 
 For query: languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
 
 Precision at rank 5: 0.000000
-Precision at rank 20: 0.150000
+Precision at rank 20: 0.100000
 
 For query: parallel algorithms
 
@@ -100,18 +100,18 @@ Precision at rank 20: 0.050000
 
 For query: computational complexity intractability class complete reductions algorithms and efficiency
 
-Precision at rank 5: 0.200000
+Precision at rank 5: 0.000000
 Precision at rank 20: 0.100000
 
 For query: i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
 
 Precision at rank 5: 0.000000
-Precision at rank 20: 0.050000
+Precision at rank 20: 0.000000
 
 For query: distributed computing structures and algorithms
 
-Precision at rank 5: 0.600000
-Precision at rank 20: 0.200000
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
 
 For query: applied stochastic processes
 
@@ -121,17 +121,17 @@ Precision at rank 20: 0.100000
 For query: performance evaluation and modelling of computer systems
 
 Precision at rank 5: 0.600000
-Precision at rank 20: 0.350000
+Precision at rank 20: 0.250000
 
 For query: concurrency control mechanisms in operating systems
 
 Precision at rank 5: 0.000000
-Precision at rank 20: 0.100000
+Precision at rank 20: 0.050000
 
 For query: memory management aspects of operating systems
 
-Precision at rank 5: 0.600000
-Precision at rank 20: 0.300000
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.350000
 
 For query: any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
 
@@ -166,7 +166,7 @@ Precision at rank 20: 0.000000
 For query: fast algorithm for context free language recognition or parsing
 
 Precision at rank 5: 0.200000
-Precision at rank 20: 0.100000
+Precision at rank 20: 0.050000
 
 For query: articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
 
@@ -195,8 +195,8 @@ Precision at rank 20: 0.150000
 
 For query: analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
 
-Precision at rank 5: 0.200000
-Precision at rank 20: 0.100000
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
 
 For query: texture analysis by computer digitized texture analysis texture synthesis perception of texture
 
@@ -205,8 +205,8 @@ Precision at rank 20: 0.100000
 
 For query: the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
 
-Precision at rank 5: 0.400000
-Precision at rank 20: 0.300000
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.250000
 
 For query: the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
 
@@ -240,7 +240,7 @@ Precision at rank 20: 0.000000
 
 For query: information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co citations the vector space model boolean search methods using inverted files feedback etc salton g
 
-Precision at rank 5: 0.200000
+Precision at rank 5: 0.000000
 Precision at rank 20: 0.150000
 
 For query: results relating parallel complexity theory both for pram s and uniform circuits
@@ -251,7 +251,7 @@ Precision at rank 20: 0.000000
 For query: algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
 
 Precision at rank 5: 0.000000
-Precision at rank 20: 0.150000
+Precision at rank 20: 0.100000
 
 For query: list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
 

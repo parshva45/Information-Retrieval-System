@@ -1,0 +1,260 @@
+For query: articles exist deal tss time sharing system operating system ibm computers
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: interested articles written prieve udo pooch prieve pooch
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.150000
+
+For query: intermediate languages construction multi targeted compilers tcoll
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message passing examples interests
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: papers design implementation editing interfaces window managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault tolerance techniques understanding correctness algorithms
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+For query: addressing schemes resources networks resource addressing network operating systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: security considerations local networks network operating systems distributed systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: parallel languages languages parallel computation
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.500000
+
+For query: setl high level languages
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.450000
+
+For query: portable operating systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: code optimization space efficiency
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+For query: find discussions optimal implementations sort algorithms database management applications
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.550000
+
+For query: find discussions horizontal microcode optimization special emphasis optimization loops global optimization
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: find descriptions handling operating systems based multiple processes message passing
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: optimization intermediate machine code
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.150000
+
+For query: languages compilers parallel processors especially highly horizontal microcoded machines code compaction
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: parallel algorithms
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.300000
+
+For query: graph theoretic algorithms applicable sparse matrices
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: computational complexity intractability class complete reductions algorithms efficiency
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.200000
+
+For query: interested hidden line hidden surface algorithms cylinders toroids spheres cones specialized topic computer graphics
+
+Precision at rank 5: 1.000000
+Precision at rank 20: 0.600000
+
+For query: distributed computing structures algorithms
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.200000
+
+For query: applied stochastic processes
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+For query: performance evaluation modelling computer systems
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.300000
+
+For query: concurrency control mechanisms operating systems
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.150000
+
+For query: memory management aspects operating systems
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+For query: information packet radio networks interest algorithms packet routing dealing network topography interested hardware network
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: number theoretic algorithms especially involving prime number series sieves chinese remainder theorem
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.400000
+
+For query: articles text formatting systems including systems examples nroff scribe bravo
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithms graph coloring graph isomorphism method
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: articles sensitivity eigenvalue decomposition real matrices matrices especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.050000
+
+For query: fast algorithm context free language recognition parsing
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.250000
+
+For query: articles describing relationship data types concurrency type process synchronization attempt processes type correct message passing system notion types messages check sender message receiver treating bit stream type
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: type module don want entire literature abstract data types sure phrase avoid interested questions check module matches contexts
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.450000
+
+For query: type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer supplied definitions operators
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+For query: list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: computer performance evaluation techniques pattern recognition clustering la 70803
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+For query: analysis perception shape humans computers shape descriptions shape recognition computer dimensional shapes measures circularity shape matching
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+For query: texture analysis computer digitized texture analysis texture synthesis perception texture
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+For query: operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+For query: computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+For query: role information retrieval knowledge based systems expert systems
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+For query: abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+For query: algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest student test wilcoxon sign tests multivariate univariate components included
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.350000
+
+For query: dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.250000
+
+For query: hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.250000
+
+For query: information retrieval articles gerard salton clustering bibliographic coupling citations citations vector space model boolean search methods inverted feedback salton
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.500000
+
+For query: results relating parallel complexity theory pram uniform circuits
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.100000
+
+For query: algorithms parallel computation especially comparisons parallel sequential algorithms
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.300000
+
+For query: list articles el1 ecl el1 el 1 don remember
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
