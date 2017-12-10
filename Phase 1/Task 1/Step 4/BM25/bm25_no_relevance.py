@@ -3,10 +3,17 @@ import math
 import collections
 import os
 
+# This script implements the BM25 model for ranking the documents for every query
+# and retrieving the top 100 documents from the ranked documents
+
 # Access Encoded Data Structures
+
+# load the dictionary while contains all inverted list of the corpus
 with open("../../Encoded Data Structures/Encoded-Inverted_List.txt", 'rb') as f:
     inverted_index = pickle.loads(f.read())
 
+# load the dictionary which contains the docID and documentLen for all the
+# document in the 
 with open("../../Encoded Data Structures/Encoded-DocumentID_DocLen.txt", 'rb') as f:
     docID_documentLen = pickle.loads(f.read())
 
@@ -61,16 +68,20 @@ def calc_score(q):
 
 
 f = open('BM25_NonRelevance_Top100_Pages.txt', 'w')
+
+f.write('Ranking (Top 100) for the queries in Cleaned_Queries.txt in the format:' + "\n")
+f.write('query_id Q0 doc_id rank BM25_NoRelevance_score system_name' + "\n\n")
+
 for query in query_dict.values():
     c = 1                                      # the variable c denotes rank
-    print("Calculating BM25 Score for query: " + query)
+    print("Calculating BM25 Score with no relevance for query: " + query)
     bm25_score = calc_score(query)
     final_score1 = collections.OrderedDict(sorted(bm25_score.items(), key=lambda s: s[1], reverse=True))
     f.write('\nFor query : %s\n\n' % query)
     for quid in final_score1:
         if c < 100:
             # format-> query_id Q0 doc_id rank BM25_score system_name
-            f.write('%d Q0 %s %d %s BM25_model\n' % (i, quid, c, final_score1[quid]))
+            f.write('%d Q0 %s %d %s BM25_model_NoRelevance\n' % (i, quid, c, final_score1[quid]))
         if c <= 5:
             if query not in top_5.keys():
                 top_5[query] = [quid]

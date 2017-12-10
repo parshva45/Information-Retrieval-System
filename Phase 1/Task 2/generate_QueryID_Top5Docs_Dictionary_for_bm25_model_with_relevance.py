@@ -8,7 +8,7 @@ for file in os.listdir(path):
     doc_bm25_withRelevanceScore = {}
     current_file = os.path.join(path,file)
     string = current_file.split("Encoded-Top5Docs-BM25-Relevance_")
-    id = string[1]
+    id = string[1].split('.')[0]
     with open(current_file, 'rb') as f:
         doc_bm25_withRelevanceScore = pickle.loads(f.read())
     all_docs = list(doc_bm25_withRelevanceScore.keys())
