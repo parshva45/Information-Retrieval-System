@@ -1,6 +1,0 @@
-For Query: applied stochastic processes
-
-RANK 	 R/N 	Precision 	  Recall
-
-01  	  N  	  0.000  	  0.000
-02  	  N  	  0.000  	  0.000

@@ -196,14 +196,12 @@ writepath_list = []
 
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Stopped_Lucene_Top5_Docs.txt")
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NoRelevance_Top5_Docs.txt")
-filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Top5_Docs.txt")
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/Stopped_QLM_Top5_Docs.txt")
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top5_Docs.txt")
 
 
 writepath_list.append(r'Snippets_Stopped_Lucene.txt')
 writepath_list.append(r'Snippets_Stopped_BM25_NoRelevance.txt')
-writepath_list.append(r'Snippets_Stopped_TF_IDF.txt')
 writepath_list.append(r'Snippets_Stopped_QLM.txt')
 writepath_list.append(r'Snippets_Stopped_TF_IDF_Normalized.txt')
 

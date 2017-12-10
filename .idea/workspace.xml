@@ -2,101 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_21(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_22(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_23(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_24(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_25(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_26(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_27(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_28(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_29(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Precision_Recall_Table_for_3(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_2(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_2(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_20(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_20(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_21(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_21(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_22(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_22(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_23(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_23(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_24(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_24(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_25(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_25(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_26(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_26(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_27(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_27(2).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_28(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Precision_Recall_Table_for_30(1).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_Dictionary_for_bm25_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_dictionary_for_bm25_WithRelevance_for_PRM.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/QLM/generate_QueryID_Top100Docs_dictionary_for_QLM.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_Dictionary_for_tf-idf_Normalized_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_by_bm25_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_for_lucene_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/QLM/retrieval_model_evaluation_for_QLM_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_by_tf-idf_normalized_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_10_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_11_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_12_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_13_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_14_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_15_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_16_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_17_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_18_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_19_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_1_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_20_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_21_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_22_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_23_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_24_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_25_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_26_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_27_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_28_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_29_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_2_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_30_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_31_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_32_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_33_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_34_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_35_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_36_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_37_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_38_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_39_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_3_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_40_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_41_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_42_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_43_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_44_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_45_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_46_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_47_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_48_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_49_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_4_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_50_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_51_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_52_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_53_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_54_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_55_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_56_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_57_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_58_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_59_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_5_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_60_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_61_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_62_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_63_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_64_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_6_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_7_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_8_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_9_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_10_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_11_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_12_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_13_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_14_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_15_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_16_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_17_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_18_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_19_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_1_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_20_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_21_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_22_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_23_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_24_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_25_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_26_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_27_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_28_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_29_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_2_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_30_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_31_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_32_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_33_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_34_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_35_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_36_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_37_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_38_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_39_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_3_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_40_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_41_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_42_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_43_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_44_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_45_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_46_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_47_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_48_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_49_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_4_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_50_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_51_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_52_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_53_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_54_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_55_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_56_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_57_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_58_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_59_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_5_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_60_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_61_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_62_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_63_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_64_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_6_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_7_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_8_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_9_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/retrieval_model_evaluation_by_proximity_s_top_100.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/creating_unigram_inv_list_position.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/creating_unigram_inv_list_position_stopped.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_stopped.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Top_100_pages_for_queries_using_proximity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/Top_100_stopped_pages_for_queries_using_proximity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position_encoded.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position_encoded.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25_WithRelevance/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/Lucene/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/Lucene/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/QLM/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/QLM/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/P@KValuesForAllQueries.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_10.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_11.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_12.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_13.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_13.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_15.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_16.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_16.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_17.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_17.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_18.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_18.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_19.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_19.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_2.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_20.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_21.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_23.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_23.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_24.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_24.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_25.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_26.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_27.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_28.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_29.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_31.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_36.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_36.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_37.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_38.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_39.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_40.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_42.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_42.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_43.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_44.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_45.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_45.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_57.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_57.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_58.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_59.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_6.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_60.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_61.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_62.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_62.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_63.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF/Precision_Recall_Table_for_9.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/QueryID_Top100Docs_by_TF-IDF_encoded.txt" afterPath="$PROJECT_DIR$/Phase 3/QueryID_Top100Docs_by_TF-IDF_encoded.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model.py" afterPath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" afterPath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_tf-idf_Normalized_model.py" afterPath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_tf-idf_Normalized_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_tf-idf_model.py" afterPath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_tf-idf_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary_for_lucene.py" afterPath="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary_for_lucene.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_s_top_100.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_tf-idf_normalized_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_tf-idf_normalized_s_top_100.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_tf-idf_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_tf-idf_s_top_100.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_for_QLM_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_for_QLM_s_top_100.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_for_lucene_s_top_100.py" afterPath="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_for_lucene_s_top_100.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,32 +163,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="111" column="49" lean-forward="false" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,6 +184,7 @@
       <find>for</find>
       <find>articles</find>
       <find>elevant_docs = queryID_relevantDocs[int(q)]</find>
+      <find>queryID_relevantDocs</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Studdy Stuffs\IR\Information-Retrieval-System</dir>
@@ -163,15 +196,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py" />
-        <option value="$PROJECT_DIR$/Phase 2/a.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
-        <option value="$PROJECT_DIR$/ Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" />
         <option value="$PROJECT_DIR$/Phase 2/Snippets_Stopped_TF-IDF.txt" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py" />
-        <option value="$PROJECT_DIR$/Phase 2/Sentence_generation.py" />
         <option value="$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Top_100_pages_for_queries_using_lucene_model.txt" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 1/tokenizer.py" />
@@ -197,6 +223,30 @@
         <option value="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_proximity_s_top_100.py" />
         <option value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py" />
+        <option value="$PROJECT_DIR$/Phase 2/Sentence_generation.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_lucene.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/QLM/generate_QueryID_Top100Docs_QLM.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_tf-idf_normalized.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_lucene.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/QLM/retrieval_model_evaluation_QLM.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_tf-idf_normalized.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions_no_stop.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/create_inverted_list_with_positions_with_stop.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py" />
+        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_no_stopping.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
+        <option value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
       </list>
     </option>
   </component>
@@ -237,12 +287,12 @@
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
               <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Task 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Supplementary Features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +306,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ Phase 1/Task 2" />
+      <recent name="$PROJECT_DIR$/Supplementary Features/Part B (Stopping)" />
+      <recent name="$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)" />
+      <recent name="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations" />
+      <recent name="$PROJECT_DIR$/Supplementary Features" />
+      <recent name="$PROJECT_DIR$/Phase 3/Bonus Task Evaluations" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -273,17 +327,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Indexes/_0.cfe</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Indexes/_0.cfs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Indexes/_0.si</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/bin/Lucene/Lucene.class</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/src/Lucene/Lucene.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Indexes/_0.cfe</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Indexes/_0.cfs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Indexes/_0.si</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Stopped_Lucene_Top100_Pages.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Stopped_Lucene_Top5_Docs.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/src/Lucene/Lucene.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Indexes/_0.si</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/inverted_list_unigram_position_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/proximity.py</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -291,11 +339,140 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/.classpath</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/.project</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Lucene_Top100_Docs.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Lucene_Top100_Pages.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/bin/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_10_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_11_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_12_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_13_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_14_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_15_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_16_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_17_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_18_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_19_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_1_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_20_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_21_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_22_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_23_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_24_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_25_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_26_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_27_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_28_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_29_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_2_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_30_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_31_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_32_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_33_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_34_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_35_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_36_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_37_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_38_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_39_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_3_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_40_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_41_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_42_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_43_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_44_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_45_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_46_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_47_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_48_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_49_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_4_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_50_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_51_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_52_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_53_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_54_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_55_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_56_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_57_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_58_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_59_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_5_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_60_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_61_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_62_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_63_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_64_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_6_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_7_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_8_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_9_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_pages_for_queries_using_proximity.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_10_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_11_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_12_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_13_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_14_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_15_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_16_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_17_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_18_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_19_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_1_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_20_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_21_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_22_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_23_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_24_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_25_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_26_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_27_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_28_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_29_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_2_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_30_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_31_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_32_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_33_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_34_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_35_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_36_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_37_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_38_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_39_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_3_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_40_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_41_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_42_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_43_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_44_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_45_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_46_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_47_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_48_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_49_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_4_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_50_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_51_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_52_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_53_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_54_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_55_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_56_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_57_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_58_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_59_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_5_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_60_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_61_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_62_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_63_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_64_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_6_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_7_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_8_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_docs_using_proximity_encoded/Top_100_stopped_documents_using_proximity_for_query_9_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Top_100_stopped_pages_for_queries_using_proximity.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/creating_unigram_inv_list_position_stopped.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/proximity_stopped.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/stopped_inverted_list_unigram_position_encoded.txt</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -303,11 +480,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Lucene_Top5_Docs.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/QueryID_Top100Docs_by_lucene_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/QueryID_Top5Docs_by_lucene_encoded.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Top_100_docNames_for_queries_using_lucene_model.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/Top_100_pages_for_queries_using_lucene_model.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Stopped_Lucene_Top100_Pages.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/Lucene (Stemmed)/Stopped_Lucene_Top5_Docs.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Cleaned_queries_encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/DocumentID-DocLen-encoded.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Supplementary Features/Query_PositionInfo.txt</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -401,24 +578,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.retrieval_model_evaluation_by_bm25_with_relevance_s_top_100">
-    <configuration name="bm25_Relevance_PRF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.retrieval_model_evaluation_proximity_no_stopping">
     <configuration name="create_expanded_queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -436,71 +596,88 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top100Docs_proximity_no_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_no_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_by_bm25_with_relevance_s_top_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top100Docs_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_by_proximity_s_top_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="retrieval_model_evaluation_proximity_no_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_proximity_s_top_100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="retrieval_model_evaluation_proximity_with_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval-System" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
-      <item index="1" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-      <item index="2" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance" />
-      <item index="3" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_s_top_100" />
-      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_proximity_s_top_100" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_no_stopping" />
+      <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
+      <item index="2" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+      <item index="3" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_no_stopping" />
+      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_s_top_100" />
-        <item index="1" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_proximity_s_top_100" />
-        <item index="2" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance" />
-        <item index="3" class="java.lang.String" itemvalue="Python.bm25_Relevance_PRF" />
-        <item index="4" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_no_stopping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_proximity_with_stopping" />
+        <item index="2" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_with_stopping" />
+        <item index="3" class="java.lang.String" itemvalue="Python.create_expanded_queries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_proximity_no_stopping" />
       </list>
     </recent_temporary>
   </component>
@@ -583,27 +760,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary_for_lucene.py">
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -611,218 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model.py">
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top5_Docs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/QLM/QLM_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/creating_unigram_inv_list_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 1/creating_unigram_inv_list_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/creating_unigram_inv_list_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 1/cacm_stem_extracter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supplementary Features/proximity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="94" column="54" lean-forward="false" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_no_relevance_stopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="65" column="58" lean-forward="false" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/rel-doc-stemmed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="98" column="104" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="98" selection-end-column="104" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/Stemmed_BM25_Relevance_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/Stemmed_BM25_NoRelevance_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_relevance_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 2/create_stopped_inverted_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/QLM (Stemmed)/QLM_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/Stemmed_TF_IDF_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_stemming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        <state relative-caret-position="90">
+          <caret line="6" column="68" lean-forward="false" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
           <folding>
             <element signature="e#0#13#0" expanded="false" />
           </folding>
@@ -831,13 +788,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 2/Sentence_generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2572">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="399">
+          <caret line="208" column="50" lean-forward="true" selection-start-line="208" selection-start-column="50" selection-end-line="208" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt">
+    <entry file="file://$PROJECT_DIR$/Phase 2/Snippets_Stopped_BM25_NoRelevance.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -845,7 +802,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Encoded-QueryID_Top5Docs_BM25_Relevance.txt">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_dictionary_for_lucene.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -853,76 +810,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Encoded-Queries_With_Their_Expansion_Terms.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/query_cleaning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-407">
-          <caret line="89" column="33" lean-forward="false" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/bm25_Relevance_PRF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-932">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/BM25_Relevance_PRF_Top100_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_s_top_100.py">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Top_100_docNames_for_queries_using_lucene_model.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -935,53 +834,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/src/Lucene/Lucene.java">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene/generate_QueryID_Top100Docs_lucene.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="50" column="42" lean-forward="false" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="37" lean-forward="false" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+        <state relative-caret-position="268">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_dictionary_for_bm25_WithRelevance_for_PRM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_proximity_s_top_100.py">
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/retrieval_model_evaluation_by_proximity_s_top_100.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
@@ -989,25 +852,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/generate_QueryID_Top100Docs_Dictionary_for_bm25_model_with_relevance.py">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="240">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Final Evaluation.txt">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/QLM/generate_QueryID_Top100Docs_QLM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/P@KValuesForAllQueries.txt">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1015,7 +890,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Precision_Recall_Table_for_1.txt">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1023,13 +898,313 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/retrieval_model_evaluation_by_bm25_with_relevance_s_top_100.py">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/BM25/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="111" column="49" lean-forward="false" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Lucene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/QLM/retrieval_model_evaluation_QLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1457">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_lucene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/DocumentID_DocLen.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/QLM Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/QLM/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision_Recall_Tables/TF-IDF_Normalized/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Top_100_docs_using_proximity_encoded/Top_100_documents_using_proximity_for_query_2_encoded.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Inverted_List_With_Positions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/creating_unigram_inv_list_position_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/create_inverted_list_with_positions_no_stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="72" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/create_inverted_list_with_positions_with_stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/Proximity_Stopping_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/Proximity_NoStopping_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/generate_QueryID_Top100Docs_Dictionary_for_proximity_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part B (Stopping)/proximity_with_stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="78" column="33" lean-forward="false" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (No Relevance)/generate_QueryID_Top100Docs_bm25_no_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/creating_inv_list_for_top_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/create_expanded_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Part A (No Stopping)/proximity_no_stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="90" column="29" lean-forward="false" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_with_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (With Stopping) Evaluation/retrieval_model_evaluation_proximity_with_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/retrieval_model_evaluation_proximity_no_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Proximity (No Stopping) Evaluation/generate_QueryID_Top100Docs_proximity_no_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (No Stopping)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supplementary Features/Bonus Task Evaluations/Precision Recall Tables/Proximity (Stopping)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

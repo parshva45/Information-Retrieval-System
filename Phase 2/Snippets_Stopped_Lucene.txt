@@ -16,8 +16,13 @@ positions with respect to <b>operating system</b> performance is given While
 
 [4.0, 3.2, 2.25]
 to initiate asynchronous processes 4 <b>system</b> command language selectable on
+<<<<<<< HEAD
 <b>system</b> file <b>system</b> command language PDP-11 4.30 4.32 CA740702 JB
 multi user interactive <b>operating system</b> for the Digital Equipment Corporation
+=======
+<b>system</b> file <b>system</b> command language pdp-11 4.30 4.32 ca740702 jb
+multi user interactive <b>operating</b> <b>system</b> for the digital equipment corporation
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 3) CACM-1410
 
@@ -43,6 +48,14 @@ software measurement user program measurement measurement technology TX-2 comput
 User Program Measurement in a <b>Time</b> Shared Environment A general
 Rovner P D <b>operating</b> systems multiprogramming systems <b>time sharing</b> systems
 
+5) CACM-2151
+
+
+[5.444444444444445, 2.6666666666666665, 2.6666666666666665]
+software measurement user program measurement measurement technology tx-2 computer virtual
+user program measurement in a <b>time</b> shared environment a general
+rovner p d <b>operating</b> systems multiprogramming systems <b>time</b> <b>sharing</b> systems
+
 -----------------------------------------------------------------
 For Query 2 : i am interested in articles written either by prieve or udo pooch prieve b pooch u
 
@@ -57,6 +70,7 @@ s method for selecting the working set parameter which uses
 are rederived and reconsidered for selecting the working set parameter
 
 2) CACM-2863
+<<<<<<< HEAD
 
 
 [5.0, 4.5, 4.166666666666667]
@@ -65,12 +79,22 @@ VMIN An Optimal Variable Space Page Replacement Algorithm A criterion
 working set page replacement algorithms optimal page replacement 4.30 4.32
 
 3) CACM-3078
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [5.142857142857143, 2.2857142857142856, 2.0]
 Computer aided algebra symbol manipulation Markov process reliability redundant structures
 Analysis of the Availability of Computer Systems Using Computer Aided
 on line computer system 3.82 5.5 5.7 8.1 8.3 CA780710
+
+3) CACM-3078
+
+
+[5.142857142857143, 2.2857142857142856, 2.0]
+computer aided algebra symbol manipulation markov process reliability redundant structures
+analysis of the availability of computer systems using computer aided
+these results are obtained by using various computer aided algebraic
 
 4) CACM-1046
 
@@ -203,9 +227,15 @@ LINC man machine communication on line <b>editing</b> on line <b>efficiency</b>
 
 
 [4.0, 2.2857142857142856, 2.25]
+<<<<<<< HEAD
 detailed specification for a particular computer communications system <b>interface</b> CACM
 On the <b>Interface</b> Between Computers and Data Communications Systems Future
 July 1972 Fraser A G communications standard <b>interface</b> communications protocol
+=======
+detailed specification for a particular computer communications system <b>interface</b> cacm
+on the <b>interface</b> between computers and data communications systems future
+july 1972 fraser a g communications standard <b>interface</b> communications protocol
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 4) CACM-2299
 
@@ -216,11 +246,19 @@ processing context searching executive program garbage collection interpreter li
 illustrated by the actual <b>design</b> and <b>implementation</b> of a text
 
 5) CACM-1978
+<<<<<<< HEAD
 
 
 [2.0, 2.0, 1.6]
 discussed CACM October 1970 Smith L B interactive graphics computer
 The Use of Interactive Graphics To Solve Numerical Problems With
+=======
+
+
+[2.0, 2.0, 1.6]
+the use of interactive graphics to solve numerical problems with
+discussed cacm october 1970 smith l b interactive graphics computer
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 graphics graphics least squares data fitting interactive computing on line
 
 -----------------------------------------------------------------
@@ -245,6 +283,17 @@ a recursive descent visible surface algorithm in which the computation
 Hierarchical <b>Geometric</b> Models for Visible Surface Algorithms The <b>geometric</b> structure
 
 3) CACM-0695
+<<<<<<< HEAD
+=======
+
+
+[2.0, 1.0, 1.0]
+output equipment physical characteristics of the two disk system 4,194,304
+use of the disk file on stretch the paper begins
+the disk certain programming techniques are discussed for transmitting words
+
+4) CACM-0438
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 1.0, 1.0]
@@ -252,6 +301,7 @@ output equipment Physical characteristics of the two disk system 4,194,304
 the disk Certain programming techniques are discussed for transmitting words
 system Several possible future applications are noted which appear to
 
+<<<<<<< HEAD
 4) CACM-0438
 
 
@@ -267,6 +317,15 @@ Linguistic System CACM December 1962 Gorn S CA621201 JB March
 Computer Formulation of the Equations of <b>Motion</b> Using Tensor Notation
 reducing the need for human participation in the formulation of
 curvilinear coordinate system Since this operation involves a formulation in
+=======
+5) CACM-1543
+
+
+[2.0, 1.0, 1.0]
+computer formulation of the equations of <b>motion</b> using tensor notation
+reducing the need for human participation in the formulation of
+curvilinear coordinate system since this operation involves a formulation in
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 7 : i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
@@ -343,6 +402,7 @@ sharing <b>systems</b> comparative response time ARPA <b>network</b> anlytic mod
 is capable of providing comparative response time information for users
 
 4) CACM-1877
+<<<<<<< HEAD
 
 
 [2.0, 1.0, 1.0]
@@ -351,12 +411,22 @@ request will introduce the possibility of a deadlock Proofs given
 design of <b>operating systems</b> is the selection of a <b>resource</b>
 
 5) CACM-1752
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [7.111111111111111, 2.5, 2.25]
 <b>resource</b> management task scheduling paging system simulation memory management virtual
 <b>Resource</b> Management for a Medium Scale Time Sharing <b>Operating</b> system
 of the task scheduling and paging algorithms that were implemented
+
+5) CACM-1752
+
+
+[7.111111111111111, 2.5, 2.25]
+<b>resource</b> management task scheduling paging system simulation memory management virtual
+<b>resource</b> management for a medium scale time sharing <b>operating</b> system
+task scheduling and <b>resource</b> balancing for a medium size virtual
 
 -----------------------------------------------------------------
 For Query 9 : security considerations in local networks network operating systems and distributed systems
@@ -391,16 +461,26 @@ Farber D <b>Operating systems security</b> protection program verification 4.35 
 
 
 [2.0, 2.0, 0]
+<<<<<<< HEAD
 exclusion robustness sharing error recovery <b>distributed</b> control harmonious cooperation self
 Self stabilizing <b>Systems</b> in Spite of <b>Distributed</b> Control CACM November
 repair 4.32 CA741106 JB January 16,1978 10:18 AM
+=======
+self stabilizing <b>systems</b> in spite of <b>distributed</b> control cacm november
+exclusion robustness sharing error recovery <b>distributed</b> control harmonious cooperation self
+repair 4.32 ca741106 jb january 16,1978 10:18 am
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 5) CACM-2372
 
 
 [2.0, 1.0, 1.0]
 a framework for a proposal for general <b>security</b> system implementation
+<<<<<<< HEAD
 within today s languages and <b>operating systems</b> CACM April 1972
+=======
+within today s languages and <b>operating</b> <b>systems</b> cacm april 1972
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 the checking of <b>security</b> only once at translation time rather
 
 -----------------------------------------------------------------
@@ -428,9 +508,15 @@ solutions of a variety of familiar programming exercises CACM August
 
 
 [3.0, 2.0, 2.0]
+<<<<<<< HEAD
 grammars array grammars 3.63 5.23 8.2 CA730506 JB January 23
 and test array grammars The user can control the rule
 An Array Grammar Programming System A package of Fortran programs
+=======
+grammars array grammars 3.63 5.23 8.2 ca730506 jb january 23
+and test array grammars the user can control the rule
+an array grammar programming system a package of fortran programs
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 4) CACM-2700
 
@@ -489,9 +575,15 @@ Units CACM May 1974 Gentleman W M Marovich S B
 
 
 [3.5714285714285716, 2.0, 2.0]
+<<<<<<< HEAD
 <b>High Level</b> Programming for Distributed Computing Programming for distributed and
 <b>level</b> of general purpose programming <b>languages</b> Based on primitive notions
 advanced programming <b>languages</b> and relations with other aspects of the
+=======
+<b>high</b> <b>level</b> programming for distributed computing programming for distributed and
+this paper describes an approach to distributed computing at the
+<b>level</b> of general purpose programming <b>languages</b> based on primitive notions
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 12 : portable operating systems
@@ -567,6 +659,17 @@ subexpressions factorization of Boolean expressions 4.12 6.1 CA690607JB February
 set of expressions which are to be compiled methods are
 
 4) CACM-1795
+<<<<<<< HEAD
+=======
+
+
+[1.0, 1.0, 0]
+optimal <b>code</b> for serial and parallel computation cacm december 1969
+fateman r j <b>code</b> <b>optimization</b> sequencing of operations detection of
+common subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm
+
+5) CACM-2944
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [1.0, 1.0, 0]
@@ -574,6 +677,7 @@ Optimal <b>Code</b> for Serial and Parallel Computation CACM December 1969
 Fateman R J <b>code optimization</b> sequencing of operations detection of
 common subexpressions 4.12 CA691217 JB February 15 1978 1:59 PM
 
+<<<<<<< HEAD
 5) CACM-2944
 
 
@@ -582,6 +686,8 @@ shifted to compile time The paper assumes a transaction oriented
 It is shown that at compile time certain program actions
 Shifting Garbage Collection Overhead to Compile Time This paper discusses
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 14 : find all discussions of optimal implementations of sort algorithms for database management applications
 
@@ -596,6 +702,25 @@ time list processing system is presented which continuously reclaims garbage
 List Processing in Real Time on a Serial Computer A
 
 2) CACM-3164
+<<<<<<< HEAD
+=======
+
+
+[1.0, 1.0, 1.0]
+progressive acyclic digraphs a tool for <b>database</b> integrity a progressive
+graph in an acyclic state when a request creates a
+from any given node cacm september 1979 hansen w list
+
+3) CACM-2674
+
+
+[3.2, 2.5, 2.25]
+raster display the interactive algorithm can improve response time and
+scan conversion <b>algorithms</b> for a cell organized raster display raster
+b w jr graphics scan conversion raster display line drawing
+
+4) CACM-3131
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [1.0, 1.0, 1.0]
@@ -603,7 +728,11 @@ graph in an acyclic state When a request creates a
 from any given node CACM September 1979 Hansen W List
 acyclic digraph PAD algorithm accepts are requests and maintains a
 
+<<<<<<< HEAD
 3) CACM-2674
+=======
+5) CACM-2716
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [3.2, 2.5, 2.25]
@@ -611,6 +740,7 @@ raster display The interactive algorithm can improve response time and
 Scan Conversion <b>Algorithms</b> for a Cell Organized Raster Display Raster
 B W Jr graphics scan conversion raster display line drawing
 
+<<<<<<< HEAD
 4) CACM-3131
 
 
@@ -627,12 +757,15 @@ user A relational algebra interface called SQUIRAL which was designed
 <b>database</b> optimization inverted file automatic programming query language data manipulation
 view of data is proposed The basic idea is to
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 15 : find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
 
 Top 5 documents are:
 
 1) CACM-3125
+<<<<<<< HEAD
 
 
 [4.0, 1.2857142857142858, 1.0]
@@ -641,12 +774,22 @@ redundant computations and the moving of invariant computations out of
 of computations performed twice on a given execution path Such
 
 2) CACM-2944
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 2.0, 1.8]
 shifted to compile time The paper assumes a transaction oriented
 It is shown that at compile time certain program actions
 Shifting Garbage Collection Overhead to Compile Time This paper discusses
+
+2) CACM-2944
+
+
+[2.0, 2.0, 1.8]
+shifted to compile time the paper assumes a transaction oriented
+it is shown that at compile time certain program actions
+shifting garbage collection overhead to compile time this paper discusses
 
 3) CACM-2701
 
@@ -657,6 +800,7 @@ live dead analysis information propagation flow graph reducibility go to
 algorithm for <b>global</b> flow analysis on reducible graphs is presented
 
 4) CACM-1947
+<<<<<<< HEAD
 
 
 [1.3333333333333333, 1.0, 1.0]
@@ -665,12 +809,22 @@ the program to improve object time efficiency Dominance relationships indicating
 data flow of programs during compilation are applied to transforming
 
 5) CACM-2195
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.5, 1.3333333333333333, 1.0]
 picture processing picture recognition picture description curve detection line detection
 edge detection optimal detection heuristic methods <b>global</b> recognition parallel processing
 merit and the complexity of the <b>optimization</b> process is then
+
+5) CACM-2195
+
+
+[2.5, 1.3333333333333333, 1.0]
+picture processing picture recognition picture description curve detection line detection
+edge detection optimal detection heuristic methods <b>global</b> recognition parallel processing
+on the optimal detection of curves in noisy pictures a
 
 -----------------------------------------------------------------
 For Query 16 : find all descriptions of file handling in operating systems based on multiple processes and message passing
@@ -803,9 +957,15 @@ be NP complete CACM April 1978 Szymanski T Span dependent
 
 
 [3.0, 2.0, 2.0]
+<<<<<<< HEAD
 M J <b>parallel</b> processing cache arithmetic expressions subexpression ordering computational
 paper shows that expression execution time can be minimized only
 Subexpression Ordering in the Execution of Arithmetic Expressions An arithmetic
+=======
+m j <b>parallel</b> processing cache arithmetic expressions subexpression ordering computational
+subexpression ordering in the execution of arithmetic expressions an arithmetic
+paper shows that expression execution time can be minimized only
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 19 : parallel algorithms
@@ -848,9 +1008,15 @@ of n processors The algorithm makes use of a technique
 
 
 [2.2857142857142856, 2.2857142857142856, 2.2857142857142856]
+<<<<<<< HEAD
 a polynomial with only real zeros The algorithm which is
 Polynomial with Only Real Zeros An algorithm is described based
 M L <b>parallel</b> numerical <b>algorithms</b> real polynomials real zeros Newton
+=======
+polynomial with only real zeros an algorithm is described based
+m l <b>parallel</b> numerical <b>algorithms</b> real polynomials real zeros newton
+a polynomial with only real zeros the algorithm which is
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 20 : graph theoretic algorithms applicable to sparse matrices
@@ -903,6 +1069,7 @@ For Query 21 : computational complexity intractability class complete reductions
 Top 5 documents are:
 
 1) CACM-2110
+<<<<<<< HEAD
 
 
 [5.142857142857143, 4.0, 3.0]
@@ -919,6 +1086,8 @@ A relationship between this edge clique cover problem and the
 problem and the edge clique cover problem are shown to
 
 3) CACM-3086
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 1.0, 1.0]
@@ -926,6 +1095,7 @@ M Weide B Analysis of <b>algorithms</b> combinatorial problems <b>computational 
 the effects of the <b>computational</b> model on the ease of
 <b>computational</b> models decision tree programs lower bounds 5.25 5.26 5.30
 
+<<<<<<< HEAD
 4) CACM-2337
 
 
@@ -935,12 +1105,39 @@ CACM June 1972 Pohl I sorting <b>computational complexity computational</b> comb
 A Sorting Problem and Its <b>Complexity</b> A technique for proving
 
 5) CACM-2325
+=======
+2) CACM-3018
+
+
+[4.9, 4.0, 3.5714285714285716]
+keyword conflicts intersection graphs node clique cover edge clique cover
+a relationship between this edge clique cover problem and the
+problem and the edge clique cover problem are shown to
+
+3) CACM-3086
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.2857142857142856, 2.25, 2.0]
 Numerical Mathematics and Computer Science Numerical mathematics is viewed as
 systems <b>computational complexity</b> synthesis and analysis of <b>algorithms</b> analysis of
 numerical mathematics are discussed These are foundations finite precision number
+
+4) CACM-2337
+
+
+[1.0, 1.0, 1.0]
+min max norms of sorting <b>algorithms</b> is given one new
+cacm june 1972 pohl i sorting <b>computational</b> <b>complexity</b> <b>computational</b> combinatorics
+a sorting problem and its <b>complexity</b> a technique for proving
+
+5) CACM-2325
+
+
+[2.2857142857142856, 2.25, 2.0]
+numerical mathematics and computer science numerical mathematics is viewed as
+systems <b>computational</b> <b>complexity</b> synthesis and analysis of <b>algorithms</b> analysis of
+numerical mathematics are discussed these are foundations finite precision number
 
 -----------------------------------------------------------------
 For Query 22 : i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
@@ -972,6 +1169,17 @@ Williamson H <b>hidden line</b> plot <b>surface</b> plot 4.9 CA720207 JB
 January 31 1978 4:12 PM
 
 4) CACM-2004
+<<<<<<< HEAD
+=======
+
+
+[3.2, 3.0, 1.8]
+producing <b>computer</b> generated half tone presentations of three dimensional polygonal
+cacm september 1970 bouknight w j half tone <b>computer</b> <b>graphics</b>
+<b>line</b> scan image processing <b>hidden</b> <b>surface</b> polygonal <b>surface</b> structure presentations
+
+5) CACM-2913
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [3.2, 3.0, 1.8]
@@ -979,6 +1187,7 @@ producing <b>computer</b> generated half tone presentations of three dimensional
 CACM September 1970 Bouknight W J half tone <b>computer graphics</b>
 <b>line</b> scan image processing <b>hidden surface</b> polygonal <b>surface</b> structure presentations
 
+<<<<<<< HEAD
 5) CACM-2913
 
 
@@ -987,6 +1196,8 @@ of these defects leads to more effective methods This paper
 of its effectiveness CACM November 1977 Crow F C aliasing
 implementation of a filtering tiler is shown accompanied by examples
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 23 : distributed computing structures and algorithms
 
@@ -1054,6 +1265,17 @@ an exponential distribution for interarrival time A much more satisfactory
 provides a statistical description of the user input process in
 
 3) CACM-1194
+<<<<<<< HEAD
+=======
+
+
+[2.0, 2.0, 2.0]
+to the acm repository consisted of 315 documents relating primarily
+of the acm repository at the moore school university of
+lists are provided by the repository system for retrieval by
+
+4) CACM-0268
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 2.0, 2.0]
@@ -1061,13 +1283,18 @@ to the ACM Repository consisted of 315 documents relating primarily
 of the ACM Repository at the Moore School University of
 lists are provided by the Repository system for retrieval by
 
+<<<<<<< HEAD
 4) CACM-0268
+=======
+5) CACM-1696
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [0, 0]
 <b>Stochastic</b> Evaluation of a Static Storage Allocation CACM October 1961
 Cohen L J CA611013 JB March 16 1978 12:48 PM
 
+<<<<<<< HEAD
 5) CACM-1696
 
 
@@ -1076,6 +1303,8 @@ D M <b>stochastic</b> matrix ergodic chain identification 5.39 5.5 CA680905
 subchains and transient states of a <b>stochastic</b> matrix is presented
 of a <b>Stochastic</b> Matrix An algorithm for identifying the ergodic
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 25 : performance evaluation and modelling of computer systems
 
@@ -1106,6 +1335,7 @@ integrating <b>systems</b> of ordinary differential equations is reported The in
 A Comparative Study of <b>Computer</b> Programs for Integrating Differential Equations
 
 4) CACM-2812
+<<<<<<< HEAD
 
 
 [4.9, 3.125, 3.0]
@@ -1114,12 +1344,22 @@ analysis information <b>systems</b> logical system design problem statement lang
 Navy Material Command Support Activity NMCSA <b>Computer</b> aided analysis consists
 
 5) CACM-1938
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [8.1, 7.111111111111111, 4.0]
 time sharing <b>performance</b> criteria time sharing system operation time sharing
 Some Criteria for Time Sharing System <b>Performance</b> Time sharing <b>systems</b>
 time sharing system <b>performance evaluation</b> CACM January 1969 Stimler S
+
+5) CACM-1938
+
+
+[8.1, 7.111111111111111, 4.0]
+time sharing <b>performance</b> criteria time sharing system operation time sharing
+some criteria for time sharing system <b>performance</b> time sharing <b>systems</b>
+time sharing system <b>performance</b> <b>evaluation</b> cacm january 1969 stimler s
 
 -----------------------------------------------------------------
 For Query 26 : concurrency control mechanisms in operating systems
@@ -1273,33 +1513,57 @@ language <b>especially</b> oriented toward automated <b>theorem</b> proving This
 
 
 [2.0, 1.0, 1.0]
+<<<<<<< HEAD
 An Efficient <b>Prime Number</b> Generator Algorithm 357 A1 CACM October
 5.30 CA691006 JB February 15 1978 3:23 PM
 1969 Singleton R C <b>prime</b> numbers factoring <b>number</b> theory 3.15
+=======
+an efficient <b>prime</b> <b>number</b> generator algorithm 357 a1 cacm october
+5.30 ca691006 jb february 15 1978 3:23 pm
+1969 singleton r c <b>prime</b> numbers factoring <b>number</b> theory 3.15
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 3) CACM-2927
 
 
 [4.166666666666667, 3.0, 3.0]
+<<<<<<< HEAD
 Mairson H G computational complexity sieve <b>prime number</b> generation <b>number</b>
 log log logN A storage requirement is described using O
 N logN log logN bits as well CACM September 1977
+=======
+mairson h g computational complexity sieve <b>prime</b> <b>number</b> generation <b>number</b>
+n logn log logn bits as well cacm september 1977
+log log logn a storage requirement is described using o
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 4) CACM-3021
 
 
 [2.25, 2.0, 2.0]
+<<<<<<< HEAD
 publicly revealed encryption key Signatures cannot be forged and a
 signatures public key cryptosystems privacy authentication security factorization <b>prime number</b>
 A Method for Obtaining Digital Signatures and Public Key Cryptosystems
+=======
+publicly revealed encryption key signatures cannot be forged and a
+signatures public key cryptosystems privacy authentication security factorization <b>prime</b> <b>number</b>
+a method for obtaining digital signatures and public key cryptosystems
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 5) CACM-2089
 
 
 [2.0, 1.0, 0]
+<<<<<<< HEAD
 <b>Prime Number</b> Algorithm 310 A1 CACM March 1970 Rapp D
 G Scott L D <b>prime</b> numbers generator 5.0 CA700309 JB
 February 13 1978 3:45 PM
+=======
+<b>prime</b> <b>number</b> algorithm 310 a1 cacm march 1970 rapp d
+g scott l d <b>prime</b> numbers generator 5.0 ca700309 jb
+february 13 1978 3:45 pm
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 30 : articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo
@@ -1342,9 +1606,15 @@ paper proposes a card format suitable for a variety of
 
 
 [2.0, 1.0, 1.0]
+<<<<<<< HEAD
 July 1975 Parnas D L Siewiorek D P hierarchical <b>systems</b>
 hierarchically structured programming <b>systems</b> It develops a method for evaluating
 bottom up design levels of abstraction synchronization primitives 4.20 4.30
+=======
+july 1975 parnas d l siewiorek d p hierarchical <b>systems</b>
+use of the concept of transparency in the design of
+hierarchically structured programming <b>systems</b> it develops a method for evaluating
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 31 : i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c
@@ -1387,9 +1657,15 @@ is to <b>find</b> the most representative picture Three algorithms are
 
 
 [1.0, 1.0, 1.0]
+<<<<<<< HEAD
 the standard <b>digital approximations</b> to the gradient CACM February,1978 Schachter
 operator which uses the distance between the center and centroid
 of a neighborhood as an edge value is also briefly
+=======
+the standard <b>digital</b> <b>approximations</b> to the gradient cacm february,1978 schachter
+some new methods of detecting step edges in <b>digital</b> pictures
+operator which uses the distance between the center and centroid
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 32 : i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
@@ -1436,6 +1712,14 @@ keyword conflicts intersection graphs node clique cover edge clique cover
 A relationship between this edge clique cover problem and the
 problem and the edge clique cover problem are shown to
 
+5) CACM-3018
+
+
+[4.9, 4.0, 3.5714285714285716]
+keyword conflicts intersection graphs node clique cover edge clique cover
+a relationship between this edge clique cover problem and the
+problem and the edge clique cover problem are shown to
+
 -----------------------------------------------------------------
 For Query 33 : articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
 
@@ -1445,11 +1729,27 @@ Top 5 documents are:
 
 
 [2.25, 2.25, 2.0]
+<<<<<<< HEAD
 and that the limits of the LU diagonals using floating
 and parameters of the floating point number system Various generalizations
 when floating point precision It is also proved that the
 
 2) CACM-1954
+=======
+and that the limits of the lu diagonals using floating
+and parameters of the floating point number system various generalizations
+when floating point precision it is also proved that the
+
+2) CACM-1954
+
+
+[4.0, 3.0, 1.7777777777777777]
+<b>eigenvalues</b> and <b>eigenvectors</b> of a <b>real</b> symmetric matrix algorithm 384
+f2 cacm december <b>1970</b> <b>stewart</b> g w <b>real</b> symmetric matrix
+<b>eigenvalues</b> <b>eigenvectors</b> qr algorithm 5.14 ca701209 jb february 9 1978
+
+3) CACM-2043
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [4.0, 3.0, 1.7777777777777777]
@@ -1457,6 +1757,7 @@ when floating point precision It is also proved that the
 F2 CACM December <b>1970 Stewart</b> G W <b>real</b> symmetric matrix
 <b>eigenvalues eigenvectors</b> QR algorithm 5.14 CA701209 JB February 9 1978
 
+<<<<<<< HEAD
 3) CACM-2043
 
 
@@ -1480,6 +1781,23 @@ Incorporating Origin Shifts into the QR Algorithm for Symmetric Tridiagonal
 <b>matrices</b> condition numbers Pei <b>matrices eigenvectors eigenvalues</b> 5.14 CA701116 JB
 Condition Numbers of PEI <b>Matrices</b> CACM November <b>1970</b> Rokne J
 February 9 1978 4:21 PM
+=======
+4) CACM-2047
+
+
+[6.0, 3.2, 2.7777777777777777]
+method origin shifts symmetric tridiagonal matrix 5.14 ca700608 jb february
+origin shifts the origin shift may be either subtracted directly
+incorporating origin shifts into the qr algorithm for symmetric tridiagonal
+
+5) CACM-1963
+
+
+[5.0, 3.2, 1.0]
+<b>matrices</b> condition numbers pei <b>matrices</b> <b>eigenvectors</b> <b>eigenvalues</b> 5.14 ca701116 jb
+condition numbers of pei <b>matrices</b> cacm november <b>1970</b> rokne j
+february 9 1978 4:21 pm
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 34 : currently interested in isolation of root of polynomial there is an old more recent material heindel l
@@ -1487,6 +1805,25 @@ For Query 34 : currently interested in isolation of root of polynomial there is 
 Top 5 documents are:
 
 1) CACM-1524
+<<<<<<< HEAD
+=======
+
+
+[2.0, 1.0, 1.0]
+a stopping criterion for <b>polynomial</b> <b>root</b> finding when searching for
+the <b>root</b> of a <b>polynomial</b> it is generally difficult to
+occurs in evaluating the <b>polynomial</b> this stopping criterion has been
+
+2) CACM-1763
+
+
+[6.4, 3.2, 0.8]
+quadratic equation roots cubic equation roots biquadratic equation roots <b>polynomial</b>
+april 1968 nonweiler t f <b>root</b> finders <b>polynomial</b> equation roots
+roots of low order <b>polynomial</b> equations algorithm 326 c2 cacm
+
+3) CACM-1667
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 1.0, 1.0]
@@ -1494,7 +1831,11 @@ A Stopping Criterion for <b>Polynomial Root</b> Finding When searching for
 the <b>root</b> of a <b>polynomial</b> it is generally difficult to
 occurs in evaluating the <b>polynomial</b> This stopping criterion has been
 
+<<<<<<< HEAD
 2) CACM-1763
+=======
+4) CACM-1893
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [6.4, 3.2, 0.8]
@@ -1502,6 +1843,7 @@ quadratic equation roots cubic equation roots biquadratic equation roots <b>poly
 April 1968 Nonweiler T F <b>root</b> finders <b>polynomial</b> equation roots
 Roots of Low Order <b>Polynomial</b> Equations Algorithm 326 C2 CACM
 
+<<<<<<< HEAD
 3) CACM-1667
 
 
@@ -1511,6 +1853,9 @@ method resultant procedure subresultant procedure testing of roots acceptance cr
 Roots of Polynomials by a <b>Root</b> Squaring and Resultant Routine
 
 4) CACM-1893
+=======
+5) CACM-2660
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [3.125, 2.2857142857142856, 1.7777777777777777]
@@ -1518,6 +1863,7 @@ roots of <b>polynomial</b> equations <b>polynomial</b> zeros <b>root</b> squarin
 method resultant procedure subresultant procedure testing of roots acceptance criteria
 Roots of Polynomials by a <b>Root</b> Squaring and Resultant routine
 
+<<<<<<< HEAD
 5) CACM-2660
 
 
@@ -1526,6 +1872,8 @@ JB February 1 1978 10:36 AM
 G C parallelism <b>polynomial root</b> finding real zeros 5.15 CA740410
 Addendum to M L Patrick Paper CACM April 1974 Simmons
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 35 : probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
 
@@ -1641,9 +1989,15 @@ to isolate the <b>notion</b> of <b>type</b> checking and presents a
 
 
 [2.2857142857142856, 2.0, 2.0]
+<<<<<<< HEAD
 <b>data type</b> is a set of values together with a
 of an array as a <b>data type</b> the need for
 Some Ideas on <b>Data Types</b> in High Level Languages A
+=======
+<b>data</b> <b>type</b> is a set of values together with a
+some ideas on <b>data</b> <b>types</b> in high level languages a
+of an array as a <b>data</b> <b>type</b> the need for
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 4) CACM-3103
 
@@ -1810,6 +2164,7 @@ described CACM February 1979 Reed D Kanodia R Process <b>synchronization</b>
 of shared variables that control ordering of events Direct control
 
 2) CACM-2578
+<<<<<<< HEAD
 
 
 [2.0, 2.0, 0]
@@ -1818,12 +2173,22 @@ Self stabilizing <b>Systems</b> in Spite of <b>Distributed</b> Control CACM Nove
 repair 4.32 CA741106 JB January 16,1978 10:18 AM
 
 3) CACM-3082
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 1.7777777777777777, 1.5]
 a <b>distributed</b> system is examined and is shown to define
 Time Clocks and the Ordering of Events in a <b>Distributed</b>
 a partial ordering of the events A <b>distributed</b> algorithm is
+
+3) CACM-3082
+
+
+[2.0, 1.7777777777777777, 1.5]
+a <b>distributed</b> system is examined and is shown to define
+time clocks and the ordering of events in a <b>distributed</b>
+a partial ordering of the events a <b>distributed</b> algorithm is
 
 4) CACM-3148
 
@@ -1837,9 +2202,15 @@ advanced programming languages and relations with other aspects of the
 
 
 [4.0, 2.0, 2.0]
+<<<<<<< HEAD
 <b>Distributed Processes</b> A Concurrent Programming Concept A language concept for
 of <b>distributed processes</b> and shows that they <b>include</b> procedures coroutines
 as <b>special</b> cases CACM November 1978 Hansen P Concurrent programming
+=======
+<b>distributed</b> <b>processes</b> a concurrent programming concept a language concept for
+of <b>distributed</b> <b>processes</b> and shows that they <b>include</b> procedures coroutines
+as <b>special</b> cases cacm november 1978 hansen p concurrent programming
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 42 : computer performance evaluation techniques using pattern recognition and clustering la 70803
@@ -1847,6 +2218,7 @@ For Query 42 : computer performance evaluation techniques using pattern recognit
 Top 5 documents are:
 
 1) CACM-0462
+<<<<<<< HEAD
 
 
 [2.0, 2.0, 1.3333333333333333]
@@ -1855,12 +2227,22 @@ by trained people for the purpose of <b>pattern recognition</b> In
 multiple adaptive matched filters that classify normalized signals The present
 
 2) CACM-2641
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [4.0, 2.0, 1.0]
 A Minimal Spanning Tree <b>clustering</b> Method Z Algorithm A479 CACM
 minimal spanning trees 3.63 5.39 5.5 CA740605 JB January 17
 June 1974 Page R L <b>clustering pattern recognition</b> feature selection
+
+2) CACM-2641
+
+
+[4.0, 2.0, 1.0]
+a minimal spanning tree <b>clustering</b> method z algorithm a479 cacm
+minimal spanning trees 3.63 5.39 5.5 ca740605 jb january 17
+june 1974 page r l <b>clustering</b> <b>pattern</b> <b>recognition</b> feature selection
 
 3) CACM-1726
 
@@ -1931,6 +2313,14 @@ are similar to those of Fishman s method The proposed
 3 a 19 Also the proposed method is much simpler
 method is the same as Fishman s method for 1
 
+5) CACM-3098
+
+
+[1.8, 1.8, 1.6]
+are similar to those of fishman s method the proposed
+3 a 19 also the proposed method is much simpler
+method is the same as fishman s method for 1
+
 -----------------------------------------------------------------
 For Query 44 : texture analysis by computer digitized texture analysis texture synthesis perception of texture
 
@@ -1972,9 +2362,15 @@ B CA640909 JB March 9 1978 5:03 PM
 
 
 [4.9, 3.5714285714285716, 2.25]
+<<<<<<< HEAD
 <b>analysis</b> discrete Fourier transform digital spectrum <b>analysis</b> Fourier <b>analysis</b> algorithm
 A Fast Fourier Transform Algorithm for Real Valued Series A
 October 1968 Bergland G D fast Fourier transform time series
+=======
+<b>analysis</b> discrete fourier transform digital spectrum <b>analysis</b> fourier <b>analysis</b> algorithm
+a fast fourier transform algorithm for real valued series a
+october 1968 bergland g d fast fourier transform time series
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 45 : the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
@@ -2092,24 +2488,40 @@ to evaluate the capabilities of mechanized <b>information retrieval</b> systems 
 
 [2.25, 2.0, 1.5]
 <b>retrieval</b> clustering <b>search</b> data structure data management query answering 3.62
+<<<<<<< HEAD
 represented by a tree <b>search</b> model This paper poses an
+=======
+represented by a tree <b>search</b> model this paper poses an
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 the design of a novel tree <b>search</b> scheme based on
 
 4) CACM-2288
 
 
 [9.0, 5.444444444444445, 3.0]
+<<<<<<< HEAD
 file organization consecutive storage consecutive <b>retrieval information retrieval</b> record organization
 File Organization The Consecutive <b>Retrieval</b> Property The consecutive <b>retrieval</b> property
 in this paper Conditions under which the consecutive <b>retrieval</b> property
+=======
+file organization consecutive storage consecutive <b>retrieval</b> <b>information</b> <b>retrieval</b> record organization
+file organization the consecutive <b>retrieval</b> property the consecutive <b>retrieval</b> property
+some important theorems on the consecutive <b>retrieval</b> property are proved
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 5) CACM-1236
 
 
 [1.0, 1.0, 1.0]
+<<<<<<< HEAD
 <b>system</b> is used not only to simulate an actual operating
 described The <b>system</b> is characterized by the fact that several
 automatic document <b>retrieval system</b> operating on the IBM 7094 is
+=======
+the smart automatic document <b>retrieval</b> <b>system</b> an illustration a fully
+<b>system</b> is used not only to simulate an actual operating
+salton g lesk m e ca650619 jb march 6 1978
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 48 : the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
@@ -2141,6 +2553,7 @@ performed in unit time The method has the same arithmetic
 n The <b>algorithm</b> executes in time proportional to n assuming
 
 4) CACM-2766
+<<<<<<< HEAD
 
 
 [4.166666666666667, 3.6, 3.5714285714285716]
@@ -2149,11 +2562,21 @@ Copying Cyclic List <b>Structures</b> in <b>Linear</b> Time Using Bounded Worksp
 A bounded workspace copying <b>algorithm</b> for arbitrary list <b>structures</b> is
 
 5) CACM-1066
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.6666666666666665, 2.0, 2.0]
 Growing Applications of <b>Linear Programming</b> Use of <b>linear programming</b> models
 to the underlying <b>principles</b> upon which future <b>linear programming</b> systems
+concept for organizing a <b>computer</b> code has undergone a radical
+
+5) CACM-1066
+
+
+[2.6666666666666665, 2.0, 2.0]
+growing applications of <b>linear</b> <b>programming</b> use of <b>linear</b> <b>programming</b> models
+to the underlying <b>principles</b> upon which future <b>linear</b> <b>programming</b> systems
 concept for organizing a <b>computer</b> code has undergone a radical
 
 -----------------------------------------------------------------
@@ -2197,9 +2620,15 @@ for a typical <b>information retrieval</b> system CACM November 1967 Shumway
 
 
 [1.0, 1.0, 1.0]
+<<<<<<< HEAD
 relevancy is developed which rewards the system for retrieving relevant
 <b>information</b> and tagging it for effective <b>retrieval</b> b searching strategy
 high probability of being relevant CACM July 1964 Belzer J
+=======
+theoretical considerations in <b>information</b> <b>retrieval</b> <b>systems</b> <b>information</b> storage and <b>retrieval</b>
+relevancy is developed which rewards the system for retrieving relevant
+<b>information</b> and tagging it for effective <b>retrieval</b> b searching strategy
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 50 : parallel processors in information retrieval
@@ -2263,9 +2692,15 @@ of n <b>processors</b> The algorithm makes use of a technique
 
 
 [2.25, 2.0, 1.0]
+<<<<<<< HEAD
 using only n n log2n <b>processors</b> The algorithm can be
 processing <b>algorithms</b> transitive closure connected component 5.25 5.32 6.22 CA790802
 matrix We assume that the <b>processors</b> have access to a
+=======
+using only n n log2n <b>processors</b> the algorithm can be
+processing <b>algorithms</b> transitive closure connected component 5.25 5.32 6.22 ca790802
+matrix we assume that the <b>processors</b> have access to a
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 3) CACM-2723
 
@@ -2291,6 +2726,14 @@ suggested in the literature vary significantly in execution time and
 execution times are random variables is presented CACM December 1974
 execution time of a program which consists of a set
 
+5) CACM-2570
+
+
+[2.0, 2.0, 1.8]
+suggested in the literature vary significantly in execution time and
+execution times are random variables is presented cacm december 1974
+execution time of a program which consists of a set
+
 -----------------------------------------------------------------
 For Query 52 : modelling and simulation in agricultural ecosystems
 
@@ -2300,9 +2743,15 @@ Top 5 documents are:
 
 
 [4.166666666666667, 2.6666666666666665, 1.8]
+<<<<<<< HEAD
 The Digital <b>Simulation</b> of River Plankton Population Dynamics This paper
 1975 Claudson R M digital <b>simulation</b> mathematical modeling plankton population
 the digital <b>simulation</b> in Fortran IV of phytoplankton and zooplankton
+=======
+the digital <b>simulation</b> of river plankton population dynamics this paper
+1975 claudson r m digital <b>simulation</b> mathematical modeling plankton population
+the digital <b>simulation</b> in fortran iv of phytoplankton and zooplankton
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 2) CACM-3070
 
@@ -2322,17 +2771,32 @@ be more efficient than the clock pulse method at low
 
 4) CACM-0557
 
+<<<<<<< HEAD
 
 [0, 0]
 <b>Simulation</b> of Computer Timing Device CACM July 1962 CA620704 JB
 March 17 1978 8:57 PM
 
 5) CACM-1030
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
+[0, 0]
+<b>simulation</b> of computer timing device cacm july 1962 ca620704 jb
+march 17 1978 8:57 pm
 
+<<<<<<< HEAD
 [1.5, 1.125, 1.0]
 Techniques for the <b>Simulation</b> of Computer Logic The <b>simulation</b> of
 a <b>simulation</b> system Four general procedural classes for evaluating these
+=======
+5) CACM-1030
+
+
+[1.5, 1.125, 1.0]
+techniques for the <b>simulation</b> of computer logic the <b>simulation</b> of
+a <b>simulation</b> system four general procedural classes for evaluating these
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 system methods are presented for simultaneously evaluating many functions for
 
 -----------------------------------------------------------------
@@ -2399,6 +2863,7 @@ program features involves us with infinite objects and forces us
 precise meaning of a program then requires us to explain
 
 3) CACM-2326
+<<<<<<< HEAD
 
 
 [2.0, 1.0, 1.0]
@@ -2407,6 +2872,8 @@ recursive programs This allows not only the justification of all
 points recursive programs computational induction 5.23 5.24 CA720702 JB January
 
 4) CACM-2732
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 1.3333333333333333, 1.3333333333333333]
@@ -2414,13 +2881,25 @@ of programs <b>programming</b> methodology 4.20 4.22 CA750803 JB January 6
 Guarded Commands Nondeterminacy and Formal Derivation of Programs So called
 For the formal derivation of programs expressed in terms of
 
+<<<<<<< HEAD
 5) CACM-2470
+=======
+4) CACM-2732
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.25, 2.0, 2.0]
 Fen An Axiomatic Basis for Program <b>Semantics</b> A formal system
 which presents in detail the formal system governing webs and
 singleton <b>data types</b> Both deterministic and nondeterministic functions are shown
+
+5) CACM-2470
+
+
+[2.25, 2.0, 2.0]
+fen an axiomatic basis for program <b>semantics</b> a formal system
+which presents in detail the formal system governing webs and
+singleton <b>data</b> <b>types</b> both deterministic and nondeterministic functions are shown
 
 -----------------------------------------------------------------
 For Query 55 : anything dealing with star height of regular languages or regular expressions or regular events
@@ -2444,6 +2923,17 @@ these can be converted to FSMs RRP grammars describe the
 <b>regular expressions</b> syntax diagrams LR k grammars parser construction parsing
 
 3) CACM-1665
+<<<<<<< HEAD
+=======
+
+
+[6.4, 3.2, 2.25]
+character string compiler finite state automata finite state machine lexical
+automatic generation of efficient lexical processors using finite state techniques
+taken based on the particular character read the system has
+
+4) CACM-1896
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [6.4, 3.2, 2.25]
@@ -2451,7 +2941,11 @@ character string compiler finite state automata finite state machine lexical
 Automatic Generation of Efficient Lexical Processors Using Finite State Techniques
 taken based on the particular character read The system has
 
+<<<<<<< HEAD
 4) CACM-1896
+=======
+5) CACM-1898
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [8.0, 4.0, 1.0]
@@ -2459,6 +2953,7 @@ Gautschi W Coulomb wave functions wave functions <b>regular</b> Coulomb wave
 <b>Regular</b> Coulomb Wave Functions Algorithm 292 S22 CACM May 1969
 functions 5.12 CA690513 JB February 17 1978 3:15 PM
 
+<<<<<<< HEAD
 5) CACM-1898
 
 
@@ -2467,6 +2962,8 @@ Kolbig K S Coulomb wave functions wave functions <b>regular</b> Coulomb
 <b>Regular</b> Coulomb Wave Functions Algorithm 292 S22 CACM May 1969
 wave functions 5.12 CA690511 JB February 17 1978 3:19 PM
 
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 -----------------------------------------------------------------
 For Query 56 : articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
 
@@ -2492,8 +2989,13 @@ Order n Correction for <b>Regular Languages</b> A method is presented
 
 
 [8.1, 3.6, 3.2]
+<<<<<<< HEAD
 Ph computer science curriculum Ph computer science program <b>automata</b> formal
 <b>Automata</b> Formal <b>Languages</b> Abstract Switching and Computability in a Ph
+=======
+ph computer science curriculum ph computer science program <b>automata</b> formal
+<b>automata</b> formal <b>languages</b> abstract switching and computability in a ph
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 the area describe as <b>automata</b> formal <b>languages</b> abstract switching and
 
 4) CACM-2931
@@ -2508,9 +3010,15 @@ precise meaning of a program then requires us to explain
 
 
 [2.0, 2.0, 1.7777777777777777]
+<<<<<<< HEAD
 deriving from a set of translation equations the specifications for
 Vere S <b>automata</b> Turing machines <b>regular</b> expression transduction expression context
 Translation Equations Input limited transduction expressions or translation equations are
+=======
+vere s <b>automata</b> turing machines <b>regular</b> expression transduction expression context
+deriving from a set of translation equations the specifications for
+translation equations input limited transduction expressions or translation equations are
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 57 : abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
@@ -2545,16 +3053,27 @@ J <b>CACM</b> May 1960 CA600501 JB March <b>22</b> 1978 1:34
 
 
 [5.444444444444445, 4.9, 4.5]
+<<<<<<< HEAD
 equivalent ALGOL statements ALGOL ALGOL 60 integer format real format
 output transput input output procedures input echo quality output decompose
 out integer read real input output Boolean input output array
+=======
+equivalent algol statements algol algol 60 integer format real format
+output transput input output procedures input echo quality output decompose
+out integer read real input output boolean input output array
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 5) CACM-1106
 
 
 [0, 0]
+<<<<<<< HEAD
 <b>Programming</b> of Digital Computers <b>CACM</b> April 1964 <b>Perlis</b> A J
 CA640402 JB March 10 1978 1:54 AM
+=======
+<b>programming</b> of digital computers <b>cacm</b> april 1964 <b>perlis</b> a j
+ca640402 jb march 10 1978 1:54 am
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 -----------------------------------------------------------------
 For Query 58 : algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student s t test wilcoxon and sign tests multivariate and univariate components can be included
@@ -2631,6 +3150,7 @@ General Performance Analysis of Key to Address Transformation <b>Methods</b> Usi
 storage <b>information retrieval hashing</b> analysis randomization performance analysis 3.7 3.72
 
 4) CACM-3041
+<<<<<<< HEAD
 
 
 [3.0, 2.6666666666666665, 2.0]
@@ -2639,12 +3159,22 @@ Sheil B Tree search <b>dictionary</b> lookup binary search heaps balanced
 of keys with highly skewed frequency distributions A split tree
 
 5) CACM-1700
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [2.0, 2.0, 1.8]
 to the question mask then one or more question <b>words</b>
 are not present in the store item An equality is
 unpacked and compared with question <b>words</b> The present store is
+
+5) CACM-1700
+
+
+[2.0, 2.0, 1.8]
+to the question mask then one or more question <b>words</b>
+are not present in the store item an equality is
+unpacked and compared with question <b>words</b> the present store is
 
 -----------------------------------------------------------------
 For Query 60 : hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
@@ -2713,6 +3243,7 @@ automatic indexing automatic <b>search</b> and <b>retrieval</b> iterative search
 document processing is briefly outlined and some reasons are given
 
 3) CACM-1236
+<<<<<<< HEAD
 
 
 [1.0, 1.0, 1.0]
@@ -2721,11 +3252,20 @@ described The system is characterized by the fact that several
 automatic document <b>retrieval</b> system operating on the IBM 7094 is
 
 4) CACM-0634
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [1.0, 0]
 G CA620209 JB March 20 1978 3:44 PM
 Manipulation of Trees in <b>Information Retrieval</b> CACM February 1962 <b>Salton</b>
+
+4) CACM-0634
+
+
+[1.0, 0]
+g ca620209 jb march 20 1978 3:44 pm
+manipulation of trees in <b>information</b> <b>retrieval</b> cacm february 1962 <b>salton</b>
 
 5) CACM-2451
 
@@ -2749,6 +3289,7 @@ search algorithm path search algorithm searching 3.74 5.32 CA701202 JB
 elementary <b>circuits</b> of a graph The algorithm can be easily
 
 2) CACM-2720
+<<<<<<< HEAD
 
 
 [1.8, 1.125, 1.0]
@@ -2765,6 +3306,8 @@ algorithm path search algorithm searching 3.74 4.22 5.32 CA731010 JB
 The Elementary <b>Circuits</b> of a Graph H Algorithm A459 CACM
 
 4) CACM-2327
+=======
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [4.0, 2.0, 2.0]
@@ -2772,13 +3315,33 @@ The Elementary <b>Circuits</b> of a Graph H Algorithm A459 CACM
 suggests the ways in which automata <b>theory</b> might evolve over
 Toward an Automata <b>Theory</b> of Brains A source of ideas
 
+<<<<<<< HEAD
 5) CACM-2932
+=======
+3) CACM-2430
+
+
+[3.2, 2.25, 1.3333333333333333]
+october 1973 syslo m m algorithm graph <b>theory</b> circuit search
+algorithm path search algorithm searching 3.74 4.22 5.32 ca731010 jb
+the elementary <b>circuits</b> of a graph h algorithm a459 cacm
+
+4) CACM-2327
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 
 [1.3333333333333333, 1.3333333333333333, 1.3333333333333333]
 of <b>complexity</b> of computations is described emphasizing the in terrelation
 discussed CACM September 1977 Rabin M O <b>complexity</b> of computations
 <b>Complexity</b> of Computations The framework for research in the <b>theory</b>
+
+5) CACM-2932
+
+
+[1.3333333333333333, 1.3333333333333333, 1.3333333333333333]
+of <b>complexity</b> of computations is described emphasizing the in terrelation
+discussed cacm september 1977 rabin m o <b>complexity</b> of computations
+<b>complexity</b> of computations the framework for research in the <b>theory</b>
 
 -----------------------------------------------------------------
 For Query 63 : algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
@@ -2842,31 +3405,53 @@ very flexible data type behavior in a context that allows
 
 
 [2.25, 2.0, 2.0]
+<<<<<<< HEAD
 A Card Format for Reference Files in Information Processing This
 rigid The reference material includes basically an index title source
+=======
+a card format for reference files in information processing this
+rigid the reference material includes basically an index title source
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 paper proposes a card format suitable for a variety of
 
 3) CACM-2855
 
 
 [3.125, 3.0, 2.6666666666666665]
+<<<<<<< HEAD
 hold the original <b>list</b> and the copy The original <b>list</b>
 An Efficient <b>List</b> Moving Algorithm Using Constant Workspace An efficient
 Clark D W <b>list</b> moving <b>list</b> copying LISP space complexity
+=======
+hold the original <b>list</b> and the copy the original <b>list</b>
+an efficient <b>list</b> moving algorithm using constant workspace an efficient
+clark d w <b>list</b> moving <b>list</b> copying lisp space complexity
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 4) CACM-2156
 
 
 [1.0, 1.0, 0]
+<<<<<<< HEAD
 Fenichel R R LISP garbage collector virtual memory <b>list</b> processing
 Comment on Cheney s <b>List</b> Compaction Algorithm CACM September 1971
 storage allocation 4.19 4.49 CA710908 JB February 2 1978 1:36
+=======
+fenichel r r lisp garbage collector virtual memory <b>list</b> processing
+comment on cheney s <b>list</b> compaction algorithm cacm september 1971
+storage allocation 4.19 4.49 ca710908 jb february 2 1978 1:36
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
 5) CACM-1307
 
 
 [1.0, 1.0, 1.0]
 with the program makes these restrictions seem quite natural and
+<<<<<<< HEAD
 with the light pen By use of a small unordered
 unconstraining The program has been used successfully for over ten
+=======
+with the light pen by use of a small unordered
+unconstraining the program has been used successfully for over ten
+>>>>>>> ab9d069568391c206f74788791c67a8c115267e7
 
