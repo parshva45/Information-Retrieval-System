@@ -1,4 +1,4 @@
-For Query: any information on packet radio networks of particular interest are algorithms for routing and dealing with changes in network topography i am not interested the hardware used algorithm context free parsing grammars translation equations pushdown automata grammar form analyzer bounded parser recognition procedures
+For Query: any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
 
 RANK 	 R/N 	Precision 	  Recall
 
@@ -6,8 +6,8 @@ RANK 	 R/N 	Precision 	  Recall
 02  	  R  	  1.000  	  0.400
 03  	  R  	  1.000  	  0.600
 04  	  N  	  0.750  	  0.600
-05  	  N  	  0.600  	  0.600
-06  	  R  	  0.667  	  0.800
+05  	  R  	  0.800  	  0.800
+06  	  N  	  0.667  	  0.800
 07  	  N  	  0.571  	  0.800
 08  	  N  	  0.500  	  0.800
 09  	  N  	  0.444  	  0.800

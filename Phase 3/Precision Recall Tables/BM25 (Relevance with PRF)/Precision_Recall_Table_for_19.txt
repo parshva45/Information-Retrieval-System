@@ -1,16 +1,16 @@
-For Query: parallel algorithms control protection sharing multics design data access constraints languages objects process multiprogramming system hierarchy nucleus systems operating model kernel object hydra
+For Query: parallel algorithms
 
 RANK 	 R/N 	Precision 	  Recall
 
-01  	  N  	  0.000  	  0.000
-02  	  R  	  0.500  	  0.200
-03  	  N  	  0.333  	  0.200
-04  	  R  	  0.500  	  0.400
-05  	  R  	  0.600  	  0.600
-06  	  R  	  0.667  	  0.800
-07  	  N  	  0.571  	  0.800
-08  	  R  	  0.625  	  1.000
-09  	  R  	  0.667  	  1.200
+01  	  R  	  1.000  	  0.200
+02  	  R  	  1.000  	  0.400
+03  	  R  	  1.000  	  0.600
+04  	  R  	  1.000  	  0.800
+05  	  N  	  0.800  	  0.800
+06  	  R  	  0.833  	  1.000
+07  	  R  	  0.857  	  1.200
+08  	  N  	  0.750  	  1.200
+09  	  N  	  0.667  	  1.200
 10  	  N  	  0.600  	  1.200
 11  	  R  	  0.636  	  1.400
 12  	  N  	  0.583  	  1.400
@@ -22,8 +22,8 @@ RANK 	 R/N 	Precision 	  Recall
 18  	  N  	  0.389  	  1.400
 19  	  N  	  0.368  	  1.400
 20  	  N  	  0.350  	  1.400
-21  	  R  	  0.381  	  1.600
-22  	  N  	  0.364  	  1.600
+21  	  N  	  0.333  	  1.400
+22  	  R  	  0.364  	  1.600
 23  	  N  	  0.348  	  1.600
 24  	  N  	  0.333  	  1.600
 25  	  N  	  0.320  	  1.600
@@ -76,10 +76,10 @@ RANK 	 R/N 	Precision 	  Recall
 72  	  N  	  0.111  	  1.600
 73  	  N  	  0.110  	  1.600
 74  	  N  	  0.108  	  1.600
-75  	  R  	  0.120  	  1.800
-76  	  N  	  0.118  	  1.800
-77  	  N  	  0.117  	  1.800
-78  	  N  	  0.115  	  1.800
+75  	  N  	  0.107  	  1.600
+76  	  N  	  0.105  	  1.600
+77  	  N  	  0.104  	  1.600
+78  	  R  	  0.115  	  1.800
 79  	  N  	  0.114  	  1.800
 80  	  N  	  0.113  	  1.800
 81  	  N  	  0.111  	  1.800
