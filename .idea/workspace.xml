@@ -2,7 +2,288 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Encoded Data Structures (PRF)/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance-PRF_9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Precision_Recall_Table_for_9.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_1.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_10.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_14.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_15.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_2.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_22.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_28.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_29.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_30.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_31.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_32.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_33.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_37.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_38.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_39.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_4.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_40.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_43.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_44.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_48.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_49.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_5.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_57.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_58.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_59.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_6.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_60.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_61.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_63.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_64.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_64.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_7.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_8.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_9.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-Relevance_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_1.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_10.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_14.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_15.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_2.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_22.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_28.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_29.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_30.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_31.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_32.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_33.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_37.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_38.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_39.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_4.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_40.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_43.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_44.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_48.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_49.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_5.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_57.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_58.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_59.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_6.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_60.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_61.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_63.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_64.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_64.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_7.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_8.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_9.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top5Docs-perQuery/Encoded-Top5Docs-BM25-Relevance_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25_Relevance_Top5_Query_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25_Relevance_Top5_Query_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" afterPath="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_1.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_10.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_15.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_2.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_22.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_28.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_29.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_30.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_31.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_32.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_33.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_37.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_38.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_39.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_4.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_40.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_43.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_44.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_48.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_49.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_5.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_57.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_58.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_59.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_6.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_60.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_61.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_63.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_64.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_64.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_7.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_8.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_9.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_BM25-Relevance_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25_Relevance_Top5_Query_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25_Relevance_Top5_Query_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top100_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top5_Docs.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top5_Docs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top5_Query_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_Relevance_Top5_Query_Pages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_BM25_Relevance.txt" afterPath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_BM25_Relevance.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/P@KValuesForAllQueries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_30.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_32.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_33.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_4.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_48.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_49.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_6.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Precision_Recall_Table_for_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/P@KValuesForAllQueries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_30.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_32.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_33.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_4.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_48.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_49.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_6.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Precision_Recall_Table_for_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,18 +293,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tf-idf_normalized.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,7 +313,6 @@
       <find>for</find>
       <find>articles</find>
       <find>elevant_docs = queryID_relevantDocs[int(q)]</find>
-      <find>queryID_relevantDocs</find>
       <find>all_docs</find>
       <find>pm</find>
       <find>ID_CleanedSentence</find>
@@ -51,6 +320,7 @@
       <find>master_dict</find>
       <find>ret_dict</find>
       <find>Normalized</find>
+      <find>queryID_relevantDocs</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Studdy Stuffs\IR\Information-Retrieval-System</dir>
@@ -62,7 +332,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/Lucene/retrieval_model_evaluation_lucene.py" />
@@ -95,8 +364,6 @@
         <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
         <option value="$PROJECT_DIR$/Phase 2/Snippet_generation.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
@@ -113,6 +380,9 @@
         <option value="$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py" />
         <option value="$PROJECT_DIR$/Query-By-Query-Analysis.txt" />
         <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" />
       </list>
     </option>
   </component>
@@ -150,6 +420,31 @@
             <path>
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Part A" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
               <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,6 +458,12 @@
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
               <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
               <item name="Step 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,42 +498,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.retrieval_model_evaluation_lucene_stopped">
-    <configuration name="generate_QueryID_Top100Docs_lucene_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.retrieval_model_evaluation_bm25_relevance_stopped">
+    <configuration name="bm25_relevance_stopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="generate_QueryID_Top100Docs_tf-idf_normalized_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top100Docs_bm25_relevance_PRF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 1/TF-IDF (Stopped)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance with PRF)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 1/TF-IDF (Stopped)/generate_QueryID_Top100Docs_tf-idf_normalized_stopped.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance with PRF)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_bm25_relevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_QueryID_Top100Docs_bm25_relevance_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance Stopped)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval-System" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance Stopped)/generate_QueryID_Top100Docs_bm25_relevance_stopped.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="retrieval_model_evaluation_bm25_relevance_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -244,59 +562,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance Stopped)/retrieval_model_evaluation_bm25_relevance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance Stopped)/retrieval_model_evaluation_bm25_relevance_stopped.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="retrieval_model_evaluation_lucene_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance with PRF)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="retrieval_model_evaluation_tf-idf_normalized_stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase 3/Step 2/TF-IDF (Stopped)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Information-Retrieval-System" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/TF-IDF (Stopped)/retrieval_model_evaluation_tf-idf_normalized_stopped.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance with PRF)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_tf-idf_normalized_stopped" />
-      <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_tf-idf_normalized_stopped" />
-      <item index="3" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_lucene_stopped" />
-      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_lucene_stopped" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_PRF" />
+      <item index="1" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bm25_relevance_stopping" />
+      <item index="3" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_stopped" />
+      <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance_stopped" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_lucene_stopped" />
-        <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_lucene_stopped" />
-        <item index="2" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_tf-idf_normalized_stopped" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_tf-idf_normalized_stopped" />
-        <item index="4" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_bm25_relevance_stopped" />
+        <item index="1" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_stopped" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bm25_relevance_stopping" />
+        <item index="3" class="java.lang.String" itemvalue="Python.retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generate_QueryID_Top100Docs_bm25_relevance_PRF" />
       </list>
     </recent_temporary>
   </component>
@@ -368,48 +669,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Docs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_Relevance_Top5_Query_Pages.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/rel_doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/Lucene/src/Lucene/Lucene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 2/creating_inv_list_for_top_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 1/generate_QueryID_Top5Docs_Dictionary_for_bm25_model_with_relevance.py" />
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 3/create_expanded_queries.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -439,13 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/QLM Evaluation Results/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -457,13 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="75" lean-forward="false" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -551,26 +796,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance with PRF)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance with PRF)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="109" column="17" lean-forward="false" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -639,42 +868,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/TF-IDF (Stopped)/generate_QueryID_Top100Docs_tf-idf_normalized_stopped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/TF-IDF (Stopped)/retrieval_model_evaluation_tf-idf_normalized_stopped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="119" column="13" lean-forward="false" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -688,14 +885,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -719,22 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Query-By-Query-Analysis.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -747,6 +920,144 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/TF-IDF (Stopped)/retrieval_model_evaluation_tf-idf_normalized_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/TF-IDF (Stopped)/generate_QueryID_Top100Docs_tf-idf_normalized_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance with PRF)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance with PRF)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance Stopped)/generate_QueryID_Top100Docs_bm25_relevance_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance Stopped)/retrieval_model_evaluation_bm25_relevance_stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/bm25_relevance_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="78" column="90" lean-forward="false" selection-start-line="78" selection-start-column="90" selection-end-line="78" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 2/Step 4/bm25_Relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="90" column="90" lean-forward="false" selection-start-line="90" selection-start-column="90" selection-end-line="90" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="90" column="21" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
           <folding />
         </state>
       </provider>

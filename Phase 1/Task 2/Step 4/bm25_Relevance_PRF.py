@@ -49,13 +49,13 @@ avg_doc_len = sum(docID_doclen.values()) / len(docID_doclen.keys())
 i = 1                # counter for counting query ids
 
 
-def bm25(f, n, L, R, r):
+def bm25(f, n, L, R, r, q):
 
     k1 = 1.2
     k2 = 100
     b = 0.75
     N = len(docID_doclen.keys())
-    q = 1
+    # q = 1
 
     K = k1 * ((b * L) + (1 - b))
     a = (k2 + 1) * q / (k2 + q)
@@ -88,12 +88,12 @@ def calc_score(q, R, id):
         for term in terms:
             if term in inverted_index:
                 r = compute_r(term,id)
-
+                qf = terms.count(term)  # count the occurrences of query term in the query
                 for doc in inverted_index[term]:
                     if doc[0] not in final_score.keys():
-                        final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]) , (docID_doclen[doc[0]] / avg_doc_len), R, r)
+                        final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]) , (docID_doclen[doc[0]] / avg_doc_len), R, r, qf)
                     else:
-                        final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]) , (docID_doclen[doc[0]] / avg_doc_len), R, r)
+                        final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]) , (docID_doclen[doc[0]] / avg_doc_len), R, r, qf)
 
     return final_score
 

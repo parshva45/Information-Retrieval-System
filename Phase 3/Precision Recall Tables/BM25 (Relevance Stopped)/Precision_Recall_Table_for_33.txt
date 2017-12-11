@@ -2,8 +2,8 @@ For Query: articles sensitivity eigenvalue decomposition real matrices matrices 
 
 RANK 	 R/N 	Precision 	  Recall
 
-01  	  R  	  1.000  	  0.200
-02  	  N  	  0.500  	  0.200
+01  	  N  	  0.000  	  0.000
+02  	  R  	  0.500  	  0.200
 03  	  N  	  0.333  	  0.200
 04  	  N  	  0.250  	  0.200
 05  	  N  	  0.200  	  0.200

@@ -332,9 +332,24 @@ Execute Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_tf-idf_normalized.py
 	- O/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_tf-idf_normalized.txt
 
 1. Part F
-Execute Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py
+Execute Phase 3/Step 1/BM25 (Relevance with PRF)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py
 	- I/P: Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-PRF-Top100Docs-perQuery/
 	- O/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt
+
+1. Part G
+Execute Phase 3/Step 1/BM25 (Relevance Stopped)/generate_QueryID_Top100Docs_bm25_relevance_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery
+	- O/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_BM25_Relevance.txt
+
+1. Part H
+Execute Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Step 4/Lucene (Stopped)/Stopped_Lucene_Top100_Docs.txt
+	- O/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_Lucene.txt
+
+1. Part I
+Execute Phase 3/Step 1/TF-IDF (Stopped)/generate_QueryID_Top100Docs_tf-idf_normalized_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery
+	- O/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_tf-idf_normalized.txt
 
 
 
@@ -374,11 +389,32 @@ Execute Phase 3/Step 2/TF-IDF/retrieval_model_evaluation_tf-idf_normalized.py
 	- O/P: Phase 3/Precision Recall Tables/TF-IDF Evaluation Results/TF-IDF/
 
 2. Part F
-Execute Phase 3/Step 1/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py
+Execute Phase 3/Step 1/BM25 (Relevance with PRF)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py
 	- I/P: Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-Relevance-Top100Docs-perQuery/
 	- I/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt
 	- I/P: Phase 1/Task 2/Encoded-Expanded_Queries.txt
-	- O/P: Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/
+	- O/P: Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/
+
+2. Part G
+Execute Phase 3/Step 1/BM25 (Relevance Stopped)/retrieval_model_evaluation_relevance_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_BM25-Relevance-Top100Docs-perQuery/
+	- I/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_BM25_Relevance.txt
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Cleaned_Queries_Stopped.txt
+	- O/P: Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/
+
+2. Part H
+Execute Phase 3/Step 1/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_QueryID_RelevantDocs.txt
+	- I/P: Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_Lucene.txt
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Cleaned_Queries_Stopped.txt
+	- O/P: Phase 3/Precision Recall Tables/Lucene (Stopped)/
+
+2. Part I
+Execute Phase 3/Step 1/TF-IDF (Stopped)/retrieval_model_evaluation_tf-idf_normalized_stopped.py
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_QueryID_RelevantDocs.txt
+	- I/P: Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_Stopped_tf-idf_normalized.txt
+	- I/P: Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Cleaned_Queries_Stopped.txt
+	- O/P: Phase 3/Precision Recall Tables/TF-IDF-Normalized (Stopped)/
 
 
 -----------------------------------------------------------------------------------------------------------------------------
