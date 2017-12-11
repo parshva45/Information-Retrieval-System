@@ -3,6 +3,14 @@ import os
 from bs4 import BeautifulSoup
 import pickle
 
+html_new_path = "Snippets_HTML/"
+if not os.path.exists(html_new_path):
+    os.makedirs(html_new_path)
+
+text_new_path = "Snippets_Text/"
+if not os.path.exists(text_new_path):
+    os.makedirs(text_new_path)
+
 # this variable stores length of document
 doclen = 0
 
@@ -224,16 +232,16 @@ filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/
 filepath_list.append(os.path.dirname(os.path.realpath(__file__)) + "/../Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top5_Docs.txt")
 
 
-writepath_list.append(r'Snippets_Stopped_Lucene.txt')
-writepath_list.append(r'Snippets_Stopped_BM25_NoRelevance.txt')
-writepath_list.append(r'Snippets_Stopped_QLM.txt')
-writepath_list.append(r'Snippets_Stopped_TF_IDF_Normalized.txt')
+writepath_list.append(text_new_path + 'Snippets_Stopped_Lucene.txt')
+writepath_list.append(text_new_path + 'Snippets_Stopped_BM25_NoRelevance.txt')
+writepath_list.append(text_new_path + 'Snippets_Stopped_QLM.txt')
+writepath_list.append(text_new_path + 'Snippets_Stopped_TF_IDF_Normalized.txt')
 
 
-writepath_html_list.append(r'Snippets_Stopped_Lucene.html')
-writepath_html_list.append(r'Snippets_Stopped_BM25_NoRelevance.html')
-writepath_html_list.append(r'Snippets_Stopped_QLM.html')
-writepath_html_list.append(r'Snippets_Stopped_TF_IDF_Normalized.html')
+writepath_html_list.append(html_new_path + 'Snippets_Stopped_Lucene.html')
+writepath_html_list.append(html_new_path + 'Snippets_Stopped_BM25_NoRelevance.html')
+writepath_html_list.append(html_new_path + 'Snippets_Stopped_QLM.html')
+writepath_html_list.append(html_new_path + 'Snippets_Stopped_TF_IDF_Normalized.html')
 
 
 for i in range(0, len(filepath_list)):

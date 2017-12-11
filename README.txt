@@ -293,10 +293,15 @@ Exectute Phase 2/Snippet_generation.py
 	- I/P: Phase 1/Task 3/Part A/Step 4/BM25 (Stopped)/Stopped_BM25_NoRelevance_Top5_Docs.txt
 	- I/P: Phase 1/Task 3/Part A/Step 4/QLM (Stopped)/Stopped_QLM_Top5_Docs.txt
 	- I/P: Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top5_Docs.txt
-	- O/P: Phase 2/Snippets_Stopped_Lucene.txt
-	- O/P: Phase 2/Snippets_Stopped_BM25_NoRelevance.txt
-	- O/P: Phase 2/Snippets_Stopped_QLM.txt
-	- O/P: Phase 2/Snippets_Stopped_TF_IDF_Normalized.txt
+	
+	- O/P: Phase 2/Snippets_Text/Snippets_Stopped_Lucene.txt
+	- O/P: Phase 2/Snippets_Text/Snippets_Stopped_BM25_NoRelevance.txt
+	- O/P: Phase 2/Snippets_Text/Snippets_Stopped_QLM.txt
+	- O/P: Phase 2/Snippets_Text/Snippets_Stopped_TF_IDF_Normalized.txt
+	- O/P: Phase 2/Snippets_HTML/Snippets_Stopped_Lucene.html
+	- O/P: Phase 2/Snippets_HTML/Snippets_Stopped_BM25_NoRelevance.html
+	- O/P: Phase 2/Snippets_HTML/Snippets_Stopped_QLM.html
+	- O/P: Phase 2/Snippets_HTML/Snippets_Stopped_TF_IDF_Normalized.html
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -450,22 +455,3 @@ Execute Supplementary Features/Part B (Stopping)/proximity_with_stop.py
 	- I/P: Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Inverted_List_Position_With_Stopping.txt
 	- O/P: Supplementary Features/Encoded Data Structures (Bonus)/Encoded-Top100-Docs-Proximity-With-Stopping/
 	- O/P: Supplementary Features/Part B (Stopping)/Proximity_With_Stopping_Top100_Pages.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
