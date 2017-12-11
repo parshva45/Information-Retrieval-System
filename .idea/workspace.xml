@@ -2,305 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AkshatS_ParshvaS_ViratG_TuTh.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-TF-IDF-Normalized_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-TF_IDF_Normalized_Top5_Query_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top100_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top5_Docs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/TF_IDF_Normalized_Top5_Query_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF-IDF-Normalized-Top100Docs-perQuery/Encoded-Top100Docs-Stopped_TF-IDF-Normalized_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Encoded Data Structures (Stopped)/Encoded-Stopped_TF_IDF_Normalized_Top5_Query_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top100_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top5_Docs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/Stopped_TF_IDF_Normalized_Top5_Query_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/Stemmed_BM25_Relevance_Top100_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/Stemmed_TF_IDF_Normalized_Top100_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Encoded Data Structures (Phase 3)/Encoded-QueryID_Top100Docs_tf-idf_normalized.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Final Evaluation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/P@KValuesForAllQueries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (No Relevance)/Precision_Recall_Table_for_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Final Evaluation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/P@KValuesForAllQueries.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance with PRF)/Precision_Recall_Table_for_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance_PRF.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~$shatS_ParshvaS_ViratG_TuTh.docx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" afterPath="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/P@KValuesForAllQueries.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_10.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_11.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_11.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_12.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_13.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_13.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_14.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_15.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_16.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_16.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_17.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_17.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_18.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_18.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_19.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_19.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_2.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_20.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_20.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_21.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_21.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_22.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_23.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_23.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_24.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_24.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_25.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_25.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_26.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_26.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_27.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_27.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_28.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_29.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_36.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_36.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_37.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_38.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_39.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_40.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_42.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_42.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_43.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_44.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_45.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_45.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_58.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_59.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_60.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_61.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_62.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_62.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_63.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Precision_Recall_Table_for_9.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -310,7 +12,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="tf-idf_normalized.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -333,11 +46,11 @@
       <find>queryID_relevantDocs</find>
       <find>all_docs</find>
       <find>pm</find>
-      <find>pm</find>
       <find>ID_CleanedSentence</find>
       <find>dict_query_doc</find>
       <find>master_dict</find>
       <find>ret_dict</find>
+      <find>Normalized</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Studdy Stuffs\IR\Information-Retrieval-System</dir>
@@ -349,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Phase 3/Step 1/TF-IDF/generate_QueryID_Top100Docs_tf-idf_normalized.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance)/generate_QueryID_Top100Docs_bm25_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (No Relevance)/retrieval_model_evaluation_bm25_no_relevance.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_bm25_relevance.py" />
@@ -389,7 +101,6 @@
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 2/create_stemmed_inverted_list.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/BM25 (Stemmed)/bm25_no_relevance_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
-        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py" />
         <option value="$PROJECT_DIR$/Phase 1/Task 3/Part B/Step 3/TF-IDF (Stemmed)/tf-idf_normalized_stemming.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance with PRF)/retrieval_model_evaluation_by_bm25_with_relevance_for_PRM_s_top_100.py" />
@@ -400,6 +111,8 @@
         <option value="$PROJECT_DIR$/Phase 3/Step 2/TF-IDF (Stopped)/retrieval_model_evaluation_tf-idf_normalized_stopped.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py" />
         <option value="$PROJECT_DIR$/Phase 3/Step 2/Lucene (Stopped)/retrieval_model_evaluation_lucene_stopped.py" />
+        <option value="$PROJECT_DIR$/Query-By-Query-Analysis.txt" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py" />
       </list>
     </option>
   </component>
@@ -432,7 +145,24 @@
             <path>
               <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Precision Recall Tables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -638,13 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2/create_inverted_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 3/query_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -812,14 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 4/TF-IDF (Stopped)/tf-idf_normalized_stopping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -840,14 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -924,26 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Step 2/BM25 (Relevance Stopped)/retrieval_model_evaluation_bm25_relevance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -964,22 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized (Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/Lucene (Stopped)/generate_QueryID_Top100Docs_lucene_stopped.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -989,14 +664,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene (Stopped)/Final Evaluation.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1016,6 +683,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene (Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized (Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Query-By-Query-Analysis.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4/TF-IDF/tf-idf_normalized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding />
         </state>
       </provider>
