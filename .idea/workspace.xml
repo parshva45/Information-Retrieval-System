@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eb200-740f-44d1-828e-ace1e91bfa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_30.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_31.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_32.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_33.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_34.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_35.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_36.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_37.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_38.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_39.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_40.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_42.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_45.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_46.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_49.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_50.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_51.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_52.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_53.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_54.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_55.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_56.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_57.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_58.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_59.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_60.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_61.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_62.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_63.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_64.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25-NoRelevance-Top100Docs-perQuery/Encoded-Top100Docs-BM25-NoRelevance_9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Encoded Data Structures/Encoded-BM25_NoRelevance_Top5_Query_Pages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_BM25_NoRelevance.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_BM25_NoRelevance.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_Lucene.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_QLM.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_QLM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_TF_IDF_Normalized.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase 2/Snippets_Stopped_TF_IDF_Normalized.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AkshatS_ParshvaS_ViratG_TuTh.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AkshatS_ParshvaS_ViratG_TuTh.docx" afterPath="$PROJECT_DIR$/AkshatS_ParshvaS_ViratG_TuTh.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NoRelevance_Top5_Docs.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NoRelevance_Top5_Docs.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NoRelevance_Top5_Query_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NoRelevance_Top5_Query_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NonRelevance_Top100_Pages.txt" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/BM25_NonRelevance_Top100_Pages.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" afterPath="$PROJECT_DIR$/Phase 1/Task 1/Step 4/BM25/bm25_no_relevance.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -218,18 +143,6 @@
               <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
               <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
               <item name="Precision Recall Tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Information-Retrieval-System" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Information-Retrieval-System" type="462c0819:PsiDirectoryNode" />
-              <item name="Phase 3" type="462c0819:PsiDirectoryNode" />
-              <item name="Step 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -449,13 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/QLM Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 1/Task 3/Part A/Step 2/create_stopped_inverted_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -611,38 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene (Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized (Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Query-By-Query-Analysis.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -731,22 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Phase 3/Step 1/BM25 (Relevance Stopped)/generate_QueryID_Top100Docs_bm25_relevance_stopped.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -759,14 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -833,6 +683,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="220" column="48" lean-forward="false" selection-start-line="220" selection-start-column="48" selection-end-line="220" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance with PRF)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Evaluation Results/BM25 (Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene (Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Lucene Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/QLM Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized (Stopped)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/TF-IDF-Normalized Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
