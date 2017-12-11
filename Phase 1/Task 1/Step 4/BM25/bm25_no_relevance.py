@@ -42,13 +42,13 @@ top_5 = {}           # dictionary which wil store information of top 5 pages by 
 
 # this function implements the above mathematical formula to calculate a return score
 # based on the given arguments
-def bm25(f, n, L, R, r):
+def bm25(f, n, L, R, r, q):
 
     k1 = 1.2
     k2 = 100
     b = 0.75
     N = len(docID_documentLen.keys())   # 3204 documents
-    q = 1
+    # q = 1
 
     K = k1 * ((b * L) + (1 - b))
     a = (k2 + 1) * q / (k2 + q)
@@ -65,11 +65,12 @@ def calc_score(q):
     terms = q.split()
     for term in terms:
         if term in inverted_index:
+            qf = terms.count(term)  # count the occurrences of query term in the query
             for doc in inverted_index[term]:
                 if doc[0] not in final_score.keys():
-                    final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
+                    final_score[doc[0]] = bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0, qf)
                 else:
-                    final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0)
+                    final_score[doc[0]] += bm25(doc[1], len(inverted_index[term]), (docID_documentLen[doc[0]] / avg_doc_len), 0, 0, qf)
 
     return final_score
 
